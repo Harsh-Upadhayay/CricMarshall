@@ -1,0 +1,886 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-07-20'
+  revision: 1
+info:
+  city: Taunton
+  competition: NatWest T20 Blast
+  dates:
+  - '2017-07-30'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Somerset
+    by:
+      runs: 32
+    method: D/L
+  overs: 20
+  player_of_match:
+  - CJ Anderson
+  teams:
+  - Somerset
+  - Sussex
+  toss:
+    decision: field
+    winner: Sussex
+  umpires:
+  - SC Gale
+  - JW Lloyds
+  venue: The Cooper Associates County Ground
+innings:
+- 1st innings:
+    team: Somerset
+    deliveries:
+    - 0.1:
+        non_striker: SM Davies
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 0.2:
+        non_striker: SM Davies
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 0.3:
+        non_striker: L Gregory
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 0.4:
+        non_striker: L Gregory
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 0.5:
+        non_striker: L Gregory
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Davies
+    - 0.6:
+        non_striker: L Gregory
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Davies
+    - 1.1:
+        non_striker: SM Davies
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Gregory
+    - 1.2:
+        non_striker: SM Davies
+        bowler: JC Archer
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: L Gregory
+    - 1.3:
+        non_striker: SM Davies
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 1.4:
+        non_striker: L Gregory
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SM Davies
+    - 1.5:
+        non_striker: SM Davies
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 1.6:
+        non_striker: L Gregory
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Davies
+    - 1.7:
+        non_striker: L Gregory
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Davies
+    - 2.1:
+        non_striker: SM Davies
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+        wicket:
+          player_out: L Gregory
+          fielders:
+          - WAT Beer
+          kind: caught
+    - 2.2:
+        non_striker: CJ Anderson
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 2.3:
+        non_striker: CJ Anderson
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 2.4:
+        non_striker: SM Davies
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+    - 2.5:
+        non_striker: SM Davies
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Anderson
+    - 2.6:
+        non_striker: SM Davies
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 3.1:
+        non_striker: SM Davies
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Anderson
+    - 3.2:
+        non_striker: SM Davies
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 3.3:
+        non_striker: CJ Anderson
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SM Davies
+    - 3.4:
+        non_striker: SM Davies
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 3.5:
+        non_striker: CJ Anderson
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 3.6:
+        non_striker: SM Davies
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 4.1:
+        non_striker: SM Davies
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Anderson
+    - 4.2:
+        non_striker: SM Davies
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Anderson
+    - 4.3:
+        non_striker: SM Davies
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Anderson
+    - 4.4:
+        non_striker: SM Davies
+        bowler: GHS Garton
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          noballs: 3
+        batsman: CJ Anderson
+    - 4.5:
+        non_striker: CJ Anderson
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Davies
+    - 4.6:
+        non_striker: CJ Anderson
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Davies
+    - 4.7:
+        non_striker: CJ Anderson
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+        wicket:
+          player_out: SM Davies
+          fielders:
+          - WAT Beer
+          kind: caught
+    - 5.1:
+        non_striker: CJ Anderson
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 5.2:
+        non_striker: RE van der Merwe
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Anderson
+    - 5.3:
+        non_striker: RE van der Merwe
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Anderson
+    - 5.4:
+        non_striker: RE van der Merwe
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Anderson
+    - 5.5:
+        non_striker: RE van der Merwe
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 5.6:
+        non_striker: CJ Anderson
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE van der Merwe
+    - 5.7:
+        non_striker: CJ Anderson
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 6.1:
+        non_striker: RE van der Merwe
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Anderson
+    - 6.2:
+        non_striker: RE van der Merwe
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+    - 6.3:
+        non_striker: CJ Anderson
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 6.4:
+        non_striker: CJ Anderson
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE van der Merwe
+    - 6.5:
+        non_striker: CJ Anderson
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE van der Merwe
+    - 6.6:
+        non_striker: CJ Anderson
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 7.1:
+        non_striker: CJ Anderson
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 7.2:
+        non_striker: CJ Anderson
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 7.3:
+        non_striker: CJ Anderson
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE van der Merwe
+    - 7.4:
+        non_striker: CJ Anderson
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+        wicket:
+          player_out: RE van der Merwe
+          fielders:
+          - BC Brown
+          kind: caught
+    - 7.5:
+        non_striker: CJ Anderson
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JG Myburgh
+    - 7.6:
+        non_striker: JG Myburgh
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Anderson
+- 2nd innings:
+    team: Sussex
+    deliveries:
+    - 0.1:
+        non_striker: S van Zyl
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 0.2:
+        non_striker: S van Zyl
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Nash
+    - 0.3:
+        non_striker: S van Zyl
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 0.4:
+        non_striker: S van Zyl
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Nash
+    - 0.5:
+        non_striker: S van Zyl
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 0.6:
+        non_striker: S van Zyl
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Nash
+    - 1.1:
+        non_striker: S van Zyl
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+        wicket:
+          player_out: CD Nash
+          fielders:
+          - L Gregory
+          kind: caught
+    - 1.2:
+        non_striker: LJ Evans
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 1.3:
+        non_striker: S van Zyl
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 1.4:
+        non_striker: LJ Evans
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 1.5:
+        non_striker: LJ Evans
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S van Zyl
+    - 1.6:
+        non_striker: LJ Evans
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 2.1:
+        non_striker: LJ Evans
+        bowler: TD Groenewald
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S van Zyl
+    - 2.2:
+        non_striker: LJ Evans
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 2.3:
+        non_striker: S van Zyl
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 2.4:
+        non_striker: S van Zyl
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Evans
+    - 2.5:
+        non_striker: S van Zyl
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 2.6:
+        non_striker: LJ Evans
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 2.7:
+        non_striker: S van Zyl
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 3.1:
+        non_striker: S van Zyl
+        bowler: MTC Waller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+        wicket:
+          player_out: LJ Evans
+          fielders:
+          - SM Davies
+          kind: stumped
+    - 3.2:
+        non_striker: S van Zyl
+        bowler: MTC Waller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 3.3:
+        non_striker: S van Zyl
+        bowler: MTC Waller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 3.4:
+        non_striker: LRPL Taylor
+        bowler: MTC Waller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 3.5:
+        non_striker: S van Zyl
+        bowler: MTC Waller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+        wicket:
+          player_out: LRPL Taylor
+          kind: lbw
+    - 3.6:
+        non_striker: S van Zyl
+        bowler: MTC Waller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 4.1:
+        non_striker: D Wiese
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 4.2:
+        non_striker: D Wiese
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 4.3:
+        non_striker: S van Zyl
+        bowler: RE van der Merwe
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        batsman: D Wiese
+    - 4.4:
+        non_striker: D Wiese
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 4.5:
+        non_striker: S van Zyl
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 4.6:
+        non_striker: S van Zyl
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 5.1:
+        non_striker: S van Zyl
+        bowler: MTC Waller
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wiese
+    - 5.2:
+        non_striker: S van Zyl
+        bowler: MTC Waller
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 5.3:
+        non_striker: D Wiese
+        bowler: MTC Waller
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S van Zyl
+    - 5.4:
+        non_striker: D Wiese
+        bowler: MTC Waller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 5.5:
+        non_striker: D Wiese
+        bowler: MTC Waller
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 5.6:
+        non_striker: D Wiese
+        bowler: MTC Waller
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 6.1:
+        non_striker: S van Zyl
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 6.2:
+        non_striker: S van Zyl
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+        wicket:
+          player_out: D Wiese
+          fielders:
+          - MTC Waller
+          kind: caught
+    - 6.3:
+        non_striker: JC Archer
+        bowler: C Overton
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: S van Zyl
+    - 6.4:
+        non_striker: JC Archer
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 6.5:
+        non_striker: S van Zyl
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 6.6:
+        non_striker: JC Archer
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 7.1:
+        non_striker: JC Archer
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S van Zyl
+    - 7.2:
+        non_striker: JC Archer
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 7.3:
+        non_striker: JC Archer
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 7.4:
+        non_striker: JC Archer
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 7.5:
+        non_striker: S van Zyl
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 7.6:
+        non_striker: JC Archer
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl

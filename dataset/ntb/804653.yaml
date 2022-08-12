@@ -1,0 +1,989 @@
+---
+meta:
+  data_version: 0.9
+  created: '2020-08-18'
+  revision: 1
+info:
+  city: Northampton
+  competition: NatWest T20 Blast
+  dates:
+  - '2015-07-12'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Northamptonshire
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - RE Levi
+  teams:
+  - Leicestershire
+  - Northamptonshire
+  toss:
+    decision: field
+    winner: Northamptonshire
+  umpires:
+  - SJ O'Shaughnessy
+  - AG Wharf
+  venue: County Ground
+innings:
+- 1st innings:
+    team: Leicestershire
+    deliveries:
+    - 0.1:
+        non_striker: MJ Cosgrove
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ali
+    - 0.2:
+        non_striker: MJ Cosgrove
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Ali
+    - 0.3:
+        non_striker: MJ Cosgrove
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ali
+        wicket:
+          player_out: AM Ali
+          kind: bowled
+    - 0.4:
+        non_striker: MJ Cosgrove
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJH Eckersley
+    - 0.5:
+        non_striker: MJ Cosgrove
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJH Eckersley
+    - 0.6:
+        non_striker: EJH Eckersley
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Cosgrove
+    - 1.1:
+        non_striker: MJ Cosgrove
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJH Eckersley
+    - 1.2:
+        non_striker: MJ Cosgrove
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJH Eckersley
+        wicket:
+          player_out: EJH Eckersley
+          fielders:
+          - JJ Cobb
+          kind: caught
+    - 1.3:
+        non_striker: GD Elliott
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Cosgrove
+    - 1.4:
+        non_striker: MJ Cosgrove
+        bowler: OP Stone
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: GD Elliott
+    - 1.5:
+        non_striker: MJ Cosgrove
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Elliott
+    - 1.6:
+        non_striker: MJ Cosgrove
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Elliott
+    - 1.7:
+        non_striker: GD Elliott
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Cosgrove
+    - 2.1:
+        non_striker: MJ Cosgrove
+        bowler: Azharullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Elliott
+    - 2.2:
+        non_striker: MJ Cosgrove
+        bowler: Azharullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Elliott
+    - 2.3:
+        non_striker: MJ Cosgrove
+        bowler: Azharullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Elliott
+    - 2.4:
+        non_striker: MJ Cosgrove
+        bowler: Azharullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Elliott
+    - 2.5:
+        non_striker: MJ Cosgrove
+        bowler: Azharullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Elliott
+    - 2.6:
+        non_striker: GD Elliott
+        bowler: Azharullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Cosgrove
+    - 3.1:
+        non_striker: MJ Cosgrove
+        bowler: GG White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Elliott
+    - 3.2:
+        non_striker: GD Elliott
+        bowler: GG White
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Cosgrove
+    - 3.3:
+        non_striker: GD Elliott
+        bowler: GG White
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Cosgrove
+        wicket:
+          player_out: MJ Cosgrove
+          fielders:
+          - AG Wakely
+          kind: caught
+    - 3.4:
+        non_striker: GD Elliott
+        bowler: GG White
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Raine
+    - 3.5:
+        non_striker: GD Elliott
+        bowler: GG White
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Raine
+    - 3.6:
+        non_striker: BA Raine
+        bowler: GG White
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Elliott
+    - 4.1:
+        non_striker: GD Elliott
+        bowler: SP Crook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Raine
+    - 4.2:
+        non_striker: BA Raine
+        bowler: SP Crook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Elliott
+    - 4.3:
+        non_striker: GD Elliott
+        bowler: SP Crook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Raine
+    - 4.4:
+        non_striker: BA Raine
+        bowler: SP Crook
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Elliott
+    - 4.5:
+        non_striker: BA Raine
+        bowler: SP Crook
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Elliott
+    - 4.6:
+        non_striker: BA Raine
+        bowler: SP Crook
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Elliott
+    - 5.1:
+        non_striker: GD Elliott
+        bowler: JJ Cobb
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Raine
+    - 5.2:
+        non_striker: GD Elliott
+        bowler: JJ Cobb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Raine
+    - 5.3:
+        non_striker: GD Elliott
+        bowler: JJ Cobb
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Raine
+    - 5.4:
+        non_striker: GD Elliott
+        bowler: JJ Cobb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Raine
+    - 5.5:
+        non_striker: GD Elliott
+        bowler: JJ Cobb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Raine
+    - 5.6:
+        non_striker: GD Elliott
+        bowler: JJ Cobb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Raine
+    - 6.1:
+        non_striker: BA Raine
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Elliott
+    - 6.2:
+        non_striker: BA Raine
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Elliott
+    - 6.3:
+        non_striker: GD Elliott
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Raine
+    - 6.4:
+        non_striker: GD Elliott
+        bowler: OP Stone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Raine
+    - 6.5:
+        non_striker: GD Elliott
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Raine
+    - 6.6:
+        non_striker: BA Raine
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Elliott
+    - 6.7:
+        non_striker: BA Raine
+        bowler: OP Stone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GD Elliott
+    - 7.1:
+        non_striker: BA Raine
+        bowler: SP Crook
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Elliott
+    - 7.2:
+        non_striker: BA Raine
+        bowler: SP Crook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Elliott
+    - 7.3:
+        non_striker: GD Elliott
+        bowler: SP Crook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Raine
+    - 7.4:
+        non_striker: BA Raine
+        bowler: SP Crook
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Elliott
+    - 7.5:
+        non_striker: BA Raine
+        bowler: SP Crook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Elliott
+    - 7.6:
+        non_striker: GD Elliott
+        bowler: SP Crook
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Raine
+    - 8.1:
+        non_striker: GD Elliott
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Raine
+    - 8.2:
+        non_striker: BA Raine
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Elliott
+    - 8.3:
+        non_striker: GD Elliott
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Raine
+    - 8.4:
+        non_striker: BA Raine
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Elliott
+    - 8.5:
+        non_striker: GD Elliott
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Raine
+    - 8.6:
+        non_striker: GD Elliott
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Raine
+    - 9.1:
+        non_striker: BA Raine
+        bowler: Azharullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Elliott
+    - 9.2:
+        non_striker: BA Raine
+        bowler: Azharullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Elliott
+    - 9.3:
+        non_striker: BA Raine
+        bowler: Azharullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Elliott
+    - 9.4:
+        non_striker: BA Raine
+        bowler: Azharullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Elliott
+    - 9.5:
+        non_striker: GD Elliott
+        bowler: Azharullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BA Raine
+    - 9.6:
+        non_striker: BA Raine
+        bowler: Azharullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Elliott
+        wicket:
+          player_out: GD Elliott
+          kind: run out
+- 2nd innings:
+    team: Northamptonshire
+    deliveries:
+    - 0.1:
+        non_striker: JJ Cobb
+        bowler: ZJ Chappell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Levi
+    - 0.2:
+        non_striker: JJ Cobb
+        bowler: ZJ Chappell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Levi
+    - 0.3:
+        non_striker: JJ Cobb
+        bowler: ZJ Chappell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE Levi
+    - 0.4:
+        non_striker: JJ Cobb
+        bowler: ZJ Chappell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Levi
+    - 0.5:
+        non_striker: RE Levi
+        bowler: ZJ Chappell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Cobb
+    - 0.6:
+        non_striker: RE Levi
+        bowler: ZJ Chappell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Cobb
+    - 0.7:
+        non_striker: RE Levi
+        bowler: ZJ Chappell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Cobb
+    - 1.1:
+        non_striker: RE Levi
+        bowler: BA Raine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Cobb
+    - 1.2:
+        non_striker: RE Levi
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Cobb
+    - 1.3:
+        non_striker: JJ Cobb
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE Levi
+    - 1.4:
+        non_striker: JJ Cobb
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE Levi
+    - 1.5:
+        non_striker: JJ Cobb
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE Levi
+    - 1.6:
+        non_striker: JJ Cobb
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE Levi
+    - 1.7:
+        non_striker: JJ Cobb
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RE Levi
+    - 2.1:
+        non_striker: RE Levi
+        bowler: OH Freckingham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Cobb
+    - 2.2:
+        non_striker: RE Levi
+        bowler: OH Freckingham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Cobb
+    - 2.3:
+        non_striker: RE Levi
+        bowler: OH Freckingham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Cobb
+    - 2.4:
+        non_striker: RE Levi
+        bowler: OH Freckingham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Cobb
+    - 2.5:
+        non_striker: RE Levi
+        bowler: OH Freckingham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Cobb
+    - 2.6:
+        non_striker: RE Levi
+        bowler: OH Freckingham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Cobb
+    - 3.1:
+        non_striker: JJ Cobb
+        bowler: TJ Wells
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE Levi
+    - 3.2:
+        non_striker: JJ Cobb
+        bowler: TJ Wells
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Levi
+    - 3.3:
+        non_striker: RE Levi
+        bowler: TJ Wells
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Cobb
+        wicket:
+          player_out: JJ Cobb
+          fielders:
+          - AM Ali
+          kind: caught
+    - 3.4:
+        non_striker: BM Duckett
+        bowler: TJ Wells
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE Levi
+    - 3.5:
+        non_striker: BM Duckett
+        bowler: TJ Wells
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Levi
+    - 3.6:
+        non_striker: BM Duckett
+        bowler: TJ Wells
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Levi
+    - 4.1:
+        non_striker: BM Duckett
+        bowler: ZJ Chappell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE Levi
+    - 4.2:
+        non_striker: BM Duckett
+        bowler: ZJ Chappell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Levi
+    - 4.3:
+        non_striker: RE Levi
+        bowler: ZJ Chappell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 4.4:
+        non_striker: BM Duckett
+        bowler: ZJ Chappell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE Levi
+    - 4.5:
+        non_striker: BM Duckett
+        bowler: ZJ Chappell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE Levi
+    - 4.6:
+        non_striker: BM Duckett
+        bowler: ZJ Chappell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RE Levi
+    - 5.1:
+        non_striker: RE Levi
+        bowler: TJ Wells
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 5.2:
+        non_striker: BM Duckett
+        bowler: TJ Wells
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Levi
+    - 5.3:
+        non_striker: RE Levi
+        bowler: TJ Wells
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 5.4:
+        non_striker: BM Duckett
+        bowler: TJ Wells
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Levi
+    - 5.5:
+        non_striker: RE Levi
+        bowler: TJ Wells
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 5.6:
+        non_striker: RE Levi
+        bowler: TJ Wells
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 6.1:
+        non_striker: RE Levi
+        bowler: CJ McKay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 6.2:
+        non_striker: RE Levi
+        bowler: CJ McKay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 6.3:
+        non_striker: RE Levi
+        bowler: CJ McKay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 6.4:
+        non_striker: BM Duckett
+        bowler: CJ McKay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE Levi
+    - 6.5:
+        non_striker: BM Duckett
+        bowler: CJ McKay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Levi
+    - 6.6:
+        non_striker: RE Levi
+        bowler: CJ McKay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 7.1:
+        non_striker: RE Levi
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 7.2:
+        non_striker: BM Duckett
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Levi
+    - 7.3:
+        non_striker: RE Levi
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 7.4:
+        non_striker: BM Duckett
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Levi
+    - 7.5:
+        non_striker: RE Levi
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 7.6:
+        non_striker: RE Levi
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 8.1:
+        non_striker: BM Duckett
+        bowler: CJ McKay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE Levi
+    - 8.2:
+        non_striker: BM Duckett
+        bowler: CJ McKay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE Levi
+    - 8.3:
+        non_striker: BM Duckett
+        bowler: CJ McKay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE Levi

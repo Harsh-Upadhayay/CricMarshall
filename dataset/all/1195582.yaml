@@ -1,0 +1,1886 @@
+---
+meta:
+  data_version: 0.9
+  created: '2019-12-23'
+  revision: 1
+info:
+  city: Adelaide
+  competition: Big Bash League
+  dates:
+  - '2019-12-23'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Adelaide Strikers
+    by:
+      runs: 15
+    method: D/L
+  overs: 20
+  player_of_match:
+  - J Weatherald
+  teams:
+  - Adelaide Strikers
+  - Perth Scorchers
+  toss:
+    decision: field
+    winner: Perth Scorchers
+  umpires:
+  - GC Joshua
+  - AK Wilds
+  venue: Adelaide Oval
+innings:
+- 1st innings:
+    team: Adelaide Strikers
+    deliveries:
+    - 0.1:
+        non_striker: PD Salt
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 0.2:
+        non_striker: J Weatherald
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 0.3:
+        non_striker: J Weatherald
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 0.4:
+        non_striker: J Weatherald
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          fielders:
+          - CJ Jordan
+          kind: caught
+    - 0.5:
+        non_striker: MW Short
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 0.6:
+        non_striker: MW Short
+        bowler: JA Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Weatherald
+    - 0.7:
+        non_striker: MW Short
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 1.1:
+        non_striker: J Weatherald
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 1.2:
+        non_striker: J Weatherald
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 1.3:
+        non_striker: J Weatherald
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 1.4:
+        non_striker: MW Short
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 1.5:
+        non_striker: MW Short
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 1.6:
+        non_striker: MW Short
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 2.1:
+        non_striker: J Weatherald
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 2.2:
+        non_striker: MW Short
+        bowler: JA Richardson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Weatherald
+    - 2.3:
+        non_striker: MW Short
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 2.4:
+        non_striker: MW Short
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 2.5:
+        non_striker: MW Short
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 2.6:
+        non_striker: MW Short
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 2.7:
+        non_striker: J Weatherald
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 3.1:
+        non_striker: MW Short
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Weatherald
+    - 3.2:
+        non_striker: MW Short
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 3.3:
+        non_striker: MW Short
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Weatherald
+    - 3.4:
+        non_striker: MW Short
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 3.5:
+        non_striker: MW Short
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 3.6:
+        non_striker: MW Short
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 4.1:
+        non_striker: J Weatherald
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 4.2:
+        non_striker: J Weatherald
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 4.3:
+        non_striker: MW Short
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 4.4:
+        non_striker: J Weatherald
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 4.5:
+        non_striker: J Weatherald
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 4.6:
+        non_striker: J Weatherald
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 5.1:
+        non_striker: J Weatherald
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Short
+    - 5.2:
+        non_striker: J Weatherald
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 5.3:
+        non_striker: MW Short
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 5.4:
+        non_striker: MW Short
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 5.5:
+        non_striker: J Weatherald
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 5.6:
+        non_striker: MW Short
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 6.1:
+        non_striker: MW Short
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Weatherald
+    - 6.2:
+        non_striker: MW Short
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 6.3:
+        non_striker: MW Short
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 6.4:
+        non_striker: J Weatherald
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MW Short
+    - 6.5:
+        non_striker: MW Short
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 6.6:
+        non_striker: J Weatherald
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 7.1:
+        non_striker: J Weatherald
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 7.2:
+        non_striker: J Weatherald
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+    - 7.3:
+        non_striker: J Weatherald
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 7.4:
+        non_striker: MW Short
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 7.5:
+        non_striker: MW Short
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 7.6:
+        non_striker: J Weatherald
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 8.1:
+        non_striker: J Weatherald
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Short
+    - 8.2:
+        non_striker: J Weatherald
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Short
+    - 8.3:
+        non_striker: MW Short
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 8.4:
+        non_striker: MW Short
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 8.5:
+        non_striker: MW Short
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Weatherald
+    - 8.6:
+        non_striker: MW Short
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 9.1:
+        non_striker: MW Short
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 9.2:
+        non_striker: MW Short
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 9.3:
+        non_striker: J Weatherald
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          fielders:
+          - LS Livingstone
+          kind: caught
+    - 9.4:
+        non_striker: AT Carey
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 9.5:
+        non_striker: J Weatherald
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 9.6:
+        non_striker: J Weatherald
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 10.1:
+        non_striker: J Weatherald
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 10.2:
+        non_striker: AT Carey
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Weatherald
+    - 10.3:
+        non_striker: AT Carey
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 10.4:
+        non_striker: J Weatherald
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AT Carey
+    - 10.5:
+        non_striker: J Weatherald
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 10.6:
+        non_striker: J Weatherald
+        bowler: AC Agar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AT Carey
+    - 11.1:
+        non_striker: AT Carey
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Weatherald
+    - 11.2:
+        non_striker: AT Carey
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 11.3:
+        non_striker: AT Carey
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 11.4:
+        non_striker: J Weatherald
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 11.5:
+        non_striker: J Weatherald
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 11.6:
+        non_striker: AT Carey
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 12.1:
+        non_striker: J Weatherald
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+    - 12.2:
+        non_striker: J Weatherald
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 12.3:
+        non_striker: J Weatherald
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 12.4:
+        non_striker: AT Carey
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 12.5:
+        non_striker: AT Carey
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Weatherald
+    - 12.6:
+        non_striker: AT Carey
+        bowler: MR Marsh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Weatherald
+    - 13.1:
+        non_striker: J Weatherald
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 13.2:
+        non_striker: J Weatherald
+        bowler: JS Paris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AT Carey
+    - 13.3:
+        non_striker: J Weatherald
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 13.4:
+        non_striker: AT Carey
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 13.5:
+        non_striker: AT Carey
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 13.6:
+        non_striker: J Weatherald
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 13.7:
+        non_striker: J Weatherald
+        bowler: JS Paris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 14.1:
+        non_striker: AT Carey
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 14.2:
+        non_striker: AT Carey
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Weatherald
+    - 14.3:
+        non_striker: AT Carey
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+        wicket:
+          player_out: J Weatherald
+          fielders:
+          - JA Richardson
+          kind: run out
+    - 14.4:
+        non_striker: AT Carey
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Wells
+    - 14.5:
+        non_striker: AT Carey
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 14.6:
+        non_striker: JW Wells
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 15.1:
+        non_striker: AT Carey
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 15.2:
+        non_striker: JW Wells
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Carey
+    - 15.3:
+        non_striker: JW Wells
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 15.4:
+        non_striker: AT Carey
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Wells
+    - 15.5:
+        non_striker: AT Carey
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 15.6:
+        non_striker: JW Wells
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 16.1:
+        non_striker: JW Wells
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 16.2:
+        non_striker: AT Carey
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 16.3:
+        non_striker: JW Wells
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 16.4:
+        non_striker: JW Wells
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Carey
+    - 16.5:
+        non_striker: JW Wells
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Carey
+    - 16.6:
+        non_striker: AT Carey
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Wells
+    - 17.1:
+        non_striker: JW Wells
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Carey
+        wicket:
+          player_out: AT Carey
+          fielders:
+          - AC Agar
+          kind: caught
+    - 17.2:
+        non_striker: CL White
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 17.3:
+        non_striker: JW Wells
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL White
+    - 17.4:
+        non_striker: CL White
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 17.5:
+        non_striker: JW Wells
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL White
+    - 17.6:
+        non_striker: JW Wells
+        bowler: JA Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL White
+- 2nd innings:
+    team: Perth Scorchers
+    deliveries:
+    - 0.1:
+        non_striker: LS Livingstone
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 0.2:
+        non_striker: LS Livingstone
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 0.3:
+        non_striker: LS Livingstone
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 0.4:
+        non_striker: LS Livingstone
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 0.5:
+        non_striker: LS Livingstone
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 0.6:
+        non_striker: LS Livingstone
+        bowler: HNA Conway
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Inglis
+    - 0.7:
+        non_striker: LS Livingstone
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 1.1:
+        non_striker: JP Inglis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 1.2:
+        non_striker: JP Inglis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LS Livingstone
+    - 1.3:
+        non_striker: JP Inglis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 1.4:
+        non_striker: JP Inglis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LS Livingstone
+    - 1.5:
+        non_striker: JP Inglis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 1.6:
+        non_striker: JP Inglis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 2.1:
+        non_striker: JP Inglis
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 2.2:
+        non_striker: JP Inglis
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 2.3:
+        non_striker: LS Livingstone
+        bowler: WA Agar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Inglis
+    - 2.4:
+        non_striker: LS Livingstone
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Inglis
+    - 2.5:
+        non_striker: LS Livingstone
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 2.6:
+        non_striker: LS Livingstone
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 2.7:
+        non_striker: LS Livingstone
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 3.1:
+        non_striker: LS Livingstone
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 3.2:
+        non_striker: JP Inglis
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LS Livingstone
+    - 3.3:
+        non_striker: JP Inglis
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 3.4:
+        non_striker: JP Inglis
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 3.5:
+        non_striker: LS Livingstone
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 3.6:
+        non_striker: LS Livingstone
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 4.1:
+        non_striker: LS Livingstone
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 4.2:
+        non_striker: LS Livingstone
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 4.3:
+        non_striker: LS Livingstone
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 4.4:
+        non_striker: LS Livingstone
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 4.5:
+        non_striker: LS Livingstone
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 4.6:
+        non_striker: JP Inglis
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 5.1:
+        non_striker: LS Livingstone
+        bowler: C Valente
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Inglis
+    - 5.2:
+        non_striker: JP Inglis
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 5.3:
+        non_striker: LS Livingstone
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 5.4:
+        non_striker: JP Inglis
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 5.5:
+        non_striker: JP Inglis
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LS Livingstone
+    - 5.6:
+        non_striker: JP Inglis
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 6.1:
+        non_striker: LS Livingstone
+        bowler: WA Agar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Inglis
+    - 6.2:
+        non_striker: LS Livingstone
+        bowler: WA Agar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Inglis
+    - 6.3:
+        non_striker: JP Inglis
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LS Livingstone
+    - 6.4:
+        non_striker: JP Inglis
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LS Livingstone
+    - 6.5:
+        non_striker: JP Inglis
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 6.6:
+        non_striker: LS Livingstone
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 6.7:
+        non_striker: JP Inglis
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 7.1:
+        non_striker: LS Livingstone
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 7.2:
+        non_striker: LS Livingstone
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Inglis
+    - 7.3:
+        non_striker: LS Livingstone
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 7.4:
+        non_striker: JP Inglis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 7.5:
+        non_striker: JP Inglis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 7.6:
+        non_striker: JP Inglis
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 8.1:
+        non_striker: LS Livingstone
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 8.2:
+        non_striker: JP Inglis
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 8.3:
+        non_striker: JP Inglis
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 8.4:
+        non_striker: JP Inglis
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+        wicket:
+          player_out: LS Livingstone
+          fielders:
+          - PD Salt
+          kind: caught
+    - 8.5:
+        non_striker: AJ Turner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          kind: bowled
+    - 8.6:
+        non_striker: AJ Turner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Marsh
+    - 9.1:
+        non_striker: MR Marsh
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 9.2:
+        non_striker: AJ Turner
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Marsh
+    - 9.3:
+        non_striker: AJ Turner
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 9.4:
+        non_striker: MR Marsh
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 9.5:
+        non_striker: AJ Turner
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 9.6:
+        non_striker: MR Marsh
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 10.1:
+        non_striker: MR Marsh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 10.2:
+        non_striker: AJ Turner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Marsh
+    - 10.3:
+        non_striker: AJ Turner
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 10.4:
+        non_striker: MR Marsh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 10.5:
+        non_striker: MR Marsh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 10.6:
+        non_striker: MR Marsh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+        wicket:
+          player_out: AJ Turner
+          fielders:
+          - AT Carey
+          kind: caught
+    - 11.1:
+        non_striker: CT Bancroft
+        bowler: C Valente
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MR Marsh
+    - 11.2:
+        non_striker: MR Marsh
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Bancroft
+    - 11.3:
+        non_striker: MR Marsh
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 11.4:
+        non_striker: CT Bancroft
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 11.5:
+        non_striker: MR Marsh
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 11.6:
+        non_striker: CT Bancroft
+        bowler: C Valente
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 12.1:
+        non_striker: CT Bancroft
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 12.2:
+        non_striker: CT Bancroft
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 12.3:
+        non_striker: MR Marsh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 12.4:
+        non_striker: CT Bancroft
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 12.5:
+        non_striker: MR Marsh
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CT Bancroft
+    - 12.6:
+        non_striker: CT Bancroft
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 13.1:
+        non_striker: MR Marsh
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 13.2:
+        non_striker: CT Bancroft
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 13.3:
+        non_striker: MR Marsh
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 13.4:
+        non_striker: CT Bancroft
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          fielders:
+          - JW Wells
+          kind: caught
+    - 13.5:
+        non_striker: CT Bancroft
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 13.6:
+        non_striker: AC Agar
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Bancroft
+    - 14.1:
+        non_striker: CT Bancroft
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Agar
+    - 14.2:
+        non_striker: AC Agar
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CT Bancroft
+    - 14.3:
+        non_striker: CT Bancroft
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Agar
+        wicket:
+          player_out: AC Agar
+          fielders:
+          - AT Carey
+          kind: caught
+    - 14.4:
+        non_striker: CT Bancroft
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 14.5:
+        non_striker: C Green
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Bancroft
+    - 14.6:
+        non_striker: C Green
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+        wicket:
+          player_out: CT Bancroft
+          fielders:
+          - PD Salt
+          kind: caught
+    - 15.1:
+        non_striker: CJ Jordan
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 15.2:
+        non_striker: CJ Jordan
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 15.3:
+        non_striker: CJ Jordan
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 15.4:
+        non_striker: C Green
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 15.5:
+        non_striker: C Green
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 15.6:
+        non_striker: C Green
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 16.1:
+        non_striker: C Green
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 16.2:
+        non_striker: CJ Jordan
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 16.3:
+        non_striker: CJ Jordan
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 16.4:
+        non_striker: C Green
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 16.5:
+        non_striker: CJ Jordan
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 16.6:
+        non_striker: CJ Jordan
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 17.1:
+        non_striker: C Green
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+    - 17.2:
+        non_striker: CJ Jordan
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 17.3:
+        non_striker: CJ Jordan
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+        wicket:
+          player_out: C Green
+          fielders:
+          - PD Salt
+          kind: caught
+    - 17.4:
+        non_striker: JA Richardson
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Jordan
+    - 17.5:
+        non_striker: JA Richardson
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 17.6:
+        non_striker: JA Richardson
+        bowler: HNA Conway
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Jordan
