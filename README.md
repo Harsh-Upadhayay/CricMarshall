@@ -23,6 +23,16 @@ Your cricket buddy!
    i.e, if user says august 2016, then it will get extracted as 2016/08/17
 * Voice of output generator is subject to change.
 
+## Required Libraries
+* os 
+* speech_recognition
+* nltk
+* datefinder
+* string
+* yaml
+* pydub
+* pyttsx3
+
 ## Work Log
 15/08/2022: 
 * Speech to text regonition, first with audio file and then with using microphone.
