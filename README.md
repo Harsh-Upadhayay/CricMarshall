@@ -13,7 +13,7 @@ Your cricket buddy!
 ## To-Do List
 15/08/2022: 
 
-- [x] Remove ffmpeg warning while recording voice
+- [ ] Remove ffmpeg warning while recording voice
 - [x] Make list of extracted nouns (if neccesary)
 
 16/08/2022:
