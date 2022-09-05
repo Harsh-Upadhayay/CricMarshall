@@ -54,6 +54,9 @@ Your cricket buddy!
 * setup file added (2 lines of code to download nltk libraries on remote device).
 * Voice speed reduced. 200 was default. now its 195.
 
+05/09/2022
+* Using Parsing: Get POS tags of every word of the input. Define a structure of the sentence (for ex. sentence = Noun + Adjective + Verb + ... ). Generate a sentence using the input. The generated sentence will be used to fetch the required result. 
+
 
 ## Code Sources
 * spech to text - https://www.thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python
