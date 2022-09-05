@@ -1,7 +1,26 @@
+from re import template
+from ssl import OPENSSL_VERSION
 import yaml
 from math import modf
 
-class ball ():
+
+class Player ():
+    runs                        = None
+    balls                       = None # do extras count?
+    fours                       = None
+    sixes                       = None
+    assists                     = []
+    tem                         = str
+
+class Batsman (Player) :
+    out_bowler                  = None
+    out_fielder                 = None
+
+class Bowler (Player) :
+    overs                       = None
+    wickets                     = []
+
+class Ball ():
     over                        = int
     ball_no                     = int
     batsman                     = str
@@ -10,10 +29,35 @@ class ball ():
     xtras                       = dict()
     runs                        = int
     player_out                  = None
-    fielder                     = None
+    fielders                    = None
     wicket_kind                 = None
 
-class match ():
+
+    def __init__(self, _ball) :
+        (ball_no, _ball),       = _ball.items()
+
+        self.over               = int(modf(ball_no)[1])
+        self.ball_no            = round(modf(ball_no)[0] * 10)
+        self.batsman            = _ball['batsman']
+        self.bowler             = _ball['bowler']
+        self.non_stkr           = _ball['non_striker']
+        self.runs               = _ball['runs']['total']
+        
+        if 'extras' in _ball.keys():
+            self.xtras          = _ball['extras']
+        else :      
+            self.xtras          = None
+        
+        if 'wicket' in _ball.keys():
+            if 'fielders' in _ball['wicket'].keys() :
+                self.fielders   = _ball['wicket']['fielders']
+
+            self.kind           = _ball['wicket']['kind']
+            self.player_out     = _ball['wicket']['player_out']
+
+
+
+class Match ():
     city                        = str
     dates                       = list()
     match_type                  = str
@@ -33,6 +77,7 @@ class match ():
     def __init__(self, path = 'dataset/ipl/335982.yaml'):
         with open(path) as f:
             docs = yaml.load_all(f, Loader=yaml.Loader)
+            
             for doc in docs:
                 self.city           = doc['info']['city']
                 self.dates          = doc['info']['dates']
@@ -46,31 +91,28 @@ class match ():
                 self.team_b         = doc['info']['teams'][1]
                 self.toss_win       = doc['info']['toss']['winner']
                 self.toss_dec       = doc['info']['toss']['decision']
+
                 if 'competetion' in doc['info'].keys() :
                     self.competition = doc['info']['competition']
                 
 
                 for _ball in doc['innings'][0]['1st innings']['deliveries']:
-                    cur_ball = ball()
-                    cur_ball.over = int(modf(list(_ball.keys())[0])[1])
-                    cur_ball.ball_no = round(modf(list(_ball.keys())[0])[0] * 10)
-                    # cur_ball.batsman = 
-                    print(cur_ball.over, end = " ")
-                    print(cur_ball.ball_no)
-                   
-        # 'city', 'competition', 'dates', 'gender', 'match_type',
-        # 'outcome', 'overs', 'player_of_match', 'teams', 'toss', 'umpires', 'venue'
-    
+                    cur_ball = Ball(_ball)
+                    self.balls_fi[str(cur_ball.over) + '.' + str(cur_ball.ball_no)] = cur_ball
 
+                for _ball in doc['innings'][1]['2nd innings']['deliveries']:
+                    cur_ball = Ball(_ball)
+                    self.balls_si[str(cur_ball.over) + '.' + str(cur_ball.ball_no)] = cur_ball
 
+                if self.toss_dec == 'bat' and self.toss_win != self.team_a :
+                    self.team_a, self.team_b = self.team_b, self.team_a
 
 if __name__ == '__main__':
-    x = match('dataset/ipl/335982.yaml')
-    
+    x = Match('dataset/ipl/335992.yaml')
     # print((x.city))
     # print((x.dates))
     # print((x.match_type))
-    # print((x.outcome))
+    print((x.outcome))
     # print((x.p_of_match))
     # print((x.umpires))
     # print((x.venue))
