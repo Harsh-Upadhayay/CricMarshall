@@ -16,6 +16,14 @@ class Batsman (Player) :
     out_bowler                  = None
     out_fielder                 = None
 
+"""
+
+TODO: 
+1. Add Strike Rate in Batsman
+2. Add No Balls, Wides and Economy in Bowler
+3. Extra runs are counted as "Runs conceded by Bowler". Extra ball is not counted as "ball bowled by bowler". Extra run is not counted as "run scored by batsman".
+"""
+
 class Bowler (Player) :
     overs                       = None
     wickets                     = []
@@ -112,6 +120,8 @@ if __name__ == '__main__':
     # print((x.city))
     # print((x.dates))
     # print((x.match_type))
+    for ball in x.balls_fi :
+        print(ball.runs, ball.xtra)
     print((x.outcome))
     # print((x.p_of_match))
     # print((x.umpires))
