@@ -28,6 +28,10 @@ Your cricket buddy!
 - [ ] create small database to run queries and analyze the result
 - [ ] got suggestion to work on pandas for query processing and result generation. Discussion required.
 
+05/09/2022
+- [ ] Using Parsing: Get POS tags of every word of the input. Define a structure of the sentence (for ex. sentence = Noun + Adjective + Verb + ... ). Generate a sentence using the input. The generated sentence will be used to fetch the required result.
+- [ ] Query Processing: pandas or mongodb (Decision Pending)
+
 ## Required Libraries
 * os 
 * speech_recognition
@@ -54,8 +58,9 @@ Your cricket buddy!
 * setup file added (2 lines of code to download nltk libraries on remote device).
 * Voice speed reduced. 200 was default. now its 195.
 
-05/09/2022
-* Using Parsing: Get POS tags of every word of the input. Define a structure of the sentence (for ex. sentence = Noun + Adjective + Verb + ... ). Generate a sentence using the input. The generated sentence will be used to fetch the required result. 
+05/09/2022:
+*  "Wake UP Marshall x Marshall Never Sleep" Added. Intro message Added.
+*  Seperation of concerns is done in input.py and added InputParsing.py for the same
 
 
 ## Code Sources
