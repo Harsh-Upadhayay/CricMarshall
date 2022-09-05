@@ -129,10 +129,10 @@ if __name__ == '__main__':
     # print((x.city))
     # print((x.dates))
     # print((x.match_type))
-    for ball in x.balls_fi :
-        if x.balls_fi[ball].xtras :
-            print(ball, x.balls_fi[ball].runs, x.balls_fi[ball].xtras)
-    print((x.outcome))
+    # # for ball in x.balls_fi :
+    # #     if x.balls_fi[ball].xtras :
+    # #         print(ball, x.balls_fi[ball].runs, x.balls_fi[ball].xtras)
+    # print((x.outcome))
     # print((x.p_of_match))
     # print((x.umpires))
     # print((x.venue))
