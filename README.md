@@ -32,6 +32,9 @@ Your cricket buddy!
 - [ ] Using Parsing: Get POS tags of every word of the input. Define a structure of the sentence (for ex. sentence = Noun + Adjective + Verb + ... ). Generate a sentence using the input. The generated sentence will be used to fetch the required result.
 - [ ] Query Processing: pandas or mongodb (Decision Pending)
 
+14/09/2022
+- [ ] parse input query to fetch result.
+
 ## Required Libraries
 * os 
 * speech_recognition
@@ -61,6 +64,9 @@ Your cricket buddy!
 05/09/2022:
 *  "Wake UP Marshall x Marshall Never Sleep" Added. Intro message Added.
 *  Seperation of concerns is done in input.py and added InputParsing.py for the same
+
+14/09/2022
+* added code to run the voice input until user say thank you.
 
 
 ## Code Sources
