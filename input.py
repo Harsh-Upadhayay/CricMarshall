@@ -33,10 +33,10 @@ with sr.Microphone() as source:
             text = r.recognize_google(audio_data)
             print(text)
             if(text == "wake up Marshal" or text == "wakeup Marshal" or text == "wake up Marshall" or text == "wakeup Marshall"):
-              outputGenerator.WakeUp()
-            elif(text == "hello Marshall" or text == "hello"):
+              outputGenerator.AlreadyWakeUp()
+            elif(text == "hello Marshall" or text == "tell me something about yourself"):
                 outputGenerator.IntroMessage()
             else:
-                InputParsing.StepOne(text)
+                outputGenerator.IDontKnow()
 
     # """
