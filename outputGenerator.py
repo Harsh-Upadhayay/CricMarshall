@@ -19,6 +19,14 @@ def AlreadyWakeUp():
     engine.say(WakeUpMessage)
     engine.runAndWait()
 
+def myPleasure():
+    WakeUpMessage = "my pleasure!"
+    en_voice_id = "com.apple.speech.synthesis.voice.Alex"
+    engine.setProperty('voice', en_voice_id)
+    engine.setProperty('rate', 190)
+    engine.say(WakeUpMessage)
+    engine.runAndWait()
+
 def IDontKnow():
     WakeUpMessage = "Sorry, I am unable to fetch result. can you please tell me more what you exactly want ?"
     en_voice_id = "com.apple.speech.synthesis.voice.Alex"

@@ -10,8 +10,8 @@ r = sr.Recognizer()
 with sr.Microphone() as source:
     print("say Something")
     # read the audio data from the default microphone
-    # audio_data = r.record(source, duration = 1)
     r.adjust_for_ambient_noise(source)
+    # audio_data = r.record(source, duration = 1)
     audio_data = r.listen(source)
     # convert speech to text  
     text = r.recognize_google(audio_data)
@@ -20,14 +20,15 @@ with sr.Microphone() as source:
         outputGenerator.WakeUp()
     elif(text == "hello Marshall" or text == "hello"):
         outputGenerator.IntroMessage()
-
+    elif(text == "thank you"):
+                outputGenerator.myPleasure()
     # """
-    while(text != "thank you marshal"):
+    while(text != "thank you marshal" or text != "thank you"):
         with sr.Microphone() as source:
             print("say Something")
             # read the audio data from the default microphone
-            # audio_data = r.record(source, duration = 1)
             r.adjust_for_ambient_noise(source)
+            # audio_data = r.record(source, duration = 1)
             audio_data = r.listen(source)
             # convert speech to text  
             text = r.recognize_google(audio_data)
@@ -36,6 +37,8 @@ with sr.Microphone() as source:
               outputGenerator.AlreadyWakeUp()
             elif(text == "hello Marshall" or text == "tell me something about yourself"):
                 outputGenerator.IntroMessage()
+            elif(text == "thank you"):
+                outputGenerator.myPleasure()
             else:
                 outputGenerator.IDontKnow()
 
