@@ -1,10 +1,10 @@
-from re import template
-from ssl import OPENSSL_VERSION
 import yaml
 from math import modf
 
 
 class Player ():
+    name                        = str
+    team                        = str
     runs                        = None
     balls                       = None # do extras count?
     fours                       = None
@@ -15,6 +15,11 @@ class Player ():
 class Batsman (Player) :
     out_bowler                  = None
     out_fielder                 = None
+
+class Bowler (Player) :
+    overs                       = None
+    wickets                     = []
+
 
 """
 
@@ -32,10 +37,6 @@ TODO:
     *runs conceded by bowler = runs = runs + (amount of runs conceded)
     
 """
-
-class Bowler (Player) :
-    overs                       = None
-    wickets                     = []
 
 class Ball ():
     over                        = int
@@ -74,10 +75,14 @@ class Ball ():
 
 
 
+
+
 class Match ():
     city                        = str
     dates                       = list()
     match_type                  = str
+    bowlers                     = dict()
+    batsmen                     = dict()
     competition                 = None
     outcome                     = dict()
     overs                       = int
@@ -116,6 +121,17 @@ class Match ():
                 for _ball in doc['innings'][0]['1st innings']['deliveries']:
                     cur_ball = Ball(_ball)
                     self.balls_fi[str(cur_ball.over) + '.' + str(cur_ball.ball_no)] = cur_ball
+
+                    # if cur_ball.batsman in self.batsmen.keys() :
+                    #     self.batsmen[cur_ball.batsman].update(_ball, self.team_a)
+                    # else :
+                    #     self.batsmen[cur_ball.batsman] = Batsman(_ball, self.team_a)
+
+                    # if cur_ball.bowler in self.bowlers.keys() :
+                    #     self.bowlers[cur_ball.bowler].update(_ball, self.team_a)
+                    # else :
+                    #     self.bowlers[cur_ball.bowler] = Bowler(_ball, self.team_a)
+
 
                 for _ball in doc['innings'][1]['2nd innings']['deliveries']:
                     cur_ball = Ball(_ball)

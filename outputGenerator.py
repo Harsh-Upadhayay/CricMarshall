@@ -32,3 +32,4 @@ def IntroMessage():
     engine.say(test)
     engine.runAndWait()
 
+IntroMessage()
