@@ -7,7 +7,7 @@ class QueryProcessor() :
     id_df = pd.DataFrame()
 
     def __init__(self): 
-        self.id_df = pd.read_csv("dataset/all/match_id.csv")
+        self.id_df = pd.read_csv("database/match_id.csv")
 
     def matchByDateN2Teams(self, dt, tm1, tm2):
         return (self.id_df[(self.id_df['date'].str.contains(dt) & self.id_df['teams'].str.contains(tm1) & self.id_df['teams'].str.contains(tm2))] )

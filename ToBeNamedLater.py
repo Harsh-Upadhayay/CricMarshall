@@ -21,22 +21,7 @@ class Bowler (Player) :
     wickets                     = []
 
 
-"""
 
-TODO: 
-1. Add Strike Rate in Batsman
-2. Add No Balls, Wides and Economy in Bowler
-3.  *Extra runs are COUNTED as "Runs conceded by Bowler". 
-    *Extra run is NOT COUNTED as "run scored by batsman".
-    *Extra ball is NOT COUNTED as "ball bowled by bowler". 
-    
-    (In case of NO BALL)
-    *Extra runs = extra runs + 1
-    *balls played by batsman: balls = balls + 1
-    *if runs are scored on the NO BALL: runs scored by batsman: runs = runs + (amount of runs scored)
-    *runs conceded by bowler = runs = runs + (amount of runs conceded)
-    
-"""
 
 class Ball ():
     over                        = int
@@ -96,7 +81,7 @@ class Match ():
     balls_fi                    = dict()
     balls_si                    = dict()
 
-    def __init__(self, path = 'dataset/ipl/335982.yaml'):
+    def __init__(self, path = 'database/yaml_dataset/335982.yaml'):
         with open(path) as f:
             docs = yaml.load_all(f, Loader=yaml.Loader)
             
@@ -141,18 +126,18 @@ class Match ():
                     self.team_a, self.team_b = self.team_b, self.team_a
 
 if __name__ == '__main__':
-    x = Match('dataset/ipl/335990.yaml')
-    # print((x.city))
-    # print((x.dates))
-    # print((x.match_type))
-    # # for ball in x.balls_fi :
-    # #     if x.balls_fi[ball].xtras :
-    # #         print(ball, x.balls_fi[ball].runs, x.balls_fi[ball].xtras)
-    # print((x.outcome))
-    # print((x.p_of_match))
-    # print((x.umpires))
-    # print((x.venue))
-    # print(x.team_b)
-    # print(x.team_a)
-    # print(x.toss_win)
-    # print(x.toss_dec)
+    x = Match('database/yaml_dataset/335990.yaml')
+    print((x.city))
+    print((x.dates))
+    print((x.match_type))
+    # for ball in x.balls_fi :
+    #     if x.balls_fi[ball].xtras :
+    #         print(ball, x.balls_fi[ball].runs, x.balls_fi[ball].xtras)
+    print((x.outcome))
+    print((x.p_of_match))
+    print((x.umpires))
+    print((x.venue))
+    print(x.team_b)
+    print(x.team_a)
+    print(x.toss_win)
+    print(x.toss_dec)

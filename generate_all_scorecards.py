@@ -13,7 +13,7 @@ def log(id, msg) :
 
 start = datetime.now()
 
-match_ids = pd.read_csv("match_id.csv")['id'].to_list()
+match_ids = pd.read_csv("database/match_id.csv")['id'].to_list()
 
 for id in match_ids:
     try :

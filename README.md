@@ -35,6 +35,39 @@ Your cricket buddy!
 14/09/2022
 - [ ] parse input query to fetch result.
 
+- [x] Add Strike Rate in Batsman
+- [x] Add No Balls, Wides and Economy in Bowler
+    *Extra runs are COUNTED as "Runs conceded by Bowler". 
+    *Extra run is NOT COUNTED as "run scored by batsman".
+    *Extra ball is NOT COUNTED as "ball bowled by bowler". 
+    
+- [x] (In case of NO BALL)
+        *Extra runs = extra runs + 1
+        *balls played by batsman: balls = balls + 1
+        *if runs are scored on the NO BALL: runs scored by batsman: runs = runs + (amount of runs scored)
+        *runs conceded by bowler = runs = runs + (amount of runs conceded)
+    
+"""
+
+## Query Types
+### Specific or Exact Queries :
+    * Attributes : PlayerName, Year, PlayersTeam, OppositeTeam, Venue, Runs, Wickets, GameType, SeriesType
+    * Example1 : How many runs did Rohit Sharma scored against Australia in 2016 on Sydney Cricket Ground ?
+    * Example2 : How many wickets Jasprit Bumrah took on England tour of India in the year 2020 ? (Gametype Missing: T20, Test, ODI)
+
+### LittleAmbiguousQueries : 
+    * Attributes : PlayerName, Year, PLayersTeam, OppositeTeam, Venue, Runs, Wickets, GameType, SeriesType, DeciderWord(Highest, Lowest, Most etc)
+    * Example1 : Who was the highest wicket taker in 2011 Cricket World Cup ?
+        (Attributes available : Year = 2011, SeriesType = Cricket World Cup, DeciderWord = highest)
+        (Derivable Attributes : GameType = ODI (Because in 2011, only one cricket world cup was oraganized and it was ODI world cup))
+        (
+            PossibleApproach : ((((***DISCUSTION REQUIRED***))))
+                Pre-Requisite : we have scorecard of every match of the worldcup 2011. 
+                1. select bowlerName, Wickets from EveryMatch
+                1.1 If the same bowler has played multiple matches : Update the wicket column for this entry.
+                2. select bowlerName from NewlyCreatedTable where wickets = (select max(Wickets) from NewlyCreatedTable)            
+        )
+
 ## Required Libraries
 * os 
 * speech_recognition

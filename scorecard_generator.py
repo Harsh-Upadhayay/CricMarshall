@@ -10,7 +10,7 @@ class scorecard_generator:
 
     def __init__(self, match_id="64917"):
 
-        df = pd.read_csv("csv_dataset/" + match_id + ".csv")
+        df = pd.read_csv("database/csv_dataset/" + match_id + ".csv")
 
         players = self.__get_players(match_id)
         self.scorecard = pd.DataFrame(columns=self.scard_entries, index=players)
@@ -21,7 +21,6 @@ class scorecard_generator:
 
         self.save_scorecard(match_id)
         
-
     def __get_entry(self, df, player, entry) :
         if entry == "name":
             return player
@@ -81,21 +80,20 @@ class scorecard_generator:
         else:
             return None
          
-
     def __get_players(self, match_id) :
 
         col_names = ["1", "2", "3", "4", "5", "6"]
-        df = pd.read_csv("csv_dataset/" + match_id + "_info.csv", names=col_names)
+        df = pd.read_csv("database/csv_dataset/" + match_id + "_info.csv", names=col_names)
         
         ndf = pd.DataFrame((df[df['2'] == 'player'][['4', '3']]))
         
         self.countries = pd.Series(ndf['3'].values,index=ndf['4']).to_dict()
         return self.countries.keys()
             
-
     def save_scorecard(self, match_id) :
 
-        self.scorecard.to_csv("csv_dataset/" + match_id + "_scorecard.csv")
+        self.scorecard.to_csv("database/csv_dataset/" + match_id + "_scorecard.csv")
+
 
 if __name__ == "__main__":
     sg = scorecard_generator()
