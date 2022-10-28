@@ -20,9 +20,6 @@ class Bowler (Player) :
     overs                       = None
     wickets                     = []
 
-
-
-
 class Ball ():
     over                        = int
     ball_no                     = int
@@ -57,10 +54,6 @@ class Ball ():
 
             self.kind           = _ball['wicket']['kind']
             self.player_out     = _ball['wicket']['player_out']
-
-
-
-
 
 class Match ():
     city                        = str
