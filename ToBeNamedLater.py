@@ -100,17 +100,6 @@ class Match ():
                     cur_ball = Ball(_ball)
                     self.balls_fi[str(cur_ball.over) + '.' + str(cur_ball.ball_no)] = cur_ball
 
-                    # if cur_ball.batsman in self.batsmen.keys() :
-                    #     self.batsmen[cur_ball.batsman].update(_ball, self.team_a)
-                    # else :
-                    #     self.batsmen[cur_ball.batsman] = Batsman(_ball, self.team_a)
-
-                    # if cur_ball.bowler in self.bowlers.keys() :
-                    #     self.bowlers[cur_ball.bowler].update(_ball, self.team_a)
-                    # else :
-                    #     self.bowlers[cur_ball.bowler] = Bowler(_ball, self.team_a)
-
-
                 for _ball in doc['innings'][1]['2nd innings']['deliveries']:
                     cur_ball = Ball(_ball)
                     self.balls_si[str(cur_ball.over) + '.' + str(cur_ball.ball_no)] = cur_ball
