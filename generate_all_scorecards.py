@@ -21,5 +21,7 @@ for id in match_ids:
     except Exception as e:
         log(id, str(e))
 
+    print (id)
+
 print ("Execution Time : " , ((datetime.now() - start).__str__()))
 logfile.write("Execution Time : "  + ((datetime.now() - start).__str__()))
