@@ -15,7 +15,17 @@ class QueryProcessor() :
     def filterByGender(self, df, gen) :
         return df[df['type'] == gen]
     
+    def getAllTeams(self) :
+        teams = set()
+        tmp = self.id_df['teams'].to_list()
+        for x in tmp :
+            a, b = x.split(' vs ')
+            teams.add(a)
+            teams.add(b)
+        return list(teams)
+
 
 if __name__ == "__main__":
     qp = QueryProcessor()
-    print((qp.filterByGender(qp.matchByDateN2Teams('2010-', 'India', 'Sri Lanka'), 'male')))
+    # print((qp.filterByGender(qp.matchByDateN2Teams('2010-', 'India', 'Sri Lanka'), 'male')))
+    print(qp.getAllTeams())
