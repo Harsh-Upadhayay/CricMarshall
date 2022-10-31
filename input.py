@@ -20,9 +20,9 @@ with sr.Microphone() as source:
         outputGenerator.WakeUp()
     elif(text == "hello Marshall" or text == "hello"):
         outputGenerator.IntroMessage()
-    elif(text == "thank you"):
-                outputGenerator.myPleasure()
-    # """
+    elif(text == "thank you" or text == "thank you marshal"):
+        outputGenerator.myPleasure()
+    
     while(text != "thank you marshal" or text != "thank you"):
         with sr.Microphone() as source:
             print("say Something")
@@ -42,4 +42,4 @@ with sr.Microphone() as source:
             else:
                 outputGenerator.IDontKnow()
 
-    # """
+    
