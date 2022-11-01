@@ -21,12 +21,14 @@ def ProperNounExtractor(text):
         tagged = nltk.pos_tag(words)
         # print(tagged)
         for (word, tag) in tagged:
-            if tag == 'NNP' or tag == 'NNPS' or tag == 'NN' or tag == 'NNS': 
+            # if tag == 'NNP' or tag == 'NNPS' or tag == 'NN' or tag == 'NNS': 
+            #     print(word)
+            if tag == 'NNP': 
                 print(word)
         
-        for(word,tag) in tagged:
-            if tag == 'CD':
-                print(word)
+        # for(word,tag) in tagged:
+        #     if tag == 'CD':
+        #         print(word)
 
 def dateExtractor(text):
     dates = datefinder.find_dates(text)
