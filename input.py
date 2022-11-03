@@ -26,6 +26,7 @@ with sr.Microphone() as source:
         outputGenerator.IntroMessage()
     elif(text == "thank you" or text == "thankyou Marshal"):
         outputGenerator.myPleasure()
+        exit()
     else:
         InputParsing.StepOne(text)
 
@@ -45,5 +46,6 @@ with sr.Microphone() as source:
                 outputGenerator.IntroMessage()
             elif(text == "thank you"):
                 outputGenerator.myPleasure()
+                break
             else:
                 InputParsing.StepOne(text)
