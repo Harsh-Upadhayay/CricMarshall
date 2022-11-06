@@ -24,8 +24,13 @@ class QueryProcessor() :
             teams.add(b)
         return list(teams)
 
+    def runWicketByPlayer(self, matchID, player, req):
+        df = pd.read_csv("database/csv_dataset/" + str(matchID) + "_scorecard.csv", index_col=0)
+        try :
+            return df.loc[player][req]
+        except:
+            return 0
 
 if __name__ == "__main__":
     qp = QueryProcessor()
     # print((qp.filterByGender(qp.matchByDateN2Teams('2010-', 'India', 'Sri Lanka'), 'male')))
-    print(qp.getAllTeams())
