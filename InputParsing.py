@@ -3,6 +3,7 @@ from nltk.corpus import stopwords
 from QueryProcessor import QueryProcessor 
 import spacy
 import calendar
+import pandas as pd
 from ErrorCodes import ErrorCodes as EC
 nlp = spacy.load('en_core_web_sm')
 
@@ -19,6 +20,13 @@ class InputParser :
                 self.monthMap[x] = '0' + str(self.monthMap[x])
             else :
                 self.monthMap[x] = str(self.monthMap[x])
+        
+        df2 = pd.read_csv('database/names.csv')
+        df1 = pd.read_csv('database/people.csv')
+        df = pd.merge(df1, df2, on = ['identifier', 'identifier'])
+        df.drop(['name_x', 'identifier'], axis=1, inplace=True)
+        self.playerMap = (dict (zip(df['name_y'], df['unique_name'])))
+
 
     def parseDate(self, dt):
         dt = dt[0].split()
@@ -66,7 +74,11 @@ class InputParser :
         for entity in entities:
 
             if entity[3] == 'PERSON':
-                tag['player'].append(entity[0])
+                try:
+                    tag['player'].append(self.playerMap[(entity[0])])
+                except:
+                    print("No such player found")
+                    return EC.PLAYER_DOSENT_EXISTS
             if entity[3] == 'EVENT':
                 tag['event'].append(entity[0])
             if entity[3] == 'DATE':
@@ -78,12 +90,40 @@ class InputParser :
         tag['date'] = self.parseDate(tag['date'])
         return tag
 
-    def parseQuery(self, text):
+    def getContext(self, player, action) :
+        if action == 'runs':
+            return 'runs_off_bat'
+        elif action == 'wickets':
+            return 'wickets'
+    
+    def queryTypeA(self, tagEty):
+        
+        matchID = self.qp.matchByDateN2Teams(tagEty['date'], tagEty['teams'][0], tagEty['teams'][1])
+        if matchID.empty:
+            return EC.NO_MATCH_FOUND
 
-        tagged_entities = self.tag_entities(text)
-        return tagged_entities
+        matchID = (dict (zip(matchID['id'], matchID['date'])))
+        req = self.getContext(tagEty['player'][0], tagEty['requirement'])
+
+        result = dict()
+        for match in matchID:
+            result[matchID[match]] = (self.qp.runWicketByPlayer(match, tagEty['player'][0], req))
+
+        return result    
+
+    def parseQuery(self, text):
+        
+        qryRes = str()
+        tagEty = self.tag_entities(text)
+        if len(tagEty['teams']) == 2 and len(tagEty['player']) == 1:
+            qryRes = self.queryTypeA(tagEty)
+
+        return qryRes  
+
     
 if __name__ ==  "__main__":
     ip = InputParser()
-    query = "how many runs did Shikhar Dhawan scored in New Zealand vs Netherlands in November 2020 in Asia cup"
+    query = "how many wickets did Adam Zampa took in India vs Australia in November 2020 in Asia cup"
+    print(ip.parseQuery(query))
+    query = "how many runs did Adam Zampa scored in India vs Australia in November 2020 in Asia cup"
     print(ip.parseQuery(query))
