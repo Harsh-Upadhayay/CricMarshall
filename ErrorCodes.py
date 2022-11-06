@@ -1,0 +1,2 @@
+class ErrorCodes:
+    NO_REQUIREMENT_SPECIFIED = 10
