@@ -3,9 +3,10 @@ import speech_recognition as sr
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
 import outputGenerator
-import InputParsing
+from inputParsing import InputParser
 
 r = sr.Recognizer()
+ip = InputParser()
 
 with sr.Microphone() as source:
     print("say Something")
@@ -28,7 +29,7 @@ with sr.Microphone() as source:
         outputGenerator.myPleasure()
         exit()
     else:
-        InputParsing.StepOne(text)
+        ip.parseQuery(text)
 
     while(text != "thankyou Marshal" or text != "thank you"):
         with sr.Microphone() as source:
@@ -48,4 +49,4 @@ with sr.Microphone() as source:
                 outputGenerator.myPleasure()
                 break
             else:
-                InputParsing.StepOne(text)
+                ip.parseQuery(text)
