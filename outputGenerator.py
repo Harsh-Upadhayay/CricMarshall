@@ -20,19 +20,19 @@ def AlreadyWakeUp():
     engine.runAndWait()
 
 def myPleasure():
-    WakeUpMessage = "my pleasure!"
+    Message = "my pleasure!"
     en_voice_id = "com.apple.speech.synthesis.voice.Alex"
     engine.setProperty('voice', en_voice_id)
     engine.setProperty('rate', 190)
-    engine.say(WakeUpMessage)
+    engine.say(Message)
     engine.runAndWait()
 
 def IDontKnow():
-    WakeUpMessage = "Sorry, I am unable to fetch result. can you please tell me more what you exactly want ?"
+    Message = "Sorry, I am unable to fetch result."
     en_voice_id = "com.apple.speech.synthesis.voice.Alex"
     engine.setProperty('voice', en_voice_id)
     engine.setProperty('rate', 190)
-    engine.say(WakeUpMessage)
+    engine.say(Message)
     engine.runAndWait()
 
 # Program to see the available languages
@@ -55,4 +55,32 @@ def IntroMessage():
     engine.say(test)
     engine.runAndWait()
 
-# IntroMessage()
+def giveAnswer(output, key):
+    matchCount = 1
+    if len(key) == 0:
+        Message = "No Record Found"
+        IDontKnow()
+    elif len(key) == 1:
+        for i in key:
+            Message = output[i]
+        print("Match ", matchCount , ": ", Message)
+        en_voice_id = "com.apple.speech.synthesis.voice.Alex"
+        engine.setProperty('voice', en_voice_id)
+        engine.setProperty('rate', 190)
+        engine.say(Message)
+        engine.runAndWait()
+    else: 
+        for i in key:
+            msg = "Match"
+            Message = output[i]
+            print("Match ", matchCount , ": ", Message)
+            en_voice_id = "com.apple.speech.synthesis.voice.Alex"
+            engine.setProperty('voice', en_voice_id)
+            engine.setProperty('rate', 190)
+            engine.say(msg)
+            engine.say(matchCount)
+            engine.say(Message)
+            engine.runAndWait()
+            matchCount = matchCount + 1
+
+IntroMessage()

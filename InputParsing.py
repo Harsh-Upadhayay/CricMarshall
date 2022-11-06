@@ -37,7 +37,7 @@ class InputParser :
     def parseRequirement(self, nouns):
                     
         required = set(['runs', 'run', 'wickets', 'wicket'])
-
+        
         for nn in nouns:
             if nn in required:
                 return nn
@@ -45,7 +45,6 @@ class InputParser :
         return EC.NO_REQUIREMENT_SPECIFIED
 
     def properNounExtractor(self, text):
-        
         InputProperNouns = []
         sentences = nltk.sent_tokenize(text)
         for sentence in sentences:
@@ -53,16 +52,15 @@ class InputParser :
             words = [word for word in words if word not in set(stopwords.words('english'))]
             tagged = nltk.pos_tag(words)
             for (word, tag) in tagged:
-                if tag == 'NNS': 
+                if tag == 'NNS' or tag == 'VBZ':
                     InputProperNouns.append(word)
-
         return InputProperNouns
         
     def tag_entities(self, text):
                
         doc = nlp(text)
         entities = [(e.text, e.start_char, e.end_char, e.label_) for e in doc.ents]
-
+        # print(entities)
         tag = {
             'teams'         : [],
             'player'        : [],
@@ -79,6 +77,9 @@ class InputParser :
                 except:
                     print("No such player found")
                     return EC.PLAYER_DOSENT_EXISTS
+            if entity[3] == 'ORG':
+                if entity[0] in self.playerMap:
+                    tag['player'].append(self.playerMap[(entity[0])])
             if entity[3] == 'EVENT':
                 tag['event'].append(entity[0])
             if entity[3] == 'DATE':
@@ -91,9 +92,9 @@ class InputParser :
         return tag
 
     def getContext(self, player, action) :
-        if action == 'runs':
-            return 'runs_off_bat'
-        elif action == 'wickets':
+        if action == 'runs' or action == 'run':
+            return 'runs_scored'
+        elif action == 'wickets' or action == 'wicket':
             return 'wickets'
     
     def queryTypeA(self, tagEty):
@@ -101,7 +102,7 @@ class InputParser :
         matchID = self.qp.matchByDateN2Teams(tagEty['date'], tagEty['teams'][0], tagEty['teams'][1])
         if matchID.empty:
             return EC.NO_MATCH_FOUND
-
+    
         matchID = (dict (zip(matchID['id'], matchID['date'])))
         req = self.getContext(tagEty['player'][0], tagEty['requirement'])
 
@@ -115,15 +116,14 @@ class InputParser :
         
         qryRes = str()
         tagEty = self.tag_entities(text)
+        # print(tagEty)
         if len(tagEty['teams']) == 2 and len(tagEty['player']) == 1:
             qryRes = self.queryTypeA(tagEty)
-
         return qryRes  
 
     
 if __name__ ==  "__main__":
     ip = InputParser()
-    query = "how many wickets did Adam Zampa took in India vs Australia in November 2020 in Asia cup"
-    print(ip.parseQuery(query))
-    query = "how many runs did Adam Zampa scored in India vs Australia in November 2020 in Asia cup"
+
+    query = "how many runs did Rohit Sharma scored in India vs Sri Lanka in November 2014"
     print(ip.parseQuery(query))
