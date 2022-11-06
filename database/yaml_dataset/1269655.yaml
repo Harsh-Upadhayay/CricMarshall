@@ -1,0 +1,2140 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-12-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Adelaide
+  competition: Big Bash League
+  dates:
+  - '2021-12-23'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Brisbane Heat
+    by:
+      runs: 39
+  overs: 20
+  player_of_match:
+  - BM Duckett
+  players:
+    Brisbane Heat:
+    - CA Lynn
+    - M Bryant
+    - TLW Cooper
+    - BM Duckett
+    - SD Heazlett
+    - JJ Peirson
+    - JJ Bazley
+    - MT Steketee
+    - MP Kuhnemann
+    - Mujeeb Ur Rahman
+    - L Guthrie
+    Adelaide Strikers:
+    - J Weatherald
+    - MW Short
+    - MT Renshaw
+    - JW Wells
+    - T Kelly
+    - HJ Nielsen
+    - GHS Garton
+    - Rashid Khan
+    - WA Agar
+    - PM Siddle
+    - Fawad Ahmed
+  registry:
+    people:
+      BM Duckett: 5f26f677
+      BNJ Oxenford: c1add349
+      CA Lynn: 45eda7c8
+      Fawad Ahmed: 22ae3041
+      GHS Garton: be869ccf
+      HJ Nielsen: 0ea1455a
+      Harsimran Singh: bf4720ce
+      J Weatherald: edc7ddb6
+      JJ Bazley: 003d49e6
+      JJ Peirson: 2b55c3b4
+      JW Wells: 8bdac857
+      L Guthrie: b03303ca
+      M Bryant: f32012f4
+      MP Kuhnemann: 7b953689
+      MT Renshaw: 218d4d78
+      MT Steketee: 903560ed
+      MW Short: a90e53ec
+      Mujeeb Ur Rahman: 7d92277a
+      NR Johnstone: ce274b6a
+      PJ Gillespie: 3e253a50
+      PM Siddle: bd93fea4
+      Rashid Khan: 5f547c8b
+      SD Fry: 6b725ed1
+      SD Heazlett: e00a9155
+      T Kelly: 6ceb94d0
+      TLW Cooper: 2318ba22
+      WA Agar: 15de1f5d
+  teams:
+  - Brisbane Heat
+  - Adelaide Strikers
+  toss:
+    winner: Brisbane Heat
+    decision: bat
+  umpires:
+  - BNJ Oxenford
+  - NR Johnstone
+  venue: Adelaide Oval
+innings:
+- 1st innings:
+    team: Brisbane Heat
+    deliveries:
+    - 0.1:
+        non_striker: M Bryant
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Lynn
+    - 0.2:
+        non_striker: M Bryant
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 0.3:
+        non_striker: M Bryant
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+    - 0.4:
+        non_striker: M Bryant
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Lynn
+    - 0.5:
+        non_striker: M Bryant
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Lynn
+        wicket:
+          player_out: CA Lynn
+          fielders:
+          - HJ Nielsen
+          kind: caught
+    - 0.6:
+        non_striker: M Bryant
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TLW Cooper
+    - 1.1:
+        non_striker: TLW Cooper
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 1.2:
+        non_striker: TLW Cooper
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 1.3:
+        non_striker: TLW Cooper
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 1.4:
+        non_striker: TLW Cooper
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bryant
+    - 1.5:
+        non_striker: TLW Cooper
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Bryant
+    - 1.6:
+        non_striker: TLW Cooper
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bryant
+    - 2.1:
+        non_striker: M Bryant
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TLW Cooper
+    - 2.2:
+        non_striker: M Bryant
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TLW Cooper
+    - 2.3:
+        non_striker: M Bryant
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TLW Cooper
+    - 2.4:
+        non_striker: M Bryant
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TLW Cooper
+        wicket:
+          player_out: TLW Cooper
+          kind: lbw
+    - 2.5:
+        non_striker: M Bryant
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 2.6:
+        non_striker: M Bryant
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 3.1:
+        non_striker: BM Duckett
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Bryant
+    - 3.2:
+        non_striker: BM Duckett
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 3.3:
+        non_striker: BM Duckett
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 3.4:
+        non_striker: BM Duckett
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 3.5:
+        non_striker: BM Duckett
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bryant
+    - 3.6:
+        non_striker: BM Duckett
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bryant
+    - 4.1:
+        non_striker: M Bryant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 4.2:
+        non_striker: M Bryant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 4.3:
+        non_striker: BM Duckett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bryant
+    - 4.4:
+        non_striker: BM Duckett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 4.5:
+        non_striker: M Bryant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 4.6:
+        non_striker: M Bryant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 5.1:
+        non_striker: M Bryant
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 5.2:
+        non_striker: BM Duckett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bryant
+    - 5.3:
+        non_striker: M Bryant
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 5.4:
+        non_striker: M Bryant
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 5.5:
+        non_striker: BM Duckett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 5.6:
+        non_striker: BM Duckett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 6.1:
+        non_striker: M Bryant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 6.2:
+        non_striker: M Bryant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 6.3:
+        non_striker: M Bryant
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 6.4:
+        non_striker: BM Duckett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Bryant
+    - 6.5:
+        non_striker: BM Duckett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+    - 6.6:
+        non_striker: BM Duckett
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Bryant
+    - 6.7:
+        non_striker: BM Duckett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bryant
+        wicket:
+          player_out: M Bryant
+          fielders:
+          - WA Agar
+          kind: caught
+    - 7.1:
+        non_striker: SD Heazlett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 7.2:
+        non_striker: SD Heazlett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 7.3:
+        non_striker: BM Duckett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 7.4:
+        non_striker: SD Heazlett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 7.5:
+        non_striker: BM Duckett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 7.6:
+        non_striker: SD Heazlett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 8.1:
+        non_striker: BM Duckett
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Heazlett
+    - 8.2:
+        non_striker: BM Duckett
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 8.3:
+        non_striker: SD Heazlett
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 8.4:
+        non_striker: BM Duckett
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Heazlett
+    - 8.5:
+        non_striker: BM Duckett
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 8.6:
+        non_striker: SD Heazlett
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 9.1:
+        non_striker: SD Heazlett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 9.2:
+        non_striker: SD Heazlett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 9.3:
+        non_striker: SD Heazlett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 9.4:
+        non_striker: SD Heazlett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 9.5:
+        non_striker: BM Duckett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 9.6:
+        non_striker: SD Heazlett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 10.1:
+        non_striker: BM Duckett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Heazlett
+    - 10.2:
+        non_striker: BM Duckett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 10.3:
+        non_striker: SD Heazlett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 10.4:
+        non_striker: SD Heazlett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 10.5:
+        non_striker: BM Duckett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Heazlett
+    - 10.6:
+        non_striker: BM Duckett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 11.1:
+        non_striker: BM Duckett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 11.2:
+        non_striker: SD Heazlett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 11.3:
+        non_striker: SD Heazlett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 11.4:
+        non_striker: BM Duckett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 11.5:
+        non_striker: SD Heazlett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 11.6:
+        non_striker: SD Heazlett
+        bowler: Fawad Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 12.1:
+        non_striker: SD Heazlett
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 12.2:
+        non_striker: SD Heazlett
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BM Duckett
+    - 12.3:
+        non_striker: SD Heazlett
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 12.4:
+        non_striker: SD Heazlett
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 12.5:
+        non_striker: BM Duckett
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Heazlett
+    - 12.6:
+        non_striker: BM Duckett
+        bowler: MW Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 13.1:
+        non_striker: BM Duckett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 13.2:
+        non_striker: SD Heazlett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 13.3:
+        non_striker: BM Duckett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Heazlett
+    - 13.4:
+        non_striker: BM Duckett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 13.5:
+        non_striker: SD Heazlett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 13.6:
+        non_striker: SD Heazlett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 14.1:
+        non_striker: BM Duckett
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 14.2:
+        non_striker: SD Heazlett
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 14.3:
+        non_striker: SD Heazlett
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 14.4:
+        non_striker: BM Duckett
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 14.5:
+        non_striker: SD Heazlett
+        bowler: WA Agar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BM Duckett
+    - 14.6:
+        non_striker: SD Heazlett
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 14.7:
+        non_striker: BM Duckett
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Heazlett
+    - 15.1:
+        non_striker: SD Heazlett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 15.2:
+        non_striker: SD Heazlett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 15.3:
+        non_striker: BM Duckett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 15.4:
+        non_striker: SD Heazlett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 15.5:
+        non_striker: SD Heazlett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BM Duckett
+    - 15.6:
+        non_striker: SD Heazlett
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 16.1:
+        non_striker: BM Duckett
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Heazlett
+    - 16.2:
+        non_striker: BM Duckett
+        bowler: GHS Garton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SD Heazlett
+    - 16.3:
+        non_striker: BM Duckett
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Heazlett
+    - 16.4:
+        non_striker: BM Duckett
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Heazlett
+    - 16.5:
+        non_striker: BM Duckett
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 16.6:
+        non_striker: SD Heazlett
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 16.7:
+        non_striker: SD Heazlett
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 17.1:
+        non_striker: BM Duckett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Heazlett
+    - 17.2:
+        non_striker: BM Duckett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Heazlett
+    - 17.3:
+        non_striker: BM Duckett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Heazlett
+    - 17.4:
+        non_striker: SD Heazlett
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+        wicket:
+          player_out: BM Duckett
+          fielders:
+          - JW Wells
+          kind: caught
+    - 17.5:
+        non_striker: JJ Peirson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Heazlett
+        wicket:
+          player_out: SD Heazlett
+          fielders:
+          - MW Short
+          kind: caught
+    - 17.6:
+        non_striker: JJ Peirson
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Bazley
+    - 18.1:
+        non_striker: JJ Peirson
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Bazley
+    - 18.2:
+        non_striker: JJ Bazley
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Peirson
+    - 18.3:
+        non_striker: JJ Bazley
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Peirson
+    - 18.4:
+        non_striker: JJ Peirson
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Bazley
+        wicket:
+          player_out: JJ Bazley
+          fielders:
+          - GHS Garton
+          kind: caught
+    - 18.5:
+        non_striker: MT Steketee
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+    - 18.6:
+        non_striker: MT Steketee
+        bowler: WA Agar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Peirson
+    - 19.1:
+        non_striker: JJ Peirson
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Steketee
+    - 19.2:
+        non_striker: MT Steketee
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Peirson
+        wicket:
+          player_out: JJ Peirson
+          kind: bowled
+    - 19.3:
+        non_striker: MT Steketee
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Kuhnemann
+    - 19.4:
+        non_striker: MT Steketee
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Kuhnemann
+    - 19.5:
+        non_striker: MP Kuhnemann
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Steketee
+    - 19.6:
+        non_striker: MP Kuhnemann
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MT Steketee
+- 2nd innings:
+    team: Adelaide Strikers
+    deliveries:
+    - 0.1:
+        non_striker: MW Short
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Weatherald
+    - 0.2:
+        non_striker: J Weatherald
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 0.3:
+        non_striker: J Weatherald
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MW Short
+    - 0.4:
+        non_striker: J Weatherald
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Short
+    - 0.5:
+        non_striker: J Weatherald
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Short
+        wicket:
+          player_out: MW Short
+          fielders:
+          - JJ Peirson
+          kind: caught
+    - 0.6:
+        non_striker: J Weatherald
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 1.1:
+        non_striker: J Weatherald
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 1.2:
+        non_striker: MT Renshaw
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+    - 1.3:
+        non_striker: MT Renshaw
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Weatherald
+        wicket:
+          player_out: J Weatherald
+          kind: bowled
+    - 1.4:
+        non_striker: MT Renshaw
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Wells
+    - 1.5:
+        non_striker: MT Renshaw
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Wells
+    - 1.6:
+        non_striker: MT Renshaw
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 2.1:
+        non_striker: MT Renshaw
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Wells
+    - 2.2:
+        non_striker: MT Renshaw
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Wells
+    - 2.3:
+        non_striker: MT Renshaw
+        bowler: L Guthrie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JW Wells
+    - 2.4:
+        non_striker: JW Wells
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 2.5:
+        non_striker: JW Wells
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 2.6:
+        non_striker: MT Renshaw
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Wells
+    - 3.1:
+        non_striker: JW Wells
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 3.2:
+        non_striker: JW Wells
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 3.3:
+        non_striker: MT Renshaw
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Wells
+    - 3.4:
+        non_striker: MT Renshaw
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Wells
+    - 3.5:
+        non_striker: MT Renshaw
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 3.6:
+        non_striker: JW Wells
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 4.1:
+        non_striker: MT Renshaw
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 4.2:
+        non_striker: JW Wells
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 4.3:
+        non_striker: MT Renshaw
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Wells
+    - 4.4:
+        non_striker: MT Renshaw
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Wells
+    - 4.5:
+        non_striker: MT Renshaw
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Wells
+    - 4.6:
+        non_striker: MT Renshaw
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Wells
+    - 5.1:
+        non_striker: JW Wells
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 5.2:
+        non_striker: MT Renshaw
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Wells
+    - 5.3:
+        non_striker: MT Renshaw
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 5.4:
+        non_striker: JW Wells
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 5.5:
+        non_striker: MT Renshaw
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Wells
+    - 5.6:
+        non_striker: MT Renshaw
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 6.1:
+        non_striker: MT Renshaw
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Wells
+    - 6.2:
+        non_striker: MT Renshaw
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Wells
+    - 6.3:
+        non_striker: MT Renshaw
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JW Wells
+    - 6.4:
+        non_striker: MT Renshaw
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 6.5:
+        non_striker: JW Wells
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 6.6:
+        non_striker: JW Wells
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 7.1:
+        non_striker: MT Renshaw
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 7.2:
+        non_striker: JW Wells
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 7.3:
+        non_striker: MT Renshaw
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Wells
+    - 7.4:
+        non_striker: MT Renshaw
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Wells
+    - 7.5:
+        non_striker: MT Renshaw
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 7.6:
+        non_striker: JW Wells
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 8.1:
+        non_striker: JW Wells
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 8.2:
+        non_striker: JW Wells
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MT Renshaw
+    - 8.3:
+        non_striker: JW Wells
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 8.4:
+        non_striker: MT Renshaw
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 8.5:
+        non_striker: JW Wells
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 8.6:
+        non_striker: MT Renshaw
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 9.1:
+        non_striker: MT Renshaw
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Wells
+    - 9.2:
+        non_striker: MT Renshaw
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Wells
+    - 9.3:
+        non_striker: MT Renshaw
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 9.4:
+        non_striker: JW Wells
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 9.5:
+        non_striker: MT Renshaw
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Wells
+    - 9.6:
+        non_striker: MT Renshaw
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 10.1:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Wells
+    - 10.2:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 10.3:
+        non_striker: JW Wells
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 10.4:
+        non_striker: MT Renshaw
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 10.5:
+        non_striker: JW Wells
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+    - 10.6:
+        non_striker: JW Wells
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MT Renshaw
+    - 11.1:
+        non_striker: JW Wells
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MT Renshaw
+        wicket:
+          player_out: MT Renshaw
+          fielders:
+          - BM Duckett
+          kind: caught
+    - 11.2:
+        non_striker: T Kelly
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Wells
+    - 11.3:
+        non_striker: T Kelly
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Wells
+    - 11.4:
+        non_striker: T Kelly
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Wells
+    - 11.5:
+        non_striker: JW Wells
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kelly
+    - 11.6:
+        non_striker: JW Wells
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kelly
+    - 12.1:
+        non_striker: JW Wells
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kelly
+    - 12.2:
+        non_striker: JW Wells
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kelly
+    - 12.3:
+        non_striker: JW Wells
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kelly
+    - 12.4:
+        non_striker: T Kelly
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Wells
+        wicket:
+          player_out: JW Wells
+          fielders:
+          - L Guthrie
+          kind: caught
+    - 12.5:
+        non_striker: HJ Nielsen
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kelly
+    - 12.6:
+        non_striker: T Kelly
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Nielsen
+    - 13.1:
+        non_striker: HJ Nielsen
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kelly
+    - 13.2:
+        non_striker: T Kelly
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Nielsen
+    - 13.3:
+        non_striker: HJ Nielsen
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kelly
+    - 13.4:
+        non_striker: T Kelly
+        bowler: L Guthrie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Nielsen
+    - 13.5:
+        non_striker: T Kelly
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Nielsen
+    - 13.6:
+        non_striker: T Kelly
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Nielsen
+    - 13.7:
+        non_striker: HJ Nielsen
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kelly
+    - 14.1:
+        non_striker: T Kelly
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Nielsen
+    - 14.2:
+        non_striker: HJ Nielsen
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Kelly
+    - 14.3:
+        non_striker: HJ Nielsen
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: T Kelly
+    - 14.4:
+        non_striker: T Kelly
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Nielsen
+    - 14.5:
+        non_striker: HJ Nielsen
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kelly
+    - 14.6:
+        non_striker: HJ Nielsen
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kelly
+    - 14.7:
+        non_striker: HJ Nielsen
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kelly
+    - 15.1:
+        non_striker: HJ Nielsen
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kelly
+    - 15.2:
+        non_striker: T Kelly
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Nielsen
+    - 15.3:
+        non_striker: T Kelly
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Nielsen
+        wicket:
+          player_out: HJ Nielsen
+          fielders:
+          - L Guthrie
+          kind: caught
+    - 15.4:
+        non_striker: GHS Garton
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kelly
+    - 15.5:
+        non_striker: GHS Garton
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kelly
+    - 15.6:
+        non_striker: T Kelly
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 16.1:
+        non_striker: T Kelly
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 16.2:
+        non_striker: T Kelly
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GHS Garton
+    - 16.3:
+        non_striker: T Kelly
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GHS Garton
+    - 16.4:
+        non_striker: T Kelly
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GHS Garton
+    - 16.5:
+        non_striker: T Kelly
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+        wicket:
+          player_out: GHS Garton
+          kind: lbw
+    - 16.6:
+        non_striker: T Kelly
+        bowler: MP Kuhnemann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 17.1:
+        non_striker: T Kelly
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Khan
+    - 17.2:
+        non_striker: T Kelly
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 17.3:
+        non_striker: Rashid Khan
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kelly
+    - 17.4:
+        non_striker: T Kelly
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+        wicket:
+          player_out: Rashid Khan
+          kind: bowled
+    - 17.5:
+        non_striker: T Kelly
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Agar
+    - 17.6:
+        non_striker: WA Agar
+        bowler: JJ Bazley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kelly
+    - 18.1:
+        non_striker: T Kelly
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: WA Agar
+    - 18.2:
+        non_striker: WA Agar
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kelly
+    - 18.3:
+        non_striker: T Kelly
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Agar
+    - 18.4:
+        non_striker: T Kelly
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Agar
+    - 18.5:
+        non_striker: T Kelly
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Agar
+    - 18.6:
+        non_striker: WA Agar
+        bowler: L Guthrie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Kelly
+    - 19.1:
+        non_striker: T Kelly
+        bowler: MT Steketee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Agar
+    - 19.2:
+        non_striker: T Kelly
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Agar
+    - 19.3:
+        non_striker: WA Agar
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kelly
+    - 19.4:
+        non_striker: T Kelly
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Agar
+    - 19.5:
+        non_striker: T Kelly
+        bowler: MT Steketee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: WA Agar
+    - 19.6:
+        non_striker: WA Agar
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kelly
+        wicket:
+          player_out: T Kelly
+          fielders:
+          - BM Duckett
+          kind: caught
+    - 19.7:
+        non_striker: PM Siddle
+        bowler: MT Steketee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: WA Agar

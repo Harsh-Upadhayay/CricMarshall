@@ -1,0 +1,2148 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-02-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Christchurch
+  competition: Super Smash
+  dates:
+  - '2018-01-01'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Auckland
+    by:
+      runs: 7
+  overs: 20
+  players:
+    Auckland:
+    - BJ Horne
+    - SM Solia
+    - MS Chapman
+    - Craig Cachopa
+    - RR O'Donnell
+    - SM Curran
+    - BG Lister
+    - MJ Barry
+    - RM Hira
+    - AT Nidamanuru
+    - TS Nethula
+    Canterbury:
+    - HM Nicholls
+    - MA Pollard
+    - CJ Bowes
+    - TWM Latham
+    - CE McConchie
+    - CD Fletcher
+    - TG Johnston
+    - AM Ellis
+    - TD Astle
+    - EJ Nuttall
+    - JTA Benton
+  registry:
+    people:
+      AM Ellis: f987245c
+      AT Nidamanuru: a319edf8
+      BG Lister: 79f5bc26
+      BJ Horne: 5d99a16a
+      CD Fletcher: 4af9f5d4
+      CE McConchie: d285acaf
+      CJ Bowes: 45df0e72
+      Craig Cachopa: af294a6c
+      ED Sanders: 25c6d6af
+      EJ Nuttall: c9bb898a
+      GAV Baxter: cb4b3ab0
+      HM Nicholls: 03521fd3
+      JAK Bromley: ccf7baaf
+      JTA Benton: 05d4c10d
+      Kim Cotton: 67a7c2ee
+      MA Pollard: d3b84c59
+      MJ Barry: 8a6ba092
+      MS Chapman: 7fa12533
+      RM Hira: 2e966563
+      RR O'Donnell: 2742086d
+      SM Curran: e94915e6
+      SM Solia: fd9f43bb
+      TD Astle: 383dd431
+      TG Johnston: a1a5192e
+      TJ Parlane: 3cfc24b0
+      TS Nethula: e82dc4c5
+      TWM Latham: e824e6ee
+  teams:
+  - Auckland
+  - Canterbury
+  toss:
+    decision: bat
+    winner: Auckland
+  umpires:
+  - JAK Bromley
+  - TJ Parlane
+  venue: Hagley Oval
+innings:
+- 1st innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Solia
+        batsman: BJ Horne
+    - 0.2:
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SM Solia
+        batsman: BJ Horne
+    - 0.3:
+        non_striker: BJ Horne
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 0.4:
+        non_striker: SM Solia
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 0.5:
+        non_striker: BJ Horne
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 0.6:
+        non_striker: SM Solia
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 1.1:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 1.2:
+        non_striker: SM Solia
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 1.3:
+        non_striker: BJ Horne
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 1.4:
+        non_striker: BJ Horne
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          fielders:
+          - AM Ellis
+          kind: caught
+    - 1.5:
+        non_striker: BJ Horne
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 1.6:
+        non_striker: BJ Horne
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 2.1:
+        non_striker: BJ Horne
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 2.2:
+        non_striker: BJ Horne
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 2.3:
+        non_striker: MS Chapman
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 2.4:
+        non_striker: MS Chapman
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 2.5:
+        non_striker: BJ Horne
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 2.6:
+        non_striker: BJ Horne
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 3.1:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Horne
+    - 3.2:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 3.3:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 3.4:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 3.5:
+        non_striker: BJ Horne
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 3.6:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 4.1:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 4.2:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+        wicket:
+          player_out: BJ Horne
+          fielders:
+          - TWM Latham
+          kind: caught
+    - 4.3:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 4.4:
+        non_striker: Craig Cachopa
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 4.5:
+        non_striker: Craig Cachopa
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 4.6:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 5.1:
+        non_striker: Craig Cachopa
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 5.2:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 5.3:
+        non_striker: Craig Cachopa
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 5.4:
+        non_striker: Craig Cachopa
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 5.5:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 5.6:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 6.1:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.2:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 6.3:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 6.4:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.5:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 6.6:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 7.1:
+        non_striker: MS Chapman
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 7.2:
+        non_striker: Craig Cachopa
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 7.3:
+        non_striker: MS Chapman
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 7.4:
+        non_striker: Craig Cachopa
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 7.5:
+        non_striker: MS Chapman
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 7.6:
+        non_striker: MS Chapman
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Craig Cachopa
+    - 8.1:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 8.2:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 8.3:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 8.4:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 8.5:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 8.6:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Craig Cachopa
+    - 8.7:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 9.1:
+        non_striker: MS Chapman
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 9.2:
+        non_striker: Craig Cachopa
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MS Chapman
+    - 9.3:
+        non_striker: MS Chapman
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 9.4:
+        non_striker: Craig Cachopa
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 9.5:
+        non_striker: Craig Cachopa
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 9.6:
+        non_striker: MS Chapman
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 10.1:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 10.2:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 10.3:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 10.4:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 10.5:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 10.6:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 11.1:
+        non_striker: Craig Cachopa
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 11.2:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Craig Cachopa
+    - 11.3:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 11.4:
+        non_striker: Craig Cachopa
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 11.5:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 11.6:
+        non_striker: Craig Cachopa
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 12.1:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 12.2:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 12.3:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 12.4:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 12.5:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 12.6:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 12.7:
+        non_striker: Craig Cachopa
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 13.1:
+        non_striker: Craig Cachopa
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 13.2:
+        non_striker: Craig Cachopa
+        bowler: AM Ellis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 13.3:
+        non_striker: Craig Cachopa
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 13.4:
+        non_striker: Craig Cachopa
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 13.5:
+        non_striker: Craig Cachopa
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 13.6:
+        non_striker: Craig Cachopa
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 13.7:
+        non_striker: MS Chapman
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 14.1:
+        non_striker: MS Chapman
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 14.2:
+        non_striker: Craig Cachopa
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 14.3:
+        non_striker: Craig Cachopa
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 14.4:
+        non_striker: Craig Cachopa
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 14.5:
+        non_striker: Craig Cachopa
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 14.6:
+        non_striker: MS Chapman
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 15.1:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Craig Cachopa
+    - 15.2:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+        wicket:
+          player_out: Craig Cachopa
+          fielders:
+          - TWM Latham
+          kind: caught
+    - 15.3:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 15.4:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 15.5:
+        non_striker: RR O'Donnell
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 15.6:
+        non_striker: RR O'Donnell
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 16.1:
+        non_striker: RR O'Donnell
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 16.2:
+        non_striker: RR O'Donnell
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 16.3:
+        non_striker: RR O'Donnell
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 16.4:
+        non_striker: RR O'Donnell
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 16.5:
+        non_striker: RR O'Donnell
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 16.6:
+        non_striker: RR O'Donnell
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 17.1:
+        non_striker: RR O'Donnell
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 17.2:
+        non_striker: RR O'Donnell
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 17.3:
+        non_striker: RR O'Donnell
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 17.4:
+        non_striker: RR O'Donnell
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - TD Astle
+          kind: caught
+    - 17.5:
+        non_striker: RR O'Donnell
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Curran
+    - 17.6:
+        non_striker: RR O'Donnell
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Curran
+        wicket:
+          player_out: SM Curran
+          fielders:
+          - TD Astle
+          kind: caught
+    - 18.1:
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BG Lister
+        batsman: RR O'Donnell
+    - 18.2:
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BG Lister
+        batsman: RR O'Donnell
+    - 18.3:
+        non_striker: RR O'Donnell
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Lister
+    - 18.4:
+        non_striker: BG Lister
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 18.5:
+        non_striker: BG Lister
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 18.6:
+        non_striker: BG Lister
+        bowler: TG Johnston
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 19.1:
+        non_striker: RR O'Donnell
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BG Lister
+    - 19.2:
+        non_striker: RR O'Donnell
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BG Lister
+    - 19.3:
+        non_striker: RR O'Donnell
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Lister
+    - 19.4:
+        non_striker: BG Lister
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 19.5:
+        non_striker: BG Lister
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 19.6:
+        non_striker: BG Lister
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+- 2nd innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MA Pollard
+        batsman: HM Nicholls
+    - 0.2:
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: MA Pollard
+        batsman: HM Nicholls
+    - 0.3:
+        non_striker: HM Nicholls
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 0.4:
+        non_striker: HM Nicholls
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 0.5:
+        non_striker: HM Nicholls
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Pollard
+    - 0.6:
+        non_striker: HM Nicholls
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 1.1:
+        non_striker: HM Nicholls
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Pollard
+    - 1.2:
+        non_striker: HM Nicholls
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 1.3:
+        non_striker: MA Pollard
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 1.4:
+        non_striker: HM Nicholls
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 1.5:
+        non_striker: MA Pollard
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 1.6:
+        non_striker: HM Nicholls
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 1.7:
+        non_striker: HM Nicholls
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 2.1:
+        non_striker: HM Nicholls
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MA Pollard
+    - 2.2:
+        non_striker: MA Pollard
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Nicholls
+    - 2.3:
+        non_striker: MA Pollard
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 2.4:
+        non_striker: HM Nicholls
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 2.5:
+        non_striker: HM Nicholls
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 2.6:
+        non_striker: MA Pollard
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+        wicket:
+          player_out: HM Nicholls
+          fielders:
+          - BG Lister
+          kind: caught
+    - 3.1:
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CJ Bowes
+        batsman: MA Pollard
+    - 3.2:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CJ Bowes
+        batsman: MA Pollard
+    - 3.3:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CJ Bowes
+        batsman: MA Pollard
+    - 3.4:
+        non_striker: MA Pollard
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 3.5:
+        non_striker: CJ Bowes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 3.6:
+        non_striker: CJ Bowes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 3.7:
+        non_striker: CJ Bowes
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Pollard
+    - 4.1:
+        non_striker: MA Pollard
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 4.2:
+        non_striker: CJ Bowes
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 4.3:
+        non_striker: MA Pollard
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+        wicket:
+          player_out: MA Pollard
+          kind: run out
+    - 4.4:
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TWM Latham
+        batsman: CJ Bowes
+    - 4.5:
+        non_striker: CJ Bowes
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 4.6:
+        non_striker: CJ Bowes
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 5.1:
+        non_striker: TWM Latham
+        bowler: AT Nidamanuru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 5.2:
+        non_striker: TWM Latham
+        bowler: AT Nidamanuru
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 5.3:
+        non_striker: TWM Latham
+        bowler: AT Nidamanuru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 5.4:
+        non_striker: TWM Latham
+        bowler: AT Nidamanuru
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 5.5:
+        non_striker: TWM Latham
+        bowler: AT Nidamanuru
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 5.6:
+        non_striker: TWM Latham
+        bowler: AT Nidamanuru
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 6.1:
+        non_striker: CJ Bowes
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 6.2:
+        non_striker: TWM Latham
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 6.3:
+        non_striker: CJ Bowes
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 6.4:
+        non_striker: CJ Bowes
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 6.5:
+        non_striker: TWM Latham
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 6.6:
+        non_striker: TWM Latham
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 7.1:
+        non_striker: CJ Bowes
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 7.2:
+        non_striker: TWM Latham
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 7.3:
+        non_striker: TWM Latham
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 7.4:
+        non_striker: CJ Bowes
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TWM Latham
+    - 7.5:
+        non_striker: CJ Bowes
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 7.6:
+        non_striker: CJ Bowes
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 8.1:
+        non_striker: TWM Latham
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 8.2:
+        non_striker: CJ Bowes
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 8.3:
+        non_striker: CJ Bowes
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 8.4:
+        non_striker: TWM Latham
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 8.5:
+        non_striker: TWM Latham
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 8.6:
+        non_striker: CJ Bowes
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 9.1:
+        non_striker: CJ Bowes
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 9.2:
+        non_striker: TWM Latham
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 9.3:
+        non_striker: CJ Bowes
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 9.4:
+        non_striker: TWM Latham
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 9.5:
+        non_striker: TWM Latham
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+        wicket:
+          player_out: CJ Bowes
+          fielders:
+          - BJ Horne
+          kind: stumped
+    - 9.6:
+        non_striker: TWM Latham
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 10.1:
+        non_striker: CE McConchie
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TWM Latham
+    - 10.2:
+        non_striker: CE McConchie
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 10.3:
+        non_striker: TWM Latham
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 10.4:
+        non_striker: CE McConchie
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TWM Latham
+    - 10.5:
+        non_striker: CE McConchie
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 10.6:
+        non_striker: TWM Latham
+        bowler: MS Chapman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 11.1:
+        non_striker: TWM Latham
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+        wicket:
+          player_out: CE McConchie
+          fielders:
+          - BJ Horne
+          kind: caught
+    - 11.2:
+        non_striker: TWM Latham
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 11.3:
+        non_striker: CD Fletcher
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TWM Latham
+    - 11.4:
+        non_striker: CD Fletcher
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TWM Latham
+    - 11.5:
+        non_striker: CD Fletcher
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 11.6:
+        non_striker: TWM Latham
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 12.1:
+        non_striker: TWM Latham
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 12.2:
+        non_striker: TWM Latham
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 12.3:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TWM Latham
+    - 12.4:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TWM Latham
+    - 12.5:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 12.6:
+        non_striker: TWM Latham
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 12.7:
+        non_striker: TWM Latham
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 13.1:
+        non_striker: TWM Latham
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 13.2:
+        non_striker: TWM Latham
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 13.3:
+        non_striker: CD Fletcher
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TWM Latham
+    - 13.4:
+        non_striker: CD Fletcher
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 13.5:
+        non_striker: TWM Latham
+        bowler: TS Nethula
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 13.6:
+        non_striker: TWM Latham
+        bowler: TS Nethula
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CD Fletcher
+    - 14.1:
+        non_striker: TWM Latham
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 14.2:
+        non_striker: CD Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 14.3:
+        non_striker: TWM Latham
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 14.4:
+        non_striker: CD Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TWM Latham
+    - 14.5:
+        non_striker: CD Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 14.6:
+        non_striker: TWM Latham
+        bowler: SM Curran
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: CD Fletcher
+    - 15.1:
+        non_striker: CD Fletcher
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TWM Latham
+    - 15.2:
+        non_striker: CD Fletcher
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 15.3:
+        non_striker: CD Fletcher
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+        wicket:
+          player_out: TWM Latham
+          kind: bowled
+    - 15.4:
+        non_striker: CD Fletcher
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Johnston
+    - 15.5:
+        non_striker: CD Fletcher
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Johnston
+    - 15.6:
+        non_striker: CD Fletcher
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TG Johnston
+    - 16.1:
+        non_striker: TG Johnston
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CD Fletcher
+    - 16.2:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Johnston
+    - 16.3:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TG Johnston
+    - 16.4:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Johnston
+    - 16.5:
+        non_striker: TG Johnston
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 16.6:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Johnston
+    - 16.7:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Johnston
+        wicket:
+          player_out: TG Johnston
+          fielders:
+          - SM Curran
+          kind: caught
+    - 17.1:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+    - 17.2:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Ellis
+    - 17.3:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Ellis
+    - 17.4:
+        non_striker: AM Ellis
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 17.5:
+        non_striker: AM Ellis
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 17.6:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+    - 18.1:
+        non_striker: AM Ellis
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 18.2:
+        non_striker: CD Fletcher
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Ellis
+    - 18.3:
+        non_striker: AM Ellis
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 18.4:
+        non_striker: CD Fletcher
+        bowler: BG Lister
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: AM Ellis
+    - 18.5:
+        non_striker: CD Fletcher
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Ellis
+    - 18.6:
+        non_striker: CD Fletcher
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+        wicket:
+          player_out: AM Ellis
+          fielders:
+          - SM Solia
+          kind: caught
+    - 19.1:
+        non_striker: CD Fletcher
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TD Astle
+        wicket:
+          player_out: TD Astle
+          fielders:
+          - RM Hira
+          kind: caught
+    - 19.2:
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EJ Nuttall
+        batsman: CD Fletcher
+    - 19.3:
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EJ Nuttall
+        batsman: CD Fletcher
+    - 19.4:
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: EJ Nuttall
+        batsman: CD Fletcher
+    - 19.5:
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EJ Nuttall
+        batsman: CD Fletcher
+    - 19.6:
+        non_striker: EJ Nuttall
+        bowler: SM Curran
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher

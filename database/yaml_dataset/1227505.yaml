@@ -1,0 +1,1396 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dublin
+  competition: Cricket Ireland Inter-Provincial Twenty20 Trophy
+  dates:
+  - '2020-08-27'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Leinster Lightning
+    by:
+      runs: 24
+    method: D/L
+  overs: 20
+  players:
+    Leinster Lightning:
+    - KJ O'Brien
+    - ST Doheny
+    - L Tucker
+    - C Campher
+    - Simi Singh
+    - GH Dockrell
+    - G Ford
+    - TE Kane
+    - R Anders
+    - J Little
+    - PKD Chase
+    North-West Warriors:
+    - NJ McGuire
+    - WTS Porterfield
+    - DA Rankin
+    - SR Thompson
+    - GI Hume
+    - AR McBrine
+    - WT Smale
+    - Ross Allen
+    - G Kennedy
+    - CA Young
+    - VC Chopra
+  registry:
+    people:
+      AJ Neill: 7ffe0ce3
+      AR McBrine: e957b38f
+      C Campher: 478a63e7
+      CA Young: bd0a4a7d
+      DA Rankin: ab859427
+      G Ford: ca825da7
+      G Kennedy: 574b4c01
+      GH Dockrell: 99cddc5e
+      GI Hume: 25550d06
+      J Little: 9061a703
+      K Gallagher: 704afd47
+      KJ O'Brien: 243431b5
+      L Tucker: 3979b5e0
+      NJ McGuire: f8748f79
+      PA Reynolds: a416c9c3
+      PKD Chase: 8c2aa0f9
+      R Allen: 415e5c01
+      R Anders: f4a9e5a1
+      SR Thompson: 7f3ad1ed
+      ST Doheny: 4992d6f6
+      Simi Singh: c9945bdf
+      TE Kane: af28816c
+      V Chopra: 11e8e25f
+      WT Smale: 97da28bd
+      WTS Porterfield: ec02b798
+  teams:
+  - Leinster Lightning
+  - North-West Warriors
+  toss:
+    winner: North-West Warriors
+    decision: field
+  umpires:
+  - AJ Neill
+  - PA Reynolds
+  venue: Pembroke Cricket Club, Sandymount, Dublin
+innings:
+- 1st innings:
+    team: Leinster Lightning
+    deliveries:
+    - 0.1:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ST Doheny
+        batsman: KJ O'Brien
+    - 0.2:
+        non_striker: KJ O'Brien
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 0.3:
+        non_striker: ST Doheny
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ O'Brien
+    - 0.4:
+        non_striker: ST Doheny
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 0.5:
+        non_striker: KJ O'Brien
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 0.6:
+        non_striker: KJ O'Brien
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 1.1:
+        non_striker: ST Doheny
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 1.2:
+        non_striker: ST Doheny
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 1.3:
+        non_striker: ST Doheny
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 1.4:
+        non_striker: ST Doheny
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 1.5:
+        non_striker: KJ O'Brien
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+        wicket:
+          player_out: ST Doheny
+          fielders:
+          - WT Smale
+          kind: caught
+    - 1.6:
+        non_striker: KJ O'Brien
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 2.1:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ O'Brien
+    - 2.2:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 2.3:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 2.4:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 2.5:
+        non_striker: L Tucker
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 2.6:
+        non_striker: KJ O'Brien
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 3.1:
+        non_striker: KJ O'Brien
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+    - 3.2:
+        non_striker: KJ O'Brien
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tucker
+        wicket:
+          player_out: L Tucker
+          fielders:
+          - DA Rankin
+          kind: caught
+    - 3.3:
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Campher
+        batsman: KJ O'Brien
+    - 3.4:
+        non_striker: KJ O'Brien
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 3.5:
+        non_striker: KJ O'Brien
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+        wicket:
+          player_out: C Campher
+          fielders:
+          - WT Smale
+          kind: caught
+    - 3.6:
+        non_striker: KJ O'Brien
+        bowler: GI Hume
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Simi Singh
+    - 4.1:
+        non_striker: Simi Singh
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 4.2:
+        non_striker: KJ O'Brien
+        bowler: SR Thompson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Simi Singh
+    - 4.3:
+        non_striker: Simi Singh
+        bowler: SR Thompson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KJ O'Brien
+    - 4.4:
+        non_striker: Simi Singh
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 4.5:
+        non_striker: KJ O'Brien
+        bowler: SR Thompson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Simi Singh
+    - 4.6:
+        non_striker: Simi Singh
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 4.7:
+        non_striker: KJ O'Brien
+        bowler: SR Thompson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Simi Singh
+    - 4.8:
+        non_striker: KJ O'Brien
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Simi Singh
+    - 5.1:
+        non_striker: Simi Singh
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 5.2:
+        non_striker: KJ O'Brien
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 5.3:
+        non_striker: Simi Singh
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 5.4:
+        non_striker: Simi Singh
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 5.5:
+        non_striker: KJ O'Brien
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 5.6:
+        non_striker: KJ O'Brien
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 6.1:
+        non_striker: KJ O'Brien
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 6.2:
+        non_striker: KJ O'Brien
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 6.3:
+        non_striker: KJ O'Brien
+        bowler: AR McBrine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Simi Singh
+    - 6.4:
+        non_striker: KJ O'Brien
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 6.5:
+        non_striker: KJ O'Brien
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 6.6:
+        non_striker: Simi Singh
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 6.7:
+        non_striker: KJ O'Brien
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 7.1:
+        non_striker: Simi Singh
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ O'Brien
+    - 7.2:
+        non_striker: Simi Singh
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 7.3:
+        non_striker: KJ O'Brien
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 7.4:
+        non_striker: Simi Singh
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ O'Brien
+    - 7.5:
+        non_striker: Simi Singh
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 7.6:
+        non_striker: KJ O'Brien
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 8.1:
+        non_striker: KJ O'Brien
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 8.2:
+        non_striker: Simi Singh
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 8.3:
+        non_striker: KJ O'Brien
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Simi Singh
+    - 8.4:
+        non_striker: KJ O'Brien
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 8.5:
+        non_striker: Simi Singh
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ O'Brien
+    - 8.6:
+        non_striker: Simi Singh
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ O'Brien
+    - 9.1:
+        non_striker: KJ O'Brien
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 9.2:
+        non_striker: Simi Singh
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 9.3:
+        non_striker: KJ O'Brien
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Simi Singh
+    - 9.4:
+        non_striker: KJ O'Brien
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Simi Singh
+    - 9.5:
+        non_striker: Simi Singh
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 9.6:
+        non_striker: KJ O'Brien
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 10.1:
+        non_striker: Simi Singh
+        bowler: SR Thompson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KJ O'Brien
+    - 10.2:
+        non_striker: Simi Singh
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ O'Brien
+    - 10.3:
+        non_striker: Simi Singh
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 10.4:
+        non_striker: Simi Singh
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 10.5:
+        non_striker: KJ O'Brien
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 10.6:
+        non_striker: KJ O'Brien
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Simi Singh
+    - 10.7:
+        non_striker: KJ O'Brien
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simi Singh
+    - 11.1:
+        non_striker: Simi Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ O'Brien
+    - 11.2:
+        non_striker: Simi Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 11.3:
+        non_striker: KJ O'Brien
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Simi Singh
+    - 11.4:
+        non_striker: Simi Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ O'Brien
+    - 11.5:
+        non_striker: Simi Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ O'Brien
+    - 11.6:
+        non_striker: Simi Singh
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+        wicket:
+          player_out: KJ O'Brien
+          fielders:
+          - AR McBrine
+          kind: caught
+- 2nd innings:
+    team: North-West Warriors
+    deliveries:
+    - 0.1:
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WTS Porterfield
+        batsman: NJ McGuire
+    - 0.2:
+        non_striker: WTS Porterfield
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ McGuire
+        wicket:
+          player_out: NJ McGuire
+          fielders:
+          - R Anders
+          kind: caught
+    - 0.3:
+        non_striker: WTS Porterfield
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 0.4:
+        non_striker: DA Rankin
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 0.5:
+        non_striker: DA Rankin
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 0.6:
+        non_striker: DA Rankin
+        bowler: PKD Chase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WTS Porterfield
+    - 0.7:
+        non_striker: DA Rankin
+        bowler: PKD Chase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WTS Porterfield
+    - 0.8:
+        non_striker: DA Rankin
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 1.1:
+        non_striker: DA Rankin
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 1.2:
+        non_striker: DA Rankin
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 1.3:
+        non_striker: WTS Porterfield
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+        wicket:
+          player_out: DA Rankin
+          fielders:
+          - C Campher
+          kind: caught
+    - 1.4:
+        non_striker: WTS Porterfield
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Thompson
+    - 1.5:
+        non_striker: WTS Porterfield
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 1.6:
+        non_striker: WTS Porterfield
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 1.7:
+        non_striker: WTS Porterfield
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Thompson
+    - 2.1:
+        non_striker: SR Thompson
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 2.2:
+        non_striker: SR Thompson
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 2.3:
+        non_striker: SR Thompson
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 2.4:
+        non_striker: WTS Porterfield
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 2.5:
+        non_striker: WTS Porterfield
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Thompson
+    - 2.6:
+        non_striker: WTS Porterfield
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Thompson
+    - 3.1:
+        non_striker: WTS Porterfield
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Thompson
+    - 3.2:
+        non_striker: SR Thompson
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 3.3:
+        non_striker: SR Thompson
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 3.4:
+        non_striker: WTS Porterfield
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Thompson
+    - 3.5:
+        non_striker: SR Thompson
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WTS Porterfield
+    - 3.6:
+        non_striker: SR Thompson
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WTS Porterfield
+    - 4.1:
+        non_striker: WTS Porterfield
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Thompson
+    - 4.2:
+        non_striker: SR Thompson
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 4.3:
+        non_striker: WTS Porterfield
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+        wicket:
+          player_out: SR Thompson
+          fielders:
+          - Simi Singh
+          kind: caught
+    - 4.4:
+        non_striker: WTS Porterfield
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 4.5:
+        non_striker: GI Hume
+        bowler: PKD Chase
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WTS Porterfield
+    - 4.6:
+        non_striker: GI Hume
+        bowler: PKD Chase
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WTS Porterfield
+    - 5.1:
+        non_striker: GI Hume
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 5.2:
+        non_striker: WTS Porterfield
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 5.3:
+        non_striker: GI Hume
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 5.4:
+        non_striker: WTS Porterfield
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GI Hume
+    - 5.5:
+        non_striker: GI Hume
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 5.6:
+        non_striker: WTS Porterfield
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GI Hume
+    - 6.1:
+        non_striker: GI Hume
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 6.2:
+        non_striker: WTS Porterfield
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GI Hume
+        wicket:
+          player_out: GI Hume
+          fielders:
+          - GH Dockrell
+          kind: caught
+    - 6.3:
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AR McBrine
+        batsman: WTS Porterfield
+    - 6.4:
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: AR McBrine
+        batsman: WTS Porterfield
+    - 6.5:
+        bowler: TE Kane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AR McBrine
+        batsman: WTS Porterfield
+    - 6.6:
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AR McBrine
+        batsman: WTS Porterfield
+    - 6.7:
+        non_striker: WTS Porterfield
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 7.1:
+        non_striker: WTS Porterfield
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 7.2:
+        non_striker: AR McBrine
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WTS Porterfield
+    - 7.3:
+        non_striker: AR McBrine
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 7.4:
+        non_striker: AR McBrine
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 7.5:
+        non_striker: WTS Porterfield
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+        wicket:
+          player_out: AR McBrine
+          fielders:
+          - PKD Chase
+          kind: caught
+    - 7.6:
+        non_striker: WT Smale
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+    - 8.1:
+        non_striker: WTS Porterfield
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT Smale
+        wicket:
+          player_out: WT Smale
+          fielders:
+          - GH Dockrell
+          kind: caught
+    - 8.2:
+        non_striker: WTS Porterfield
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ross Allen
+    - 8.3:
+        non_striker: WTS Porterfield
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ross Allen
+    - 8.4:
+        non_striker: Ross Allen
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WTS Porterfield
+    - 8.5:
+        non_striker: Ross Allen
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WTS Porterfield
+    - 8.6:
+        non_striker: Ross Allen
+        bowler: TE Kane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WTS Porterfield
+    - 9.1:
+        non_striker: Ross Allen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+        wicket:
+          player_out: WTS Porterfield
+          kind: bowled
+    - 9.2:
+        non_striker: Ross Allen
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 9.3:
+        non_striker: G Kennedy
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ross Allen
+        wicket:
+          player_out: Ross Allen
+          kind: bowled
+    - 9.4:
+        non_striker: G Kennedy
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 9.5:
+        non_striker: G Kennedy
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Young
+    - 9.6:
+        non_striker: CA Young
+        bowler: Simi Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 10.1:
+        non_striker: CA Young
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 10.2:
+        non_striker: CA Young
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 10.3:
+        non_striker: CA Young
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 10.4:
+        non_striker: G Kennedy
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Young
+    - 10.5:
+        non_striker: G Kennedy
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Young
+    - 10.6:
+        non_striker: G Kennedy
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Young
+    - 10.7:
+        non_striker: G Kennedy
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 11.1:
+        non_striker: CA Young
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kennedy
+    - 11.2:
+        non_striker: CA Young
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 11.3:
+        non_striker: G Kennedy
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Young
+    - 11.4:
+        non_striker: CA Young
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Kennedy
+    - 11.5:
+        non_striker: CA Young
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Kennedy
+    - 11.6:
+        non_striker: CA Young
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy

@@ -1,0 +1,4292 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-09-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Brighton
+  competition: Specsavers County Championship
+  dates:
+  - '2019-09-23'
+  - '2019-09-24'
+  - '2019-09-25'
+  - '2019-09-26'
+  gender: male
+  match_type: MDM
+  outcome:
+    result: draw
+  players:
+    Sussex:
+    - LWP Wells
+    - TJ Haines
+    - WAT Beer
+    - S van Zyl
+    - DMW Rawlins
+    - BC Brown
+    - TGR Clark
+    - D Wiese
+    - GHS Garton
+    - OE Robinson
+    - RJW Topley
+    Worcestershire:
+    - DKH Mitchell
+    - HD Rutherford
+    - TC Fell
+    - JA Haynes
+    - MH Wessels
+    - BL D'Oliveira
+    - OB Cox
+    - EG Barnard
+    - WD Parnell
+    - CAJ Morris
+    - AW Finch
+  registry:
+    people:
+      AW Finch: fc63d916
+      BC Brown: 8af86756
+      BL D'Oliveira: 9679838c
+      CAJ Morris: 5db1c288
+      D Wiese: aa8d28ae
+      DKH Mitchell: 8108e2d2
+      DMW Rawlins: f1eb3c73
+      EG Barnard: a510bdd3
+      GHS Garton: be869ccf
+      HD Rutherford: 0605de92
+      JA Haynes: fe4ebca0
+      JW Lloyds: 112b8472
+      LWP Wells: 1957c6b7
+      MH Wessels: 90f47cf2
+      OB Cox: 324a6ee1
+      OE Robinson: 0f3ee070
+      PK Baldwin: 6bb53c12
+      RJW Topley: 8db7f47f
+      S van Zyl: f4dfcbb4
+      TC Fell: 83e74e91
+      TGR Clark: ed8faea2
+      TJ Haines: bdadcca1
+      WAT Beer: 98eacfe5
+      WD Parnell: 3a60e0b5
+  teams:
+  - Sussex
+  - Worcestershire
+  toss:
+    winner: Worcestershire
+    decision: field
+    uncontested: 'yes'
+  umpires:
+  - JW Lloyds
+  - PK Baldwin
+  venue: County Ground, Hove
+innings:
+- 1st innings:
+    team: Sussex
+    deliveries:
+    - 0.1:
+        non_striker: TJ Haines
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LWP Wells
+    - 0.2:
+        non_striker: TJ Haines
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LWP Wells
+    - 0.3:
+        non_striker: TJ Haines
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LWP Wells
+        wicket:
+          player_out: LWP Wells
+          fielders:
+          - OB Cox
+          kind: caught
+    - 0.4:
+        non_striker: TJ Haines
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 0.5:
+        non_striker: TJ Haines
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 0.6:
+        non_striker: TJ Haines
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAT Beer
+    - 1.1:
+        non_striker: TJ Haines
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 1.2:
+        non_striker: TJ Haines
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 1.3:
+        non_striker: TJ Haines
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 1.4:
+        non_striker: TJ Haines
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WAT Beer
+    - 1.5:
+        non_striker: TJ Haines
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 1.6:
+        non_striker: TJ Haines
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 2.1:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Haines
+    - 2.2:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Haines
+    - 2.3:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Haines
+    - 2.4:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Haines
+    - 2.5:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: TJ Haines
+    - 2.6:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Haines
+    - 3.1:
+        non_striker: TJ Haines
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 3.2:
+        non_striker: TJ Haines
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 3.3:
+        non_striker: TJ Haines
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAT Beer
+    - 3.4:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Haines
+    - 3.5:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Haines
+        wicket:
+          player_out: TJ Haines
+          fielders:
+          - HD Rutherford
+          kind: caught
+    - 3.6:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 4.1:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 4.2:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 4.3:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 4.4:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 4.5:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 4.6:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 5.1:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 5.2:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 5.3:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 5.4:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 5.5:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 5.6:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 6.1:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAT Beer
+    - 6.2:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 6.3:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 6.4:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 6.5:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 6.6:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 7.1:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 7.2:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 7.3:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 7.4:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 7.5:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 7.6:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 8.1:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 8.2:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 8.3:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 8.4:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 8.5:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 8.6:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 9.1:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 9.2:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 9.3:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 9.4:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 9.5:
+        non_striker: WAT Beer
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 9.6:
+        non_striker: S van Zyl
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 10.1:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 10.2:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 10.3:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 10.4:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 10.5:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 10.6:
+        non_striker: WAT Beer
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 11.1:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 11.2:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 11.3:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 11.4:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAT Beer
+    - 11.5:
+        non_striker: WAT Beer
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 11.6:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WAT Beer
+    - 12.1:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 12.2:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 12.3:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+    - 12.4:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+        wicket:
+          player_out: WAT Beer
+          fielders:
+          - OB Cox
+          kind: caught
+    - 12.5:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 12.6:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 13.1:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 13.2:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 13.3:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 13.4:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 13.5:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 13.6:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 14.1:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DMW Rawlins
+    - 14.2:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S van Zyl
+    - 14.3:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 14.4:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 14.5:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 14.6:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 15.1:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 15.2:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 15.3:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 15.4:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 15.5:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 15.6:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 16.1:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 16.2:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 16.3:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 16.4:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 16.5:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 16.6:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 2
+          total: 3
+          batsman: 1
+        extras:
+          noballs: 2
+        batsman: DMW Rawlins
+    - 16.7:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 17.1:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 17.2:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 17.3:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 17.4:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 17.5:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 17.6:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 18.1:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 18.2:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 18.3:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S van Zyl
+    - 18.4:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 18.5:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 18.6:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 19.1:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 19.2:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 19.3:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 19.4:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 19.5:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 19.6:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 20.1:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 20.2:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 20.3:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 20.4:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 20.5:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 20.6:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 21.1:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 21.2:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 21.3:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 21.4:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 21.5:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 21.6:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 22.1:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 22.2:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 22.3:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DMW Rawlins
+    - 22.4:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 22.5:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 22.6:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 23.1:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 23.2:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 23.3:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 23.4:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 23.5:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 23.6:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 24.1:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 24.2:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 24.3:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: DMW Rawlins
+    - 24.4:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DMW Rawlins
+    - 24.5:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 24.6:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 24.7:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 25.1:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 25.2:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 25.3:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 25.4:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 25.5:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 25.6:
+        non_striker: S van Zyl
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 26.1:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 26.2:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 26.3:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 26.4:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 26.5:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 26.6:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 27.1:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 27.2:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 27.3:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 27.4:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 27.5:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 27.6:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 28.1:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 28.2:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 28.3:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 28.4:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 28.5:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 28.6:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: S van Zyl
+    - 28.7:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S van Zyl
+    - 29.1:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 29.2:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 29.3:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 29.4:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 29.5:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 29.6:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 30.1:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 30.2:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 30.3:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 30.4:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 30.5:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 30.6:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 31.1:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DMW Rawlins
+    - 31.2:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 31.3:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 31.4:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 31.5:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 31.6:
+        non_striker: S van Zyl
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 32.1:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 32.2:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 32.3:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 32.4:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 32.5:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 32.6:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 33.1:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 33.2:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 33.3:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 33.4:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 33.5:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 33.6:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 34.1:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 34.2:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 34.3:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 34.4:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 34.5:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 34.6:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: DMW Rawlins
+    - 35.1:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 35.2:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 35.3:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 35.4:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 35.5:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 35.6:
+        non_striker: DMW Rawlins
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 36.1:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 36.2:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 36.3:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 36.4:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 36.5:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 36.6:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 37.1:
+        non_striker: S van Zyl
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 37.2:
+        non_striker: S van Zyl
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 37.3:
+        non_striker: S van Zyl
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 37.4:
+        non_striker: S van Zyl
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 37.5:
+        non_striker: S van Zyl
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 37.6:
+        non_striker: S van Zyl
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DMW Rawlins
+    - 38.1:
+        non_striker: S van Zyl
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DMW Rawlins
+    - 38.2:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 38.3:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 38.4:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 38.5:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 38.6:
+        non_striker: DMW Rawlins
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 39.1:
+        non_striker: S van Zyl
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 39.2:
+        non_striker: S van Zyl
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 39.3:
+        non_striker: S van Zyl
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 39.4:
+        non_striker: S van Zyl
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 39.5:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 39.6:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 40.1:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 40.2:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 40.3:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 40.4:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 40.5:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 40.6:
+        non_striker: S van Zyl
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 41.1:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 41.2:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 41.3:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 41.4:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 41.5:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 41.6:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+        wicket:
+          player_out: S van Zyl
+          fielders:
+          - HD Rutherford
+          kind: caught
+    - 42.1:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 42.2:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 42.3:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 42.4:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: DMW Rawlins
+    - 42.5:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 42.6:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 42.7:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 43.1:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 43.2:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 43.3:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 43.4:
+        non_striker: DMW Rawlins
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Brown
+    - 43.5:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 43.6:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 44.1:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 44.2:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 44.3:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 44.4:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 44.5:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 44.6:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 45.1:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 45.2:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 45.3:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 45.4:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 45.5:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DMW Rawlins
+    - 45.6:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: DMW Rawlins
+    - 45.7:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 46.1:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 46.2:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DMW Rawlins
+    - 46.3:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 46.4:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BC Brown
+    - 46.5:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 46.6:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 47.1:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 47.2:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 47.3:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 47.4:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 47.5:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 47.6:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 48.1:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 48.2:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 48.3:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Brown
+    - 48.4:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DMW Rawlins
+    - 48.5:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Brown
+    - 48.6:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 49.1:
+        non_striker: DMW Rawlins
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Brown
+    - 49.2:
+        non_striker: BC Brown
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 49.3:
+        non_striker: BC Brown
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 49.4:
+        non_striker: BC Brown
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 49.5:
+        non_striker: BC Brown
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 49.6:
+        non_striker: BC Brown
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 50.1:
+        non_striker: DMW Rawlins
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Brown
+    - 50.2:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DMW Rawlins
+    - 50.3:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+        wicket:
+          player_out: DMW Rawlins
+          fielders:
+          - DKH Mitchell
+          kind: caught
+    - 50.4:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 50.5:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 50.6:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 51.1:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 51.2:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 51.3:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Brown
+    - 51.4:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 51.5:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 51.6:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Brown
+    - 52.1:
+        non_striker: TGR Clark
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 52.2:
+        non_striker: TGR Clark
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Brown
+    - 52.3:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 52.4:
+        non_striker: TGR Clark
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 52.5:
+        non_striker: TGR Clark
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Brown
+    - 52.6:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 53.1:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 53.2:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 53.3:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 53.4:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Brown
+    - 53.5:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 53.6:
+        non_striker: BC Brown
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 54.1:
+        non_striker: TGR Clark
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Brown
+    - 54.2:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TGR Clark
+    - 54.3:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 54.4:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TGR Clark
+    - 54.5:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 54.6:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 55.1:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 55.2:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 55.3:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 55.4:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Brown
+    - 55.5:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 55.6:
+        non_striker: TGR Clark
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 56.1:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 56.2:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: TGR Clark
+    - 56.3:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 56.4:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 56.5:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 56.6:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 56.7:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 57.1:
+        non_striker: BC Brown
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TGR Clark
+    - 57.2:
+        non_striker: BC Brown
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 57.3:
+        non_striker: BC Brown
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 57.4:
+        non_striker: BC Brown
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 57.5:
+        non_striker: BC Brown
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 57.6:
+        non_striker: BC Brown
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 58.1:
+        non_striker: TGR Clark
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 58.2:
+        non_striker: TGR Clark
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 58.3:
+        non_striker: TGR Clark
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Brown
+    - 58.4:
+        non_striker: TGR Clark
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 58.5:
+        non_striker: TGR Clark
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Brown
+    - 58.6:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 59.1:
+        non_striker: TGR Clark
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Brown
+    - 59.2:
+        non_striker: TGR Clark
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 59.3:
+        non_striker: TGR Clark
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BC Brown
+    - 59.4:
+        non_striker: TGR Clark
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 59.5:
+        non_striker: TGR Clark
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+    - 59.6:
+        non_striker: TGR Clark
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Brown
+    - 60.1:
+        non_striker: TGR Clark
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Brown
+    - 60.2:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 60.3:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 60.4:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 60.5:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 60.6:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: TGR Clark
+    - 60.7:
+        non_striker: BC Brown
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TGR Clark
+    - 61.1:
+        non_striker: BC Brown
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+    - 61.2:
+        non_striker: BC Brown
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TGR Clark
+        wicket:
+          player_out: TGR Clark
+          fielders:
+          - MH Wessels
+          kind: caught
+    - 61.3:
+        non_striker: BC Brown
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 61.4:
+        non_striker: BC Brown
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 61.5:
+        non_striker: BC Brown
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 61.6:
+        non_striker: BC Brown
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 62.1:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Brown
+        wicket:
+          player_out: BC Brown
+          kind: lbw
+    - 62.2:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 62.3:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GHS Garton
+    - 62.4:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GHS Garton
+    - 62.5:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GHS Garton
+    - 62.6:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 63.1:
+        non_striker: GHS Garton
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 63.2:
+        non_striker: GHS Garton
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 63.3:
+        non_striker: GHS Garton
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 63.4:
+        non_striker: GHS Garton
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 63.5:
+        non_striker: GHS Garton
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 63.6:
+        non_striker: GHS Garton
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 64.1:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 64.2:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 64.3:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GHS Garton
+    - 64.4:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 64.5:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 64.6:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 65.1:
+        non_striker: D Wiese
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 65.2:
+        non_striker: D Wiese
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 65.3:
+        non_striker: D Wiese
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 65.4:
+        non_striker: D Wiese
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 65.5:
+        non_striker: D Wiese
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 65.6:
+        non_striker: D Wiese
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 66.1:
+        non_striker: GHS Garton
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 66.2:
+        non_striker: GHS Garton
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 66.3:
+        non_striker: GHS Garton
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 66.4:
+        non_striker: GHS Garton
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 66.5:
+        non_striker: GHS Garton
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 66.6:
+        non_striker: GHS Garton
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 67.1:
+        non_striker: GHS Garton
+        bowler: WD Parnell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 67.2:
+        non_striker: GHS Garton
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: BL D'Oliveira
+            out: WD Parnell
+            reason: injury
+            role: bowler
+        batsman: D Wiese
+    - 67.3:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 67.4:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 67.5:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 67.6:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 68.1:
+        non_striker: GHS Garton
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wiese
+    - 68.2:
+        non_striker: GHS Garton
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 68.3:
+        non_striker: GHS Garton
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 68.4:
+        non_striker: GHS Garton
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 68.5:
+        non_striker: GHS Garton
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 68.6:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 69.1:
+        non_striker: GHS Garton
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 69.2:
+        non_striker: GHS Garton
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 69.3:
+        non_striker: GHS Garton
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 69.4:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 69.5:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 69.6:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 70.1:
+        non_striker: GHS Garton
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 70.2:
+        non_striker: GHS Garton
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 70.3:
+        non_striker: GHS Garton
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 70.4:
+        non_striker: GHS Garton
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 70.5:
+        non_striker: GHS Garton
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 70.6:
+        non_striker: GHS Garton
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 71.1:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 71.2:
+        non_striker: GHS Garton
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 71.3:
+        non_striker: GHS Garton
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 71.4:
+        non_striker: GHS Garton
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 71.5:
+        non_striker: GHS Garton
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 71.6:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GHS Garton
+    - 72.1:
+        non_striker: GHS Garton
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 72.2:
+        non_striker: GHS Garton
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 72.3:
+        non_striker: GHS Garton
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 72.4:
+        non_striker: D Wiese
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 72.5:
+        non_striker: D Wiese
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 72.6:
+        non_striker: D Wiese
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 73.1:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 73.2:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 73.3:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GHS Garton
+    - 73.4:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 73.5:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 73.6:
+        non_striker: GHS Garton
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 74.1:
+        non_striker: D Wiese
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GHS Garton
+    - 74.2:
+        non_striker: D Wiese
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 74.3:
+        non_striker: D Wiese
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 74.4:
+        non_striker: D Wiese
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GHS Garton
+    - 74.5:
+        non_striker: D Wiese
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 74.6:
+        non_striker: GHS Garton
+        bowler: DKH Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 75.1:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 75.2:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 75.3:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GHS Garton
+    - 75.4:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 75.5:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 75.6:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GHS Garton
+    - 76.1:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 76.2:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 76.3:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 76.4:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 76.5:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 76.6:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 77.1:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 77.2:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 77.3:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 77.4:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GHS Garton
+    - 77.5:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 77.6:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 78.1:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 78.2:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 78.3:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 78.4:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 78.5:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 78.6:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 79.1:
+        non_striker: GHS Garton
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 79.2:
+        non_striker: GHS Garton
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 79.3:
+        non_striker: GHS Garton
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 79.4:
+        non_striker: GHS Garton
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 79.5:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 79.6:
+        non_striker: D Wiese
+        bowler: BL D'Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 80.1:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 80.2:
+        non_striker: D Wiese
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 80.3:
+        non_striker: GHS Garton
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 80.4:
+        non_striker: D Wiese
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 80.5:
+        non_striker: D Wiese
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GHS Garton
+    - 80.6:
+        non_striker: D Wiese
+        bowler: AW Finch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GHS Garton
+    - 81.1:
+        non_striker: GHS Garton
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 81.2:
+        non_striker: GHS Garton
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 81.3:
+        non_striker: GHS Garton
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 81.4:
+        non_striker: GHS Garton
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 81.5:
+        non_striker: GHS Garton
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 81.6:
+        non_striker: GHS Garton
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wiese
+    - 82.1:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 82.2:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GHS Garton
+    - 82.3:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 82.4:
+        non_striker: D Wiese
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 82.5:
+        non_striker: GHS Garton
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 82.6:
+        non_striker: GHS Garton
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 83.1:
+        non_striker: GHS Garton
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 83.2:
+        non_striker: GHS Garton
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 83.3:
+        non_striker: GHS Garton
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 83.4:
+        non_striker: GHS Garton
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+    - 83.5:
+        non_striker: GHS Garton
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+        wicket:
+          player_out: D Wiese
+          kind: bowled
+    - 83.6:
+        non_striker: GHS Garton
+        bowler: CAJ Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OE Robinson
+    - 84.1:
+        non_striker: OE Robinson
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 84.2:
+        non_striker: OE Robinson
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 84.3:
+        non_striker: OE Robinson
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GHS Garton
+    - 84.4:
+        non_striker: OE Robinson
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GHS Garton
+    - 84.5:
+        non_striker: OE Robinson
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GHS Garton
+    - 84.6:
+        non_striker: OE Robinson
+        bowler: EG Barnard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton

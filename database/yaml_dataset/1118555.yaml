@@ -1,0 +1,2090 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-02-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: New Plymouth
+  competition: Super Smash
+  dates:
+  - '2018-01-06'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Otago
+    by:
+      wickets: 3
+  overs: 20
+  players:
+    Central Districts:
+    - JD Ryder
+    - BS Smith
+    - WA Young
+    - TC Bruce
+    - D Cleaver
+    - JA Clarkson
+    - BM Wheeler
+    - BJ Small
+    - SHA Rance
+    - AY Patel
+    - BM Tickner
+    Otago:
+    - RJ Nicol
+    - NT Broom
+    - S Hicks
+    - LC Johnson
+    - AK Kitchen
+    - DC de Boorder
+    - JL Finnie
+    - MJG Rippon
+    - N Wagner
+    - MB Bacon
+    - MD Rae
+  registry:
+    people:
+      AK Kitchen: 63a1874a
+      AY Patel: fbd4f01f
+      BJ Small: b1b7b7de
+      BM Tickner: 48ad3373
+      BM Wheeler: 397f4d3a
+      BS Smith: 556df4f9
+      D Cleaver: e3a949be
+      DC de Boorder: bf573bfd
+      ED Sanders: 25c6d6af
+      JA Clarkson: bed90114
+      JD Ryder: 91ffa6c6
+      JL Finnie: 1ccf9e7e
+      LC Johnson: a573ad7a
+      MB Bacon: '90701232'
+      MD Rae: 1c06d60a
+      MJG Rippon: b03db6fa
+      N Wagner: 78adc879
+      NT Broom: a354c917
+      RJ Nicol: 8d8c24fd
+      S Hicks: 168b4c4f
+      SHA Rance: 69c994e4
+      TC Bruce: f92c9151
+      TJ Parlane: 3cfc24b0
+      WA Young: 8afe73e2
+  teams:
+  - Central Districts
+  - Otago
+  toss:
+    decision: bat
+    winner: Central Districts
+  umpires:
+  - ED Sanders
+  - TJ Parlane
+  venue: Pukekura Park
+innings:
+- 1st innings:
+    team: Central Districts
+    deliveries:
+    - 0.1:
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BS Smith
+        batsman: JD Ryder
+    - 0.2:
+        non_striker: JD Ryder
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 0.3:
+        non_striker: JD Ryder
+        bowler: MB Bacon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BS Smith
+    - 0.4:
+        non_striker: JD Ryder
+        bowler: MB Bacon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BS Smith
+    - 0.5:
+        non_striker: JD Ryder
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 0.6:
+        non_striker: JD Ryder
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 0.7:
+        non_striker: JD Ryder
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 0.8:
+        non_striker: JD Ryder
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 1.1:
+        non_striker: BS Smith
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Ryder
+    - 1.2:
+        non_striker: BS Smith
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Ryder
+    - 1.3:
+        non_striker: BS Smith
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Ryder
+    - 1.4:
+        non_striker: BS Smith
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Ryder
+        wicket:
+          player_out: JD Ryder
+          kind: bowled
+    - 1.5:
+        non_striker: BS Smith
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 1.6:
+        non_striker: WA Young
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 2.1:
+        non_striker: WA Young
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 2.2:
+        non_striker: WA Young
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+    - 2.3:
+        non_striker: WA Young
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Smith
+    - 2.4:
+        non_striker: WA Young
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 2.5:
+        non_striker: BS Smith
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 2.6:
+        non_striker: WA Young
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Smith
+    - 3.1:
+        non_striker: WA Young
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Smith
+        wicket:
+          player_out: BS Smith
+          kind: bowled
+    - 3.2:
+        non_striker: WA Young
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 3.3:
+        non_striker: TC Bruce
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+        wicket:
+          player_out: WA Young
+          fielders:
+          - LC Johnson
+          kind: caught
+    - 3.4:
+        non_striker: TC Bruce
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 3.5:
+        non_striker: TC Bruce
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 3.6:
+        non_striker: D Cleaver
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 4.1:
+        non_striker: D Cleaver
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TC Bruce
+    - 4.2:
+        non_striker: D Cleaver
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 4.3:
+        non_striker: D Cleaver
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 4.4:
+        non_striker: TC Bruce
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 4.5:
+        non_striker: D Cleaver
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 4.6:
+        non_striker: D Cleaver
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 5.1:
+        non_striker: D Cleaver
+        bowler: N Wagner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TC Bruce
+    - 5.2:
+        non_striker: D Cleaver
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 5.3:
+        non_striker: TC Bruce
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 5.4:
+        non_striker: TC Bruce
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 5.5:
+        non_striker: TC Bruce
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 5.6:
+        non_striker: TC Bruce
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 5.7:
+        non_striker: TC Bruce
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 6.1:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 6.2:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+        wicket:
+          player_out: TC Bruce
+          fielders:
+          - DC de Boorder
+          kind: caught
+    - 6.3:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 6.4:
+        non_striker: JA Clarkson
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 6.5:
+        non_striker: JA Clarkson
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 6.6:
+        non_striker: JA Clarkson
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 7.1:
+        non_striker: JA Clarkson
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 7.2:
+        non_striker: D Cleaver
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 7.3:
+        non_striker: D Cleaver
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 7.4:
+        non_striker: JA Clarkson
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 7.5:
+        non_striker: D Cleaver
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 7.6:
+        non_striker: JA Clarkson
+        bowler: AK Kitchen
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: D Cleaver
+    - 7.7:
+        non_striker: JA Clarkson
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 8.1:
+        non_striker: JA Clarkson
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 8.2:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 8.3:
+        non_striker: JA Clarkson
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 8.4:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 8.5:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 8.6:
+        non_striker: JA Clarkson
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 9.1:
+        non_striker: JA Clarkson
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 9.2:
+        non_striker: JA Clarkson
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 9.3:
+        non_striker: JA Clarkson
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 9.4:
+        non_striker: D Cleaver
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 9.5:
+        non_striker: D Cleaver
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Clarkson
+    - 9.6:
+        non_striker: D Cleaver
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 10.1:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+        wicket:
+          player_out: JA Clarkson
+          kind: bowled
+    - 10.2:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Wheeler
+    - 10.3:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 10.4:
+        non_striker: BM Wheeler
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 10.5:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Wheeler
+    - 10.6:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Wheeler
+    - 11.1:
+        non_striker: BM Wheeler
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 11.2:
+        non_striker: D Cleaver
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 11.3:
+        non_striker: BM Wheeler
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 11.4:
+        non_striker: D Cleaver
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Wheeler
+    - 11.5:
+        non_striker: D Cleaver
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Wheeler
+    - 11.6:
+        non_striker: D Cleaver
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 12.1:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Wheeler
+    - 12.2:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Wheeler
+    - 12.3:
+        non_striker: D Cleaver
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 12.4:
+        non_striker: BM Wheeler
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 12.5:
+        non_striker: BM Wheeler
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+        wicket:
+          player_out: D Cleaver
+          fielders:
+          - JL Finnie
+          kind: caught
+    - 12.6:
+        non_striker: BM Wheeler
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Small
+    - 13.1:
+        non_striker: BJ Small
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 13.2:
+        non_striker: BM Wheeler
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Small
+    - 13.3:
+        non_striker: BM Wheeler
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Small
+    - 13.4:
+        non_striker: BJ Small
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 13.5:
+        non_striker: BM Wheeler
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Small
+    - 13.6:
+        non_striker: BM Wheeler
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Small
+    - 14.1:
+        non_striker: BJ Small
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 14.2:
+        non_striker: BM Wheeler
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Small
+    - 14.3:
+        non_striker: BJ Small
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Wheeler
+    - 14.4:
+        non_striker: BJ Small
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 14.5:
+        non_striker: BM Wheeler
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Small
+    - 14.6:
+        non_striker: BM Wheeler
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Small
+    - 15.1:
+        non_striker: BM Wheeler
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Small
+    - 15.2:
+        non_striker: BM Wheeler
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Small
+        wicket:
+          player_out: BJ Small
+          fielders:
+          - DC de Boorder
+          kind: stumped
+    - 15.3:
+        non_striker: BM Wheeler
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SHA Rance
+    - 15.4:
+        non_striker: BM Wheeler
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SHA Rance
+    - 15.5:
+        non_striker: SHA Rance
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Wheeler
+    - 15.6:
+        non_striker: SHA Rance
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BM Wheeler
+    - 16.1:
+        non_striker: BM Wheeler
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SHA Rance
+    - 16.2:
+        non_striker: BM Wheeler
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SHA Rance
+    - 16.3:
+        non_striker: BM Wheeler
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SHA Rance
+    - 16.4:
+        non_striker: BM Wheeler
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SHA Rance
+    - 16.5:
+        non_striker: BM Wheeler
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SHA Rance
+    - 16.6:
+        non_striker: SHA Rance
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 17.1:
+        non_striker: SHA Rance
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 17.2:
+        non_striker: BM Wheeler
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SHA Rance
+    - 17.3:
+        non_striker: BM Wheeler
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SHA Rance
+    - 17.4:
+        non_striker: BM Wheeler
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SHA Rance
+    - 17.5:
+        non_striker: BM Wheeler
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SHA Rance
+    - 17.6:
+        non_striker: BM Wheeler
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SHA Rance
+    - 18.1:
+        non_striker: BM Wheeler
+        bowler: MB Bacon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SHA Rance
+    - 18.2:
+        non_striker: BM Wheeler
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SHA Rance
+    - 18.3:
+        non_striker: SHA Rance
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Wheeler
+    - 18.4:
+        non_striker: SHA Rance
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 18.5:
+        non_striker: BM Wheeler
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SHA Rance
+    - 18.6:
+        non_striker: BM Wheeler
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SHA Rance
+        wicket:
+          player_out: SHA Rance
+          fielders:
+          - AK Kitchen
+          kind: caught
+    - 18.7:
+        non_striker: AY Patel
+        bowler: MB Bacon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Wheeler
+    - 19.1:
+        non_striker: BM Wheeler
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AY Patel
+    - 19.2:
+        non_striker: BM Wheeler
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AY Patel
+    - 19.3:
+        non_striker: AY Patel
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 19.4:
+        non_striker: BM Wheeler
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AY Patel
+        wicket:
+          player_out: AY Patel
+          fielders:
+          - S Hicks
+          kind: caught
+    - 19.5:
+        non_striker: BM Wheeler
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BM Tickner
+    - 19.6:
+        non_striker: BM Wheeler
+        bowler: N Wagner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Tickner
+- 2nd innings:
+    team: Otago
+    deliveries:
+    - 0.1:
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NT Broom
+        batsman: RJ Nicol
+    - 0.2:
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NT Broom
+        batsman: RJ Nicol
+    - 0.3:
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NT Broom
+        batsman: RJ Nicol
+    - 0.4:
+        bowler: BM Wheeler
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: NT Broom
+        batsman: RJ Nicol
+    - 0.5:
+        non_striker: RJ Nicol
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Broom
+    - 0.6:
+        non_striker: RJ Nicol
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Broom
+    - 1.1:
+        non_striker: NT Broom
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Nicol
+    - 1.2:
+        non_striker: RJ Nicol
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Broom
+    - 1.3:
+        non_striker: RJ Nicol
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Broom
+    - 1.4:
+        non_striker: RJ Nicol
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Broom
+    - 1.5:
+        non_striker: NT Broom
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Nicol
+    - 1.6:
+        non_striker: NT Broom
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 2.1:
+        non_striker: RJ Nicol
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Broom
+    - 2.2:
+        non_striker: RJ Nicol
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Broom
+    - 2.3:
+        non_striker: RJ Nicol
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NT Broom
+    - 2.4:
+        non_striker: RJ Nicol
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Broom
+    - 2.5:
+        non_striker: RJ Nicol
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Broom
+    - 2.6:
+        non_striker: RJ Nicol
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Broom
+    - 3.1:
+        non_striker: RJ Nicol
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Broom
+    - 3.2:
+        non_striker: RJ Nicol
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NT Broom
+    - 3.3:
+        non_striker: RJ Nicol
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NT Broom
+    - 3.4:
+        non_striker: RJ Nicol
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Broom
+        wicket:
+          player_out: NT Broom
+          fielders:
+          - D Cleaver
+          kind: caught
+    - 3.5:
+        non_striker: RJ Nicol
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Hicks
+        wicket:
+          player_out: S Hicks
+          fielders:
+          - D Cleaver
+          kind: caught
+    - 3.6:
+        non_striker: RJ Nicol
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 4.1:
+        non_striker: LC Johnson
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 4.2:
+        non_striker: LC Johnson
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Nicol
+    - 4.3:
+        non_striker: LC Johnson
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Nicol
+    - 4.4:
+        non_striker: RJ Nicol
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 4.5:
+        non_striker: RJ Nicol
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 4.6:
+        non_striker: RJ Nicol
+        bowler: BM Tickner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LC Johnson
+    - 4.7:
+        non_striker: RJ Nicol
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LC Johnson
+    - 5.1:
+        non_striker: LC Johnson
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJ Nicol
+    - 5.2:
+        non_striker: LC Johnson
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Nicol
+    - 5.3:
+        non_striker: RJ Nicol
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 5.4:
+        non_striker: RJ Nicol
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LC Johnson
+    - 5.5:
+        non_striker: RJ Nicol
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 5.6:
+        non_striker: RJ Nicol
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+    - 6.1:
+        non_striker: LC Johnson
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Nicol
+    - 6.2:
+        non_striker: RJ Nicol
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Johnson
+        wicket:
+          player_out: LC Johnson
+          fielders:
+          - WA Young
+          kind: caught
+    - 6.3:
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AK Kitchen
+        batsman: RJ Nicol
+    - 6.4:
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AK Kitchen
+        batsman: RJ Nicol
+    - 6.5:
+        non_striker: RJ Nicol
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Kitchen
+    - 6.6:
+        non_striker: RJ Nicol
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 7.1:
+        non_striker: RJ Nicol
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 7.2:
+        non_striker: AK Kitchen
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 7.3:
+        non_striker: AK Kitchen
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Nicol
+    - 7.4:
+        non_striker: RJ Nicol
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Kitchen
+    - 7.5:
+        non_striker: RJ Nicol
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Kitchen
+    - 7.6:
+        non_striker: RJ Nicol
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 8.1:
+        non_striker: RJ Nicol
+        bowler: BJ Small
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AK Kitchen
+    - 8.2:
+        non_striker: AK Kitchen
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Nicol
+    - 8.3:
+        non_striker: RJ Nicol
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 8.4:
+        non_striker: AK Kitchen
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 8.5:
+        non_striker: AK Kitchen
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Nicol
+    - 8.6:
+        non_striker: RJ Nicol
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Kitchen
+    - 9.1:
+        non_striker: AK Kitchen
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 9.2:
+        non_striker: AK Kitchen
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 9.3:
+        non_striker: AK Kitchen
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Nicol
+    - 9.4:
+        non_striker: RJ Nicol
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 9.5:
+        non_striker: AK Kitchen
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 9.6:
+        non_striker: AK Kitchen
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Nicol
+    - 10.1:
+        non_striker: AK Kitchen
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 10.2:
+        non_striker: AK Kitchen
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 10.3:
+        non_striker: AK Kitchen
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Nicol
+    - 10.4:
+        non_striker: RJ Nicol
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Kitchen
+    - 10.5:
+        non_striker: RJ Nicol
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Kitchen
+    - 10.6:
+        non_striker: RJ Nicol
+        bowler: BM Wheeler
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Kitchen
+    - 10.7:
+        non_striker: RJ Nicol
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Kitchen
+    - 11.1:
+        non_striker: AK Kitchen
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RJ Nicol
+    - 11.2:
+        non_striker: AK Kitchen
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 11.3:
+        non_striker: AK Kitchen
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Nicol
+    - 11.4:
+        non_striker: AK Kitchen
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Nicol
+    - 11.5:
+        non_striker: RJ Nicol
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 11.6:
+        non_striker: AK Kitchen
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 12.1:
+        non_striker: RJ Nicol
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Kitchen
+    - 12.2:
+        non_striker: RJ Nicol
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 12.3:
+        non_striker: AK Kitchen
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 12.4:
+        non_striker: AK Kitchen
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 12.5:
+        non_striker: AK Kitchen
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Nicol
+    - 12.6:
+        non_striker: RJ Nicol
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Kitchen
+    - 13.1:
+        non_striker: AK Kitchen
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 13.2:
+        non_striker: AK Kitchen
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+    - 13.3:
+        non_striker: AK Kitchen
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Nicol
+    - 13.4:
+        non_striker: AK Kitchen
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RJ Nicol
+    - 13.5:
+        non_striker: AK Kitchen
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Nicol
+        wicket:
+          player_out: RJ Nicol
+          fielders:
+          - JA Clarkson
+          kind: caught
+    - 13.6:
+        non_striker: AK Kitchen
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC de Boorder
+    - 14.1:
+        non_striker: DC de Boorder
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Kitchen
+    - 14.2:
+        non_striker: DC de Boorder
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 14.3:
+        non_striker: AK Kitchen
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC de Boorder
+    - 14.4:
+        non_striker: AK Kitchen
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC de Boorder
+    - 14.5:
+        non_striker: AK Kitchen
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC de Boorder
+    - 14.6:
+        non_striker: AK Kitchen
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC de Boorder
+    - 15.1:
+        non_striker: DC de Boorder
+        bowler: BM Tickner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AK Kitchen
+    - 15.2:
+        non_striker: DC de Boorder
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Kitchen
+    - 15.3:
+        non_striker: DC de Boorder
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Kitchen
+    - 15.4:
+        non_striker: DC de Boorder
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Kitchen
+        wicket:
+          player_out: AK Kitchen
+          kind: bowled
+    - 15.5:
+        non_striker: DC de Boorder
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Finnie
+    - 15.6:
+        non_striker: DC de Boorder
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+    - 15.7:
+        non_striker: DC de Boorder
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+    - 16.1:
+        non_striker: JL Finnie
+        bowler: BJ Small
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DC de Boorder
+    - 16.2:
+        non_striker: DC de Boorder
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Finnie
+    - 16.3:
+        non_striker: JL Finnie
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC de Boorder
+    - 16.4:
+        non_striker: JL Finnie
+        bowler: BJ Small
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: DC de Boorder
+    - 16.5:
+        non_striker: JL Finnie
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC de Boorder
+    - 16.6:
+        non_striker: JL Finnie
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC de Boorder
+    - 16.7:
+        non_striker: DC de Boorder
+        bowler: BJ Small
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Finnie
+    - 17.1:
+        non_striker: DC de Boorder
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Finnie
+    - 17.2:
+        non_striker: DC de Boorder
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Finnie
+    - 17.3:
+        non_striker: JL Finnie
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC de Boorder
+    - 17.4:
+        non_striker: JL Finnie
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC de Boorder
+    - 17.5:
+        non_striker: DC de Boorder
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+        wicket:
+          player_out: JL Finnie
+          kind: lbw
+    - 17.6:
+        non_striker: DC de Boorder
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJG Rippon
+    - 18.1:
+        non_striker: MJG Rippon
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC de Boorder
+        wicket:
+          player_out: DC de Boorder
+          kind: bowled
+    - 18.2:
+        non_striker: MJG Rippon
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Wagner

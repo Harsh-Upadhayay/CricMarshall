@@ -1,0 +1,5027 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-03-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kingstown
+  dates:
+  - '2004-05-15'
+  gender: male
+  match_type: ODI
+  match_type_number: 2128
+  outcome:
+    winner: West Indies
+    by:
+      wickets: 1
+  overs: 50
+  player_of_match:
+  - IDR Bradshaw
+  players:
+    Bangladesh:
+    - Shahriar Hossain
+    - Manjural Islam Rana
+    - Habibul Bashar
+    - Rajin Saleh
+    - Mohammad Ashraful
+    - Alok Kapali
+    - Mushfiqur Rahman
+    - Khaled Mashud
+    - Khaled Mahmud
+    - Mohammad Rafique
+    - Tapash Baisya
+    West Indies:
+    - CH Gayle
+    - RL Powell
+    - SC Joseph
+    - S Chanderpaul
+    - RR Sarwan
+    - DJ Bravo
+    - DR Smith
+    - RD Jacobs
+    - IDR Bradshaw
+    - TL Best
+    - FH Edwards
+  registry:
+    people:
+      Alok Kapali: 54279e23
+      BR Doctrove: cbebf805
+      CH Gayle: db584dad
+      DJ Bravo: 87e562a9
+      DR Shepherd: 8a578048
+      DR Smith: 35205dfc
+      EA Nicholls: ae71e419
+      FH Edwards: a7c226e1
+      Habibul Bashar: e74ad9ea
+      IDR Bradshaw: a7489342
+      Khaled Mahmud: 0c8a1d51
+      Khaled Mashud: ade071c5
+      Manjural Islam Rana: e8d7b493
+      Mohammad Ashraful: 2bb09eb2
+      Mohammad Rafique: 7ff3fcaa
+      Mushfiqur Rahman: 3fc3b204
+      RD Jacobs: c1f9b051
+      RL Powell: 33a50ecf
+      RR Sarwan: 36d33dd0
+      RS Mahanama: '57910393'
+      Rajin Saleh: acc321aa
+      S Chanderpaul: 881a9bdd
+      SC Joseph: 1eff8625
+      Shahriar Hossain: 9fa4ff04
+      TL Best: db767b89
+      Tapash Baisya: bb1819fa
+  teams:
+  - Bangladesh
+  - West Indies
+  toss:
+    decision: field
+    winner: West Indies
+  umpires:
+  - DR Shepherd
+  - EA Nicholls
+  venue: Arnos Vale Ground
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Manjural Islam Rana
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahriar Hossain
+    - 0.2:
+        non_striker: Manjural Islam Rana
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahriar Hossain
+    - 0.3:
+        non_striker: Manjural Islam Rana
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahriar Hossain
+        wicket:
+          player_out: Shahriar Hossain
+          fielders:
+          - CH Gayle
+          kind: caught
+    - 0.4:
+        non_striker: Manjural Islam Rana
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Habibul Bashar
+        wicket:
+          player_out: Habibul Bashar
+          kind: lbw
+    - 0.5:
+        non_striker: Manjural Islam Rana
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 0.6:
+        non_striker: Manjural Islam Rana
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 1.1:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manjural Islam Rana
+    - 1.2:
+        non_striker: Manjural Islam Rana
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rajin Saleh
+    - 1.3:
+        non_striker: Manjural Islam Rana
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rajin Saleh
+    - 1.4:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manjural Islam Rana
+    - 1.5:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Manjural Islam Rana
+    - 1.6:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manjural Islam Rana
+        wicket:
+          player_out: Manjural Islam Rana
+          kind: lbw
+    - 1.7:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 2.1:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 2.2:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 2.3:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 2.4:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 2.5:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rajin Saleh
+    - 2.6:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 2.7:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Rajin Saleh
+    - 3.1:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rajin Saleh
+    - 3.2:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rajin Saleh
+    - 3.3:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 3.4:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 3.5:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 3.6:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 4.1:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rajin Saleh
+    - 4.2:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 4.3:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 4.4:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rajin Saleh
+    - 4.5:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rajin Saleh
+    - 4.6:
+        non_striker: Rajin Saleh
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ashraful
+    - 4.7:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 5.1:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 5.2:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ashraful
+    - 5.3:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 5.4:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rajin Saleh
+    - 5.5:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 5.6:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 5.7:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 6.1:
+        non_striker: Rajin Saleh
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ashraful
+    - 6.2:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 6.3:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rajin Saleh
+    - 6.4:
+        non_striker: Rajin Saleh
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 6.5:
+        non_striker: Rajin Saleh
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 6.6:
+        non_striker: Rajin Saleh
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Ashraful
+    - 7.1:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rajin Saleh
+    - 7.2:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 7.3:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 7.4:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 7.5:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 7.6:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 8.1:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 8.2:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rajin Saleh
+    - 8.3:
+        non_striker: Rajin Saleh
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 8.4:
+        non_striker: Rajin Saleh
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 8.5:
+        non_striker: Rajin Saleh
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ashraful
+    - 8.6:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 9.1:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 9.2:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Ashraful
+    - 9.3:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rajin Saleh
+    - 9.4:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Mohammad Ashraful
+    - 9.5:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 9.6:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rajin Saleh
+    - 10.1:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 10.2:
+        non_striker: Mohammad Ashraful
+        bowler: TL Best
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rajin Saleh
+    - 10.3:
+        non_striker: Rajin Saleh
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 10.4:
+        non_striker: Rajin Saleh
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Ashraful
+    - 10.5:
+        non_striker: Rajin Saleh
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 10.6:
+        non_striker: Rajin Saleh
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Ashraful
+    - 11.1:
+        non_striker: Mohammad Ashraful
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 11.2:
+        non_striker: Mohammad Ashraful
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 11.3:
+        non_striker: Mohammad Ashraful
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 11.4:
+        non_striker: Mohammad Ashraful
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rajin Saleh
+    - 11.5:
+        non_striker: Rajin Saleh
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 11.6:
+        non_striker: Rajin Saleh
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 12.1:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 12.2:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 12.3:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 12.4:
+        non_striker: Mohammad Ashraful
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rajin Saleh
+    - 12.5:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 12.6:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+        wicket:
+          player_out: Mohammad Ashraful
+          fielders:
+          - RD Jacobs
+          kind: caught
+    - 13.1:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 13.2:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 13.3:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 13.4:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 13.5:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 13.6:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 14.1:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 14.2:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 14.3:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alok Kapali
+    - 14.4:
+        non_striker: Alok Kapali
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 14.5:
+        non_striker: Alok Kapali
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 14.6:
+        non_striker: Alok Kapali
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 15.1:
+        non_striker: Rajin Saleh
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 15.2:
+        non_striker: Rajin Saleh
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 15.3:
+        non_striker: Rajin Saleh
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alok Kapali
+    - 15.4:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 15.5:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 15.6:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 16.1:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 16.2:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Alok Kapali
+    - 16.3:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 16.4:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 16.5:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 16.6:
+        non_striker: Rajin Saleh
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alok Kapali
+    - 16.7:
+        non_striker: Alok Kapali
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 17.1:
+        non_striker: Rajin Saleh
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 17.2:
+        non_striker: Rajin Saleh
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 17.3:
+        non_striker: Rajin Saleh
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 17.4:
+        non_striker: Rajin Saleh
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 17.5:
+        non_striker: Rajin Saleh
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alok Kapali
+    - 17.6:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rajin Saleh
+    - 18.1:
+        non_striker: Alok Kapali
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 18.2:
+        non_striker: Alok Kapali
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rajin Saleh
+    - 18.3:
+        non_striker: Alok Kapali
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 18.4:
+        non_striker: Alok Kapali
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 18.5:
+        non_striker: Alok Kapali
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rajin Saleh
+    - 18.6:
+        non_striker: Rajin Saleh
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 18.7:
+        non_striker: Rajin Saleh
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 19.1:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 19.2:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+    - 19.3:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rajin Saleh
+        wicket:
+          player_out: Rajin Saleh
+          fielders:
+          - RD Jacobs
+          kind: caught
+    - 19.4:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 19.5:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 19.6:
+        non_striker: Alok Kapali
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 20.1:
+        non_striker: Mushfiqur Rahman
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 20.2:
+        non_striker: Mushfiqur Rahman
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 20.3:
+        non_striker: Mushfiqur Rahman
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 20.4:
+        non_striker: Mushfiqur Rahman
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 20.5:
+        non_striker: Mushfiqur Rahman
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 20.6:
+        non_striker: Mushfiqur Rahman
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alok Kapali
+    - 21.1:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 21.2:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 21.3:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 21.4:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+        wicket:
+          player_out: Alok Kapali
+          fielders:
+          - TL Best
+          kind: caught
+    - 21.5:
+        non_striker: Khaled Mashud
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 21.6:
+        non_striker: Khaled Mashud
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahman
+    - 22.1:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Mushfiqur Rahman
+    - 22.2:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahman
+    - 22.3:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 22.4:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 22.5:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 22.6:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 23.1:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 23.2:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 23.3:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 23.4:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 23.5:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 23.6:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 24.1:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 24.2:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 24.3:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 24.4:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 24.5:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 24.6:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 25.1:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 25.2:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 25.3:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 25.4:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 25.5:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 25.6:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 26.1:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 26.2:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 26.3:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahman
+    - 26.4:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 26.5:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 26.6:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 27.1:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 27.2:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 27.3:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 27.4:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khaled Mashud
+    - 27.5:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Khaled Mashud
+    - 27.6:
+        non_striker: Khaled Mashud
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 27.7:
+        non_striker: Khaled Mashud
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahman
+    - 28.1:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 28.2:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 28.3:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mushfiqur Rahman
+    - 28.4:
+        non_striker: Mushfiqur Rahman
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 28.5:
+        non_striker: Mushfiqur Rahman
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 28.6:
+        non_striker: Mushfiqur Rahman
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 29.1:
+        non_striker: Khaled Mashud
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahman
+    - 29.2:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 29.3:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 29.4:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 29.5:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 29.6:
+        non_striker: Mushfiqur Rahman
+        bowler: IDR Bradshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 30.1:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 30.2:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahman
+    - 30.3:
+        non_striker: Mushfiqur Rahman
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 30.4:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahman
+    - 30.5:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 30.6:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 31.1:
+        non_striker: Mushfiqur Rahman
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 31.2:
+        non_striker: Khaled Mashud
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahman
+    - 31.3:
+        non_striker: Mushfiqur Rahman
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 31.4:
+        non_striker: Mushfiqur Rahman
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Khaled Mashud
+    - 31.5:
+        non_striker: Khaled Mashud
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 31.6:
+        non_striker: Khaled Mashud
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+    - 32.1:
+        non_striker: Mushfiqur Rahman
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 32.2:
+        non_striker: Mushfiqur Rahman
+        bowler: TL Best
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Khaled Mashud
+    - 32.3:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahman
+        wicket:
+          player_out: Mushfiqur Rahman
+          fielders:
+          - SC Joseph
+          kind: caught
+    - 32.4:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Khaled Mahmud
+    - 32.5:
+        non_striker: Khaled Mahmud
+        bowler: TL Best
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khaled Mashud
+    - 32.6:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mahmud
+    - 32.7:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mahmud
+        wicket:
+          player_out: Khaled Mahmud
+          kind: bowled
+    - 32.8:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 32.9:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 33.1:
+        non_striker: Mohammad Rafique
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 33.2:
+        non_striker: Mohammad Rafique
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 33.3:
+        non_striker: Mohammad Rafique
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khaled Mashud
+    - 33.4:
+        non_striker: Mohammad Rafique
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 33.5:
+        non_striker: Mohammad Rafique
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 33.6:
+        non_striker: Mohammad Rafique
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 34.1:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 34.2:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 34.3:
+        non_striker: Khaled Mashud
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 34.4:
+        non_striker: Mohammad Rafique
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 34.5:
+        non_striker: Mohammad Rafique
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khaled Mashud
+    - 34.6:
+        non_striker: Mohammad Rafique
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 35.1:
+        non_striker: Khaled Mashud
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 35.2:
+        non_striker: Khaled Mashud
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rafique
+    - 35.3:
+        non_striker: Khaled Mashud
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 35.4:
+        non_striker: Khaled Mashud
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 35.5:
+        non_striker: Khaled Mashud
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 35.6:
+        non_striker: Khaled Mashud
+        bowler: FH Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 36.1:
+        non_striker: Mohammad Rafique
+        bowler: TL Best
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khaled Mashud
+    - 36.2:
+        non_striker: Mohammad Rafique
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 36.3:
+        non_striker: Mohammad Rafique
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 36.4:
+        non_striker: Mohammad Rafique
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 36.5:
+        non_striker: Mohammad Rafique
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 36.6:
+        non_striker: Mohammad Rafique
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 36.7:
+        non_striker: Mohammad Rafique
+        bowler: TL Best
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 37.1:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 37.2:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Rafique
+    - 37.3:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 37.4:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 37.5:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 37.6:
+        non_striker: Mohammad Rafique
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 37.7:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 38.1:
+        non_striker: Mohammad Rafique
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 38.2:
+        non_striker: Mohammad Rafique
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 38.3:
+        non_striker: Khaled Mashud
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 38.4:
+        non_striker: Khaled Mashud
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 38.5:
+        non_striker: Mohammad Rafique
+        bowler: DR Smith
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: Khaled Mashud
+    - 38.6:
+        non_striker: Mohammad Rafique
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 38.7:
+        non_striker: Mohammad Rafique
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 39.1:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 39.2:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 39.3:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 39.4:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mohammad Rafique
+    - 39.5:
+        non_striker: Mohammad Rafique
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 39.6:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 39.7:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Rafique
+    - 39.8:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 40.1:
+        non_striker: Mohammad Rafique
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 40.2:
+        non_striker: Mohammad Rafique
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 40.3:
+        non_striker: Khaled Mashud
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rafique
+    - 40.4:
+        non_striker: Khaled Mashud
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 40.5:
+        non_striker: Khaled Mashud
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rafique
+    - 40.6:
+        non_striker: Khaled Mashud
+        bowler: DR Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 41.1:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 41.2:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 41.3:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 41.4:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 41.5:
+        non_striker: Mohammad Rafique
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khaled Mashud
+    - 41.6:
+        non_striker: Mohammad Rafique
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 42.1:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 42.2:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 42.3:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 42.4:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 42.5:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 42.6:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 43.1:
+        non_striker: Mohammad Rafique
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khaled Mashud
+    - 43.2:
+        non_striker: Mohammad Rafique
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 43.3:
+        non_striker: Mohammad Rafique
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 43.4:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 43.5:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 43.6:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 44.1:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 44.2:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 44.3:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 44.4:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 44.5:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 44.6:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 45.1:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rafique
+    - 45.2:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 45.3:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 45.4:
+        non_striker: Mohammad Rafique
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 45.5:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rafique
+    - 45.6:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 46.1:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 46.2:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 46.3:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 46.4:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 46.5:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 46.6:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 47.1:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 47.2:
+        non_striker: Mohammad Rafique
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 47.3:
+        non_striker: Mohammad Rafique
+        bowler: CH Gayle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Khaled Mashud
+    - 47.4:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rafique
+    - 47.5:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 47.6:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rafique
+    - 48.1:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 48.2:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 48.3:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 48.4:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 48.5:
+        non_striker: Khaled Mashud
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Rafique
+    - 48.6:
+        non_striker: Mohammad Rafique
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 49.1:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 49.2:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 49.3:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 49.4:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 49.5:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 49.6:
+        non_striker: Khaled Mashud
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rafique
+- 2nd innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.2:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.3:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.4:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.5:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.6:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: CH Gayle
+    - 0.7:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 1.1:
+        non_striker: CH Gayle
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 1.2:
+        non_striker: CH Gayle
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 1.3:
+        non_striker: CH Gayle
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 1.4:
+        non_striker: CH Gayle
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 1.5:
+        non_striker: CH Gayle
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 1.6:
+        non_striker: CH Gayle
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Powell
+    - 2.1:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 2.2:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+        wicket:
+          player_out: CH Gayle
+          fielders:
+          - Khaled Mashud
+          kind: caught
+    - 2.3:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 2.4:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 2.5:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 2.6:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 3.1:
+        non_striker: SC Joseph
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Powell
+    - 3.2:
+        non_striker: SC Joseph
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 3.3:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 3.4:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 3.5:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 3.6:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 4.1:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 4.2:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 4.3:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Powell
+    - 4.4:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 4.5:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Powell
+    - 4.6:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 5.1:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 5.2:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 5.3:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 5.4:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 5.5:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SC Joseph
+    - 5.6:
+        non_striker: SC Joseph
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RL Powell
+    - 5.7:
+        non_striker: SC Joseph
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 6.1:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 6.2:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Joseph
+    - 6.3:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 6.4:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 6.5:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 6.6:
+        non_striker: RL Powell
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 7.1:
+        non_striker: SC Joseph
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 7.2:
+        non_striker: SC Joseph
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 7.3:
+        non_striker: SC Joseph
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 7.4:
+        non_striker: SC Joseph
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 7.5:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 7.6:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 8.1:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Powell
+    - 8.2:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 8.3:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Powell
+    - 8.4:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 8.5:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 8.6:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 9.1:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 9.2:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 9.3:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SC Joseph
+    - 9.4:
+        non_striker: SC Joseph
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Powell
+    - 9.5:
+        non_striker: SC Joseph
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 9.6:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 10.1:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 10.2:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Powell
+    - 10.3:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 10.4:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 10.5:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 10.6:
+        non_striker: SC Joseph
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 11.1:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 11.2:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 11.3:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 11.4:
+        non_striker: RL Powell
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SC Joseph
+    - 11.5:
+        non_striker: SC Joseph
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 11.6:
+        non_striker: SC Joseph
+        bowler: Mushfiqur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Powell
+    - 12.1:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 12.2:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+    - 12.3:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Joseph
+        wicket:
+          player_out: SC Joseph
+          fielders:
+          - Khaled Mashud
+          kind: caught
+    - 12.4:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 12.5:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 12.6:
+        non_striker: S Chanderpaul
+        bowler: Khaled Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RL Powell
+    - 12.7:
+        non_striker: S Chanderpaul
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 13.1:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 13.2:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 13.3:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 13.4:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 13.5:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 13.6:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 14.1:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 14.2:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 14.3:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 14.4:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 14.5:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 14.6:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Chanderpaul
+    - 14.7:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 15.1:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 15.2:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 15.3:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 15.4:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 15.5:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 15.6:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 16.1:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 16.2:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 16.3:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 16.4:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 16.5:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 16.6:
+        non_striker: S Chanderpaul
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Powell
+    - 17.1:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 17.2:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 17.3:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 17.4:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 17.5:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 17.6:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 18.1:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 18.2:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 18.3:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 18.4:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 18.5:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 18.6:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 19.1:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 19.2:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 19.3:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 19.4:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 19.5:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Chanderpaul
+    - 19.6:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Powell
+    - 20.1:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 20.2:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 20.3:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 20.4:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 20.5:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 20.6:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 21.1:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Powell
+    - 21.2:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Powell
+    - 21.3:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 21.4:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 21.5:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 21.6:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 22.1:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 22.2:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 22.3:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 22.4:
+        non_striker: S Chanderpaul
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 22.5:
+        non_striker: S Chanderpaul
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 22.6:
+        non_striker: S Chanderpaul
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 23.1:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 23.2:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 23.3:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 23.4:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 23.5:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 23.6:
+        non_striker: RL Powell
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 24.1:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 24.2:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 24.3:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chanderpaul
+    - 24.4:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 24.5:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 24.6:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 25.1:
+        non_striker: RL Powell
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 25.2:
+        non_striker: RL Powell
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 25.3:
+        non_striker: RL Powell
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+        wicket:
+          player_out: S Chanderpaul
+          kind: lbw
+    - 25.4:
+        non_striker: RL Powell
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 25.5:
+        non_striker: RL Powell
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 25.6:
+        non_striker: RL Powell
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 26.1:
+        non_striker: RR Sarwan
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 26.2:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 26.3:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 26.4:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 26.5:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 26.6:
+        non_striker: RL Powell
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 27.1:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 27.2:
+        non_striker: RL Powell
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 27.3:
+        non_striker: RL Powell
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 27.4:
+        non_striker: RL Powell
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 27.5:
+        non_striker: RL Powell
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 27.6:
+        non_striker: RL Powell
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 28.1:
+        non_striker: RR Sarwan
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+        wicket:
+          player_out: RL Powell
+          kind: bowled
+    - 28.2:
+        non_striker: RR Sarwan
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 28.3:
+        non_striker: RR Sarwan
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 28.4:
+        non_striker: RR Sarwan
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 28.5:
+        non_striker: RR Sarwan
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 28.6:
+        non_striker: RR Sarwan
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 29.1:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 29.2:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 29.3:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 29.4:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Sarwan
+    - 29.5:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 29.6:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 30.1:
+        non_striker: DJ Bravo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 30.2:
+        non_striker: DJ Bravo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 30.3:
+        non_striker: DJ Bravo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Sarwan
+    - 30.4:
+        non_striker: RR Sarwan
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 30.5:
+        non_striker: DJ Bravo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 30.6:
+        non_striker: DJ Bravo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 31.1:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 31.2:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Bravo
+    - 31.3:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 31.4:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 31.5:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 31.6:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 31.7:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Sarwan
+    - 32.1:
+        non_striker: RR Sarwan
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 32.2:
+        non_striker: RR Sarwan
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 32.3:
+        non_striker: RR Sarwan
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 32.4:
+        non_striker: RR Sarwan
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 32.5:
+        non_striker: RR Sarwan
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 32.6:
+        non_striker: RR Sarwan
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 33.1:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Bravo
+    - 33.2:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 33.3:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 33.4:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 33.5:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 33.6:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 34.1:
+        non_striker: RR Sarwan
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 34.2:
+        non_striker: RR Sarwan
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 34.3:
+        non_striker: RR Sarwan
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Bravo
+    - 34.4:
+        non_striker: RR Sarwan
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 34.5:
+        non_striker: RR Sarwan
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 34.6:
+        non_striker: RR Sarwan
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 35.1:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 35.2:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Sarwan
+    - 35.3:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 35.4:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 35.5:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Sarwan
+    - 35.6:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 36.1:
+        non_striker: DJ Bravo
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 36.2:
+        non_striker: DJ Bravo
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Sarwan
+    - 36.3:
+        non_striker: DJ Bravo
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Sarwan
+    - 36.4:
+        non_striker: DJ Bravo
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 36.5:
+        non_striker: DJ Bravo
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 36.6:
+        non_striker: DJ Bravo
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Sarwan
+    - 37.1:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Sarwan
+    - 37.2:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Sarwan
+    - 37.3:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 37.4:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 37.5:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 37.6:
+        non_striker: RR Sarwan
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 38.1:
+        non_striker: RR Sarwan
+        bowler: Rajin Saleh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 38.2:
+        non_striker: DJ Bravo
+        bowler: Rajin Saleh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+        wicket:
+          player_out: RR Sarwan
+          fielders:
+          - Mushfiqur Rahman
+          kind: caught
+    - 38.3:
+        non_striker: DR Smith
+        bowler: Rajin Saleh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 38.4:
+        non_striker: DR Smith
+        bowler: Rajin Saleh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 38.5:
+        non_striker: DR Smith
+        bowler: Rajin Saleh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 38.6:
+        non_striker: DJ Bravo
+        bowler: Rajin Saleh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Smith
+    - 39.1:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Smith
+    - 39.2:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Smith
+    - 39.3:
+        non_striker: DR Smith
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 39.4:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Smith
+        wicket:
+          player_out: DR Smith
+          fielders:
+          - Khaled Mashud
+          kind: stumped
+    - 39.5:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 39.6:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 40.1:
+        non_striker: RD Jacobs
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 40.2:
+        non_striker: RD Jacobs
+        bowler: Mohammad Rafique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Bravo
+    - 40.3:
+        non_striker: DJ Bravo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Jacobs
+    - 40.4:
+        non_striker: RD Jacobs
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 40.5:
+        non_striker: DJ Bravo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+        wicket:
+          player_out: RD Jacobs
+          kind: run out
+    - 40.6:
+        non_striker: IDR Bradshaw
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 41.1:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+    - 41.2:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+    - 41.3:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+    - 41.4:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+    - 41.5:
+        non_striker: DJ Bravo
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+        wicket:
+          player_out: DJ Bravo
+          kind: run out
+    - 41.6:
+        non_striker: IDR Bradshaw
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Best
+    - 42.1:
+        non_striker: TL Best
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+    - 42.2:
+        non_striker: TL Best
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+    - 42.3:
+        non_striker: TL Best
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+    - 42.4:
+        non_striker: TL Best
+        bowler: Mohammad Rafique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IDR Bradshaw
+    - 42.5:
+        non_striker: TL Best
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: IDR Bradshaw
+    - 42.6:
+        non_striker: IDR Bradshaw
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Best
+    - 42.7:
+        non_striker: IDR Bradshaw
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Best
+    - 43.1:
+        non_striker: TL Best
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+    - 43.2:
+        non_striker: TL Best
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+    - 43.3:
+        non_striker: TL Best
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDR Bradshaw
+    - 43.4:
+        non_striker: IDR Bradshaw
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Best
+        wicket:
+          player_out: TL Best
+          kind: lbw
+    - 43.5:
+        non_striker: IDR Bradshaw
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Edwards
+    - 43.6:
+        non_striker: IDR Bradshaw
+        bowler: Manjural Islam Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Edwards
+    - 44.1:
+        non_striker: FH Edwards
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+    - 44.2:
+        non_striker: FH Edwards
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDR Bradshaw
+    - 44.3:
+        non_striker: IDR Bradshaw
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Edwards
+    - 44.4:
+        non_striker: IDR Bradshaw
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Edwards
+    - 44.5:
+        non_striker: IDR Bradshaw
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Edwards
+    - 44.6:
+        non_striker: IDR Bradshaw
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Edwards
+    - 45.1:
+        non_striker: FH Edwards
+        bowler: Rajin Saleh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IDR Bradshaw
+    - 45.2:
+        non_striker: FH Edwards
+        bowler: Rajin Saleh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+    - 45.3:
+        non_striker: FH Edwards
+        bowler: Rajin Saleh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+    - 45.4:
+        non_striker: FH Edwards
+        bowler: Rajin Saleh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDR Bradshaw
+    - 45.5:
+        non_striker: FH Edwards
+        bowler: Rajin Saleh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDR Bradshaw
+    - 45.6:
+        non_striker: IDR Bradshaw
+        bowler: Rajin Saleh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Edwards
+    - 46.1:
+        non_striker: IDR Bradshaw
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Edwards
+    - 46.2:
+        non_striker: IDR Bradshaw
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Edwards
+    - 46.3:
+        non_striker: IDR Bradshaw
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Edwards
+    - 46.4:
+        non_striker: IDR Bradshaw
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Edwards

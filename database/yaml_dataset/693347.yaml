@@ -1,0 +1,4460 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Cardiff
+  competition: Royal London One-Day Cup
+  dates:
+  - '2014-08-08'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Durham
+    by:
+      runs: 52
+  overs: 50
+  players:
+    Durham:
+    - MD Stoneman
+    - P Mustard
+    - CS MacLeod
+    - BA Stokes
+    - PD Collingwood
+    - SG Borthwick
+    - KK Jennings
+    - GR Breese
+    - JW Hastings
+    - P Coughlin
+    - G Onions
+    Glamorgan:
+    - JA Rudolph
+    - WD Bragg
+    - DL Lloyd
+    - J Allenby
+    - MW Goodwin
+    - CB Cooke
+    - MA Wallace
+    - GG Wagg
+    - JAR Harris
+    - DA Cosker
+    - MG Hogan
+  registry:
+    people:
+      BA Stokes: e087956b
+      CB Cooke: 6755cd5c
+      CS MacLeod: 9c376401
+      DA Cosker: aac9f784
+      DL Lloyd: 0c7f11be
+      G Onions: c1f6c27e
+      GG Wagg: 450f6fa6
+      GR Breese: fa92fc48
+      J Allenby: 7d5e0b78
+      JA Rudolph: 42537f07
+      JAR Harris: f1ba9ed7
+      JW Hastings: '012829ff'
+      KK Jennings: 8479a24a
+      MA Wallace: cabf72cc
+      MD Stoneman: 1b77f62b
+      MG Hogan: 5da34add
+      MR Benson: 790e14d3
+      MW Goodwin: 03ae720f
+      P Coughlin: '71440756'
+      P Mustard: 1b6fef02
+      P Willey: 1b647f99
+      PD Collingwood: a386e91b
+      SG Borthwick: 51e1ed69
+      WD Bragg: 7db8d00b
+  teams:
+  - Durham
+  - Glamorgan
+  toss:
+    winner: Durham
+    decision: bat
+  umpires:
+  - MR Benson
+  - P Willey
+  venue: Sophia Gardens, Cardiff
+innings:
+- 1st innings:
+    team: Durham
+    deliveries:
+    - 0.1:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Stoneman
+    - 0.2:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Stoneman
+        wicket:
+          player_out: MD Stoneman
+          fielders:
+          - MA Wallace
+          kind: caught
+    - 0.3:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 0.4:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 0.5:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 0.6:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: CS MacLeod
+    - 1.1:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 1.2:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 1.3:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 1.4:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Mustard
+    - 1.5:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 1.6:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 2.1:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 2.2:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 2.3:
+        non_striker: CS MacLeod
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 2.4:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 2.5:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS MacLeod
+    - 2.6:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 3.1:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 3.2:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 3.3:
+        non_striker: P Mustard
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 3.4:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 3.5:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 3.6:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 4.1:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS MacLeod
+    - 4.2:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 4.3:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CS MacLeod
+    - 4.4:
+        non_striker: CS MacLeod
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 4.5:
+        non_striker: CS MacLeod
+        bowler: MG Hogan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Mustard
+    - 4.6:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 5.1:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 5.2:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mustard
+    - 5.3:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 5.4:
+        non_striker: P Mustard
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 5.5:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 5.6:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 6.1:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 6.2:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CS MacLeod
+    - 6.3:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 6.4:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 6.5:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 6.6:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 6.7:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 7.1:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 7.2:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 7.3:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mustard
+    - 7.4:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 7.5:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mustard
+    - 7.6:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mustard
+    - 8.1:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 8.2:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 8.3:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 8.4:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CS MacLeod
+    - 8.5:
+        non_striker: CS MacLeod
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 8.6:
+        non_striker: CS MacLeod
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 9.1:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 9.2:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS MacLeod
+    - 9.3:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 9.4:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 9.5:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 9.6:
+        non_striker: CS MacLeod
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 10.1:
+        non_striker: P Mustard
+        bowler: GG Wagg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CS MacLeod
+    - 10.2:
+        non_striker: P Mustard
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 10.3:
+        non_striker: P Mustard
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 10.4:
+        non_striker: P Mustard
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 10.5:
+        non_striker: P Mustard
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 10.6:
+        non_striker: P Mustard
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS MacLeod
+    - 10.7:
+        non_striker: P Mustard
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 11.1:
+        non_striker: CS MacLeod
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 11.2:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS MacLeod
+    - 11.3:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 11.4:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 11.5:
+        non_striker: CS MacLeod
+        bowler: JAR Harris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Mustard
+    - 11.6:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 12.1:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 12.2:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 12.3:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 12.4:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mustard
+    - 12.5:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mustard
+    - 12.6:
+        non_striker: CS MacLeod
+        bowler: GG Wagg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 13.1:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 13.2:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Mustard
+    - 13.3:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 13.4:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 13.5:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 13.6:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 13.7:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 14.1:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 14.2:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 14.3:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 14.4:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 14.5:
+        non_striker: CS MacLeod
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 14.6:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS MacLeod
+    - 15.1:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 15.2:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 15.3:
+        non_striker: P Mustard
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 15.4:
+        non_striker: P Mustard
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 15.5:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 15.6:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 16.1:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 16.2:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 16.3:
+        non_striker: CS MacLeod
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 16.4:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 16.5:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CS MacLeod
+    - 16.6:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 16.7:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS MacLeod
+    - 17.1:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Mustard
+    - 17.2:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 17.3:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 17.4:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 17.5:
+        non_striker: P Mustard
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 17.6:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 18.1:
+        non_striker: CS MacLeod
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 18.2:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 18.3:
+        non_striker: CS MacLeod
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 18.4:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 18.5:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 18.6:
+        non_striker: P Mustard
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS MacLeod
+    - 19.1:
+        non_striker: CS MacLeod
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 19.2:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 19.3:
+        non_striker: CS MacLeod
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 19.4:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 19.5:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS MacLeod
+    - 19.6:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 20.1:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 20.2:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 20.3:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 20.4:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 20.5:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 20.6:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 21.1:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 21.2:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS MacLeod
+    - 21.3:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 21.4:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 21.5:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 21.6:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 22.1:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 22.2:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mustard
+    - 22.3:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 22.4:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 22.5:
+        non_striker: CS MacLeod
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 22.6:
+        non_striker: P Mustard
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 23.1:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+    - 23.2:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS MacLeod
+    - 23.3:
+        non_striker: CS MacLeod
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 23.4:
+        non_striker: CS MacLeod
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 23.5:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS MacLeod
+        wicket:
+          player_out: CS MacLeod
+          kind: lbw
+    - 23.6:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: BA Stokes
+    - 24.1:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 24.2:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 24.3:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 24.4:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Mustard
+    - 24.5:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 24.6:
+        non_striker: P Mustard
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 25.1:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+    - 25.2:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mustard
+    - 25.3:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 25.4:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 25.5:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 25.6:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Stokes
+    - 25.7:
+        non_striker: P Mustard
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Stokes
+    - 26.1:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mustard
+        wicket:
+          player_out: P Mustard
+          kind: bowled
+    - 26.2:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 26.3:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 26.4:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 26.5:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 26.6:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 27.1:
+        non_striker: PD Collingwood
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 27.2:
+        non_striker: PD Collingwood
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 27.3:
+        non_striker: PD Collingwood
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 27.4:
+        non_striker: PD Collingwood
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 27.5:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 27.6:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 28.1:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+        wicket:
+          player_out: PD Collingwood
+          kind: lbw
+    - 28.2:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+    - 28.3:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+    - 28.4:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+    - 28.5:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Borthwick
+    - 28.6:
+        non_striker: SG Borthwick
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Stokes
+    - 29.1:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+    - 29.2:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+    - 29.3:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+    - 29.4:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+    - 29.5:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Borthwick
+    - 29.6:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+    - 30.1:
+        non_striker: SG Borthwick
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Stokes
+    - 30.2:
+        non_striker: SG Borthwick
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 30.3:
+        non_striker: SG Borthwick
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 30.4:
+        non_striker: SG Borthwick
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 30.5:
+        non_striker: SG Borthwick
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 30.6:
+        non_striker: SG Borthwick
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 31.1:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+        wicket:
+          player_out: SG Borthwick
+          kind: lbw
+    - 31.2:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 31.3:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 31.4:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 31.5:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 31.6:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 32.1:
+        non_striker: KK Jennings
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 32.2:
+        non_striker: KK Jennings
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 32.3:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 32.4:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 32.5:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 32.6:
+        non_striker: BA Stokes
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 33.1:
+        non_striker: KK Jennings
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 33.2:
+        non_striker: KK Jennings
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 33.3:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 33.4:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 33.5:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+        wicket:
+          player_out: KK Jennings
+          fielders:
+          - MA Wallace
+          kind: caught
+    - 33.6:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 34.1:
+        non_striker: GR Breese
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 34.2:
+        non_striker: GR Breese
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Stokes
+    - 34.3:
+        non_striker: GR Breese
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Stokes
+    - 34.4:
+        non_striker: GR Breese
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 34.5:
+        non_striker: GR Breese
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 34.6:
+        non_striker: BA Stokes
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Breese
+    - 35.1:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 35.2:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 35.3:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 35.4:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Breese
+    - 35.5:
+        non_striker: GR Breese
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 35.6:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 36.1:
+        non_striker: GR Breese
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 36.2:
+        non_striker: BA Stokes
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 36.3:
+        non_striker: BA Stokes
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 36.4:
+        non_striker: BA Stokes
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 36.5:
+        non_striker: BA Stokes
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 36.6:
+        non_striker: BA Stokes
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 37.1:
+        non_striker: GR Breese
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Stokes
+    - 37.2:
+        non_striker: GR Breese
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 37.3:
+        non_striker: GR Breese
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 37.4:
+        non_striker: BA Stokes
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Breese
+    - 37.5:
+        non_striker: GR Breese
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 37.6:
+        non_striker: GR Breese
+        bowler: DA Cosker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 38.1:
+        non_striker: GR Breese
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 38.2:
+        non_striker: GR Breese
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Stokes
+    - 38.3:
+        non_striker: GR Breese
+        bowler: JAR Harris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BA Stokes
+    - 38.4:
+        non_striker: BA Stokes
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 38.5:
+        non_striker: BA Stokes
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 38.6:
+        non_striker: BA Stokes
+        bowler: JAR Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 39.1:
+        non_striker: GR Breese
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Stokes
+    - 39.2:
+        non_striker: GR Breese
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 39.3:
+        non_striker: GR Breese
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 39.4:
+        non_striker: BA Stokes
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Breese
+    - 39.5:
+        non_striker: GR Breese
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 39.6:
+        non_striker: BA Stokes
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 40.1:
+        non_striker: GR Breese
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Stokes
+    - 40.2:
+        non_striker: GR Breese
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+        wicket:
+          player_out: BA Stokes
+          fielders:
+          - MG Hogan
+          kind: caught
+    - 40.3:
+        non_striker: GR Breese
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Hastings
+    - 40.4:
+        non_striker: GR Breese
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Hastings
+        wicket:
+          player_out: JW Hastings
+          fielders:
+          - J Allenby
+          kind: caught
+    - 40.5:
+        non_striker: GR Breese
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Coughlin
+    - 40.6:
+        non_striker: GR Breese
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Coughlin
+        wicket:
+          player_out: P Coughlin
+          kind: bowled
+    - 41.1:
+        non_striker: G Onions
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Breese
+    - 41.2:
+        non_striker: GR Breese
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Onions
+    - 41.3:
+        non_striker: GR Breese
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Onions
+    - 41.4:
+        non_striker: GR Breese
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Onions
+    - 41.5:
+        non_striker: GR Breese
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Onions
+    - 41.6:
+        non_striker: G Onions
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 42.1:
+        non_striker: GR Breese
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Onions
+    - 42.2:
+        non_striker: G Onions
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 42.3:
+        non_striker: G Onions
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 42.4:
+        non_striker: G Onions
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Breese
+    - 42.5:
+        non_striker: G Onions
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 42.6:
+        non_striker: G Onions
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Breese
+    - 43.1:
+        non_striker: G Onions
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Breese
+    - 43.2:
+        non_striker: GR Breese
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Onions
+    - 43.3:
+        non_striker: GR Breese
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Onions
+    - 43.4:
+        non_striker: G Onions
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 43.5:
+        non_striker: G Onions
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Breese
+    - 43.6:
+        non_striker: G Onions
+        bowler: J Allenby
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Breese
+    - 44.1:
+        non_striker: GR Breese
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Onions
+    - 44.2:
+        non_striker: GR Breese
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Onions
+    - 44.3:
+        non_striker: GR Breese
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Onions
+    - 44.4:
+        non_striker: GR Breese
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Onions
+    - 44.5:
+        non_striker: GR Breese
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Onions
+    - 44.6:
+        non_striker: GR Breese
+        bowler: DL Lloyd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Onions
+        wicket:
+          player_out: G Onions
+          fielders:
+          - J Allenby
+          kind: caught
+- 2nd innings:
+    team: Glamorgan
+    deliveries:
+    - 0.1:
+        non_striker: WD Bragg
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 0.2:
+        non_striker: WD Bragg
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 0.3:
+        non_striker: WD Bragg
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 0.4:
+        non_striker: WD Bragg
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 0.5:
+        non_striker: WD Bragg
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 0.6:
+        non_striker: WD Bragg
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 1.1:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Bragg
+    - 1.2:
+        non_striker: WD Bragg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 1.3:
+        non_striker: WD Bragg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 1.4:
+        non_striker: WD Bragg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 1.5:
+        non_striker: WD Bragg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 1.6:
+        non_striker: WD Bragg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 2.1:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Bragg
+    - 2.2:
+        non_striker: WD Bragg
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 2.3:
+        non_striker: WD Bragg
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 2.4:
+        non_striker: WD Bragg
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 2.5:
+        non_striker: WD Bragg
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Rudolph
+    - 2.6:
+        non_striker: WD Bragg
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 3.1:
+        non_striker: WD Bragg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 3.2:
+        non_striker: WD Bragg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 3.3:
+        non_striker: WD Bragg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 3.4:
+        non_striker: WD Bragg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 3.5:
+        non_striker: WD Bragg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 3.6:
+        non_striker: WD Bragg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 4.1:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Bragg
+        wicket:
+          player_out: WD Bragg
+          fielders:
+          - BA Stokes
+          kind: caught
+    - 4.2:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Lloyd
+        wicket:
+          player_out: DL Lloyd
+          kind: bowled
+    - 4.3:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Allenby
+    - 4.4:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Allenby
+    - 4.5:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Allenby
+    - 4.6:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Allenby
+        wicket:
+          player_out: J Allenby
+          kind: lbw
+    - 5.1:
+        non_striker: MW Goodwin
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 5.2:
+        non_striker: MW Goodwin
+        bowler: P Coughlin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Rudolph
+    - 5.3:
+        non_striker: MW Goodwin
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 5.4:
+        non_striker: MW Goodwin
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 5.5:
+        non_striker: MW Goodwin
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 5.6:
+        non_striker: MW Goodwin
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 5.7:
+        non_striker: MW Goodwin
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 6.1:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 6.2:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 6.3:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 6.4:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 6.5:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 6.6:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 7.1:
+        non_striker: MW Goodwin
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 7.2:
+        non_striker: MW Goodwin
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 7.3:
+        non_striker: MW Goodwin
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 7.4:
+        non_striker: MW Goodwin
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 7.5:
+        non_striker: MW Goodwin
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 7.6:
+        non_striker: MW Goodwin
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 8.1:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 8.2:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 8.3:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 8.4:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MW Goodwin
+    - 8.5:
+        non_striker: MW Goodwin
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 8.6:
+        non_striker: MW Goodwin
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 9.1:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 9.2:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 9.3:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 9.4:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 9.5:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 9.6:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 10.1:
+        non_striker: MW Goodwin
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 10.2:
+        non_striker: MW Goodwin
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 10.3:
+        non_striker: MW Goodwin
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 10.4:
+        non_striker: MW Goodwin
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 10.5:
+        non_striker: MW Goodwin
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 10.6:
+        non_striker: MW Goodwin
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 11.1:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 11.2:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Goodwin
+    - 11.3:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 11.4:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Goodwin
+    - 11.5:
+        non_striker: MW Goodwin
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 11.6:
+        non_striker: MW Goodwin
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 12.1:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 12.2:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 12.3:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 12.4:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 12.5:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 12.6:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 13.1:
+        non_striker: MW Goodwin
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 13.2:
+        non_striker: MW Goodwin
+        bowler: BA Stokes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Rudolph
+    - 13.3:
+        non_striker: MW Goodwin
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 13.4:
+        non_striker: MW Goodwin
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 13.5:
+        non_striker: MW Goodwin
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 13.6:
+        non_striker: MW Goodwin
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 13.7:
+        non_striker: MW Goodwin
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 14.1:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 14.2:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 14.3:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+    - 14.4:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Goodwin
+        wicket:
+          player_out: MW Goodwin
+          kind: lbw
+    - 14.5:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+    - 14.6:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CB Cooke
+    - 15.1:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+    - 15.2:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+    - 15.3:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+    - 15.4:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+    - 15.5:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+    - 15.6:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+    - 16.1:
+        non_striker: CB Cooke
+        bowler: JW Hastings
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Rudolph
+    - 16.2:
+        non_striker: CB Cooke
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 16.3:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+    - 16.4:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CB Cooke
+    - 16.5:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+    - 16.6:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+    - 16.7:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CB Cooke
+    - 17.1:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+    - 17.2:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+    - 17.3:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+    - 17.4:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Cooke
+        wicket:
+          player_out: CB Cooke
+          fielders:
+          - P Mustard
+          kind: caught
+    - 17.5:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 17.6:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 18.1:
+        non_striker: MA Wallace
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 18.2:
+        non_striker: MA Wallace
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 18.3:
+        non_striker: MA Wallace
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 18.4:
+        non_striker: MA Wallace
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 18.5:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 18.6:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 19.1:
+        non_striker: MA Wallace
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 19.2:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 19.3:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 19.4:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Wallace
+    - 19.5:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 19.6:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Wallace
+    - 19.7:
+        non_striker: JA Rudolph
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Wallace
+    - 20.1:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 20.2:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 20.3:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 20.4:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 20.5:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 20.6:
+        non_striker: JA Rudolph
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 21.1:
+        non_striker: MA Wallace
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 21.2:
+        non_striker: MA Wallace
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 21.3:
+        non_striker: MA Wallace
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 21.4:
+        non_striker: MA Wallace
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 21.5:
+        non_striker: MA Wallace
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 21.6:
+        non_striker: MA Wallace
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 22.1:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 22.2:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 22.3:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 22.4:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 22.5:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 22.6:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Wallace
+    - 23.1:
+        non_striker: MA Wallace
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 23.2:
+        non_striker: MA Wallace
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 23.3:
+        non_striker: MA Wallace
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 23.4:
+        non_striker: MA Wallace
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 23.5:
+        non_striker: MA Wallace
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 23.6:
+        non_striker: MA Wallace
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 24.1:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Wallace
+    - 24.2:
+        non_striker: MA Wallace
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 24.3:
+        non_striker: MA Wallace
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 24.4:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Wallace
+    - 24.5:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Wallace
+    - 24.6:
+        non_striker: MA Wallace
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 24.7:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Wallace
+    - 25.1:
+        non_striker: JA Rudolph
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 25.2:
+        non_striker: JA Rudolph
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+    - 25.3:
+        non_striker: JA Rudolph
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Wallace
+        wicket:
+          player_out: MA Wallace
+          fielders:
+          - P Mustard
+          kind: caught
+    - 25.4:
+        non_striker: JA Rudolph
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Wagg
+    - 25.5:
+        non_striker: JA Rudolph
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Wagg
+    - 25.6:
+        non_striker: JA Rudolph
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Wagg
+    - 26.1:
+        non_striker: GG Wagg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 26.2:
+        non_striker: GG Wagg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 26.3:
+        non_striker: GG Wagg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 26.4:
+        non_striker: GG Wagg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 26.5:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: GG Wagg
+    - 26.6:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Wagg
+    - 27.1:
+        non_striker: GG Wagg
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 27.2:
+        non_striker: GG Wagg
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 27.3:
+        non_striker: GG Wagg
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 27.4:
+        non_striker: GG Wagg
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 27.5:
+        non_striker: GG Wagg
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 27.6:
+        non_striker: GG Wagg
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 28.1:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Wagg
+    - 28.2:
+        non_striker: GG Wagg
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 28.3:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Wagg
+    - 28.4:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GG Wagg
+    - 28.5:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Wagg
+    - 28.6:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Wagg
+    - 28.7:
+        non_striker: JA Rudolph
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Wagg
+    - 29.1:
+        non_striker: JA Rudolph
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GG Wagg
+    - 29.2:
+        non_striker: GG Wagg
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Rudolph
+    - 29.3:
+        non_striker: GG Wagg
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 29.4:
+        non_striker: GG Wagg
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 29.5:
+        non_striker: JA Rudolph
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GG Wagg
+        wicket:
+          player_out: GG Wagg
+          kind: bowled
+    - 29.6:
+        non_striker: JA Rudolph
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 30.1:
+        non_striker: JAR Harris
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 30.2:
+        non_striker: JAR Harris
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 30.3:
+        non_striker: JAR Harris
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 30.4:
+        non_striker: JAR Harris
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 30.5:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 30.6:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JAR Harris
+    - 31.1:
+        non_striker: JAR Harris
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 31.2:
+        non_striker: JAR Harris
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 31.3:
+        non_striker: JAR Harris
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 31.4:
+        non_striker: JAR Harris
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 31.5:
+        non_striker: JAR Harris
+        bowler: PD Collingwood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Rudolph
+    - 31.6:
+        non_striker: JAR Harris
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 31.7:
+        non_striker: JA Rudolph
+        bowler: PD Collingwood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JAR Harris
+    - 32.1:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 32.2:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 32.3:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAR Harris
+    - 32.4:
+        non_striker: JAR Harris
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 32.5:
+        non_striker: JAR Harris
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 32.6:
+        non_striker: JA Rudolph
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JAR Harris
+    - 33.1:
+        non_striker: JAR Harris
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 33.2:
+        non_striker: JAR Harris
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 33.3:
+        non_striker: JA Rudolph
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAR Harris
+    - 33.4:
+        non_striker: JAR Harris
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+        wicket:
+          player_out: JA Rudolph
+          fielders:
+          - P Mustard
+          kind: caught
+    - 33.5:
+        non_striker: JAR Harris
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Cosker
+    - 33.6:
+        non_striker: JAR Harris
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Cosker
+    - 34.1:
+        non_striker: DA Cosker
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 34.2:
+        non_striker: DA Cosker
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 34.3:
+        non_striker: DA Cosker
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 34.4:
+        non_striker: DA Cosker
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAR Harris
+    - 34.5:
+        non_striker: JAR Harris
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Cosker
+    - 34.6:
+        non_striker: JAR Harris
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Cosker
+        wicket:
+          player_out: DA Cosker
+          kind: bowled
+    - 35.1:
+        non_striker: MG Hogan
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 35.2:
+        non_striker: MG Hogan
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 35.3:
+        non_striker: MG Hogan
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAR Harris
+    - 35.4:
+        non_striker: JAR Harris
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 35.5:
+        non_striker: JAR Harris
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 35.6:
+        non_striker: JAR Harris
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 36.1:
+        non_striker: MG Hogan
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JAR Harris
+    - 36.2:
+        non_striker: MG Hogan
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 36.3:
+        non_striker: MG Hogan
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAR Harris
+    - 36.4:
+        non_striker: JAR Harris
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 36.5:
+        non_striker: JAR Harris
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 36.6:
+        non_striker: JAR Harris
+        bowler: G Onions
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 37.1:
+        non_striker: MG Hogan
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 37.2:
+        non_striker: MG Hogan
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 37.3:
+        non_striker: MG Hogan
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 37.4:
+        non_striker: MG Hogan
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 37.5:
+        non_striker: MG Hogan
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 37.6:
+        non_striker: MG Hogan
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAR Harris
+    - 38.1:
+        non_striker: MG Hogan
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 38.2:
+        non_striker: MG Hogan
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 38.3:
+        non_striker: MG Hogan
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 38.4:
+        non_striker: MG Hogan
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAR Harris
+    - 38.5:
+        non_striker: JAR Harris
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 38.6:
+        non_striker: JAR Harris
+        bowler: BA Stokes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Hogan
+    - 38.7:
+        non_striker: JAR Harris
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Hogan
+    - 39.1:
+        non_striker: MG Hogan
+        bowler: JW Hastings
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: JAR Harris
+    - 39.2:
+        non_striker: MG Hogan
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+    - 39.3:
+        non_striker: MG Hogan
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAR Harris
+    - 39.4:
+        non_striker: JAR Harris
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 39.5:
+        non_striker: JAR Harris
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 39.6:
+        non_striker: JAR Harris
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 39.7:
+        non_striker: JAR Harris
+        bowler: JW Hastings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 40.1:
+        non_striker: MG Hogan
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JAR Harris
+    - 40.2:
+        non_striker: JAR Harris
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 40.3:
+        non_striker: JAR Harris
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Hogan
+    - 40.4:
+        non_striker: JAR Harris
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 40.5:
+        non_striker: JAR Harris
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 40.6:
+        non_striker: JAR Harris
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Hogan
+    - 41.1:
+        non_striker: MG Hogan
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JAR Harris
+        wicket:
+          player_out: JAR Harris
+          fielders:
+          - GR Breese
+          kind: caught

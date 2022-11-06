@@ -1,0 +1,2178 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Paarl
+  competition: Ram Slam T20 Challenge
+  dates:
+  - '2017-11-24'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Cape Cobras
+    by:
+      runs: 6
+  overs: 20
+  player_of_match:
+  - JP Duminy
+  - GF Linde
+  players:
+    Cape Cobras:
+    - RE Levi
+    - HM Amla
+    - T Bavuma
+    - JP Duminy
+    - FD Adams
+    - VD Philander
+    - RK Kleinveldt
+    - A Mgijima
+    - GF Linde
+    - K Verreynne
+    - M Nabe
+    Lions:
+    - HE van der Dussen
+    - RR Hendricks
+    - OA Ramela
+    - M Mosehle
+    - D Pretorius
+    - NJ van den Bergh
+    - PWA Mulder
+    - GC Viljoen
+    - BC Fortuin
+    - K Rabada
+    - AM Phangiso
+  registry:
+    people:
+      A Mgijima: 955e8e86
+      A Steenkamp: 89c62cf5
+      AM Phangiso: 7f8ecc51
+      BC Fortuin: 9a2fc964
+      BP Jele: 7bb1331e
+      CD Isaacs: c0215bbd
+      D Pretorius: 11614d87
+      FD Adams: f277f531
+      GC Viljoen: a316d663
+      GF Linde: e5437608
+      HE van der Dussen: 9948e262
+      HM Amla: e798611a
+      JP Duminy: 2e8994e7
+      K Rabada: e62dd25d
+      K Verreynne: bf814547
+      LH Matroos: 6fa18157
+      M Mosehle: 8836fcac
+      M Nabe: 6ed11905
+      MW Brown: d83d7796
+      NJ van den Bergh: 055e8d7b
+      OA Ramela: 04a5b56e
+      PWA Mulder: c96f6ac5
+      RE Levi: 18c78b11
+      RK Kleinveldt: 7955eb15
+      RR Hendricks: b8cc58c9
+      T Bavuma: 9ffd1ac1
+      VD Philander: cfe70281
+  teams:
+  - Cape Cobras
+  - Lions
+  toss:
+    winner: Lions
+    decision: field
+  umpires:
+  - A Steenkamp
+  - BP Jele
+  venue: Boland Park, Paarl
+innings:
+- 1st innings:
+    team: Cape Cobras
+    deliveries:
+    - 0.1:
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HM Amla
+        batsman: RE Levi
+    - 0.2:
+        non_striker: RE Levi
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 0.3:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RE Levi
+    - 0.4:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RE Levi
+    - 0.5:
+        non_striker: RE Levi
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 0.6:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Levi
+    - 0.7:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Levi
+    - 1.1:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Levi
+    - 1.2:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Levi
+    - 1.3:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Levi
+    - 1.4:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Levi
+    - 1.5:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Levi
+    - 1.6:
+        non_striker: RE Levi
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Amla
+    - 2.1:
+        non_striker: HM Amla
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE Levi
+    - 2.2:
+        non_striker: HM Amla
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE Levi
+    - 2.3:
+        non_striker: RE Levi
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 2.4:
+        non_striker: HM Amla
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Levi
+    - 2.5:
+        non_striker: HM Amla
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Levi
+        wicket:
+          player_out: RE Levi
+          fielders:
+          - D Pretorius
+          kind: caught
+    - 2.6:
+        non_striker: T Bavuma
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 3.1:
+        non_striker: T Bavuma
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 3.2:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 3.3:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 3.4:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Bavuma
+    - 3.5:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+    - 3.6:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Bavuma
+        wicket:
+          player_out: T Bavuma
+          fielders:
+          - HE van der Dussen
+          kind: caught
+    - 4.1:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Duminy
+    - 4.2:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 4.3:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 4.4:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Duminy
+    - 4.5:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 4.6:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Duminy
+    - 5.1:
+        non_striker: JP Duminy
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Amla
+    - 5.2:
+        non_striker: JP Duminy
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 5.3:
+        non_striker: HM Amla
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 5.4:
+        non_striker: HM Amla
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 5.5:
+        non_striker: HM Amla
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 5.6:
+        non_striker: JP Duminy
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Amla
+    - 6.1:
+        non_striker: HM Amla
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 6.2:
+        non_striker: JP Duminy
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 6.3:
+        non_striker: HM Amla
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 6.4:
+        non_striker: HM Amla
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Duminy
+    - 6.5:
+        non_striker: JP Duminy
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 6.6:
+        non_striker: HM Amla
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 7.1:
+        non_striker: HM Amla
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 7.2:
+        non_striker: JP Duminy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 7.3:
+        non_striker: HM Amla
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 7.4:
+        non_striker: HM Amla
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 7.5:
+        non_striker: JP Duminy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Amla
+    - 7.6:
+        non_striker: JP Duminy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 8.1:
+        non_striker: JP Duminy
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Amla
+    - 8.2:
+        non_striker: JP Duminy
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Amla
+    - 8.3:
+        non_striker: JP Duminy
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 8.4:
+        non_striker: HM Amla
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 8.5:
+        non_striker: JP Duminy
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Amla
+    - 8.6:
+        non_striker: JP Duminy
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 9.1:
+        non_striker: JP Duminy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Amla
+    - 9.2:
+        non_striker: JP Duminy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Amla
+    - 9.3:
+        non_striker: JP Duminy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Amla
+    - 9.4:
+        non_striker: JP Duminy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Amla
+    - 9.5:
+        non_striker: JP Duminy
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 9.6:
+        non_striker: HM Amla
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Duminy
+    - 10.1:
+        non_striker: JP Duminy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Amla
+    - 10.2:
+        non_striker: JP Duminy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 10.3:
+        non_striker: HM Amla
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 10.4:
+        non_striker: JP Duminy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 10.5:
+        non_striker: HM Amla
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 10.6:
+        non_striker: JP Duminy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Amla
+    - 11.1:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 11.2:
+        non_striker: JP Duminy
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 11.3:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 11.4:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 11.5:
+        non_striker: JP Duminy
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 11.6:
+        non_striker: HM Amla
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 12.1:
+        non_striker: HM Amla
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Duminy
+    - 12.2:
+        non_striker: HM Amla
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 12.3:
+        non_striker: JP Duminy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 12.4:
+        non_striker: HM Amla
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 12.5:
+        non_striker: HM Amla
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Duminy
+    - 12.6:
+        non_striker: JP Duminy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Amla
+    - 13.1:
+        non_striker: HM Amla
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 13.2:
+        non_striker: HM Amla
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 13.3:
+        non_striker: HM Amla
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Duminy
+    - 13.4:
+        non_striker: HM Amla
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Duminy
+    - 13.5:
+        non_striker: HM Amla
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 13.6:
+        non_striker: HM Amla
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 14.1:
+        non_striker: HM Amla
+        bowler: D Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Duminy
+    - 14.2:
+        non_striker: JP Duminy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 14.3:
+        non_striker: HM Amla
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Duminy
+    - 14.4:
+        non_striker: HM Amla
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Duminy
+    - 14.5:
+        non_striker: HM Amla
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Duminy
+    - 14.6:
+        non_striker: HM Amla
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 15.1:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 15.2:
+        non_striker: JP Duminy
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Amla
+    - 15.3:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Duminy
+    - 15.4:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 15.5:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 15.6:
+        non_striker: HM Amla
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Duminy
+    - 16.1:
+        non_striker: JP Duminy
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Amla
+        wicket:
+          player_out: HM Amla
+          fielders:
+          - BC Fortuin
+          kind: caught
+    - 16.2:
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: FD Adams
+        batsman: JP Duminy
+    - 16.3:
+        non_striker: JP Duminy
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FD Adams
+    - 16.4:
+        non_striker: FD Adams
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JP Duminy
+    - 16.5:
+        non_striker: JP Duminy
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FD Adams
+        wicket:
+          player_out: FD Adams
+          fielders:
+          - RR Hendricks
+          kind: caught
+    - 16.6:
+        non_striker: VD Philander
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+    - 17.1:
+        non_striker: JP Duminy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VD Philander
+    - 17.2:
+        non_striker: JP Duminy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VD Philander
+    - 17.3:
+        non_striker: JP Duminy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VD Philander
+    - 17.4:
+        non_striker: VD Philander
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Duminy
+    - 17.5:
+        non_striker: JP Duminy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VD Philander
+    - 17.6:
+        non_striker: JP Duminy
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VD Philander
+    - 18.1:
+        non_striker: VD Philander
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Duminy
+        wicket:
+          player_out: JP Duminy
+          kind: bowled
+    - 18.2:
+        non_striker: VD Philander
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Kleinveldt
+    - 18.3:
+        non_striker: VD Philander
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: RK Kleinveldt
+    - 18.4:
+        non_striker: RK Kleinveldt
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VD Philander
+    - 18.5:
+        non_striker: VD Philander
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RK Kleinveldt
+    - 18.6:
+        non_striker: VD Philander
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Kleinveldt
+    - 18.7:
+        non_striker: VD Philander
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Kleinveldt
+    - 18.8:
+        non_striker: VD Philander
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Kleinveldt
+    - 19.1:
+        non_striker: RK Kleinveldt
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Philander
+        wicket:
+          player_out: VD Philander
+          kind: bowled
+    - 19.2:
+        non_striker: RK Kleinveldt
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mgijima
+    - 19.3:
+        non_striker: A Mgijima
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Kleinveldt
+    - 19.4:
+        non_striker: RK Kleinveldt
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mgijima
+    - 19.5:
+        non_striker: RK Kleinveldt
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mgijima
+    - 19.6:
+        non_striker: RK Kleinveldt
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mgijima
+    - 19.7:
+        non_striker: RK Kleinveldt
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mgijima
+        wicket:
+          player_out: A Mgijima
+          fielders:
+          - M Mosehle
+          - GC Viljoen
+          kind: run out
+    - 19.8:
+        non_striker: GF Linde
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Kleinveldt
+- 2nd innings:
+    team: Lions
+    deliveries:
+    - 0.1:
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RR Hendricks
+        batsman: HE van der Dussen
+    - 0.2:
+        non_striker: HE van der Dussen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 0.3:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 0.4:
+        non_striker: HE van der Dussen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 0.5:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 0.6:
+        non_striker: HE van der Dussen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 1.1:
+        non_striker: HE van der Dussen
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 1.2:
+        non_striker: RR Hendricks
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 1.3:
+        non_striker: RR Hendricks
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 1.4:
+        non_striker: RR Hendricks
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 1.5:
+        non_striker: RR Hendricks
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 1.6:
+        non_striker: RR Hendricks
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 2.1:
+        non_striker: HE van der Dussen
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 2.2:
+        non_striker: HE van der Dussen
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 2.3:
+        non_striker: HE van der Dussen
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 2.4:
+        non_striker: RR Hendricks
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 2.5:
+        non_striker: HE van der Dussen
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 2.6:
+        non_striker: HE van der Dussen
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 3.1:
+        non_striker: RR Hendricks
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 3.2:
+        non_striker: RR Hendricks
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 3.3:
+        non_striker: RR Hendricks
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HE van der Dussen
+    - 3.4:
+        non_striker: HE van der Dussen
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 3.5:
+        non_striker: HE van der Dussen
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 3.6:
+        non_striker: HE van der Dussen
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 4.1:
+        non_striker: RR Hendricks
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 4.2:
+        non_striker: HE van der Dussen
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 4.3:
+        non_striker: RR Hendricks
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 4.4:
+        non_striker: RR Hendricks
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 4.5:
+        non_striker: RR Hendricks
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 4.6:
+        non_striker: RR Hendricks
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 5.1:
+        non_striker: HE van der Dussen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 5.2:
+        non_striker: HE van der Dussen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 5.3:
+        non_striker: HE van der Dussen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 5.4:
+        non_striker: HE van der Dussen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 5.5:
+        non_striker: RR Hendricks
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 5.6:
+        non_striker: RR Hendricks
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 6.1:
+        non_striker: HE van der Dussen
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.2:
+        non_striker: RR Hendricks
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 6.3:
+        non_striker: HE van der Dussen
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.4:
+        non_striker: RR Hendricks
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 6.5:
+        non_striker: HE van der Dussen
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 6.6:
+        non_striker: HE van der Dussen
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 7.1:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 7.2:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 7.3:
+        non_striker: RR Hendricks
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.4:
+        non_striker: HE van der Dussen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 7.5:
+        non_striker: HE van der Dussen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          fielders:
+          - FD Adams
+          kind: caught
+    - 7.6:
+        non_striker: OA Ramela
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 8.1:
+        non_striker: HE van der Dussen
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OA Ramela
+    - 8.2:
+        non_striker: HE van der Dussen
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OA Ramela
+    - 8.3:
+        non_striker: OA Ramela
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 8.4:
+        non_striker: HE van der Dussen
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OA Ramela
+    - 8.5:
+        non_striker: HE van der Dussen
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OA Ramela
+    - 8.6:
+        non_striker: OA Ramela
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 9.1:
+        non_striker: HE van der Dussen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OA Ramela
+    - 9.2:
+        non_striker: HE van der Dussen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OA Ramela
+    - 9.3:
+        non_striker: HE van der Dussen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OA Ramela
+    - 9.4:
+        non_striker: OA Ramela
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 9.5:
+        non_striker: HE van der Dussen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OA Ramela
+    - 9.6:
+        non_striker: HE van der Dussen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OA Ramela
+    - 10.1:
+        non_striker: OA Ramela
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 10.2:
+        non_striker: OA Ramela
+        bowler: JP Duminy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HE van der Dussen
+    - 10.3:
+        non_striker: OA Ramela
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.4:
+        non_striker: HE van der Dussen
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OA Ramela
+    - 10.5:
+        non_striker: HE van der Dussen
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OA Ramela
+    - 10.6:
+        non_striker: OA Ramela
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.7:
+        non_striker: HE van der Dussen
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OA Ramela
+    - 11.1:
+        non_striker: OA Ramela
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 11.2:
+        non_striker: OA Ramela
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 11.3:
+        non_striker: HE van der Dussen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OA Ramela
+    - 11.4:
+        non_striker: HE van der Dussen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OA Ramela
+    - 11.5:
+        non_striker: HE van der Dussen
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OA Ramela
+    - 11.6:
+        non_striker: OA Ramela
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 12.1:
+        non_striker: HE van der Dussen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OA Ramela
+    - 12.2:
+        non_striker: OA Ramela
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 12.3:
+        non_striker: OA Ramela
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 12.4:
+        non_striker: OA Ramela
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 12.5:
+        non_striker: HE van der Dussen
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OA Ramela
+        wicket:
+          player_out: OA Ramela
+          fielders:
+          - A Mgijima
+          kind: caught
+    - 12.6:
+        non_striker: M Mosehle
+        bowler: GF Linde
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 13.1:
+        non_striker: M Mosehle
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 13.2:
+        non_striker: M Mosehle
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 13.3:
+        non_striker: HE van der Dussen
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 13.4:
+        non_striker: M Mosehle
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 13.5:
+        non_striker: M Mosehle
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 13.6:
+        non_striker: HE van der Dussen
+        bowler: JP Duminy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 14.1:
+        non_striker: HE van der Dussen
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mosehle
+    - 14.2:
+        non_striker: HE van der Dussen
+        bowler: M Nabe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mosehle
+    - 14.3:
+        non_striker: HE van der Dussen
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 14.4:
+        non_striker: HE van der Dussen
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 14.5:
+        non_striker: M Mosehle
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 14.6:
+        non_striker: HE van der Dussen
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 14.7:
+        non_striker: M Mosehle
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+        wicket:
+          player_out: HE van der Dussen
+          fielders:
+          - VD Philander
+          kind: caught
+    - 15.1:
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Pretorius
+        batsman: M Mosehle
+    - 15.2:
+        non_striker: M Mosehle
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Pretorius
+    - 15.3:
+        non_striker: M Mosehle
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 15.4:
+        non_striker: M Mosehle
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 15.5:
+        non_striker: M Mosehle
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 15.6:
+        non_striker: D Pretorius
+        bowler: VD Philander
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 16.1:
+        non_striker: D Pretorius
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 16.2:
+        non_striker: M Mosehle
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Pretorius
+    - 16.3:
+        non_striker: M Mosehle
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 16.4:
+        non_striker: M Mosehle
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 16.5:
+        non_striker: D Pretorius
+        bowler: M Nabe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mosehle
+    - 16.6:
+        non_striker: D Pretorius
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mosehle
+    - 16.7:
+        non_striker: D Pretorius
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 17.1:
+        non_striker: D Pretorius
+        bowler: FD Adams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Mosehle
+    - 17.2:
+        non_striker: M Mosehle
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Pretorius
+    - 17.3:
+        non_striker: M Mosehle
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Pretorius
+    - 17.4:
+        non_striker: M Mosehle
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 17.5:
+        non_striker: D Pretorius
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mosehle
+    - 17.6:
+        non_striker: D Pretorius
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Mosehle
+    - 18.1:
+        non_striker: M Mosehle
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Pretorius
+    - 18.2:
+        non_striker: M Mosehle
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+        wicket:
+          player_out: D Pretorius
+          fielders:
+          - JP Duminy
+          kind: caught
+    - 18.3:
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ van den Bergh
+        batsman: M Mosehle
+    - 18.4:
+        non_striker: NJ van den Bergh
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+        wicket:
+          player_out: M Mosehle
+          fielders:
+          - T Bavuma
+          kind: caught
+    - 18.5:
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PWA Mulder
+        batsman: NJ van den Bergh
+    - 18.6:
+        non_striker: NJ van den Bergh
+        bowler: RK Kleinveldt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWA Mulder
+    - 18.7:
+        non_striker: NJ van den Bergh
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 19.1:
+        non_striker: PWA Mulder
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ van den Bergh
+    - 19.2:
+        non_striker: PWA Mulder
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ van den Bergh
+    - 19.3:
+        non_striker: NJ van den Bergh
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+        wicket:
+          player_out: PWA Mulder
+          fielders:
+          - A Mgijima
+          kind: caught
+    - 19.4:
+        bowler: FD Adams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: GC Viljoen
+        batsman: NJ van den Bergh
+    - 19.5:
+        non_striker: NJ van den Bergh
+        bowler: FD Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 19.6:
+        non_striker: NJ van den Bergh
+        bowler: FD Adams
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: GC Viljoen

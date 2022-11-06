@@ -1,0 +1,2052 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dublin
+  competition: Cricket Ireland Inter-Provincial Twenty20 Trophy
+  dates:
+  - '2018-07-06'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Munster Reds
+    by:
+      wickets: 6
+  overs: 20
+  players:
+    Munster Reds:
+    - O Gunning
+    - ST Doheny
+    - N Pretorius
+    - RJ Forrest
+    - MC Sorensen
+    - DC Delany
+    - J Barnes
+    - R Jones
+    - S Jones
+    - Yaqoob Ali
+    - JTA Benton
+    North-West Warriors:
+    - WTS Porterfield
+    - DA Rankin
+    - SR Thompson
+    - W McClintock
+    - AR McBrine
+    - AP Gillespie
+    - RR Chopra
+    - G Kennedy
+    - CA Young
+    - D Scanlon
+    - MD Poskitt
+  registry:
+    people:
+      AP Gillespie: 8b054bba
+      AR McBrine: e957b38f
+      CA Young: bd0a4a7d
+      D Scanlon: 51c90542
+      DA Rankin: ab859427
+      DC Delany: 0f9c9d1d
+      G Kennedy: 574b4c01
+      J Barnes: 82038f80
+      JTA Benton: 05d4c10d
+      MC Sorensen: 3f18724b
+      MD Poskitt: ca5ef21b
+      N Pretorius: 398dd99c
+      O Gunning: db535275
+      PA Reynolds: a416c9c3
+      R Jones: 7413c5c6
+      RJ Forrest: a7378253
+      RR Chopra: 96662adf
+      S Jones: 847bfd3a
+      S Wood: fe38aa0b
+      SA Richardson: 2ffee6e0
+      SR Thompson: 7f3ad1ed
+      ST Doheny: 4992d6f6
+      W McClintock: b16ddb79
+      WTS Porterfield: ec02b798
+      Yaqoob Ali: 92a9be81
+  teams:
+  - North-West Warriors
+  - Munster Reds
+  toss:
+    winner: Munster Reds
+    decision: field
+  umpires:
+  - PA Reynolds
+  - S Wood
+  venue: Pembroke Cricket Club, Sandymount, Dublin
+innings:
+- 1st innings:
+    team: North-West Warriors
+    deliveries:
+    - 0.1:
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Rankin
+        batsman: WTS Porterfield
+    - 0.2:
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DA Rankin
+        batsman: WTS Porterfield
+    - 0.3:
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DA Rankin
+        batsman: WTS Porterfield
+    - 0.4:
+        non_striker: WTS Porterfield
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 0.5:
+        non_striker: DA Rankin
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WTS Porterfield
+        wicket:
+          player_out: WTS Porterfield
+          fielders:
+          - R Jones
+          kind: caught
+    - 0.6:
+        non_striker: DA Rankin
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Thompson
+    - 1.1:
+        non_striker: DA Rankin
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 1.2:
+        non_striker: DA Rankin
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 1.3:
+        non_striker: DA Rankin
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 1.4:
+        non_striker: DA Rankin
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Thompson
+    - 1.5:
+        non_striker: SR Thompson
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 1.6:
+        non_striker: SR Thompson
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 2.1:
+        non_striker: SR Thompson
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+        wicket:
+          player_out: DA Rankin
+          fielders:
+          - N Pretorius
+          kind: caught
+    - 2.2:
+        non_striker: SR Thompson
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W McClintock
+    - 2.3:
+        non_striker: SR Thompson
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W McClintock
+    - 2.4:
+        non_striker: SR Thompson
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W McClintock
+    - 2.5:
+        non_striker: SR Thompson
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W McClintock
+    - 2.6:
+        non_striker: W McClintock
+        bowler: DC Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Thompson
+    - 2.7:
+        non_striker: W McClintock
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+        wicket:
+          player_out: SR Thompson
+          kind: bowled
+    - 3.1:
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AR McBrine
+        batsman: W McClintock
+    - 3.2:
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR McBrine
+        batsman: W McClintock
+    - 3.3:
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AR McBrine
+        batsman: W McClintock
+    - 3.4:
+        non_striker: W McClintock
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+        wicket:
+          player_out: W McClintock
+          fielders:
+          - R Jones
+          kind: run out
+    - 3.5:
+        non_striker: AR McBrine
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 3.6:
+        non_striker: AR McBrine
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 4.1:
+        non_striker: AR McBrine
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 4.2:
+        non_striker: AR McBrine
+        bowler: MC Sorensen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Gillespie
+    - 4.3:
+        non_striker: AR McBrine
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 4.4:
+        non_striker: AP Gillespie
+        bowler: MC Sorensen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR McBrine
+    - 4.5:
+        non_striker: AP Gillespie
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 4.6:
+        non_striker: AP Gillespie
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 4.7:
+        non_striker: AP Gillespie
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 4.8:
+        non_striker: AP Gillespie
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 5.1:
+        non_striker: AR McBrine
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 5.2:
+        non_striker: AP Gillespie
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 5.3:
+        non_striker: AR McBrine
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Gillespie
+    - 5.4:
+        non_striker: AR McBrine
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 5.5:
+        non_striker: AR McBrine
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 5.6:
+        non_striker: AR McBrine
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 6.1:
+        non_striker: AP Gillespie
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 6.2:
+        non_striker: AR McBrine
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 6.3:
+        non_striker: AR McBrine
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 6.4:
+        non_striker: AR McBrine
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 6.5:
+        non_striker: AP Gillespie
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR McBrine
+    - 6.6:
+        non_striker: AP Gillespie
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 7.1:
+        non_striker: AP Gillespie
+        bowler: S Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 7.2:
+        non_striker: AR McBrine
+        bowler: S Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Gillespie
+    - 7.3:
+        non_striker: AR McBrine
+        bowler: S Jones
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: AP Gillespie
+    - 7.4:
+        non_striker: AR McBrine
+        bowler: S Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Gillespie
+    - 7.5:
+        non_striker: AR McBrine
+        bowler: S Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 7.6:
+        non_striker: AP Gillespie
+        bowler: S Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 7.7:
+        non_striker: AR McBrine
+        bowler: S Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 8.1:
+        non_striker: AR McBrine
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Gillespie
+    - 8.2:
+        non_striker: AR McBrine
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 8.3:
+        non_striker: AR McBrine
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Gillespie
+    - 8.4:
+        non_striker: AR McBrine
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 8.5:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 8.6:
+        non_striker: AR McBrine
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 9.1:
+        non_striker: AR McBrine
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Gillespie
+    - 9.2:
+        non_striker: AR McBrine
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 9.3:
+        non_striker: AR McBrine
+        bowler: DC Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Gillespie
+    - 9.4:
+        non_striker: AR McBrine
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 9.5:
+        non_striker: AP Gillespie
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 9.6:
+        non_striker: AP Gillespie
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR McBrine
+    - 9.7:
+        non_striker: AP Gillespie
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 10.1:
+        non_striker: AR McBrine
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 10.2:
+        non_striker: AR McBrine
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 10.3:
+        non_striker: AP Gillespie
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 10.4:
+        non_striker: AP Gillespie
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 10.5:
+        non_striker: AR McBrine
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Gillespie
+    - 10.6:
+        non_striker: AR McBrine
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 11.1:
+        non_striker: AR McBrine
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 11.2:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 11.3:
+        non_striker: AR McBrine
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 11.4:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR McBrine
+    - 11.5:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 11.6:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 12.1:
+        non_striker: AR McBrine
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 12.2:
+        non_striker: AP Gillespie
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 12.3:
+        non_striker: AR McBrine
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Gillespie
+    - 12.4:
+        non_striker: AR McBrine
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 12.5:
+        non_striker: AR McBrine
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Gillespie
+    - 12.6:
+        non_striker: AR McBrine
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Gillespie
+    - 13.1:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 13.2:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR McBrine
+    - 13.3:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+        wicket:
+          player_out: AR McBrine
+          fielders:
+          - DC Delany
+          kind: caught
+    - 13.4:
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RR Chopra
+        batsman: AP Gillespie
+    - 13.5:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Chopra
+    - 13.6:
+        non_striker: RR Chopra
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 14.1:
+        non_striker: AP Gillespie
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Chopra
+    - 14.2:
+        non_striker: RR Chopra
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 14.3:
+        non_striker: AP Gillespie
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Chopra
+    - 14.4:
+        non_striker: RR Chopra
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 14.5:
+        non_striker: AP Gillespie
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Chopra
+    - 14.6:
+        non_striker: RR Chopra
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 15.1:
+        non_striker: RR Chopra
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 15.2:
+        non_striker: AP Gillespie
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Chopra
+    - 15.3:
+        non_striker: AP Gillespie
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Chopra
+    - 15.4:
+        non_striker: RR Chopra
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Gillespie
+    - 15.5:
+        non_striker: RR Chopra
+        bowler: DC Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AP Gillespie
+    - 15.6:
+        non_striker: AP Gillespie
+        bowler: DC Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Chopra
+    - 15.7:
+        non_striker: AP Gillespie
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Chopra
+    - 16.1:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Chopra
+        wicket:
+          player_out: RR Chopra
+          kind: bowled
+    - 16.2:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 16.3:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 16.4:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 16.5:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 16.6:
+        non_striker: AP Gillespie
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 17.1:
+        non_striker: AP Gillespie
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 17.2:
+        non_striker: AP Gillespie
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 17.3:
+        non_striker: G Kennedy
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Gillespie
+    - 17.4:
+        non_striker: G Kennedy
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Gillespie
+    - 17.5:
+        non_striker: G Kennedy
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 17.6:
+        non_striker: AP Gillespie
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kennedy
+    - 18.1:
+        non_striker: G Kennedy
+        bowler: MC Sorensen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Gillespie
+    - 18.2:
+        non_striker: G Kennedy
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Gillespie
+    - 18.3:
+        non_striker: G Kennedy
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 18.4:
+        non_striker: G Kennedy
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Gillespie
+    - 18.5:
+        non_striker: G Kennedy
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 18.6:
+        non_striker: G Kennedy
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 18.7:
+        non_striker: AP Gillespie
+        bowler: MC Sorensen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Kennedy
+    - 18.8:
+        non_striker: AP Gillespie
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+        wicket:
+          player_out: G Kennedy
+          kind: bowled
+    - 19.1:
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CA Young
+        batsman: AP Gillespie
+    - 19.2:
+        non_striker: AP Gillespie
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Young
+    - 19.3:
+        non_striker: AP Gillespie
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Young
+    - 19.4:
+        non_striker: CA Young
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 19.5:
+        non_striker: CA Young
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 19.6:
+        non_striker: CA Young
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Gillespie
+- 2nd innings:
+    team: Munster Reds
+    deliveries:
+    - 0.1:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: O Gunning
+        batsman: ST Doheny
+    - 0.2:
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: O Gunning
+        batsman: ST Doheny
+    - 0.3:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: O Gunning
+        batsman: ST Doheny
+    - 0.4:
+        non_striker: ST Doheny
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Gunning
+    - 0.5:
+        non_striker: ST Doheny
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Gunning
+    - 0.6:
+        non_striker: ST Doheny
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Gunning
+    - 0.7:
+        non_striker: ST Doheny
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Gunning
+    - 1.1:
+        non_striker: O Gunning
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Doheny
+    - 1.2:
+        non_striker: O Gunning
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 1.3:
+        non_striker: ST Doheny
+        bowler: D Scanlon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: O Gunning
+    - 1.4:
+        non_striker: ST Doheny
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Gunning
+    - 1.5:
+        non_striker: O Gunning
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Doheny
+    - 1.6:
+        non_striker: O Gunning
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 1.7:
+        non_striker: O Gunning
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Doheny
+    - 2.1:
+        non_striker: ST Doheny
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Gunning
+        wicket:
+          player_out: O Gunning
+          fielders:
+          - MD Poskitt
+          kind: caught
+    - 2.2:
+        non_striker: ST Doheny
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+    - 2.3:
+        non_striker: ST Doheny
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pretorius
+    - 2.4:
+        non_striker: ST Doheny
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+    - 2.5:
+        non_striker: ST Doheny
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+    - 2.6:
+        non_striker: ST Doheny
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+    - 3.1:
+        non_striker: N Pretorius
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Doheny
+    - 3.2:
+        non_striker: N Pretorius
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 3.3:
+        non_striker: ST Doheny
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pretorius
+    - 3.4:
+        non_striker: ST Doheny
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+    - 3.5:
+        non_striker: ST Doheny
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pretorius
+    - 3.6:
+        non_striker: ST Doheny
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+        wicket:
+          player_out: N Pretorius
+          kind: bowled
+    - 4.1:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: RJ Forrest
+        batsman: ST Doheny
+    - 4.2:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RJ Forrest
+        batsman: ST Doheny
+    - 4.3:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RJ Forrest
+        batsman: ST Doheny
+    - 4.4:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RJ Forrest
+        batsman: ST Doheny
+    - 4.5:
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RJ Forrest
+        batsman: ST Doheny
+    - 4.6:
+        non_striker: ST Doheny
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 5.1:
+        non_striker: RJ Forrest
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 5.2:
+        non_striker: ST Doheny
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Forrest
+    - 5.3:
+        non_striker: ST Doheny
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJ Forrest
+    - 5.4:
+        non_striker: ST Doheny
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 5.5:
+        non_striker: ST Doheny
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 5.6:
+        non_striker: ST Doheny
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 6.1:
+        non_striker: RJ Forrest
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 6.2:
+        non_striker: ST Doheny
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 6.3:
+        non_striker: RJ Forrest
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Doheny
+    - 6.4:
+        non_striker: RJ Forrest
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 6.5:
+        non_striker: RJ Forrest
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 6.6:
+        non_striker: ST Doheny
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 7.1:
+        non_striker: RJ Forrest
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 7.2:
+        non_striker: RJ Forrest
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 7.3:
+        non_striker: RJ Forrest
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 7.4:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 7.5:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 7.6:
+        non_striker: RJ Forrest
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 8.1:
+        non_striker: RJ Forrest
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 8.2:
+        non_striker: RJ Forrest
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ST Doheny
+    - 8.3:
+        non_striker: RJ Forrest
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 8.4:
+        non_striker: ST Doheny
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 8.5:
+        non_striker: ST Doheny
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 8.6:
+        non_striker: RJ Forrest
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 9.1:
+        non_striker: ST Doheny
+        bowler: RR Chopra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 9.2:
+        non_striker: ST Doheny
+        bowler: RR Chopra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Forrest
+    - 9.3:
+        non_striker: ST Doheny
+        bowler: RR Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 9.4:
+        non_striker: RJ Forrest
+        bowler: RR Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 9.5:
+        non_striker: ST Doheny
+        bowler: RR Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 9.6:
+        non_striker: RJ Forrest
+        bowler: RR Chopra
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: ST Doheny
+    - 9.7:
+        non_striker: RJ Forrest
+        bowler: RR Chopra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 10.1:
+        non_striker: RJ Forrest
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 10.2:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 10.3:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJ Forrest
+    - 10.4:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: RJ Forrest
+    - 10.5:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 10.6:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJ Forrest
+    - 10.7:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 11.1:
+        non_striker: ST Doheny
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 11.2:
+        non_striker: ST Doheny
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Forrest
+    - 11.3:
+        non_striker: ST Doheny
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 11.4:
+        non_striker: ST Doheny
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 11.5:
+        non_striker: RJ Forrest
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 11.6:
+        non_striker: ST Doheny
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RJ Forrest
+    - 12.1:
+        non_striker: RJ Forrest
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 12.2:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 12.3:
+        non_striker: RJ Forrest
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Doheny
+    - 12.4:
+        non_striker: RJ Forrest
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 12.5:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 12.6:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 13.1:
+        non_striker: RJ Forrest
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Doheny
+    - 13.2:
+        non_striker: RJ Forrest
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Doheny
+    - 13.3:
+        non_striker: RJ Forrest
+        bowler: SR Thompson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ST Doheny
+    - 13.4:
+        non_striker: RJ Forrest
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Doheny
+    - 13.5:
+        non_striker: RJ Forrest
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Doheny
+    - 13.6:
+        non_striker: RJ Forrest
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 13.7:
+        non_striker: ST Doheny
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Forrest
+    - 14.1:
+        non_striker: RJ Forrest
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 14.2:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+        wicket:
+          player_out: RJ Forrest
+          fielders:
+          - SR Thompson
+          kind: caught
+    - 14.3:
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MC Sorensen
+        batsman: ST Doheny
+    - 14.4:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Sorensen
+    - 14.5:
+        non_striker: MC Sorensen
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 14.6:
+        non_striker: ST Doheny
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Sorensen
+    - 15.1:
+        non_striker: ST Doheny
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Sorensen
+    - 15.2:
+        non_striker: ST Doheny
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Sorensen
+    - 15.3:
+        non_striker: MC Sorensen
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+        wicket:
+          player_out: ST Doheny
+          fielders:
+          - CA Young
+          kind: caught
+    - 15.4:
+        non_striker: MC Sorensen
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 15.5:
+        non_striker: DC Delany
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MC Sorensen
+    - 15.6:
+        non_striker: DC Delany
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Sorensen
+    - 16.1:
+        non_striker: DC Delany
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Sorensen
+    - 16.2:
+        non_striker: MC Sorensen
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 16.3:
+        non_striker: MC Sorensen
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 16.4:
+        non_striker: DC Delany
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MC Sorensen
+    - 16.5:
+        non_striker: DC Delany
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Sorensen
+    - 16.6:
+        non_striker: MC Sorensen
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 16.7:
+        non_striker: DC Delany
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MC Sorensen

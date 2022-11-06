@@ -1,0 +1,2088 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-01'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dhaka
+  competition: Bangladesh Premier League
+  dates:
+  - '2019-01-11'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Comilla Victorians
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - Shahid Afridi
+  players:
+    Rajshahi Kings:
+    - Mominul Haque
+    - Mehedi Hasan Miraz
+    - Soumya Sarkar
+    - Mohammad Hafeez
+    - Zakir Hasan
+    - LJ Evans
+    - Fazle Mahmud
+    - Qais Ahmad
+    - I Udana
+    - Arafat Sunny
+    - Mustafizur Rahman
+    Comilla Victorians:
+    - Anamul Haque
+    - E Lewis
+    - Tamim Iqbal
+    - Imrul Kayes
+    - Shoaib Malik
+    - Shahid Afridi
+    - LA Dawson
+    - Mohammad Saifuddin
+    - Mahedi Hasan
+    - Abu Hider
+    - Mohammad Shahid
+  registry:
+    people:
+      AG Wharf: 2e0fcc58
+      Abu Hider: 31803fac
+      Anamul Haque: 72b245dd
+      Arafat Sunny: 1f7adc8a
+      Debabrata Paul: a77f51d0
+      E Lewis: 0ebfb1ad
+      Fazle Mahmud: b4bef2ed
+      I Udana: ac5ae4af
+      Imrul Kayes: 5fbe14fc
+      LA Dawson: 4a461c24
+      LJ Evans: 1c513d54
+      Mahedi Hasan: 9dad0f2e
+      Masudur Rahman: 9581ac6b
+      Mehedi Hasan Miraz: c58b0108
+      Mohammad Hafeez: 9ab63e7b
+      Mohammad Saifuddin: b3a28446
+      Mohammad Shahid: c285c86e
+      Mominul Haque: de0a3209
+      Moniruzzaman: 075e9f9c
+      Morshed Ali Khan: a7c3cf5f
+      Mustafizur Rahman: 0a8fce53
+      Qais Ahmad: 8d5d991e
+      Shahid Afridi: 0dc00542
+      Shoaib Malik: 64c34cd0
+      Soumya Sarkar: 4d9f9686
+      Tamim Iqbal: 3b041a12
+      Zakir Hasan: e3e09091
+  teams:
+  - Rajshahi Kings
+  - Comilla Victorians
+  toss:
+    winner: Comilla Victorians
+    decision: field
+  umpires:
+  - AG Wharf
+  - Morshed Ali Khan
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Rajshahi Kings
+    deliveries:
+    - 0.1:
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mehedi Hasan Miraz
+        batsman: Mominul Haque
+    - 0.2:
+        non_striker: Mominul Haque
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 0.3:
+        non_striker: Mominul Haque
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 0.4:
+        non_striker: Mominul Haque
+        bowler: Abu Hider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mehedi Hasan Miraz
+    - 0.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 0.6:
+        non_striker: Mominul Haque
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 1.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 1.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 1.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 1.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 1.5:
+        non_striker: Mominul Haque
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 1.6:
+        non_striker: Mominul Haque
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 2.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+        wicket:
+          player_out: Mominul Haque
+          kind: lbw
+    - 2.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+        wicket:
+          player_out: Soumya Sarkar
+          kind: bowled
+    - 2.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 2.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Hafeez
+    - 2.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 2.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 3.1:
+        non_striker: Mohammad Hafeez
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 3.2:
+        non_striker: Mohammad Hafeez
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 3.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 3.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Hafeez
+    - 3.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Hafeez
+    - 3.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Hafeez
+    - 4.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 4.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 4.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 4.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Hafeez
+    - 4.5:
+        non_striker: Mohammad Hafeez
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 4.6:
+        non_striker: Mohammad Hafeez
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 5.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Hafeez
+    - 5.2:
+        non_striker: Mohammad Hafeez
+        bowler: Abu Hider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mehedi Hasan Miraz
+    - 5.3:
+        non_striker: Mohammad Hafeez
+        bowler: Abu Hider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mehedi Hasan Miraz
+    - 5.4:
+        non_striker: Mohammad Hafeez
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 5.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 5.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Hafeez
+    - 5.7:
+        non_striker: Mohammad Hafeez
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 5.8:
+        non_striker: Mohammad Hafeez
+        bowler: Abu Hider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mehedi Hasan Miraz
+    - 5.9:
+        non_striker: Mohammad Hafeez
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 6.1:
+        non_striker: Mohammad Hafeez
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mehedi Hasan Miraz
+    - 6.2:
+        non_striker: Mohammad Hafeez
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 6.3:
+        non_striker: Mohammad Hafeez
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 6.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Hafeez
+    - 6.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+        wicket:
+          player_out: Mohammad Hafeez
+          kind: bowled
+    - 6.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 7.1:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+        wicket:
+          player_out: Mehedi Hasan Miraz
+          kind: lbw
+    - 7.2:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+        wicket:
+          player_out: LJ Evans
+          kind: lbw
+    - 7.3:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+    - 7.4:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazle Mahmud
+    - 7.5:
+        non_striker: Fazle Mahmud
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 7.6:
+        non_striker: Fazle Mahmud
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zakir Hasan
+    - 8.1:
+        non_striker: Zakir Hasan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+    - 8.2:
+        non_striker: Zakir Hasan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazle Mahmud
+    - 8.3:
+        non_striker: Fazle Mahmud
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zakir Hasan
+    - 8.4:
+        non_striker: Zakir Hasan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fazle Mahmud
+    - 8.5:
+        non_striker: Zakir Hasan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fazle Mahmud
+    - 8.6:
+        non_striker: Fazle Mahmud
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zakir Hasan
+        wicket:
+          player_out: Fazle Mahmud
+          fielders:
+          - Anamul Haque
+          - E Lewis
+          kind: run out
+    - 9.1:
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Qais Ahmad
+        batsman: Zakir Hasan
+    - 9.2:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qais Ahmad
+        wicket:
+          player_out: Qais Ahmad
+          kind: bowled
+    - 9.3:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 9.4:
+        non_striker: I Udana
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zakir Hasan
+    - 9.5:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 9.6:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 10.1:
+        non_striker: I Udana
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zakir Hasan
+    - 10.2:
+        non_striker: I Udana
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 10.3:
+        non_striker: I Udana
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 10.4:
+        non_striker: I Udana
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zakir Hasan
+    - 10.5:
+        non_striker: I Udana
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 10.6:
+        non_striker: I Udana
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 11.1:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 11.2:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 11.3:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 11.4:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 11.5:
+        non_striker: I Udana
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zakir Hasan
+    - 11.6:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 12.1:
+        non_striker: I Udana
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zakir Hasan
+    - 12.2:
+        non_striker: I Udana
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 12.3:
+        non_striker: I Udana
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zakir Hasan
+    - 12.4:
+        non_striker: Zakir Hasan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Udana
+    - 12.5:
+        non_striker: Zakir Hasan
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 12.6:
+        non_striker: I Udana
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 12.7:
+        non_striker: I Udana
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zakir Hasan
+    - 13.1:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 13.2:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 13.3:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 13.4:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 13.5:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 13.6:
+        non_striker: Zakir Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 14.1:
+        non_striker: I Udana
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zakir Hasan
+    - 14.2:
+        non_striker: I Udana
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zakir Hasan
+    - 14.3:
+        non_striker: Zakir Hasan
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 14.4:
+        non_striker: Zakir Hasan
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Udana
+    - 14.5:
+        non_striker: Zakir Hasan
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 14.6:
+        non_striker: I Udana
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zakir Hasan
+    - 15.1:
+        non_striker: I Udana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 15.2:
+        non_striker: I Udana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+    - 15.3:
+        non_striker: I Udana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zakir Hasan
+    - 15.4:
+        non_striker: Zakir Hasan
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 15.5:
+        non_striker: I Udana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+        wicket:
+          player_out: Zakir Hasan
+          kind: lbw
+    - 15.6:
+        non_striker: I Udana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Sunny
+    - 16.1:
+        non_striker: Arafat Sunny
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Udana
+    - 16.2:
+        non_striker: Arafat Sunny
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 16.3:
+        non_striker: Arafat Sunny
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Udana
+    - 16.4:
+        non_striker: Arafat Sunny
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Udana
+    - 16.5:
+        non_striker: I Udana
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Sunny
+    - 16.6:
+        non_striker: Arafat Sunny
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: I Udana
+    - 16.7:
+        non_striker: Arafat Sunny
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 16.8:
+        non_striker: Arafat Sunny
+        bowler: Mohammad Saifuddin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Udana
+    - 17.1:
+        non_striker: I Udana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Sunny
+    - 17.2:
+        non_striker: I Udana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Sunny
+    - 17.3:
+        non_striker: I Udana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Sunny
+    - 17.4:
+        non_striker: I Udana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Arafat Sunny
+    - 17.5:
+        non_striker: I Udana
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arafat Sunny
+    - 17.6:
+        non_striker: Arafat Sunny
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+    - 18.1:
+        non_striker: I Udana
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arafat Sunny
+        wicket:
+          player_out: Arafat Sunny
+          fielders:
+          - Shahid Afridi
+          kind: caught
+    - 18.2:
+        non_striker: I Udana
+        bowler: Abu Hider
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Mustafizur Rahman
+    - 18.3:
+        non_striker: Mustafizur Rahman
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Udana
+    - 18.4:
+        non_striker: Mustafizur Rahman
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Udana
+    - 18.5:
+        non_striker: Mustafizur Rahman
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: I Udana
+    - 18.6:
+        non_striker: Mustafizur Rahman
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Udana
+        wicket:
+          player_out: I Udana
+          fielders:
+          - Mahedi Hasan
+          kind: caught
+- 2nd innings:
+    team: Comilla Victorians
+    deliveries:
+    - 0.1:
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Lewis
+        batsman: Anamul Haque
+    - 0.2:
+        non_striker: Anamul Haque
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 0.3:
+        non_striker: Anamul Haque
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 0.4:
+        non_striker: Anamul Haque
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 0.5:
+        non_striker: E Lewis
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 0.6:
+        non_striker: E Lewis
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 1.1:
+        non_striker: E Lewis
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 1.2:
+        non_striker: Anamul Haque
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 1.3:
+        non_striker: E Lewis
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 1.4:
+        non_striker: Anamul Haque
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 1.5:
+        non_striker: Anamul Haque
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 1.6:
+        non_striker: E Lewis
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 2.1:
+        non_striker: E Lewis
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 2.2:
+        non_striker: E Lewis
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 2.3:
+        non_striker: E Lewis
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anamul Haque
+    - 2.4:
+        non_striker: E Lewis
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 2.5:
+        non_striker: E Lewis
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 2.6:
+        non_striker: Anamul Haque
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 3.1:
+        non_striker: E Lewis
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 3.2:
+        non_striker: E Lewis
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 3.3:
+        non_striker: Anamul Haque
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 3.4:
+        non_striker: E Lewis
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anamul Haque
+    - 3.5:
+        non_striker: E Lewis
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 3.6:
+        non_striker: Anamul Haque
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 4.1:
+        non_striker: E Lewis
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 4.2:
+        non_striker: Anamul Haque
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 4.3:
+        non_striker: Anamul Haque
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 4.4:
+        non_striker: Anamul Haque
+        bowler: Qais Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Lewis
+    - 4.5:
+        non_striker: Anamul Haque
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 4.6:
+        non_striker: Anamul Haque
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 4.7:
+        non_striker: Anamul Haque
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 5.1:
+        non_striker: E Lewis
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 5.2:
+        non_striker: E Lewis
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 5.3:
+        non_striker: E Lewis
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 5.4:
+        non_striker: Anamul Haque
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Lewis
+    - 5.5:
+        non_striker: Anamul Haque
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Lewis
+    - 5.6:
+        non_striker: Anamul Haque
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 6.1:
+        non_striker: E Lewis
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 6.2:
+        non_striker: E Lewis
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 6.3:
+        non_striker: Anamul Haque
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 6.4:
+        non_striker: E Lewis
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 6.5:
+        non_striker: Anamul Haque
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 6.6:
+        non_striker: Anamul Haque
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 7.1:
+        non_striker: Anamul Haque
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+        wicket:
+          player_out: E Lewis
+          fielders:
+          - Mominul Haque
+          kind: caught
+    - 7.2:
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Tamim Iqbal
+        batsman: Anamul Haque
+    - 7.3:
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Tamim Iqbal
+        batsman: Anamul Haque
+    - 7.4:
+        non_striker: Anamul Haque
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 7.5:
+        non_striker: Tamim Iqbal
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 7.6:
+        non_striker: Tamim Iqbal
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 8.1:
+        non_striker: Anamul Haque
+        bowler: I Udana
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Tamim Iqbal
+    - 8.2:
+        non_striker: Anamul Haque
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tamim Iqbal
+    - 8.3:
+        non_striker: Anamul Haque
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 8.4:
+        non_striker: Tamim Iqbal
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 8.5:
+        non_striker: Anamul Haque
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 8.6:
+        non_striker: Anamul Haque
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 9.1:
+        non_striker: Anamul Haque
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 9.2:
+        non_striker: Tamim Iqbal
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 9.3:
+        non_striker: Anamul Haque
+        bowler: Qais Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tamim Iqbal
+    - 9.4:
+        non_striker: Anamul Haque
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 9.5:
+        non_striker: Tamim Iqbal
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 9.6:
+        non_striker: Tamim Iqbal
+        bowler: Qais Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anamul Haque
+    - 9.7:
+        non_striker: Anamul Haque
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 10.1:
+        non_striker: Anamul Haque
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 10.2:
+        non_striker: Anamul Haque
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 10.3:
+        non_striker: Tamim Iqbal
+        bowler: I Udana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anamul Haque
+    - 10.4:
+        non_striker: Tamim Iqbal
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 10.5:
+        non_striker: Tamim Iqbal
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 10.6:
+        non_striker: Anamul Haque
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+        wicket:
+          player_out: Anamul Haque
+          fielders:
+          - I Udana
+          kind: run out
+    - 10.7:
+        non_striker: Imrul Kayes
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 11.1:
+        non_striker: Tamim Iqbal
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imrul Kayes
+    - 11.2:
+        non_striker: Tamim Iqbal
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 11.3:
+        non_striker: Imrul Kayes
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 11.4:
+        non_striker: Imrul Kayes
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 11.5:
+        non_striker: Imrul Kayes
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 11.6:
+        non_striker: Imrul Kayes
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 11.7:
+        non_striker: Imrul Kayes
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 12.1:
+        non_striker: Tamim Iqbal
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 12.2:
+        non_striker: Tamim Iqbal
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 12.3:
+        non_striker: Imrul Kayes
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 12.4:
+        non_striker: Imrul Kayes
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 12.5:
+        non_striker: Tamim Iqbal
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 12.6:
+        non_striker: Tamim Iqbal
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 13.1:
+        non_striker: Imrul Kayes
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 13.2:
+        non_striker: Imrul Kayes
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tamim Iqbal
+    - 13.3:
+        non_striker: Imrul Kayes
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tamim Iqbal
+    - 13.4:
+        non_striker: Imrul Kayes
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 13.5:
+        non_striker: Tamim Iqbal
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 13.6:
+        non_striker: Imrul Kayes
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+        wicket:
+          player_out: Tamim Iqbal
+          fielders:
+          - LJ Evans
+          kind: caught
+    - 14.1:
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shoaib Malik
+        batsman: Imrul Kayes
+    - 14.2:
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shoaib Malik
+        batsman: Imrul Kayes
+    - 14.3:
+        non_striker: Imrul Kayes
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 14.4:
+        non_striker: Imrul Kayes
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 14.5:
+        non_striker: Shoaib Malik
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imrul Kayes
+    - 14.6:
+        non_striker: Shoaib Malik
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 14.7:
+        non_striker: Imrul Kayes
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 15.1:
+        non_striker: Shoaib Malik
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 15.2:
+        non_striker: Imrul Kayes
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 15.3:
+        non_striker: Imrul Kayes
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 15.4:
+        non_striker: Imrul Kayes
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 15.5:
+        non_striker: Imrul Kayes
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 15.6:
+        non_striker: Shoaib Malik
+        bowler: Qais Ahmad
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Imrul Kayes
+    - 15.7:
+        non_striker: Imrul Kayes
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+        wicket:
+          player_out: Shoaib Malik
+          fielders:
+          - Zakir Hasan
+          - I Udana
+          kind: run out
+    - 16.1:
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shahid Afridi
+        batsman: Imrul Kayes
+    - 16.2:
+        non_striker: Shahid Afridi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+        wicket:
+          player_out: Imrul Kayes
+          kind: lbw
+    - 16.3:
+        non_striker: Shahid Afridi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 16.4:
+        non_striker: LA Dawson
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Afridi
+    - 16.5:
+        non_striker: Shahid Afridi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 16.6:
+        non_striker: Shahid Afridi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 17.1:
+        non_striker: Shahid Afridi
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dawson
+    - 17.2:
+        non_striker: Shahid Afridi
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 17.3:
+        non_striker: Shahid Afridi
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LA Dawson
+    - 17.4:
+        non_striker: Shahid Afridi
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LA Dawson
+    - 17.5:
+        non_striker: Shahid Afridi
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 17.6:
+        non_striker: LA Dawson
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Afridi
+    - 18.1:
+        non_striker: LA Dawson
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 18.2:
+        non_striker: LA Dawson
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Afridi
+    - 18.3:
+        non_striker: Shahid Afridi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LA Dawson
+    - 18.4:
+        non_striker: LA Dawson
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahid Afridi

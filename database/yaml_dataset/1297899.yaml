@@ -1,0 +1,850 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-06-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Cardiff
+  competition: Vitality Blast
+  dates:
+  - '2022-06-24'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Somerset
+    by:
+      runs: 16
+  overs: 20
+  players:
+    Somerset:
+    - WCF Smeed
+    - T Banton
+    - RR Rossouw
+    - L Gregory
+    - TB Abell
+    - TA Lammonby
+    - BGF Green
+    - C Overton
+    - RE van der Merwe
+    - JH Davey
+    - PM Siddle
+    Glamorgan:
+    - DL Lloyd
+    - SA Northeast
+    - CA Ingram
+    - DA Douthwaite
+    - KS Carlson
+    - EJ Byrom
+    - AJ Horton
+    - MG Neser
+    - AG Salter
+    - P Sisodiya
+    - MG Hogan
+  registry:
+    people:
+      AG Salter: 1a45b864
+      AJ Horton: cdc3e595
+      BGF Green: 34b37279
+      C Overton: e9987a94
+      CA Ingram: c995d726
+      DA Douthwaite: 03df7a25
+      DL Lloyd: 0c7f11be
+      EJ Byrom: 9e1b7792
+      JH Davey: d3868bd0
+      KS Carlson: 9e707e02
+      L Gregory: 06c2de82
+      MG Hogan: 5da34add
+      MG Neser: 0164b064
+      P Sisodiya: dd9de7ad
+      PK Baldwin: 6bb53c12
+      PM Siddle: bd93fea4
+      PR Pollard: 85d884bb
+      RE van der Merwe: 05c2ca46
+      RR Rossouw: cad00a4d
+      SA Northeast: 7e4c8ba3
+      SJ Davis: bc71b0b2
+      T Banton: 25f7b7d6
+      TA Lammonby: 73f1f6b0
+      TB Abell: ba9258a7
+      WCF Smeed: 4e18e961
+  teams:
+  - Somerset
+  - Glamorgan
+  toss:
+    winner: Glamorgan
+    decision: field
+  umpires:
+  - PK Baldwin
+  - PR Pollard
+  venue: Sophia Gardens, Cardiff
+innings:
+- 1st innings:
+    team: Somerset
+    deliveries:
+    - 0.1:
+        non_striker: T Banton
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 0.2:
+        non_striker: T Banton
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WCF Smeed
+    - 0.3:
+        non_striker: T Banton
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WCF Smeed
+    - 0.4:
+        non_striker: WCF Smeed
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Banton
+        wicket:
+          player_out: T Banton
+          kind: bowled
+    - 0.5:
+        non_striker: WCF Smeed
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+        wicket:
+          player_out: RR Rossouw
+          fielders:
+          - SA Northeast
+          kind: caught
+    - 0.6:
+        non_striker: WCF Smeed
+        bowler: MG Neser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Gregory
+    - 1.1:
+        non_striker: WCF Smeed
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 1.2:
+        non_striker: WCF Smeed
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Gregory
+    - 1.3:
+        non_striker: WCF Smeed
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 1.4:
+        non_striker: L Gregory
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+    - 1.5:
+        non_striker: L Gregory
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WCF Smeed
+        wicket:
+          player_out: WCF Smeed
+          fielders:
+          - AG Salter
+          kind: caught
+    - 1.6:
+        non_striker: L Gregory
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Abell
+    - 2.1:
+        non_striker: TB Abell
+        bowler: P Sisodiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Gregory
+    - 2.2:
+        non_striker: TB Abell
+        bowler: P Sisodiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+        wicket:
+          player_out: L Gregory
+          kind: bowled
+    - 2.3:
+        non_striker: TB Abell
+        bowler: P Sisodiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lammonby
+    - 2.4:
+        non_striker: TA Lammonby
+        bowler: P Sisodiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Abell
+    - 2.5:
+        non_striker: TB Abell
+        bowler: P Sisodiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lammonby
+    - 2.6:
+        non_striker: TA Lammonby
+        bowler: P Sisodiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Abell
+    - 3.1:
+        non_striker: TB Abell
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lammonby
+    - 3.2:
+        non_striker: TA Lammonby
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Abell
+    - 3.3:
+        non_striker: TB Abell
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Lammonby
+    - 3.4:
+        non_striker: TB Abell
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Lammonby
+    - 3.5:
+        non_striker: TA Lammonby
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Abell
+    - 3.6:
+        non_striker: TB Abell
+        bowler: DA Douthwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Lammonby
+    - 4.1:
+        non_striker: TA Lammonby
+        bowler: P Sisodiya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Abell
+    - 4.2:
+        non_striker: TA Lammonby
+        bowler: P Sisodiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Abell
+    - 4.3:
+        non_striker: TB Abell
+        bowler: P Sisodiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+    - 4.4:
+        non_striker: TB Abell
+        bowler: P Sisodiya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Lammonby
+    - 4.5:
+        non_striker: TB Abell
+        bowler: P Sisodiya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Lammonby
+        wicket:
+          player_out: TA Lammonby
+          kind: bowled
+    - 4.6:
+        non_striker: TB Abell
+        bowler: P Sisodiya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BGF Green
+    - 5.1:
+        non_striker: TB Abell
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BGF Green
+    - 5.2:
+        non_striker: BGF Green
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Abell
+    - 5.3:
+        non_striker: BGF Green
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TB Abell
+    - 5.4:
+        non_striker: BGF Green
+        bowler: MG Hogan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TB Abell
+    - 5.5:
+        non_striker: BGF Green
+        bowler: MG Hogan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TB Abell
+    - 5.6:
+        non_striker: BGF Green
+        bowler: MG Hogan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TB Abell
+    - 5.7:
+        non_striker: BGF Green
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Abell
+    - 5.8:
+        non_striker: TB Abell
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BGF Green
+    - 5.9:
+        non_striker: TB Abell
+        bowler: MG Hogan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BGF Green
+    - 6.1:
+        non_striker: BGF Green
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB Abell
+    - 6.2:
+        non_striker: TB Abell
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BGF Green
+    - 6.3:
+        non_striker: TB Abell
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BGF Green
+    - 6.4:
+        non_striker: BGF Green
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Abell
+    - 6.5:
+        non_striker: BGF Green
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB Abell
+    - 6.6:
+        non_striker: BGF Green
+        bowler: MG Neser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB Abell
+        wicket:
+          player_out: TB Abell
+          fielders:
+          - KS Carlson
+          kind: caught
+- 2nd innings:
+    team: Glamorgan
+    deliveries:
+    - 0.1:
+        non_striker: SA Northeast
+        bowler: C Overton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DL Lloyd
+    - 0.2:
+        non_striker: DL Lloyd
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Northeast
+        wicket:
+          player_out: SA Northeast
+          fielders:
+          - T Banton
+          kind: caught
+    - 0.3:
+        non_striker: DL Lloyd
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 0.4:
+        non_striker: DL Lloyd
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 0.5:
+        non_striker: DL Lloyd
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 0.6:
+        non_striker: DL Lloyd
+        bowler: C Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 1.1:
+        non_striker: CA Ingram
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Lloyd
+    - 1.2:
+        non_striker: DL Lloyd
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 1.3:
+        non_striker: CA Ingram
+        bowler: PM Siddle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DL Lloyd
+    - 1.4:
+        non_striker: DL Lloyd
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 1.5:
+        non_striker: CA Ingram
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Lloyd
+        wicket:
+          player_out: DL Lloyd
+          kind: bowled
+    - 1.6:
+        non_striker: CA Ingram
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Douthwaite
+    - 2.1:
+        non_striker: DA Douthwaite
+        bowler: BGF Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Ingram
+    - 2.2:
+        non_striker: DA Douthwaite
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 2.3:
+        non_striker: DA Douthwaite
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 2.4:
+        non_striker: CA Ingram
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Douthwaite
+    - 2.5:
+        non_striker: CA Ingram
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Douthwaite
+    - 2.6:
+        non_striker: DA Douthwaite
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 2.7:
+        non_striker: CA Ingram
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Douthwaite
+        wicket:
+          player_out: DA Douthwaite
+          fielders:
+          - RE van der Merwe
+          kind: caught
+    - 3.1:
+        non_striker: KS Carlson
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 3.2:
+        non_striker: CA Ingram
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Carlson
+    - 3.3:
+        non_striker: CA Ingram
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KS Carlson
+    - 3.4:
+        non_striker: CA Ingram
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Carlson
+    - 3.5:
+        non_striker: CA Ingram
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Carlson
+    - 3.6:
+        non_striker: CA Ingram
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Carlson
+    - 4.1:
+        non_striker: CA Ingram
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Carlson
+        wicket:
+          player_out: KS Carlson
+          fielders:
+          - T Banton
+          kind: caught
+    - 4.2:
+        non_striker: CA Ingram
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 4.3:
+        non_striker: CA Ingram
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+    - 4.4:
+        non_striker: CA Ingram
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Byrom
+    - 4.5:
+        non_striker: EJ Byrom
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 4.6:
+        non_striker: EJ Byrom
+        bowler: BGF Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 5.1:
+        non_striker: CA Ingram
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EJ Byrom
+    - 5.2:
+        non_striker: CA Ingram
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Byrom
+        wicket:
+          player_out: EJ Byrom
+          kind: lbw
+    - 5.3:
+        non_striker: CA Ingram
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Horton
+    - 5.4:
+        non_striker: AJ Horton
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 5.5:
+        non_striker: CA Ingram
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Horton
+    - 5.6:
+        non_striker: CA Ingram
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Horton
+    - 6.1:
+        non_striker: AJ Horton
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 6.2:
+        non_striker: AJ Horton
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 6.3:
+        non_striker: AJ Horton
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 6.4:
+        non_striker: AJ Horton
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Ingram
+    - 6.5:
+        non_striker: AJ Horton
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 6.6:
+        non_striker: AJ Horton
+        bowler: PM Siddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram

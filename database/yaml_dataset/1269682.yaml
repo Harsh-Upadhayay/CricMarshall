@@ -1,0 +1,1981 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-01-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Geelong
+  competition: Big Bash League
+  dates:
+  - '2022-01-11'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sydney Sixers
+    by:
+      runs: 45
+  overs: 20
+  player_of_match:
+  - BJ Dwarshuis
+  players:
+    Sydney Sixers:
+    - JR Philippe
+    - J Edwards
+    - DP Hughes
+    - MC Henriques
+    - DT Christian
+    - Shadab Khan
+    - SA Abbott
+    - H Kerr
+    - BJ Dwarshuis
+    - JM Bird
+    - T Murphy
+    Melbourne Renegades:
+    - AJ Finch
+    - J Fraser-McGurk
+    - SE Marsh
+    - NJ Maddinson
+    - MW Harvey
+    - SB Harper
+    - W Sutherland
+    - CJ Boyce
+    - KW Richardson
+    - JK Lalor
+    - Zahir Khan
+  registry:
+    people:
+      AJ Finch: b8d490fd
+      BJ Dwarshuis: e1b9f3a9
+      BNJ Oxenford: c1add349
+      C Grant: 876ed858
+      CJ Boyce: 51a60c16
+      D Taylor: b940a2b2
+      DP Hughes: f3982af9
+      DT Christian: 2a2e6343
+      H Kerr: f422728b
+      J Edwards: f787e0eb
+      J Fraser-McGurk: 9b6e1b3f
+      JK Lalor: 88209c84
+      JM Bird: bc773eeb
+      JR Philippe: '39086549'
+      KW Richardson: dfc4d8b5
+      MC Henriques: 32198ae0
+      MW Graham-Smith: 18aca3ce
+      MW Harvey: 47dc9794
+      NJ Maddinson: 44afbf2d
+      RW Stratford: '85489579'
+      SA Abbott: 1a2676c5
+      SB Harper: a756e61a
+      SE Marsh: 508a1ea7
+      Shadab Khan: 9de62878
+      T Murphy: ac2e7ec0
+      W Sutherland: bc2d4f2e
+      Zahir Khan: 786b7fe8
+  teams:
+  - Sydney Sixers
+  - Melbourne Renegades
+  toss:
+    winner: Sydney Sixers
+    decision: bat
+  umpires:
+  - D Taylor
+  - MW Graham-Smith
+  venue: GMHBA Stadium, South Geelong, Victoria
+innings:
+- 1st innings:
+    team: Sydney Sixers
+    deliveries:
+    - 0.1:
+        non_striker: J Edwards
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 0.2:
+        non_striker: J Edwards
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 0.3:
+        non_striker: J Edwards
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+        wicket:
+          player_out: JR Philippe
+          fielders:
+          - J Fraser-McGurk
+          kind: caught
+    - 0.4:
+        non_striker: DP Hughes
+        bowler: JK Lalor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Edwards
+    - 0.5:
+        non_striker: DP Hughes
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Edwards
+    - 0.6:
+        non_striker: DP Hughes
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 0.7:
+        non_striker: DP Hughes
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 1.1:
+        non_striker: J Edwards
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 1.2:
+        non_striker: DP Hughes
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Edwards
+    - 1.3:
+        non_striker: DP Hughes
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 1.4:
+        non_striker: J Edwards
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 1.5:
+        non_striker: J Edwards
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 1.6:
+        non_striker: DP Hughes
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 2.1:
+        non_striker: DP Hughes
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 2.2:
+        non_striker: DP Hughes
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 2.3:
+        non_striker: DP Hughes
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 2.4:
+        non_striker: J Edwards
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.5:
+        non_striker: J Edwards
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 2.6:
+        non_striker: J Edwards
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Hughes
+    - 3.1:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Edwards
+    - 3.2:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: J Edwards
+    - 3.3:
+        non_striker: J Edwards
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Hughes
+    - 3.4:
+        non_striker: J Edwards
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 3.5:
+        non_striker: J Edwards
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 3.6:
+        non_striker: DP Hughes
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 4.1:
+        non_striker: DP Hughes
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 4.2:
+        non_striker: J Edwards
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 4.3:
+        non_striker: DP Hughes
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 4.4:
+        non_striker: J Edwards
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 4.5:
+        non_striker: J Edwards
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 4.6:
+        non_striker: DP Hughes
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 5.1:
+        non_striker: DP Hughes
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 5.2:
+        non_striker: DP Hughes
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 5.3:
+        non_striker: J Edwards
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+    - 5.4:
+        non_striker: J Edwards
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 5.5:
+        non_striker: DP Hughes
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 5.6:
+        non_striker: DP Hughes
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 6.1:
+        non_striker: DP Hughes
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 6.2:
+        non_striker: J Edwards
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Hughes
+    - 6.3:
+        non_striker: DP Hughes
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 6.4:
+        non_striker: J Edwards
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Hughes
+        wicket:
+          player_out: DP Hughes
+          fielders:
+          - NJ Maddinson
+          kind: caught
+    - 6.5:
+        non_striker: MC Henriques
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 6.6:
+        non_striker: MC Henriques
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 7.1:
+        non_striker: J Edwards
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 7.2:
+        non_striker: MC Henriques
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Edwards
+    - 7.3:
+        non_striker: MC Henriques
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 7.4:
+        non_striker: J Edwards
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 7.5:
+        non_striker: MC Henriques
+        bowler: Zahir Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Edwards
+    - 7.6:
+        non_striker: MC Henriques
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 7.7:
+        non_striker: J Edwards
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 8.1:
+        non_striker: J Edwards
+        bowler: NJ Maddinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 8.2:
+        non_striker: MC Henriques
+        bowler: NJ Maddinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Edwards
+    - 8.3:
+        non_striker: MC Henriques
+        bowler: NJ Maddinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Edwards
+    - 8.4:
+        non_striker: MC Henriques
+        bowler: NJ Maddinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 8.5:
+        non_striker: MC Henriques
+        bowler: NJ Maddinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 8.6:
+        non_striker: J Edwards
+        bowler: NJ Maddinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 9.1:
+        non_striker: J Edwards
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 9.2:
+        non_striker: MC Henriques
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 9.3:
+        non_striker: MC Henriques
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+    - 9.4:
+        non_striker: MC Henriques
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edwards
+    - 9.5:
+        non_striker: J Edwards
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 9.6:
+        non_striker: J Edwards
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MC Henriques
+    - 10.1:
+        non_striker: MC Henriques
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edwards
+        wicket:
+          player_out: J Edwards
+          fielders:
+          - J Fraser-McGurk
+          kind: caught
+    - 10.2:
+        non_striker: DT Christian
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 10.3:
+        non_striker: DT Christian
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 10.4:
+        non_striker: MC Henriques
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 10.5:
+        non_striker: MC Henriques
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 10.6:
+        non_striker: DT Christian
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 11.1:
+        non_striker: DT Christian
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 11.2:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 11.3:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 11.4:
+        non_striker: DT Christian
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 11.5:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 11.6:
+        non_striker: DT Christian
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 12.1:
+        non_striker: DT Christian
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 12.2:
+        non_striker: DT Christian
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 12.3:
+        non_striker: MC Henriques
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 12.4:
+        non_striker: DT Christian
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 12.5:
+        non_striker: DT Christian
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 12.6:
+        non_striker: MC Henriques
+        bowler: CJ Boyce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 13.1:
+        non_striker: MC Henriques
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 13.2:
+        non_striker: MC Henriques
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 13.3:
+        non_striker: MC Henriques
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 13.4:
+        non_striker: DT Christian
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 13.5:
+        non_striker: DT Christian
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 13.6:
+        non_striker: DT Christian
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MC Henriques
+    - 14.1:
+        non_striker: MC Henriques
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DT Christian
+    - 14.2:
+        non_striker: MC Henriques
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 14.3:
+        non_striker: MC Henriques
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 14.4:
+        non_striker: MC Henriques
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 14.5:
+        non_striker: MC Henriques
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DT Christian
+    - 14.6:
+        non_striker: MC Henriques
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DT Christian
+    - 15.1:
+        non_striker: DT Christian
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 15.2:
+        non_striker: DT Christian
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MC Henriques
+    - 15.3:
+        non_striker: DT Christian
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MC Henriques
+    - 15.4:
+        non_striker: DT Christian
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 15.5:
+        non_striker: MC Henriques
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 15.6:
+        non_striker: DT Christian
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MC Henriques
+    - 16.1:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 16.2:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DT Christian
+    - 16.3:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 16.4:
+        non_striker: DT Christian
+        bowler: W Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MC Henriques
+    - 16.5:
+        non_striker: DT Christian
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 16.6:
+        non_striker: DT Christian
+        bowler: W Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MC Henriques
+    - 16.7:
+        non_striker: DT Christian
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 16.8:
+        non_striker: MC Henriques
+        bowler: W Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+        wicket:
+          player_out: DT Christian
+          fielders:
+          - SB Harper
+          kind: caught
+    - 17.1:
+        non_striker: Shadab Khan
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MC Henriques
+    - 17.2:
+        non_striker: Shadab Khan
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Henriques
+    - 17.3:
+        non_striker: Shadab Khan
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 17.4:
+        non_striker: Shadab Khan
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 17.5:
+        non_striker: MC Henriques
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 17.6:
+        non_striker: MC Henriques
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 18.1:
+        non_striker: MC Henriques
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+    - 18.2:
+        non_striker: MC Henriques
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shadab Khan
+    - 18.3:
+        non_striker: Shadab Khan
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+    - 18.4:
+        non_striker: Shadab Khan
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Henriques
+    - 18.5:
+        non_striker: MC Henriques
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shadab Khan
+    - 18.6:
+        non_striker: MC Henriques
+        bowler: JK Lalor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shadab Khan
+    - 19.1:
+        non_striker: Shadab Khan
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Henriques
+        wicket:
+          player_out: MC Henriques
+          fielders:
+          - MW Harvey
+          kind: caught
+    - 19.2:
+        non_striker: SA Abbott
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shadab Khan
+        wicket:
+          player_out: Shadab Khan
+          fielders:
+          - SB Harper
+          kind: caught
+    - 19.3:
+        non_striker: SA Abbott
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kerr
+    - 19.4:
+        non_striker: SA Abbott
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kerr
+    - 19.5:
+        non_striker: H Kerr
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Abbott
+    - 19.6:
+        non_striker: SA Abbott
+        bowler: KW Richardson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kerr
+- 2nd innings:
+    team: Melbourne Renegades
+    deliveries:
+    - 0.1:
+        non_striker: J Fraser-McGurk
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Finch
+    - 0.2:
+        non_striker: AJ Finch
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Fraser-McGurk
+    - 0.3:
+        non_striker: AJ Finch
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+    - 0.4:
+        non_striker: AJ Finch
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Fraser-McGurk
+    - 0.5:
+        non_striker: AJ Finch
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Fraser-McGurk
+        wicket:
+          player_out: J Fraser-McGurk
+          kind: lbw
+    - 0.6:
+        non_striker: AJ Finch
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Marsh
+    - 1.1:
+        non_striker: SE Marsh
+        bowler: SA Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Finch
+    - 1.2:
+        non_striker: AJ Finch
+        bowler: SA Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SE Marsh
+    - 1.3:
+        non_striker: SE Marsh
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Finch
+    - 1.4:
+        non_striker: SE Marsh
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Finch
+        wicket:
+          player_out: AJ Finch
+          kind: lbw
+    - 1.5:
+        non_striker: SE Marsh
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 1.6:
+        non_striker: NJ Maddinson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Marsh
+    - 2.1:
+        non_striker: SE Marsh
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 2.2:
+        non_striker: SE Marsh
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 2.3:
+        non_striker: SE Marsh
+        bowler: JM Bird
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NJ Maddinson
+    - 2.4:
+        non_striker: NJ Maddinson
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Marsh
+    - 2.5:
+        non_striker: NJ Maddinson
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Marsh
+    - 2.6:
+        non_striker: NJ Maddinson
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Marsh
+    - 3.1:
+        non_striker: SE Marsh
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 3.2:
+        non_striker: SE Marsh
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 3.3:
+        non_striker: NJ Maddinson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Marsh
+    - 3.4:
+        non_striker: NJ Maddinson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Marsh
+    - 3.5:
+        non_striker: NJ Maddinson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Marsh
+    - 3.6:
+        non_striker: NJ Maddinson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Marsh
+    - 4.1:
+        non_striker: SE Marsh
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 4.2:
+        non_striker: NJ Maddinson
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Marsh
+    - 4.3:
+        non_striker: NJ Maddinson
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Marsh
+    - 4.4:
+        non_striker: NJ Maddinson
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 4.5:
+        non_striker: SE Marsh
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 4.6:
+        non_striker: NJ Maddinson
+        bowler: JM Bird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 5.1:
+        non_striker: NJ Maddinson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 5.2:
+        non_striker: SE Marsh
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 5.3:
+        non_striker: SE Marsh
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+    - 5.4:
+        non_striker: SE Marsh
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 5.5:
+        non_striker: NJ Maddinson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 5.6:
+        non_striker: SE Marsh
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 6.1:
+        non_striker: SE Marsh
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 6.2:
+        non_striker: NJ Maddinson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 6.3:
+        non_striker: SE Marsh
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 6.4:
+        non_striker: NJ Maddinson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Marsh
+    - 6.5:
+        non_striker: NJ Maddinson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Marsh
+    - 6.6:
+        non_striker: NJ Maddinson
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 7.1:
+        non_striker: NJ Maddinson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 7.2:
+        non_striker: SE Marsh
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ Maddinson
+    - 7.3:
+        non_striker: NJ Maddinson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Marsh
+    - 7.4:
+        non_striker: NJ Maddinson
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 7.5:
+        non_striker: SE Marsh
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ Maddinson
+        wicket:
+          player_out: NJ Maddinson
+          fielders:
+          - JR Philippe
+          kind: caught
+    - 7.6:
+        non_striker: SE Marsh
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 8.1:
+        non_striker: SE Marsh
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 8.2:
+        non_striker: MW Harvey
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SE Marsh
+    - 8.3:
+        non_striker: MW Harvey
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 8.4:
+        non_striker: SE Marsh
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 8.5:
+        non_striker: SE Marsh
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 8.6:
+        non_striker: SE Marsh
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Harvey
+    - 9.1:
+        non_striker: MW Harvey
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 9.2:
+        non_striker: SE Marsh
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 9.3:
+        non_striker: MW Harvey
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 9.4:
+        non_striker: SE Marsh
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 9.5:
+        non_striker: MW Harvey
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 9.6:
+        non_striker: SE Marsh
+        bowler: T Murphy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 10.1:
+        non_striker: MW Harvey
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Marsh
+    - 10.2:
+        non_striker: MW Harvey
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 10.3:
+        non_striker: SE Marsh
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+    - 10.4:
+        non_striker: SE Marsh
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Harvey
+    - 10.5:
+        non_striker: MW Harvey
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SE Marsh
+    - 10.6:
+        non_striker: MW Harvey
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 11.1:
+        non_striker: MW Harvey
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 11.2:
+        non_striker: SE Marsh
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Harvey
+        wicket:
+          player_out: MW Harvey
+          fielders:
+          - JR Philippe
+          kind: caught
+    - 11.3:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 11.4:
+        non_striker: SE Marsh
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 11.5:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SE Marsh
+    - 11.6:
+        non_striker: SE Marsh
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+    - 12.1:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Marsh
+        wicket:
+          player_out: SE Marsh
+          kind: bowled
+    - 12.2:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 12.3:
+        non_striker: W Sutherland
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 12.4:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 12.5:
+        non_striker: W Sutherland
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Harper
+    - 12.6:
+        non_striker: SB Harper
+        bowler: H Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Sutherland
+    - 13.1:
+        non_striker: SB Harper
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Sutherland
+        wicket:
+          player_out: W Sutherland
+          fielders:
+          - J Edwards
+          kind: caught
+    - 13.2:
+        non_striker: CJ Boyce
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SB Harper
+    - 13.3:
+        non_striker: CJ Boyce
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SB Harper
+    - 13.4:
+        non_striker: CJ Boyce
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Harper
+        wicket:
+          player_out: SB Harper
+          fielders:
+          - SA Abbott
+          kind: caught
+    - 13.5:
+        non_striker: CJ Boyce
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KW Richardson
+    - 13.6:
+        non_striker: CJ Boyce
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KW Richardson
+    - 14.1:
+        non_striker: KW Richardson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Boyce
+        wicket:
+          player_out: CJ Boyce
+          kind: bowled
+    - 14.2:
+        non_striker: KW Richardson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JK Lalor
+    - 14.3:
+        non_striker: KW Richardson
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Lalor
+    - 14.4:
+        non_striker: JK Lalor
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KW Richardson
+    - 14.5:
+        non_striker: JK Lalor
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KW Richardson
+    - 14.6:
+        non_striker: JK Lalor
+        bowler: SA Abbott
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KW Richardson
+    - 15.1:
+        non_striker: JK Lalor
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KW Richardson
+    - 15.2:
+        non_striker: JK Lalor
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KW Richardson
+    - 15.3:
+        non_striker: JK Lalor
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KW Richardson
+    - 15.4:
+        non_striker: JK Lalor
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KW Richardson
+    - 15.5:
+        non_striker: KW Richardson
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JK Lalor
+    - 15.6:
+        non_striker: KW Richardson
+        bowler: Shadab Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Lalor
+    - 16.1:
+        non_striker: KW Richardson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JK Lalor
+    - 16.2:
+        non_striker: JK Lalor
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KW Richardson
+    - 16.3:
+        non_striker: KW Richardson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JK Lalor
+        wicket:
+          player_out: JK Lalor
+          kind: bowled
+    - 16.4:
+        non_striker: KW Richardson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Khan
+    - 16.5:
+        non_striker: KW Richardson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Khan
+    - 16.6:
+        non_striker: KW Richardson
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Khan
+        wicket:
+          player_out: Zahir Khan
+          kind: bowled

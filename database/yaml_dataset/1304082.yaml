@@ -1,0 +1,1392 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-04-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  competition: IPL
+  dates:
+  - '2022-04-23'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sunrisers Hyderabad
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - M Jansen
+  players:
+    Royal Challengers Bangalore:
+    - F du Plessis
+    - Anuj Rawat
+    - V Kohli
+    - GJ Maxwell
+    - SS Prabhudessai
+    - Shahbaz Ahmed
+    - KD Karthik
+    - HV Patel
+    - PWH de Silva
+    - JR Hazlewood
+    - Mohammed Siraj
+    Sunrisers Hyderabad:
+    - Abhishek Sharma
+    - KS Williamson
+    - RA Tripathi
+    - AK Markram
+    - N Pooran
+    - Shashank Singh
+    - J Suchith
+    - B Kumar
+    - M Jansen
+    - T Natarajan
+    - Umran Malik
+  registry:
+    people:
+      AK Markram: 6a26221c
+      Abhishek Sharma: f29185a1
+      Anuj Rawat: c8f5f961
+      B Kumar: 2e81a32d
+      CB Gaffaney: d5ac41d8
+      Chirra Ravikanthreddy: 8b680f55
+      F du Plessis: 3355b542
+      GJ Maxwell: b681e71e
+      HAS Khalid: 291ded7c
+      HV Patel: f986ca1a
+      J Madanagopal: 8275b04a
+      J Suchith: 4125d931
+      JR Hazlewood: '03806cf8'
+      KD Karthik: c03f1114
+      KS Williamson: d027ba9f
+      M Jansen: 81c36ee9
+      M Nayyar: b7bccddb
+      Mohammed Siraj: 2f49c897
+      N Pooran: 3241e3fd
+      PWH de Silva: a97c8ec2
+      RA Tripathi: 77255a9e
+      SS Prabhudessai: 9385de2e
+      Shahbaz Ahmed: f9e6e7ef
+      Shashank Singh: 26989d80
+      T Natarajan: ce794613
+      Umran Malik: 81c08fa3
+      V Kohli: ba607b88
+  teams:
+  - Royal Challengers Bangalore
+  - Sunrisers Hyderabad
+  toss:
+    winner: Sunrisers Hyderabad
+    decision: field
+  umpires:
+  - Chirra Ravikanthreddy
+  - J Madanagopal
+  venue: Brabourne Stadium, Mumbai
+innings:
+- 1st innings:
+    team: Royal Challengers Bangalore
+    deliveries:
+    - 0.1:
+        non_striker: Anuj Rawat
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.2:
+        non_striker: Anuj Rawat
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.3:
+        non_striker: Anuj Rawat
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 0.4:
+        non_striker: Anuj Rawat
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 0.5:
+        non_striker: Anuj Rawat
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 0.6:
+        non_striker: F du Plessis
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anuj Rawat
+    - 1.1:
+        non_striker: Anuj Rawat
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.2:
+        non_striker: Anuj Rawat
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          kind: bowled
+    - 1.3:
+        non_striker: Anuj Rawat
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+        wicket:
+          player_out: V Kohli
+          fielders:
+          - AK Markram
+          kind: caught
+    - 1.4:
+        non_striker: Anuj Rawat
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 1.5:
+        non_striker: Anuj Rawat
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Maxwell
+    - 1.6:
+        non_striker: Anuj Rawat
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Maxwell
+    - 1.7:
+        non_striker: Anuj Rawat
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 1.8:
+        non_striker: GJ Maxwell
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anuj Rawat
+        wicket:
+          player_out: Anuj Rawat
+          fielders:
+          - AK Markram
+          kind: caught
+    - 2.1:
+        non_striker: SS Prabhudessai
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 2.2:
+        non_striker: GJ Maxwell
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Prabhudessai
+    - 2.3:
+        non_striker: GJ Maxwell
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Prabhudessai
+    - 2.4:
+        non_striker: GJ Maxwell
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Prabhudessai
+    - 2.5:
+        non_striker: SS Prabhudessai
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 2.6:
+        non_striker: GJ Maxwell
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Prabhudessai
+    - 3.1:
+        non_striker: SS Prabhudessai
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 3.2:
+        non_striker: SS Prabhudessai
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 3.3:
+        non_striker: SS Prabhudessai
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 3.4:
+        non_striker: SS Prabhudessai
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 3.5:
+        non_striker: SS Prabhudessai
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 3.6:
+        non_striker: GJ Maxwell
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Prabhudessai
+    - 4.1:
+        non_striker: SS Prabhudessai
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 4.2:
+        non_striker: SS Prabhudessai
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          fielders:
+          - KS Williamson
+          kind: caught
+    - 4.3:
+        non_striker: SS Prabhudessai
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 4.4:
+        non_striker: SS Prabhudessai
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 4.5:
+        non_striker: SS Prabhudessai
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 4.6:
+        non_striker: SS Prabhudessai
+        bowler: T Natarajan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Shahbaz Ahmed
+    - 4.7:
+        non_striker: SS Prabhudessai
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 5.1:
+        non_striker: Shahbaz Ahmed
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Prabhudessai
+    - 5.2:
+        non_striker: Shahbaz Ahmed
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Prabhudessai
+    - 5.3:
+        non_striker: Shahbaz Ahmed
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Prabhudessai
+    - 5.4:
+        non_striker: Shahbaz Ahmed
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Prabhudessai
+    - 5.5:
+        non_striker: Shahbaz Ahmed
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Prabhudessai
+    - 5.6:
+        non_striker: Shahbaz Ahmed
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Prabhudessai
+    - 5.7:
+        non_striker: SS Prabhudessai
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 6.1:
+        non_striker: Shahbaz Ahmed
+        bowler: J Suchith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Prabhudessai
+    - 6.2:
+        non_striker: Shahbaz Ahmed
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Prabhudessai
+    - 6.3:
+        non_striker: Shahbaz Ahmed
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Prabhudessai
+    - 6.4:
+        non_striker: Shahbaz Ahmed
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Prabhudessai
+    - 6.5:
+        non_striker: SS Prabhudessai
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahbaz Ahmed
+    - 6.6:
+        non_striker: Shahbaz Ahmed
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Prabhudessai
+    - 6.7:
+        non_striker: Shahbaz Ahmed
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SS Prabhudessai
+    - 7.1:
+        non_striker: Shahbaz Ahmed
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Prabhudessai
+    - 7.2:
+        non_striker: Shahbaz Ahmed
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Prabhudessai
+    - 7.3:
+        non_striker: Shahbaz Ahmed
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SS Prabhudessai
+    - 7.4:
+        non_striker: SS Prabhudessai
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 7.5:
+        non_striker: SS Prabhudessai
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 7.6:
+        non_striker: SS Prabhudessai
+        bowler: Umran Malik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Shahbaz Ahmed
+    - 7.7:
+        non_striker: SS Prabhudessai
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahbaz Ahmed
+    - 8.1:
+        non_striker: Shahbaz Ahmed
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Prabhudessai
+    - 8.2:
+        non_striker: Shahbaz Ahmed
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Prabhudessai
+        wicket:
+          player_out: SS Prabhudessai
+          fielders:
+          - N Pooran
+          kind: stumped
+    - 8.3:
+        non_striker: Shahbaz Ahmed
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 8.4:
+        non_striker: Shahbaz Ahmed
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+    - 8.5:
+        non_striker: Shahbaz Ahmed
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Karthik
+        wicket:
+          player_out: KD Karthik
+          fielders:
+          - N Pooran
+          kind: caught
+    - 8.6:
+        non_striker: Shahbaz Ahmed
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 9.1:
+        non_striker: HV Patel
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahbaz Ahmed
+    - 9.2:
+        non_striker: HV Patel
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+        wicket:
+          player_out: Shahbaz Ahmed
+          fielders:
+          - N Pooran
+          kind: caught
+    - 9.3:
+        non_striker: HV Patel
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 9.4:
+        non_striker: HV Patel
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 9.5:
+        non_striker: HV Patel
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 9.6:
+        non_striker: HV Patel
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 10.1:
+        non_striker: PWH de Silva
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HV Patel
+    - 10.2:
+        non_striker: PWH de Silva
+        bowler: J Suchith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HV Patel
+    - 10.3:
+        non_striker: PWH de Silva
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 10.4:
+        non_striker: PWH de Silva
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 10.5:
+        non_striker: PWH de Silva
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+    - 10.6:
+        non_striker: PWH de Silva
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 10.7:
+        non_striker: HV Patel
+        bowler: J Suchith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 11.1:
+        non_striker: PWH de Silva
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HV Patel
+    - 11.2:
+        non_striker: HV Patel
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 11.3:
+        non_striker: HV Patel
+        bowler: Umran Malik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PWH de Silva
+    - 11.4:
+        non_striker: HV Patel
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 11.5:
+        non_striker: HV Patel
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 11.6:
+        non_striker: HV Patel
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 11.7:
+        non_striker: HV Patel
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 12.1:
+        non_striker: PWH de Silva
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HV Patel
+        wicket:
+          player_out: HV Patel
+          kind: bowled
+    - 12.2:
+        non_striker: PWH de Silva
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+    - 12.3:
+        non_striker: PWH de Silva
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+    - 12.4:
+        non_striker: PWH de Silva
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Hazlewood
+    - 12.5:
+        non_striker: JR Hazlewood
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 12.6:
+        non_striker: PWH de Silva
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+    - 13.1:
+        non_striker: JR Hazlewood
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 13.2:
+        non_striker: PWH de Silva
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+    - 13.3:
+        non_striker: PWH de Silva
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+    - 13.4:
+        non_striker: PWH de Silva
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+    - 13.5:
+        non_striker: PWH de Silva
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+    - 13.6:
+        non_striker: PWH de Silva
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Hazlewood
+    - 14.1:
+        non_striker: JR Hazlewood
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 14.2:
+        non_striker: PWH de Silva
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Hazlewood
+    - 14.3:
+        non_striker: JR Hazlewood
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 14.4:
+        non_striker: JR Hazlewood
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 14.5:
+        non_striker: JR Hazlewood
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 14.6:
+        non_striker: JR Hazlewood
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 15.1:
+        non_striker: JR Hazlewood
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 15.2:
+        non_striker: JR Hazlewood
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+        wicket:
+          player_out: PWH de Silva
+          kind: bowled
+    - 15.3:
+        non_striker: JR Hazlewood
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+    - 15.4:
+        non_striker: JR Hazlewood
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 15.5:
+        non_striker: Mohammed Siraj
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Hazlewood
+    - 15.6:
+        non_striker: JR Hazlewood
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammed Siraj
+    - 16.1:
+        non_striker: JR Hazlewood
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Siraj
+        wicket:
+          player_out: Mohammed Siraj
+          fielders:
+          - KS Williamson
+          kind: caught
+- 2nd innings:
+    team: Sunrisers Hyderabad
+    deliveries:
+    - 0.1:
+        non_striker: KS Williamson
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 0.2:
+        non_striker: KS Williamson
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 0.3:
+        non_striker: KS Williamson
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 0.4:
+        non_striker: KS Williamson
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 0.5:
+        non_striker: Abhishek Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 0.6:
+        non_striker: Abhishek Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KS Williamson
+    - 0.7:
+        non_striker: Abhishek Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 1.1:
+        non_striker: KS Williamson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.2:
+        non_striker: KS Williamson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.3:
+        non_striker: KS Williamson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.4:
+        non_striker: KS Williamson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Abhishek Sharma
+    - 1.5:
+        non_striker: Abhishek Sharma
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 1.6:
+        non_striker: KS Williamson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 2.1:
+        non_striker: Abhishek Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 2.2:
+        non_striker: KS Williamson
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 2.3:
+        non_striker: KS Williamson
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 2.4:
+        non_striker: KS Williamson
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 2.5:
+        non_striker: KS Williamson
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 2.6:
+        non_striker: Abhishek Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 3.1:
+        non_striker: Abhishek Sharma
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 3.2:
+        non_striker: Abhishek Sharma
+        bowler: JR Hazlewood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KS Williamson
+    - 3.3:
+        non_striker: KS Williamson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 3.4:
+        non_striker: KS Williamson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 3.5:
+        non_striker: KS Williamson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 3.6:
+        non_striker: KS Williamson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 4.1:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 4.2:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 4.3:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 4.4:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 4.5:
+        non_striker: Abhishek Sharma
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 4.6:
+        non_striker: Abhishek Sharma
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 5.1:
+        non_striker: KS Williamson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 5.2:
+        non_striker: KS Williamson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 5.3:
+        non_striker: Abhishek Sharma
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 5.4:
+        non_striker: Abhishek Sharma
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 5.5:
+        non_striker: KS Williamson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 5.6:
+        non_striker: KS Williamson
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 6.1:
+        non_striker: Abhishek Sharma
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KS Williamson
+    - 6.2:
+        non_striker: Abhishek Sharma
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 6.3:
+        non_striker: KS Williamson
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 6.4:
+        non_striker: KS Williamson
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 6.5:
+        non_striker: Abhishek Sharma
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KS Williamson
+    - 6.6:
+        non_striker: Abhishek Sharma
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 7.1:
+        non_striker: Abhishek Sharma
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 7.2:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          fielders:
+          - Anuj Rawat
+          kind: caught
+    - 7.3:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tripathi
+    - 7.4:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Tripathi
+    - 7.5:
+        non_striker: RA Tripathi
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KS Williamson
+    - 7.6:
+        non_striker: KS Williamson
+        bowler: HV Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Tripathi

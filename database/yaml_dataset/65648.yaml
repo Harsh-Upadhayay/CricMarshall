@@ -1,0 +1,5005 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-03-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Brisbane
+  dates:
+  - '2004-01-20'
+  gender: male
+  match_type: ODI
+  match_type_number: 2085
+  outcome:
+    winner: India
+    by:
+      runs: 24
+  overs: 50
+  player_of_match:
+  - Yuvraj Singh
+  players:
+    India:
+    - PA Patel
+    - SC Ganguly
+    - VVS Laxman
+    - R Dravid
+    - Yuvraj Singh
+    - RS Gavaskar
+    - HK Badani
+    - IK Pathan
+    - A Nehra
+    - A Kumble
+    - L Balaji
+    Zimbabwe:
+    - GW Flower
+    - MA Vermeulen
+    - TJ Friend
+    - SV Carlisle
+    - AM Blignaut
+    - HH Streak
+    - T Taibu
+    - SM Ervine
+    - DD Ebrahim
+    - RW Price
+    - DT Hondo
+  registry:
+    people:
+      A Kumble: 0c2730df
+      A Nehra: 96fd40ae
+      AM Blignaut: 80ec5dfd
+      CH Lloyd: 5b445db0
+      DD Ebrahim: b590a4d8
+      DT Hondo: 7fe5deb8
+      GW Flower: 348195ea
+      HH Streak: 37f501d7
+      HK Badani: 5cb078d6
+      IK Pathan: 5fa06777
+      L Balaji: b2b50355
+      MA Vermeulen: 611c06dd
+      PA Patel: b5da6c24
+      PD Parker: 439aa572
+      R Dravid: '0184dc35'
+      RE Koertzen: 0265fab2
+      RS Gavaskar: 9ff100a6
+      RW Price: 67af6f81
+      SC Ganguly: 725529bc
+      SJ Davis: bc71b0b2
+      SM Ervine: 556302a7
+      SV Carlisle: 17f552bf
+      T Taibu: 75de770f
+      TJ Friend: 3e91a87f
+      VVS Laxman: de8cce37
+      Yuvraj Singh: 1c914163
+  teams:
+  - India
+  - Zimbabwe
+  toss:
+    decision: bat
+    winner: India
+  umpires:
+  - RE Koertzen
+  - SJ Davis
+  venue: Brisbane Cricket Ground
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PA Patel
+    - 0.2:
+        non_striker: PA Patel
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 0.3:
+        non_striker: PA Patel
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 0.4:
+        non_striker: PA Patel
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 0.5:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 0.6:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 1.1:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Ganguly
+    - 1.2:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 1.3:
+        non_striker: SC Ganguly
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 1.4:
+        non_striker: SC Ganguly
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 1.5:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 1.6:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 2.1:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 2.2:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 2.3:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 2.4:
+        non_striker: PA Patel
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 2.5:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 2.6:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PA Patel
+    - 2.7:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 3.1:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 3.2:
+        non_striker: SC Ganguly
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 3.3:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 3.4:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 3.5:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Ganguly
+    - 3.6:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 4.1:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 4.2:
+        non_striker: PA Patel
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 4.3:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 4.4:
+        non_striker: PA Patel
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 4.5:
+        non_striker: PA Patel
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 4.6:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 5.1:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Ganguly
+    - 5.2:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 5.3:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SC Ganguly
+    - 5.4:
+        non_striker: SC Ganguly
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 5.5:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 5.6:
+        non_striker: PA Patel
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 6.1:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 6.2:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Patel
+    - 6.3:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 6.4:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 6.5:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Patel
+    - 6.6:
+        non_striker: PA Patel
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 7.1:
+        non_striker: SC Ganguly
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 7.2:
+        non_striker: SC Ganguly
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 7.3:
+        non_striker: SC Ganguly
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 7.4:
+        non_striker: SC Ganguly
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 7.5:
+        non_striker: SC Ganguly
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 7.6:
+        non_striker: SC Ganguly
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 8.1:
+        non_striker: PA Patel
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 8.2:
+        non_striker: PA Patel
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 8.3:
+        non_striker: PA Patel
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 8.4:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 8.5:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+    - 8.6:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Patel
+        wicket:
+          player_out: PA Patel
+          kind: bowled
+    - 9.1:
+        non_striker: VVS Laxman
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SC Ganguly
+    - 9.2:
+        non_striker: VVS Laxman
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC Ganguly
+    - 9.3:
+        non_striker: VVS Laxman
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 9.4:
+        non_striker: VVS Laxman
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 9.5:
+        non_striker: SC Ganguly
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VVS Laxman
+    - 9.6:
+        non_striker: SC Ganguly
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 9.7:
+        non_striker: SC Ganguly
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VVS Laxman
+    - 9.8:
+        non_striker: VVS Laxman
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 10.1:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 10.2:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 10.3:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 10.4:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 10.5:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 10.6:
+        non_striker: SC Ganguly
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 11.1:
+        non_striker: VVS Laxman
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 11.2:
+        non_striker: VVS Laxman
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 11.3:
+        non_striker: SC Ganguly
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VVS Laxman
+    - 11.4:
+        non_striker: SC Ganguly
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: VVS Laxman
+    - 11.5:
+        non_striker: VVS Laxman
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 11.6:
+        non_striker: SC Ganguly
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 12.1:
+        non_striker: VVS Laxman
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 12.2:
+        non_striker: VVS Laxman
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 12.3:
+        non_striker: VVS Laxman
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 12.4:
+        non_striker: VVS Laxman
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 12.5:
+        non_striker: SC Ganguly
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 12.6:
+        non_striker: SC Ganguly
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 13.1:
+        non_striker: VVS Laxman
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 13.2:
+        non_striker: VVS Laxman
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Ganguly
+    - 13.3:
+        non_striker: VVS Laxman
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 13.4:
+        non_striker: VVS Laxman
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 13.5:
+        non_striker: SC Ganguly
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 13.6:
+        non_striker: SC Ganguly
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 14.1:
+        non_striker: VVS Laxman
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 14.2:
+        non_striker: VVS Laxman
+        bowler: SM Ervine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC Ganguly
+    - 14.3:
+        non_striker: VVS Laxman
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Ganguly
+    - 14.4:
+        non_striker: VVS Laxman
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+        wicket:
+          player_out: SC Ganguly
+          fielders:
+          - DT Hondo
+          kind: caught
+    - 14.5:
+        non_striker: VVS Laxman
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 14.6:
+        non_striker: VVS Laxman
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 14.7:
+        non_striker: VVS Laxman
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 15.1:
+        non_striker: R Dravid
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VVS Laxman
+    - 15.2:
+        non_striker: VVS Laxman
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 15.3:
+        non_striker: VVS Laxman
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dravid
+    - 15.4:
+        non_striker: VVS Laxman
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 15.5:
+        non_striker: VVS Laxman
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 15.6:
+        non_striker: VVS Laxman
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 16.1:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 16.2:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 16.3:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VVS Laxman
+    - 16.4:
+        non_striker: VVS Laxman
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 16.5:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+        wicket:
+          player_out: VVS Laxman
+          fielders:
+          - T Taibu
+          kind: caught
+    - 16.6:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 17.1:
+        non_striker: Yuvraj Singh
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 17.2:
+        non_striker: Yuvraj Singh
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 17.3:
+        non_striker: Yuvraj Singh
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 17.4:
+        non_striker: Yuvraj Singh
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 17.5:
+        non_striker: Yuvraj Singh
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 17.6:
+        non_striker: R Dravid
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 18.1:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 18.2:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yuvraj Singh
+    - 18.3:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 18.4:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 18.5:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 18.6:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 19.1:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 19.2:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 19.3:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 19.4:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yuvraj Singh
+    - 19.5:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 19.6:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 20.1:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 20.2:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 20.3:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 20.4:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 20.5:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 20.6:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 21.1:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 21.2:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 21.3:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 21.4:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 21.5:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 21.6:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 22.1:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 22.2:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 22.3:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 22.4:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 22.5:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 22.6:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 23.1:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 23.2:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 23.3:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 23.4:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Yuvraj Singh
+    - 23.5:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 23.6:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 24.1:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 24.2:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 24.3:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 24.4:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 24.5:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 24.6:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 25.1:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 25.2:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 25.3:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 25.4:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 25.5:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 25.6:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 26.1:
+        non_striker: R Dravid
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: Yuvraj Singh
+    - 26.2:
+        non_striker: R Dravid
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yuvraj Singh
+    - 26.3:
+        non_striker: R Dravid
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 26.4:
+        non_striker: Yuvraj Singh
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 26.5:
+        non_striker: Yuvraj Singh
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 26.6:
+        non_striker: Yuvraj Singh
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 26.7:
+        non_striker: R Dravid
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 27.1:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 27.2:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 27.3:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 27.4:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 27.5:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 27.6:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 28.1:
+        non_striker: R Dravid
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yuvraj Singh
+    - 28.2:
+        non_striker: R Dravid
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 28.3:
+        non_striker: R Dravid
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 28.4:
+        non_striker: Yuvraj Singh
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 28.5:
+        non_striker: Yuvraj Singh
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 28.6:
+        non_striker: R Dravid
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yuvraj Singh
+    - 29.1:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 29.2:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 29.3:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 29.4:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 29.5:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 29.6:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 30.1:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 30.2:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 30.3:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 30.4:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 30.5:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 30.6:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 31.1:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 31.2:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 31.3:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 31.4:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 31.5:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 31.6:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 32.1:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 32.2:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yuvraj Singh
+    - 32.3:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 32.4:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 32.5:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 32.6:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 33.1:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 33.2:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 33.3:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 33.4:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 33.5:
+        non_striker: Yuvraj Singh
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 33.6:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 34.1:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 34.2:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 34.3:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 34.4:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 34.5:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 34.6:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 35.1:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 35.2:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 35.3:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Yuvraj Singh
+    - 35.4:
+        non_striker: Yuvraj Singh
+        bowler: HH Streak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Dravid
+    - 35.5:
+        non_striker: Yuvraj Singh
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 35.6:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 35.7:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 36.1:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 36.2:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 36.3:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 36.4:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 36.5:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 36.6:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 37.1:
+        non_striker: Yuvraj Singh
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 37.2:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yuvraj Singh
+    - 37.3:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yuvraj Singh
+    - 37.4:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 37.5:
+        non_striker: Yuvraj Singh
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 37.6:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 38.1:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yuvraj Singh
+    - 38.2:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 38.3:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 38.4:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 38.5:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 38.6:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 39.1:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 39.2:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 39.3:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 39.4:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 39.5:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 39.6:
+        non_striker: Yuvraj Singh
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 40.1:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 40.2:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 40.3:
+        non_striker: Yuvraj Singh
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 40.4:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yuvraj Singh
+    - 40.5:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 40.6:
+        non_striker: R Dravid
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+        wicket:
+          player_out: Yuvraj Singh
+          kind: bowled
+    - 41.1:
+        non_striker: RS Gavaskar
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 41.2:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RS Gavaskar
+    - 41.3:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Gavaskar
+    - 41.4:
+        non_striker: RS Gavaskar
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 41.5:
+        non_striker: RS Gavaskar
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 41.6:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Gavaskar
+    - 41.7:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Gavaskar
+    - 42.1:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Gavaskar
+    - 42.2:
+        non_striker: RS Gavaskar
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 42.3:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Gavaskar
+    - 42.4:
+        non_striker: RS Gavaskar
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 42.5:
+        non_striker: RS Gavaskar
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 42.6:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Gavaskar
+    - 43.1:
+        non_striker: R Dravid
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Gavaskar
+    - 43.2:
+        non_striker: RS Gavaskar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 43.3:
+        non_striker: RS Gavaskar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 43.4:
+        non_striker: R Dravid
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Gavaskar
+    - 43.5:
+        non_striker: RS Gavaskar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dravid
+    - 43.6:
+        non_striker: RS Gavaskar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 44.1:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Gavaskar
+    - 44.2:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Gavaskar
+    - 44.3:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Gavaskar
+    - 44.4:
+        non_striker: RS Gavaskar
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 44.5:
+        non_striker: R Dravid
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Gavaskar
+    - 44.6:
+        non_striker: RS Gavaskar
+        bowler: GW Flower
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 45.1:
+        non_striker: RS Gavaskar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 45.2:
+        non_striker: RS Gavaskar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 45.3:
+        non_striker: R Dravid
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Gavaskar
+    - 45.4:
+        non_striker: RS Gavaskar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 45.5:
+        non_striker: RS Gavaskar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 45.6:
+        non_striker: R Dravid
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RS Gavaskar
+    - 46.1:
+        non_striker: RS Gavaskar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 46.2:
+        non_striker: RS Gavaskar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 46.3:
+        non_striker: RS Gavaskar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 46.4:
+        non_striker: RS Gavaskar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 46.5:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Gavaskar
+    - 46.6:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Gavaskar
+    - 47.1:
+        non_striker: RS Gavaskar
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 47.2:
+        non_striker: RS Gavaskar
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dravid
+    - 47.3:
+        non_striker: RS Gavaskar
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 47.4:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Gavaskar
+    - 47.5:
+        non_striker: R Dravid
+        bowler: SM Ervine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RS Gavaskar
+    - 47.6:
+        non_striker: RS Gavaskar
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 48.1:
+        non_striker: RS Gavaskar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 48.2:
+        non_striker: RS Gavaskar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 48.3:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Gavaskar
+    - 48.4:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Gavaskar
+    - 48.5:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Gavaskar
+    - 48.6:
+        non_striker: R Dravid
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Gavaskar
+        wicket:
+          player_out: RS Gavaskar
+          kind: bowled
+    - 49.1:
+        non_striker: HK Badani
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 49.2:
+        non_striker: HK Badani
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+        wicket:
+          player_out: R Dravid
+          fielders:
+          - HH Streak
+          kind: caught
+    - 49.3:
+        non_striker: HK Badani
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Pathan
+    - 49.4:
+        non_striker: HK Badani
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IK Pathan
+    - 49.5:
+        non_striker: HK Badani
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Pathan
+    - 49.6:
+        non_striker: IK Pathan
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: MA Vermeulen
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 0.2:
+        non_striker: MA Vermeulen
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 0.3:
+        non_striker: MA Vermeulen
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 0.4:
+        non_striker: MA Vermeulen
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 0.5:
+        non_striker: MA Vermeulen
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 0.6:
+        non_striker: MA Vermeulen
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 1.1:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+    - 1.2:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+    - 1.3:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+    - 1.4:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+    - 1.5:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+    - 1.6:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+    - 2.1:
+        non_striker: MA Vermeulen
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 2.2:
+        non_striker: MA Vermeulen
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GW Flower
+    - 2.3:
+        non_striker: MA Vermeulen
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 2.4:
+        non_striker: MA Vermeulen
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 2.5:
+        non_striker: MA Vermeulen
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 2.6:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Vermeulen
+    - 3.1:
+        non_striker: MA Vermeulen
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 3.2:
+        non_striker: MA Vermeulen
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 3.3:
+        non_striker: MA Vermeulen
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 3.4:
+        non_striker: MA Vermeulen
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GW Flower
+    - 3.5:
+        non_striker: MA Vermeulen
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 3.6:
+        non_striker: MA Vermeulen
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 4.1:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+    - 4.2:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Vermeulen
+    - 4.3:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+    - 4.4:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+    - 4.5:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+    - 4.6:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MA Vermeulen
+    - 5.1:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MA Vermeulen
+    - 5.2:
+        non_striker: MA Vermeulen
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 5.3:
+        non_striker: MA Vermeulen
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 5.4:
+        non_striker: MA Vermeulen
+        bowler: IK Pathan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: GW Flower
+    - 5.5:
+        non_striker: MA Vermeulen
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 5.6:
+        non_striker: MA Vermeulen
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 6.1:
+        non_striker: MA Vermeulen
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 6.2:
+        non_striker: MA Vermeulen
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 6.3:
+        non_striker: MA Vermeulen
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 6.4:
+        non_striker: MA Vermeulen
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 6.5:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+    - 6.6:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+    - 7.1:
+        non_striker: MA Vermeulen
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 7.2:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+    - 7.3:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Vermeulen
+        wicket:
+          player_out: MA Vermeulen
+          kind: retired hurt
+    - 7.4:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TJ Friend
+    - 7.5:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TJ Friend
+    - 7.6:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TJ Friend
+    - 7.7:
+        non_striker: TJ Friend
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 8.1:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 8.2:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 8.3:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 8.4:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 8.5:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: TJ Friend
+    - 8.6:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 8.7:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 9.1:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 9.2:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 9.3:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TJ Friend
+    - 9.4:
+        non_striker: GW Flower
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TJ Friend
+    - 9.5:
+        non_striker: TJ Friend
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GW Flower
+    - 9.6:
+        non_striker: TJ Friend
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GW Flower
+    - 9.7:
+        non_striker: TJ Friend
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 9.8:
+        non_striker: TJ Friend
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 10.1:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Friend
+    - 10.2:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 10.3:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 10.4:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GW Flower
+    - 10.5:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 10.6:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 11.1:
+        non_striker: TJ Friend
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 11.2:
+        non_striker: TJ Friend
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 11.3:
+        non_striker: TJ Friend
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GW Flower
+    - 11.4:
+        non_striker: TJ Friend
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 11.5:
+        non_striker: TJ Friend
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 11.6:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 12.1:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 12.2:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 12.3:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 12.4:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GW Flower
+    - 12.5:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 12.6:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 13.1:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Friend
+    - 13.2:
+        non_striker: TJ Friend
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GW Flower
+    - 13.3:
+        non_striker: TJ Friend
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 13.4:
+        non_striker: TJ Friend
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 13.5:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 13.6:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 14.1:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 14.2:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GW Flower
+    - 14.3:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 14.4:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GW Flower
+    - 14.5:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Friend
+    - 14.6:
+        non_striker: TJ Friend
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 15.1:
+        non_striker: TJ Friend
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 15.2:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 15.3:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+        wicket:
+          player_out: TJ Friend
+          kind: run out
+    - 15.4:
+        non_striker: SV Carlisle
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 15.5:
+        non_striker: SV Carlisle
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 15.6:
+        non_striker: SV Carlisle
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 16.1:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 16.2:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 16.3:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Carlisle
+    - 16.4:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 16.5:
+        non_striker: GW Flower
+        bowler: L Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SV Carlisle
+    - 16.6:
+        non_striker: SV Carlisle
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 17.1:
+        non_striker: GW Flower
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 17.2:
+        non_striker: SV Carlisle
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 17.3:
+        non_striker: SV Carlisle
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 17.4:
+        non_striker: SV Carlisle
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 17.5:
+        non_striker: SV Carlisle
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+        wicket:
+          player_out: GW Flower
+          fielders:
+          - VVS Laxman
+          kind: caught
+    - 17.6:
+        non_striker: AM Blignaut
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 18.1:
+        non_striker: SV Carlisle
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Blignaut
+    - 18.2:
+        non_striker: AM Blignaut
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 18.3:
+        non_striker: AM Blignaut
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 18.4:
+        non_striker: SV Carlisle
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 18.5:
+        non_striker: SV Carlisle
+        bowler: L Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Blignaut
+    - 18.6:
+        non_striker: SV Carlisle
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+        wicket:
+          player_out: AM Blignaut
+          fielders:
+          - Yuvraj Singh
+          kind: caught
+    - 18.7:
+        non_striker: SV Carlisle
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 19.1:
+        non_striker: HH Streak
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 19.2:
+        non_striker: HH Streak
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 19.3:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 19.4:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 19.5:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 19.6:
+        non_striker: HH Streak
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 20.1:
+        non_striker: SV Carlisle
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 20.2:
+        non_striker: SV Carlisle
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 20.3:
+        non_striker: SV Carlisle
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 20.4:
+        non_striker: SV Carlisle
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 20.5:
+        non_striker: SV Carlisle
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 20.6:
+        non_striker: SV Carlisle
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HH Streak
+    - 21.1:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 21.2:
+        non_striker: HH Streak
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Carlisle
+    - 21.3:
+        non_striker: HH Streak
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 21.4:
+        non_striker: HH Streak
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 21.5:
+        non_striker: HH Streak
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 21.6:
+        non_striker: HH Streak
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 22.1:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 22.2:
+        non_striker: HH Streak
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 22.3:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+        wicket:
+          player_out: HH Streak
+          kind: bowled
+    - 22.4:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 22.5:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 22.6:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 23.1:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 23.2:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 23.3:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 23.4:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 23.5:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 23.6:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 24.1:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 24.2:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 24.3:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 24.4:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 24.5:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SV Carlisle
+    - 24.6:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Taibu
+    - 25.1:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 25.2:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Taibu
+    - 25.3:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 25.4:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 25.5:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 25.6:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 26.1:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Carlisle
+    - 26.2:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 26.3:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 26.4:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SV Carlisle
+    - 26.5:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 26.6:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 27.1:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 27.2:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 27.3:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 27.4:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 27.5:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 27.6:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 28.1:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 28.2:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 28.3:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 28.4:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 28.5:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 28.6:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 29.1:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 29.2:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 29.3:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 29.4:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 29.5:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 29.6:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 30.1:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 30.2:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 30.3:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 30.4:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: T Taibu
+    - 30.5:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 30.6:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 31.1:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 31.2:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 31.3:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 31.4:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 31.5:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 31.6:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 32.1:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 32.2:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 32.3:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: SV Carlisle
+    - 32.4:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 32.5:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 32.6:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 32.7:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 33.1:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 33.2:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 33.3:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 33.4:
+        non_striker: SV Carlisle
+        bowler: A Kumble
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Taibu
+    - 33.5:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 33.6:
+        non_striker: T Taibu
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 34.1:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 34.2:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 34.3:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 34.4:
+        non_striker: T Taibu
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 34.5:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+        wicket:
+          player_out: T Taibu
+          fielders:
+          - VVS Laxman
+          kind: caught
+    - 34.6:
+        non_striker: SM Ervine
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+    - 35.1:
+        non_striker: SV Carlisle
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Ervine
+    - 35.2:
+        non_striker: SV Carlisle
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 35.3:
+        non_striker: SM Ervine
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 35.4:
+        non_striker: SV Carlisle
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Ervine
+    - 35.5:
+        non_striker: SV Carlisle
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 35.6:
+        non_striker: SM Ervine
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 36.1:
+        non_striker: SM Ervine
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Carlisle
+    - 36.2:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Ervine
+    - 36.3:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Ervine
+    - 36.4:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Ervine
+    - 36.5:
+        non_striker: SV Carlisle
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 36.6:
+        non_striker: SM Ervine
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Carlisle
+        wicket:
+          player_out: SV Carlisle
+          fielders:
+          - PA Patel
+          kind: caught
+    - 37.1:
+        non_striker: DD Ebrahim
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 37.2:
+        non_striker: DD Ebrahim
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 37.3:
+        non_striker: SM Ervine
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 37.4:
+        non_striker: DD Ebrahim
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 37.5:
+        non_striker: SM Ervine
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 37.6:
+        non_striker: SM Ervine
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 38.1:
+        non_striker: DD Ebrahim
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 38.2:
+        non_striker: SM Ervine
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DD Ebrahim
+    - 38.3:
+        non_striker: SM Ervine
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 38.4:
+        non_striker: SM Ervine
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DD Ebrahim
+    - 38.5:
+        non_striker: SM Ervine
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 38.6:
+        non_striker: SM Ervine
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 39.1:
+        non_striker: SM Ervine
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DD Ebrahim
+    - 39.2:
+        non_striker: SM Ervine
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 39.3:
+        non_striker: SM Ervine
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 39.4:
+        non_striker: DD Ebrahim
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 39.5:
+        non_striker: SM Ervine
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 39.6:
+        non_striker: DD Ebrahim
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 39.7:
+        non_striker: DD Ebrahim
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 40.1:
+        non_striker: DD Ebrahim
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 40.2:
+        non_striker: DD Ebrahim
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Ervine
+    - 40.3:
+        non_striker: DD Ebrahim
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Ervine
+    - 40.4:
+        non_striker: DD Ebrahim
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Ervine
+    - 40.5:
+        non_striker: DD Ebrahim
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Ervine
+    - 40.6:
+        non_striker: DD Ebrahim
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 41.1:
+        non_striker: SM Ervine
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 41.2:
+        non_striker: DD Ebrahim
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 41.3:
+        non_striker: SM Ervine
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 41.4:
+        non_striker: DD Ebrahim
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 41.5:
+        non_striker: DD Ebrahim
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 41.6:
+        non_striker: SM Ervine
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 42.1:
+        non_striker: DD Ebrahim
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 42.2:
+        non_striker: SM Ervine
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DD Ebrahim
+    - 42.3:
+        non_striker: SM Ervine
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 42.4:
+        non_striker: SM Ervine
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 42.5:
+        non_striker: SM Ervine
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 42.6:
+        non_striker: DD Ebrahim
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Ervine
+    - 43.1:
+        non_striker: SM Ervine
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 43.2:
+        non_striker: SM Ervine
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 43.3:
+        non_striker: SM Ervine
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 43.4:
+        non_striker: DD Ebrahim
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+        wicket:
+          player_out: SM Ervine
+          fielders:
+          - SC Ganguly
+          kind: caught
+    - 43.5:
+        non_striker: DD Ebrahim
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RW Price
+    - 43.6:
+        non_striker: DD Ebrahim
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RW Price
+    - 44.1:
+        non_striker: DD Ebrahim
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 44.2:
+        non_striker: RW Price
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 44.3:
+        non_striker: DD Ebrahim
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RW Price
+    - 44.4:
+        non_striker: RW Price
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 44.5:
+        non_striker: DD Ebrahim
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 44.6:
+        non_striker: RW Price
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 45.1:
+        non_striker: DD Ebrahim
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RW Price
+    - 45.2:
+        non_striker: DD Ebrahim
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 45.3:
+        non_striker: DD Ebrahim
+        bowler: L Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RW Price
+    - 45.4:
+        non_striker: RW Price
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 45.5:
+        non_striker: DD Ebrahim
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 45.6:
+        non_striker: RW Price
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DD Ebrahim
+    - 46.1:
+        non_striker: DD Ebrahim
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RW Price
+    - 46.2:
+        non_striker: DD Ebrahim
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 46.3:
+        non_striker: RW Price
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: DD Ebrahim
+    - 46.4:
+        non_striker: RW Price
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 46.5:
+        non_striker: DD Ebrahim
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 46.6:
+        non_striker: RW Price
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 46.7:
+        non_striker: DD Ebrahim
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 46.8:
+        non_striker: RW Price
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+        wicket:
+          player_out: DD Ebrahim
+          fielders:
+          - SC Ganguly
+          kind: caught
+    - 47.1:
+        non_striker: RW Price
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+        wicket:
+          player_out: DT Hondo
+          kind: run out

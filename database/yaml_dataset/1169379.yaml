@@ -1,0 +1,2142 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-01'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dhaka
+  competition: Bangladesh Premier League
+  dates:
+  - '2019-01-05'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Chittagong Vikings
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - R Frylinck
+  players:
+    Chittagong Vikings:
+    - Mohammad Shahzad
+    - CS Delport
+    - Mohammad Ashraful
+    - Mushfiqur Rahim
+    - Sikandar Raza
+    - Mosaddek Hossain
+    - Nayeem Hasan
+    - R Frylinck
+    - Sunzamul Islam
+    - Abu Jayed
+    - Khaled Ahmed
+    Rangpur Riders:
+    - Mehedi Maruf
+    - AD Hales
+    - Mohammad Mithun
+    - RR Rossouw
+    - RS Bopara
+    - BAC Howell
+    - Farhad Reza
+    - Mashrafe Mortaza
+    - Sohag Gazi
+    - Nazmul Islam
+    - Shafiul Islam
+  registry:
+    people:
+      AD Hales: 92aeac25
+      AG Wharf: 2e0fcc58
+      Abu Jayed: 1bb0993e
+      BAC Howell: 0bec3a6c
+      CS Delport: afa78c3a
+      Farhad Reza: 4948a447
+      Khaled Ahmed: 5dbdecf1
+      Mahfuzur Rahman: 3275b68b
+      Mashrafe Mortaza: e186f49c
+      Masudur Rahman: 9581ac6b
+      Mehedi Maruf: 3361993b
+      Mohammad Ashraful: 2bb09eb2
+      Mohammad Mithun: '77191792'
+      Mohammad Shahzad: d6dcb0c9
+      Mosaddek Hossain: 8919756f
+      Mushfiqur Rahim: a94e08ea
+      Nayeem Hasan: 1670dcfd
+      Nazmul Islam: 6575e3bc
+      R Frylinck: 8b248d88
+      RR Rossouw: cad00a4d
+      RS Bopara: 7ca5e05d
+      Raqibul Hasan: 4c64cc8d
+      Shafiul Islam: 1a8eebbe
+      Sharfuddoula: 63896abb
+      Sikandar Raza: 26d041c4
+      Sohag Gazi: 5a4c12ab
+      Sunzamul Islam: 0f348f58
+  teams:
+  - Rangpur Riders
+  - Chittagong Vikings
+  toss:
+    winner: Chittagong Vikings
+    decision: field
+  umpires:
+  - AG Wharf
+  - Sharfuddoula
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Rangpur Riders
+    deliveries:
+    - 0.1:
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AD Hales
+        batsman: Mehedi Maruf
+    - 0.2:
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AD Hales
+        batsman: Mehedi Maruf
+    - 0.3:
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AD Hales
+        batsman: Mehedi Maruf
+    - 0.4:
+        bowler: Abu Jayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: AD Hales
+        batsman: Mehedi Maruf
+    - 0.5:
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AD Hales
+        batsman: Mehedi Maruf
+    - 0.6:
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AD Hales
+        batsman: Mehedi Maruf
+    - 0.7:
+        non_striker: AD Hales
+        bowler: Abu Jayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mehedi Maruf
+    - 1.1:
+        non_striker: AD Hales
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Maruf
+    - 1.2:
+        non_striker: Mehedi Maruf
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          kind: lbw
+    - 1.3:
+        non_striker: Mehedi Maruf
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 1.4:
+        non_striker: Mehedi Maruf
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+        wicket:
+          player_out: Mohammad Mithun
+          kind: bowled
+    - 1.5:
+        non_striker: Mehedi Maruf
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 1.6:
+        non_striker: RR Rossouw
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Maruf
+    - 2.1:
+        non_striker: Mehedi Maruf
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 2.2:
+        non_striker: Mehedi Maruf
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 2.3:
+        non_striker: Mehedi Maruf
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Rossouw
+    - 2.4:
+        non_striker: Mehedi Maruf
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 2.5:
+        non_striker: Mehedi Maruf
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+        wicket:
+          player_out: RR Rossouw
+          fielders:
+          - Mohammad Shahzad
+          kind: caught
+    - 2.6:
+        non_striker: Mehedi Maruf
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 3.1:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Maruf
+    - 3.2:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Maruf
+        wicket:
+          player_out: Mehedi Maruf
+          fielders:
+          - Sunzamul Islam
+          kind: caught
+    - 3.3:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 3.4:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BAC Howell
+    - 3.5:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 3.6:
+        non_striker: BAC Howell
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 4.1:
+        non_striker: BAC Howell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 4.2:
+        non_striker: BAC Howell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 4.3:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 4.4:
+        non_striker: BAC Howell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 4.5:
+        non_striker: BAC Howell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 4.6:
+        non_striker: BAC Howell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 5.1:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 5.2:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BAC Howell
+    - 5.3:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 5.4:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 5.5:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 5.6:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 6.1:
+        non_striker: BAC Howell
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 6.2:
+        non_striker: BAC Howell
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 6.3:
+        non_striker: RS Bopara
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+        wicket:
+          player_out: BAC Howell
+          fielders:
+          - Abu Jayed
+          kind: caught
+    - 6.4:
+        non_striker: RS Bopara
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Farhad Reza
+    - 6.5:
+        non_striker: RS Bopara
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Farhad Reza
+    - 6.6:
+        non_striker: RS Bopara
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Farhad Reza
+    - 7.1:
+        non_striker: Farhad Reza
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 7.2:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Farhad Reza
+    - 7.3:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Farhad Reza
+    - 7.4:
+        non_striker: Farhad Reza
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 7.5:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Farhad Reza
+    - 7.6:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Farhad Reza
+    - 8.1:
+        non_striker: RS Bopara
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Farhad Reza
+    - 8.2:
+        non_striker: Farhad Reza
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 8.3:
+        non_striker: Farhad Reza
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 8.4:
+        non_striker: Farhad Reza
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 8.5:
+        non_striker: RS Bopara
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Farhad Reza
+        wicket:
+          player_out: Farhad Reza
+          kind: lbw
+    - 8.6:
+        non_striker: RS Bopara
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashrafe Mortaza
+    - 9.1:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 9.2:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 9.3:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 9.4:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 9.5:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 9.6:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 10.1:
+        non_striker: Mashrafe Mortaza
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 10.2:
+        non_striker: Mashrafe Mortaza
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 10.3:
+        non_striker: Mashrafe Mortaza
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 10.4:
+        non_striker: RS Bopara
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 10.5:
+        non_striker: RS Bopara
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashrafe Mortaza
+    - 10.6:
+        non_striker: Mashrafe Mortaza
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 11.1:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mashrafe Mortaza
+    - 11.2:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 11.3:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+        wicket:
+          player_out: Mashrafe Mortaza
+          fielders:
+          - Mohammad Shahzad
+          kind: caught
+    - 11.4:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohag Gazi
+    - 11.5:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohag Gazi
+    - 11.6:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohag Gazi
+    - 11.7:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sohag Gazi
+    - 11.8:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohag Gazi
+    - 12.1:
+        non_striker: Sohag Gazi
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 12.2:
+        non_striker: Sohag Gazi
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 12.3:
+        non_striker: Sohag Gazi
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 12.4:
+        non_striker: Sohag Gazi
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 12.5:
+        non_striker: Sohag Gazi
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 12.6:
+        non_striker: Sohag Gazi
+        bowler: Nayeem Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 13.1:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohag Gazi
+    - 13.2:
+        non_striker: Sohag Gazi
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 13.3:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohag Gazi
+    - 13.4:
+        non_striker: Sohag Gazi
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 13.5:
+        non_striker: Sohag Gazi
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 13.6:
+        non_striker: Sohag Gazi
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 14.1:
+        non_striker: Sohag Gazi
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Bopara
+    - 14.2:
+        non_striker: Sohag Gazi
+        bowler: Sunzamul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RS Bopara
+    - 14.3:
+        non_striker: Sohag Gazi
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Bopara
+    - 14.4:
+        non_striker: Sohag Gazi
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 14.5:
+        non_striker: Sohag Gazi
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 14.6:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohag Gazi
+    - 14.7:
+        non_striker: Sohag Gazi
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 15.1:
+        non_striker: Sohag Gazi
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 15.2:
+        non_striker: Sohag Gazi
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 15.3:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohag Gazi
+    - 15.4:
+        non_striker: Sohag Gazi
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 15.5:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sohag Gazi
+    - 15.6:
+        non_striker: RS Bopara
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohag Gazi
+    - 16.1:
+        non_striker: Sohag Gazi
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 16.2:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sohag Gazi
+    - 16.3:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohag Gazi
+    - 16.4:
+        non_striker: Sohag Gazi
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 16.5:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sohag Gazi
+    - 16.6:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sohag Gazi
+    - 17.1:
+        non_striker: Sohag Gazi
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 17.2:
+        non_striker: Sohag Gazi
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RS Bopara
+    - 17.3:
+        non_striker: Sohag Gazi
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 17.4:
+        non_striker: RS Bopara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohag Gazi
+    - 17.5:
+        non_striker: Sohag Gazi
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 17.6:
+        non_striker: RS Bopara
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sohag Gazi
+    - 18.1:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sohag Gazi
+        wicket:
+          player_out: Sohag Gazi
+          fielders:
+          - Mohammad Shahzad
+          kind: caught
+    - 18.2:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Islam
+    - 18.3:
+        non_striker: Nazmul Islam
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 18.4:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Islam
+    - 18.5:
+        non_striker: Nazmul Islam
+        bowler: R Frylinck
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RS Bopara
+    - 18.6:
+        non_striker: Nazmul Islam
+        bowler: R Frylinck
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RS Bopara
+    - 18.7:
+        non_striker: RS Bopara
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Islam
+    - 19.1:
+        non_striker: Nazmul Islam
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RS Bopara
+    - 19.2:
+        non_striker: Nazmul Islam
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 19.3:
+        non_striker: Nazmul Islam
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+        wicket:
+          player_out: RS Bopara
+          fielders:
+          - Mosaddek Hossain
+          kind: caught
+    - 19.4:
+        non_striker: Nazmul Islam
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafiul Islam
+    - 19.5:
+        non_striker: Shafiul Islam
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nazmul Islam
+    - 19.6:
+        non_striker: Shafiul Islam
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Islam
+        wicket:
+          player_out: Nazmul Islam
+          fielders:
+          - Mohammad Shahzad
+          - Abu Jayed
+          kind: run out
+- 2nd innings:
+    team: Chittagong Vikings
+    deliveries:
+    - 0.1:
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CS Delport
+        batsman: Mohammad Shahzad
+    - 0.2:
+        non_striker: Mohammad Shahzad
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 0.3:
+        non_striker: CS Delport
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Shahzad
+    - 0.4:
+        non_striker: CS Delport
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Shahzad
+    - 0.5:
+        non_striker: CS Delport
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Shahzad
+    - 0.6:
+        non_striker: CS Delport
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Shahzad
+    - 1.1:
+        non_striker: CS Delport
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Shahzad
+    - 1.2:
+        non_striker: Mohammad Shahzad
+        bowler: Sohag Gazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CS Delport
+    - 1.3:
+        non_striker: Mohammad Shahzad
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 1.4:
+        non_striker: Mohammad Shahzad
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 1.5:
+        non_striker: Mohammad Shahzad
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CS Delport
+    - 1.6:
+        non_striker: Mohammad Shahzad
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 1.7:
+        non_striker: CS Delport
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Shahzad
+    - 2.1:
+        non_striker: CS Delport
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Shahzad
+    - 2.2:
+        non_striker: CS Delport
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Shahzad
+    - 2.3:
+        non_striker: Mohammad Shahzad
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 2.4:
+        non_striker: Mohammad Shahzad
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 2.5:
+        non_striker: Mohammad Shahzad
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+        wicket:
+          player_out: CS Delport
+          fielders:
+          - AD Hales
+          kind: caught
+    - 2.6:
+        non_striker: Mohammad Shahzad
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ashraful
+    - 2.7:
+        non_striker: Mohammad Ashraful
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Shahzad
+    - 3.1:
+        non_striker: Mohammad Shahzad
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Ashraful
+    - 3.2:
+        non_striker: Mohammad Shahzad
+        bowler: Shafiul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Ashraful
+    - 3.3:
+        non_striker: Mohammad Shahzad
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 3.4:
+        non_striker: Mohammad Shahzad
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 3.5:
+        non_striker: Mohammad Shahzad
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+        wicket:
+          player_out: Mohammad Ashraful
+          fielders:
+          - AD Hales
+          kind: caught
+    - 3.6:
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mushfiqur Rahim
+        batsman: Mohammad Shahzad
+    - 3.7:
+        non_striker: Mushfiqur Rahim
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Shahzad
+    - 4.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Shahzad
+    - 4.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Shahzad
+    - 4.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Shahzad
+    - 4.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Shahzad
+    - 4.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Shahzad
+    - 4.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Shahzad
+    - 5.1:
+        non_striker: Mohammad Shahzad
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 5.2:
+        non_striker: Mohammad Shahzad
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 5.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Shahzad
+    - 5.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Shahzad
+    - 5.5:
+        non_striker: Mohammad Shahzad
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 5.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Shahzad
+    - 6.1:
+        non_striker: Mohammad Shahzad
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 6.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Shahzad
+    - 6.3:
+        non_striker: Mohammad Shahzad
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 6.4:
+        non_striker: Mohammad Shahzad
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 6.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Shahzad
+    - 6.6:
+        non_striker: Mohammad Shahzad
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 7.1:
+        non_striker: Mohammad Shahzad
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 7.2:
+        non_striker: Mohammad Shahzad
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 7.3:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Shahzad
+        wicket:
+          player_out: Mohammad Shahzad
+          kind: lbw
+    - 7.4:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 7.5:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 7.6:
+        non_striker: Sikandar Raza
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 8.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 8.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 8.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 8.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Nazmul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 8.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 8.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 8.7:
+        non_striker: Mushfiqur Rahim
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 9.1:
+        non_striker: Sikandar Raza
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 9.2:
+        non_striker: Sikandar Raza
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 9.3:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 9.4:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 9.5:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 9.6:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.2:
+        non_striker: Sikandar Raza
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 10.3:
+        non_striker: Sikandar Raza
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 10.4:
+        non_striker: Sikandar Raza
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - Mohammad Mithun
+          - Mashrafe Mortaza
+          kind: run out
+    - 10.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosaddek Hossain
+    - 10.6:
+        non_striker: Mosaddek Hossain
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.1:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 11.2:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 11.3:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 11.4:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosaddek Hossain
+    - 11.5:
+        non_striker: Mosaddek Hossain
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.6:
+        non_striker: Mosaddek Hossain
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 12.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+    - 12.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mosaddek Hossain
+        wicket:
+          player_out: Mosaddek Hossain
+          fielders:
+          - RR Rossouw
+          kind: caught
+    - 12.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 12.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayeem Hasan
+    - 12.5:
+        non_striker: Nayeem Hasan
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 12.6:
+        non_striker: Nayeem Hasan
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 13.1:
+        non_striker: Nayeem Hasan
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 13.2:
+        non_striker: Nayeem Hasan
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 13.3:
+        non_striker: Nayeem Hasan
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 13.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nayeem Hasan
+    - 13.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayeem Hasan
+    - 13.6:
+        non_striker: Nayeem Hasan
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 14.1:
+        non_striker: Nayeem Hasan
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 14.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 14.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nayeem Hasan
+    - 14.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayeem Hasan
+    - 14.5:
+        non_striker: Nayeem Hasan
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 14.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nayeem Hasan
+    - 15.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+    - 15.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nayeem Hasan
+        wicket:
+          player_out: Nayeem Hasan
+          kind: bowled
+    - 15.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 15.4:
+        non_striker: R Frylinck
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 15.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 15.6:
+        non_striker: R Frylinck
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 16.1:
+        non_striker: R Frylinck
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 16.2:
+        non_striker: R Frylinck
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 16.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 16.4:
+        non_striker: R Frylinck
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+        wicket:
+          player_out: Mushfiqur Rahim
+          fielders:
+          - BAC Howell
+          kind: caught
+    - 16.5:
+        non_striker: R Frylinck
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunzamul Islam
+    - 16.6:
+        non_striker: R Frylinck
+        bowler: Nazmul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sunzamul Islam
+    - 17.1:
+        non_striker: R Frylinck
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sunzamul Islam
+    - 17.2:
+        non_striker: Sunzamul Islam
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 17.3:
+        non_striker: R Frylinck
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sunzamul Islam
+    - 17.4:
+        non_striker: R Frylinck
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sunzamul Islam
+    - 17.5:
+        non_striker: Sunzamul Islam
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 17.6:
+        non_striker: Sunzamul Islam
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 18.1:
+        non_striker: R Frylinck
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sunzamul Islam
+    - 18.2:
+        non_striker: Sunzamul Islam
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 18.3:
+        non_striker: R Frylinck
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sunzamul Islam
+    - 18.4:
+        non_striker: Sunzamul Islam
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Frylinck
+    - 18.5:
+        non_striker: Sunzamul Islam
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 18.6:
+        non_striker: R Frylinck
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sunzamul Islam
+    - 19.1:
+        non_striker: Sunzamul Islam
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Frylinck

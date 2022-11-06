@@ -1,0 +1,1990 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-02-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Christchurch
+  competition: Super Smash
+  dates:
+  - '2019-01-26'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Auckland
+    by:
+      wickets: 9
+  overs: 20
+  players:
+    Canterbury:
+    - CJ Bowes
+    - TJ MacRury
+    - SJ Murdoch
+    - CE McConchie
+    - AM Ellis
+    - CD Fletcher
+    - HB Shipley
+    - KA Jamieson
+    - TD Astle
+    - WSA Williams
+    - EJ Nuttall
+    Auckland:
+    - DJ Bell-Drummond
+    - GD Phillips
+    - MS Chapman
+    - Craig Cachopa
+    - RR O'Donnell
+    - GK Beghin
+    - DJ Grobbelaar
+    - RM Hira
+    - MJ McClenaghan
+    - WER Somerville
+    - MR Quinn
+  registry:
+    people:
+      A Mehrotra: f336ff13
+      AM Ellis: f987245c
+      CD Fletcher: 4af9f5d4
+      CE McConchie: d285acaf
+      CJ Bowes: 45df0e72
+      Craig Cachopa: af294a6c
+      DJ Bell-Drummond: 8f938a32
+      DJ Grobbelaar: 52d11798
+      Damian Morrow: 0fb1f503
+      EJ Nuttall: c9bb898a
+      GAV Baxter: cb4b3ab0
+      GD Phillips: 9a46c4e5
+      GK Beghin: 0d8f5fc6
+      HB Shipley: 5426de63
+      KA Jamieson: 68c56d09
+      MJ McClenaghan: 51a3c5ef
+      MR Quinn: b082d112
+      MS Chapman: 7fa12533
+      RM Hira: 2e966563
+      RR O'Donnell: 2742086d
+      SJ Murdoch: 2415a225
+      TD Astle: 383dd431
+      TJ MacRury: f350fb5f
+      WER Somerville: 74a1c1e3
+      WSA Williams: 861eed37
+  teams:
+  - Canterbury
+  - Auckland
+  toss:
+    decision: bat
+    winner: Canterbury
+  umpires:
+  - A Mehrotra
+  - Damian Morrow
+  venue: Hagley Oval
+innings:
+- 1st innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TJ MacRury
+        batsman: CJ Bowes
+    - 0.2:
+        bowler: MR Quinn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: TJ MacRury
+        batsman: CJ Bowes
+    - 0.3:
+        non_striker: CJ Bowes
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ MacRury
+    - 0.4:
+        non_striker: CJ Bowes
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ MacRury
+    - 0.5:
+        non_striker: CJ Bowes
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ MacRury
+    - 0.6:
+        non_striker: CJ Bowes
+        bowler: MR Quinn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TJ MacRury
+    - 0.7:
+        non_striker: CJ Bowes
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ MacRury
+        wicket:
+          player_out: TJ MacRury
+          fielders:
+          - Craig Cachopa
+          kind: caught
+    - 1.1:
+        non_striker: CJ Bowes
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Murdoch
+    - 1.2:
+        non_striker: SJ Murdoch
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 1.3:
+        non_striker: SJ Murdoch
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 1.4:
+        non_striker: SJ Murdoch
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 1.5:
+        non_striker: SJ Murdoch
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 1.6:
+        non_striker: CJ Bowes
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Murdoch
+    - 2.1:
+        non_striker: CJ Bowes
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+    - 2.2:
+        non_striker: CJ Bowes
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+    - 2.3:
+        non_striker: CJ Bowes
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Murdoch
+    - 2.4:
+        non_striker: SJ Murdoch
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 2.5:
+        non_striker: CJ Bowes
+        bowler: MR Quinn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Murdoch
+    - 2.6:
+        non_striker: CJ Bowes
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+        wicket:
+          player_out: SJ Murdoch
+          fielders:
+          - RR O'Donnell
+          kind: caught
+    - 2.7:
+        non_striker: CE McConchie
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 3.1:
+        non_striker: CE McConchie
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 3.2:
+        non_striker: CE McConchie
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 3.3:
+        non_striker: CE McConchie
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 3.4:
+        non_striker: CE McConchie
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 3.5:
+        non_striker: CJ Bowes
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 3.6:
+        non_striker: CJ Bowes
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 4.1:
+        non_striker: CE McConchie
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 4.2:
+        non_striker: CE McConchie
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+        wicket:
+          player_out: CJ Bowes
+          fielders:
+          - DJ Grobbelaar
+          kind: caught
+    - 4.3:
+        non_striker: CE McConchie
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Ellis
+    - 4.4:
+        non_striker: AM Ellis
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 4.5:
+        non_striker: CE McConchie
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+    - 4.6:
+        non_striker: CE McConchie
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+    - 5.1:
+        non_striker: AM Ellis
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+        wicket:
+          player_out: CE McConchie
+          fielders:
+          - RM Hira
+          kind: caught
+    - 5.2:
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: CD Fletcher
+        batsman: AM Ellis
+    - 5.3:
+        non_striker: AM Ellis
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 5.4:
+        non_striker: CD Fletcher
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Ellis
+    - 5.5:
+        non_striker: AM Ellis
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Fletcher
+    - 5.6:
+        non_striker: AM Ellis
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 6.1:
+        non_striker: AM Ellis
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 6.2:
+        non_striker: AM Ellis
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 6.3:
+        non_striker: AM Ellis
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 6.4:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+    - 6.5:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+        wicket:
+          player_out: AM Ellis
+          fielders:
+          - GD Phillips
+          kind: caught
+    - 6.6:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 7.1:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 7.2:
+        non_striker: HB Shipley
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 7.3:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 7.4:
+        non_striker: HB Shipley
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 7.5:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 7.6:
+        non_striker: HB Shipley
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 8.1:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 8.2:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 8.3:
+        non_striker: HB Shipley
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 8.4:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 8.5:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 8.6:
+        non_striker: HB Shipley
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 9.1:
+        non_striker: CD Fletcher
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Shipley
+    - 9.2:
+        non_striker: CD Fletcher
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 9.3:
+        non_striker: CD Fletcher
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 9.4:
+        non_striker: HB Shipley
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 9.5:
+        non_striker: CD Fletcher
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 9.6:
+        non_striker: CD Fletcher
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 10.1:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Shipley
+    - 10.2:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 10.3:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HB Shipley
+    - 10.4:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 10.5:
+        non_striker: HB Shipley
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 10.6:
+        non_striker: HB Shipley
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 11.1:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+        wicket:
+          player_out: HB Shipley
+          kind: run out
+    - 11.2:
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KA Jamieson
+        batsman: CD Fletcher
+    - 11.3:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 11.4:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 11.5:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 11.6:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 12.1:
+        non_striker: CD Fletcher
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 12.2:
+        non_striker: KA Jamieson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 12.3:
+        non_striker: KA Jamieson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 12.4:
+        non_striker: KA Jamieson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 12.5:
+        non_striker: CD Fletcher
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Jamieson
+    - 12.6:
+        non_striker: CD Fletcher
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Jamieson
+    - 13.1:
+        non_striker: KA Jamieson
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 13.2:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 13.3:
+        non_striker: KA Jamieson
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 13.4:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 13.5:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 13.6:
+        non_striker: KA Jamieson
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 14.1:
+        non_striker: KA Jamieson
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 14.2:
+        non_striker: KA Jamieson
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 14.3:
+        non_striker: KA Jamieson
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 14.4:
+        non_striker: KA Jamieson
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 14.5:
+        non_striker: KA Jamieson
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 14.6:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 15.1:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 15.2:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 15.3:
+        non_striker: KA Jamieson
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 15.4:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Jamieson
+    - 15.5:
+        non_striker: CD Fletcher
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 15.6:
+        non_striker: KA Jamieson
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 16.1:
+        non_striker: KA Jamieson
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 16.2:
+        non_striker: CD Fletcher
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 16.3:
+        non_striker: KA Jamieson
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 16.4:
+        non_striker: CD Fletcher
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 16.5:
+        non_striker: KA Jamieson
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: CD Fletcher
+    - 16.6:
+        non_striker: KA Jamieson
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 16.7:
+        non_striker: KA Jamieson
+        bowler: DJ Grobbelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 17.1:
+        non_striker: KA Jamieson
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 17.2:
+        non_striker: CD Fletcher
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 17.3:
+        non_striker: KA Jamieson
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 17.4:
+        non_striker: CD Fletcher
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Jamieson
+    - 17.5:
+        non_striker: CD Fletcher
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 17.6:
+        non_striker: KA Jamieson
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 18.1:
+        non_striker: KA Jamieson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 18.2:
+        non_striker: KA Jamieson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 18.3:
+        non_striker: KA Jamieson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 18.4:
+        non_striker: CD Fletcher
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 18.5:
+        non_striker: KA Jamieson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Fletcher
+    - 18.6:
+        non_striker: KA Jamieson
+        bowler: MJ McClenaghan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 19.1:
+        non_striker: KA Jamieson
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 19.2:
+        non_striker: KA Jamieson
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+        wicket:
+          player_out: CD Fletcher
+          fielders:
+          - WER Somerville
+          kind: caught
+    - 19.3:
+        non_striker: KA Jamieson
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TD Astle
+    - 19.4:
+        non_striker: TD Astle
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+        wicket:
+          player_out: KA Jamieson
+          fielders:
+          - Craig Cachopa
+          kind: caught
+    - 19.5:
+        non_striker: TD Astle
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WSA Williams
+    - 19.6:
+        non_striker: WSA Williams
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TD Astle
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GD Phillips
+        batsman: DJ Bell-Drummond
+    - 0.2:
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: GD Phillips
+        batsman: DJ Bell-Drummond
+    - 0.3:
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GD Phillips
+        batsman: DJ Bell-Drummond
+    - 0.4:
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GD Phillips
+        batsman: DJ Bell-Drummond
+    - 0.5:
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GD Phillips
+        batsman: DJ Bell-Drummond
+    - 0.6:
+        non_striker: GD Phillips
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 1.1:
+        non_striker: GD Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 1.2:
+        non_striker: GD Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 1.3:
+        non_striker: GD Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Bell-Drummond
+    - 1.4:
+        non_striker: GD Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 1.5:
+        non_striker: DJ Bell-Drummond
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 1.6:
+        non_striker: DJ Bell-Drummond
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 2.1:
+        non_striker: DJ Bell-Drummond
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 2.2:
+        non_striker: DJ Bell-Drummond
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 2.3:
+        non_striker: DJ Bell-Drummond
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 2.4:
+        non_striker: DJ Bell-Drummond
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 2.5:
+        non_striker: DJ Bell-Drummond
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 2.6:
+        non_striker: GD Phillips
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 3.1:
+        non_striker: GD Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 3.2:
+        non_striker: GD Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 3.3:
+        non_striker: GD Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 3.4:
+        non_striker: GD Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 3.5:
+        non_striker: GD Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Bell-Drummond
+    - 3.6:
+        non_striker: GD Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Bell-Drummond
+    - 3.7:
+        non_striker: GD Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 4.1:
+        non_striker: GD Phillips
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 4.2:
+        non_striker: GD Phillips
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Bell-Drummond
+    - 4.3:
+        non_striker: GD Phillips
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 4.4:
+        non_striker: DJ Bell-Drummond
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 4.5:
+        non_striker: DJ Bell-Drummond
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 4.6:
+        non_striker: GD Phillips
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Bell-Drummond
+    - 5.1:
+        non_striker: DJ Bell-Drummond
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 5.2:
+        non_striker: DJ Bell-Drummond
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 5.3:
+        non_striker: DJ Bell-Drummond
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 5.4:
+        non_striker: GD Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Bell-Drummond
+    - 5.5:
+        non_striker: GD Phillips
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 5.6:
+        non_striker: DJ Bell-Drummond
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 6.1:
+        non_striker: GD Phillips
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 6.2:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 6.3:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 6.4:
+        non_striker: GD Phillips
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 6.5:
+        non_striker: GD Phillips
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 6.6:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 7.1:
+        non_striker: DJ Bell-Drummond
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 7.2:
+        non_striker: GD Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 7.3:
+        non_striker: GD Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 7.4:
+        non_striker: DJ Bell-Drummond
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 7.5:
+        non_striker: DJ Bell-Drummond
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 7.6:
+        non_striker: DJ Bell-Drummond
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 8.1:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 8.2:
+        non_striker: GD Phillips
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 8.3:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 8.4:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 8.5:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 8.6:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 9.1:
+        non_striker: GD Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 9.2:
+        non_striker: GD Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 9.3:
+        non_striker: GD Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 9.4:
+        non_striker: DJ Bell-Drummond
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.5:
+        non_striker: GD Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Bell-Drummond
+    - 9.6:
+        non_striker: GD Phillips
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 10.1:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 10.2:
+        non_striker: GD Phillips
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Bell-Drummond
+    - 10.3:
+        non_striker: GD Phillips
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 10.4:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 10.5:
+        non_striker: GD Phillips
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 10.6:
+        non_striker: GD Phillips
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DJ Bell-Drummond
+    - 11.1:
+        non_striker: GD Phillips
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bell-Drummond
+    - 11.2:
+        non_striker: GD Phillips
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 11.3:
+        non_striker: DJ Bell-Drummond
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 11.4:
+        non_striker: DJ Bell-Drummond
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 11.5:
+        non_striker: GD Phillips
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 11.6:
+        non_striker: DJ Bell-Drummond
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.1:
+        non_striker: DJ Bell-Drummond
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.2:
+        non_striker: GD Phillips
+        bowler: EJ Nuttall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Bell-Drummond
+    - 12.3:
+        non_striker: GD Phillips
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 12.4:
+        non_striker: DJ Bell-Drummond
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 12.5:
+        non_striker: DJ Bell-Drummond
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 12.6:
+        non_striker: DJ Bell-Drummond
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 12.7:
+        non_striker: DJ Bell-Drummond
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 13.1:
+        non_striker: DJ Bell-Drummond
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 13.2:
+        non_striker: DJ Bell-Drummond
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 13.3:
+        non_striker: DJ Bell-Drummond
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 13.4:
+        non_striker: DJ Bell-Drummond
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 13.5:
+        non_striker: GD Phillips
+        bowler: WSA Williams
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: DJ Bell-Drummond
+    - 13.6:
+        non_striker: GD Phillips
+        bowler: WSA Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Bell-Drummond
+    - 13.7:
+        non_striker: GD Phillips
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Bell-Drummond
+    - 14.1:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 14.2:
+        non_striker: GD Phillips
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 14.3:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 14.4:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 14.5:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 14.6:
+        non_striker: DJ Bell-Drummond
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 15.1:
+        non_striker: DJ Bell-Drummond
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - TD Astle
+          kind: caught
+    - 15.2:
+        non_striker: DJ Bell-Drummond
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 15.3:
+        non_striker: MS Chapman
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 15.4:
+        non_striker: DJ Bell-Drummond
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 15.5:
+        non_striker: DJ Bell-Drummond
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 15.6:
+        non_striker: DJ Bell-Drummond
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 16.1:
+        non_striker: MS Chapman
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bell-Drummond
+    - 16.2:
+        non_striker: DJ Bell-Drummond
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 16.3:
+        non_striker: DJ Bell-Drummond
+        bowler: WSA Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 16.4:
+        non_striker: DJ Bell-Drummond
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 16.5:
+        non_striker: DJ Bell-Drummond
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 16.6:
+        non_striker: DJ Bell-Drummond
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 16.7:
+        non_striker: DJ Bell-Drummond
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 17.1:
+        non_striker: DJ Bell-Drummond
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman

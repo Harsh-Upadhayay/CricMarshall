@@ -1,0 +1,1520 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dhaka
+  competition: Bangladesh Premier League
+  dates:
+  - '2017-11-11'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Dhaka Dynamites
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - Shahid Afridi
+  players:
+    Dhaka Dynamites:
+    - E Lewis
+    - Shahid Afridi
+    - CS Delport
+    - Shakib Al Hasan
+    - KA Pollard
+    - SP Narine
+    - Mosaddek Hossain
+    - Jahurul Islam
+    - Abu Hider
+    - Khaled Ahmed
+    - Mohammad Shahid
+    Sylhet Sixers:
+    - MD Gunathilaka
+    - WU Tharanga
+    - Sabbir Rahman
+    - Nasir Hossain
+    - RA Whiteley
+    - Nurul Hasan
+    - PWH de Silva
+    - TT Bresnan
+    - Abul Hasan
+    - Mohammad Sharif
+    - Taijul Islam
+  registry:
+    people:
+      Abu Hider: 31803fac
+      Abul Hasan: 5c756df3
+      Anisur Rahman: affbf093
+      CS Delport: afa78c3a
+      E Lewis: 0ebfb1ad
+      Jahurul Islam: 6752c57b
+      KA Pollard: a757b0d8
+      Khaled Ahmed: 5dbdecf1
+      MD Gunathilaka: 509a7ca1
+      Mohammad Shahid: c285c86e
+      Mohammad Sharif: 1ec36a1e
+      Mosaddek Hossain: 8919756f
+      Nadir Shah: 3515389d
+      Nasir Hossain: 6eea0b32
+      Nurul Hasan: d365d463
+      PWH de Silva: a97c8ec2
+      RA Whiteley: d346d939
+      REJ Martinesz: 140cdf29
+      Raqibul Hasan: 4c64cc8d
+      SP Narine: 9d430b40
+      Sabbir Rahman: 7147f314
+      Shahid Afridi: 0dc00542
+      Shakib Al Hasan: 7dc35884
+      TT Bresnan: '58043739'
+      Taijul Islam: 9d1d34bd
+      Tanvir Ahmed: ea2df1f1
+      WU Tharanga: 7ed9fd56
+  teams:
+  - Sylhet Sixers
+  - Dhaka Dynamites
+  toss:
+    winner: Dhaka Dynamites
+    decision: field
+  umpires:
+  - Nadir Shah
+  - REJ Martinesz
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Sylhet Sixers
+    deliveries:
+    - 0.1:
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WU Tharanga
+        batsman: MD Gunathilaka
+    - 0.2:
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WU Tharanga
+        batsman: MD Gunathilaka
+    - 0.3:
+        non_striker: MD Gunathilaka
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WU Tharanga
+    - 0.4:
+        non_striker: WU Tharanga
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Gunathilaka
+    - 0.5:
+        non_striker: WU Tharanga
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+    - 0.6:
+        non_striker: WU Tharanga
+        bowler: Mosaddek Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Gunathilaka
+    - 1.1:
+        non_striker: WU Tharanga
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Gunathilaka
+    - 1.2:
+        non_striker: MD Gunathilaka
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+        wicket:
+          player_out: WU Tharanga
+          fielders:
+          - Jahurul Islam
+          kind: caught
+    - 1.3:
+        non_striker: MD Gunathilaka
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sabbir Rahman
+    - 1.4:
+        non_striker: MD Gunathilaka
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sabbir Rahman
+    - 1.5:
+        non_striker: MD Gunathilaka
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sabbir Rahman
+    - 1.6:
+        non_striker: Sabbir Rahman
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Gunathilaka
+    - 2.1:
+        non_striker: MD Gunathilaka
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sabbir Rahman
+    - 2.2:
+        non_striker: MD Gunathilaka
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sabbir Rahman
+        wicket:
+          player_out: Sabbir Rahman
+          fielders:
+          - CS Delport
+          kind: caught
+    - 2.3:
+        non_striker: MD Gunathilaka
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nasir Hossain
+    - 2.4:
+        non_striker: MD Gunathilaka
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Hossain
+    - 2.5:
+        non_striker: MD Gunathilaka
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Hossain
+    - 2.6:
+        non_striker: MD Gunathilaka
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Hossain
+    - 3.1:
+        non_striker: Nasir Hossain
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Gunathilaka
+    - 3.2:
+        non_striker: Nasir Hossain
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+        wicket:
+          player_out: MD Gunathilaka
+          fielders:
+          - CS Delport
+          kind: caught
+    - 3.3:
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Whiteley
+        batsman: Nasir Hossain
+    - 3.4:
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RA Whiteley
+        batsman: Nasir Hossain
+    - 3.5:
+        non_striker: Nasir Hossain
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Whiteley
+    - 3.6:
+        non_striker: RA Whiteley
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nasir Hossain
+    - 4.1:
+        non_striker: Nasir Hossain
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Whiteley
+    - 4.2:
+        non_striker: Nasir Hossain
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Whiteley
+    - 4.3:
+        non_striker: RA Whiteley
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 4.4:
+        non_striker: Nasir Hossain
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Whiteley
+    - 4.5:
+        non_striker: Nasir Hossain
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Whiteley
+    - 4.6:
+        non_striker: Nasir Hossain
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Whiteley
+        wicket:
+          player_out: RA Whiteley
+          fielders:
+          - Jahurul Islam
+          kind: stumped
+    - 5.1:
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nurul Hasan
+        batsman: Nasir Hossain
+    - 5.2:
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nurul Hasan
+        batsman: Nasir Hossain
+    - 5.3:
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nurul Hasan
+        batsman: Nasir Hossain
+    - 5.4:
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Nurul Hasan
+        batsman: Nasir Hossain
+    - 5.5:
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nurul Hasan
+        batsman: Nasir Hossain
+    - 5.6:
+        non_striker: Nurul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Hossain
+        wicket:
+          player_out: Nasir Hossain
+          fielders:
+          - CS Delport
+          kind: caught
+    - 6.1:
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PWH de Silva
+        batsman: Nurul Hasan
+    - 6.2:
+        non_striker: Nurul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 6.3:
+        non_striker: PWH de Silva
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 6.4:
+        non_striker: Nurul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 6.5:
+        non_striker: PWH de Silva
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 6.6:
+        non_striker: PWH de Silva
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 7.1:
+        non_striker: PWH de Silva
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 7.2:
+        non_striker: PWH de Silva
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 7.3:
+        non_striker: PWH de Silva
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 7.4:
+        non_striker: Nurul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 7.5:
+        non_striker: Nurul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 7.6:
+        non_striker: Nurul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 8.1:
+        non_striker: PWH de Silva
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 8.2:
+        non_striker: Nurul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 8.3:
+        non_striker: PWH de Silva
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 8.4:
+        non_striker: Nurul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 8.5:
+        non_striker: PWH de Silva
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 8.6:
+        non_striker: Nurul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 9.1:
+        non_striker: PWH de Silva
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 9.2:
+        non_striker: Nurul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 9.3:
+        non_striker: Nurul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+        wicket:
+          player_out: PWH de Silva
+          fielders:
+          - Shakib Al Hasan
+          kind: caught
+    - 9.4:
+        non_striker: Nurul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Bresnan
+    - 9.5:
+        non_striker: Nurul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Bresnan
+    - 9.6:
+        non_striker: Nurul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Bresnan
+    - 10.1:
+        non_striker: Nurul Hasan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Bresnan
+    - 10.2:
+        non_striker: Nurul Hasan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Bresnan
+    - 10.3:
+        non_striker: Nurul Hasan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Bresnan
+    - 10.4:
+        non_striker: Nurul Hasan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Bresnan
+    - 10.5:
+        non_striker: Nurul Hasan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Bresnan
+    - 10.6:
+        non_striker: TT Bresnan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 11.1:
+        non_striker: Nurul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Bresnan
+    - 11.2:
+        non_striker: Nurul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Bresnan
+        wicket:
+          player_out: TT Bresnan
+          fielders:
+          - KA Pollard
+          kind: caught
+    - 11.3:
+        non_striker: Nurul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abul Hasan
+    - 11.4:
+        non_striker: Nurul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abul Hasan
+    - 11.5:
+        non_striker: Abul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 11.6:
+        non_striker: Abul Hasan
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+        wicket:
+          player_out: Nurul Hasan
+          fielders:
+          - CS Delport
+          kind: caught
+    - 12.1:
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohammad Sharif
+        batsman: Abul Hasan
+    - 12.2:
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mohammad Sharif
+        batsman: Abul Hasan
+    - 12.3:
+        non_striker: Abul Hasan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Sharif
+    - 12.4:
+        non_striker: Abul Hasan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Sharif
+    - 12.5:
+        non_striker: Abul Hasan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Sharif
+    - 12.6:
+        non_striker: Abul Hasan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Sharif
+        wicket:
+          player_out: Mohammad Sharif
+          kind: bowled
+    - 13.1:
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Taijul Islam
+        batsman: Abul Hasan
+    - 13.2:
+        non_striker: Abul Hasan
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 13.3:
+        non_striker: Abul Hasan
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taijul Islam
+    - 13.4:
+        non_striker: Taijul Islam
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abul Hasan
+    - 13.5:
+        non_striker: Taijul Islam
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abul Hasan
+    - 13.6:
+        non_striker: Abul Hasan
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 14.1:
+        non_striker: Taijul Islam
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abul Hasan
+    - 14.2:
+        non_striker: Taijul Islam
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abul Hasan
+    - 14.3:
+        non_striker: Taijul Islam
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abul Hasan
+    - 14.4:
+        non_striker: Taijul Islam
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abul Hasan
+    - 14.5:
+        non_striker: Abul Hasan
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 14.6:
+        non_striker: Abul Hasan
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 15.1:
+        non_striker: Taijul Islam
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abul Hasan
+    - 15.2:
+        non_striker: Abul Hasan
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Taijul Islam
+    - 15.3:
+        non_striker: Abul Hasan
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taijul Islam
+    - 15.4:
+        non_striker: Taijul Islam
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abul Hasan
+    - 15.5:
+        non_striker: Abul Hasan
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 15.6:
+        non_striker: Abul Hasan
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taijul Islam
+    - 16.1:
+        non_striker: Abul Hasan
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taijul Islam
+    - 16.2:
+        non_striker: Taijul Islam
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abul Hasan
+    - 16.3:
+        non_striker: Taijul Islam
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abul Hasan
+    - 16.4:
+        non_striker: Taijul Islam
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abul Hasan
+    - 16.5:
+        non_striker: Taijul Islam
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abul Hasan
+    - 16.6:
+        non_striker: Taijul Islam
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abul Hasan
+    - 17.1:
+        non_striker: Taijul Islam
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abul Hasan
+    - 17.2:
+        non_striker: Taijul Islam
+        bowler: CS Delport
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Abul Hasan
+    - 17.3:
+        non_striker: Taijul Islam
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abul Hasan
+    - 17.4:
+        non_striker: Abul Hasan
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 17.5:
+        non_striker: Abul Hasan
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taijul Islam
+    - 17.6:
+        non_striker: Taijul Islam
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abul Hasan
+    - 17.7:
+        non_striker: Abul Hasan
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 18.1:
+        non_striker: Taijul Islam
+        bowler: Mohammad Shahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Abul Hasan
+    - 18.2:
+        non_striker: Abul Hasan
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Taijul Islam
+    - 18.3:
+        non_striker: Abul Hasan
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taijul Islam
+    - 18.4:
+        non_striker: Taijul Islam
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abul Hasan
+    - 18.5:
+        non_striker: Taijul Islam
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abul Hasan
+    - 18.6:
+        non_striker: Abul Hasan
+        bowler: Mohammad Shahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 19.1:
+        non_striker: Taijul Islam
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abul Hasan
+    - 19.2:
+        non_striker: Taijul Islam
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abul Hasan
+    - 19.3:
+        non_striker: Abul Hasan
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 19.4:
+        non_striker: Abul Hasan
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taijul Islam
+    - 19.5:
+        non_striker: Abul Hasan
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taijul Islam
+    - 19.6:
+        non_striker: Abul Hasan
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Taijul Islam
+- 2nd innings:
+    team: Dhaka Dynamites
+    deliveries:
+    - 0.1:
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shahid Afridi
+        batsman: E Lewis
+    - 0.2:
+        non_striker: E Lewis
+        bowler: TT Bresnan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahid Afridi
+    - 0.3:
+        non_striker: E Lewis
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 0.4:
+        non_striker: E Lewis
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahid Afridi
+    - 0.5:
+        non_striker: E Lewis
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 0.6:
+        non_striker: E Lewis
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahid Afridi
+    - 0.7:
+        non_striker: E Lewis
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 1.1:
+        non_striker: Shahid Afridi
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 1.2:
+        non_striker: E Lewis
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahid Afridi
+    - 1.3:
+        non_striker: E Lewis
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 1.4:
+        non_striker: E Lewis
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 1.5:
+        non_striker: E Lewis
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 1.6:
+        non_striker: E Lewis
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahid Afridi
+    - 2.1:
+        non_striker: Shahid Afridi
+        bowler: Abul Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 2.2:
+        non_striker: Shahid Afridi
+        bowler: Abul Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 2.3:
+        non_striker: Shahid Afridi
+        bowler: Abul Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 2.4:
+        non_striker: E Lewis
+        bowler: Abul Hasan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahid Afridi
+    - 2.5:
+        non_striker: E Lewis
+        bowler: Abul Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahid Afridi
+    - 2.6:
+        non_striker: E Lewis
+        bowler: Abul Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 2.7:
+        non_striker: E Lewis
+        bowler: Abul Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 3.1:
+        non_striker: Shahid Afridi
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 3.2:
+        non_striker: E Lewis
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahid Afridi
+    - 3.3:
+        non_striker: E Lewis
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahid Afridi
+    - 3.4:
+        non_striker: E Lewis
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Afridi
+    - 3.5:
+        non_striker: Shahid Afridi
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 3.6:
+        non_striker: Shahid Afridi
+        bowler: Taijul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 4.1:
+        non_striker: E Lewis
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+        wicket:
+          player_out: Shahid Afridi
+          kind: lbw
+    - 4.2:
+        non_striker: E Lewis
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+        wicket:
+          player_out: CS Delport
+          fielders:
+          - Nasir Hossain
+          kind: caught
+    - 4.3:
+        non_striker: E Lewis
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 4.4:
+        non_striker: E Lewis
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 4.5:
+        non_striker: E Lewis
+        bowler: TT Bresnan
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Shakib Al Hasan
+    - 4.6:
+        non_striker: E Lewis
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 4.7:
+        non_striker: Shakib Al Hasan
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 5.1:
+        non_striker: E Lewis
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 5.2:
+        non_striker: E Lewis
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 5.3:
+        non_striker: E Lewis
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shakib Al Hasan
+    - 5.4:
+        non_striker: E Lewis
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 5.5:
+        non_striker: E Lewis
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 5.6:
+        non_striker: Shakib Al Hasan
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 6.1:
+        non_striker: E Lewis
+        bowler: MD Gunathilaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 6.2:
+        non_striker: Shakib Al Hasan
+        bowler: MD Gunathilaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 6.3:
+        non_striker: Shakib Al Hasan
+        bowler: MD Gunathilaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Lewis
+    - 6.4:
+        non_striker: Shakib Al Hasan
+        bowler: MD Gunathilaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Lewis
+    - 6.5:
+        non_striker: Shakib Al Hasan
+        bowler: MD Gunathilaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 6.6:
+        non_striker: E Lewis
+        bowler: MD Gunathilaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 7.1:
+        non_striker: Shakib Al Hasan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 7.2:
+        non_striker: Shakib Al Hasan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Lewis
+    - 7.3:
+        non_striker: E Lewis
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 7.4:
+        non_striker: Shakib Al Hasan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis
+    - 7.5:
+        non_striker: Shakib Al Hasan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Lewis

@@ -1,0 +1,2025 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-04-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kimberley
+  competition: MiWAY T20 Challenge
+  dates:
+  - '2012-03-16'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Knights
+    by:
+      wickets: 5
+    method: D/L
+  overs: 20
+  player_of_match:
+  - LJ Wright
+  - J Coetzee
+  players:
+    Impi:
+    - LJ Wright
+    - RCC Canning
+    - RN ten Doeschate
+    - PD Collingwood
+    - JP Kreusch
+    - PJ van Biljon
+    - M Mosehle
+    - K Zondo
+    - S Simetu
+    - BM Edmondson
+    - P Matshikwe
+    Knights:
+    - RR Rossouw
+    - MN van Wyk
+    - RR Hendricks
+    - RT Bailey
+    - JJ van der Wath
+    - D Elgar
+    - WL Coetsee
+    - R McLaren
+    - AR Swanepoel
+    - J Coetzee
+    - MP Siboto
+  registry:
+    people:
+      AR Swanepoel: cba5185d
+      BM Edmondson: b0b320a0
+      BM White: 66c21d35
+      D Elgar: 33085ffb
+      GH Pienaar: 3516e46b
+      J Coetzee: 3ad06915
+      JJ van der Wath: 6821ac10
+      JP Kreusch: 4f421623
+      K Zondo: 4aad78d3
+      KH Hurter: bda8cca8
+      LJ Wright: cca50cd6
+      M Mosehle: 8836fcac
+      MN van Wyk: 710dd98c
+      MP Siboto: 9d50c7e1
+      P Matshikwe: 1b05424f
+      PD Collingwood: a386e91b
+      PJ van Biljon: 4025c262
+      Q Friend: ffa15667
+      R McLaren: c654af19
+      RCC Canning: e6c67124
+      RN ten Doeschate: 4ec07775
+      RR Hendricks: b8cc58c9
+      RR Rossouw: cad00a4d
+      RT Bailey: 93a751e8
+      S Simetu: d3cc2954
+      S Wadvalla: c1a1acf3
+      WL Coetsee: 5f419ace
+  teams:
+  - Impi
+  - Knights
+  toss:
+    winner: Impi
+    decision: bat
+  umpires:
+  - GH Pienaar
+  - KH Hurter
+  venue: De Beers Diamond Oval, Kimberley
+innings:
+- 1st innings:
+    team: Impi
+    deliveries:
+    - 0.1:
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RCC Canning
+        batsman: LJ Wright
+    - 0.2:
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RCC Canning
+        batsman: LJ Wright
+    - 0.3:
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RCC Canning
+        batsman: LJ Wright
+    - 0.4:
+        non_striker: LJ Wright
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RCC Canning
+    - 0.5:
+        non_striker: LJ Wright
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RCC Canning
+    - 0.6:
+        non_striker: LJ Wright
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RCC Canning
+    - 1.1:
+        non_striker: LJ Wright
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RCC Canning
+    - 1.2:
+        non_striker: RCC Canning
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 1.3:
+        non_striker: RCC Canning
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 1.4:
+        non_striker: RCC Canning
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 1.5:
+        non_striker: RCC Canning
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 1.6:
+        non_striker: RCC Canning
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 2.1:
+        non_striker: LJ Wright
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RCC Canning
+    - 2.2:
+        non_striker: RCC Canning
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 2.3:
+        non_striker: RCC Canning
+        bowler: R McLaren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LJ Wright
+    - 2.4:
+        non_striker: LJ Wright
+        bowler: R McLaren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RCC Canning
+    - 2.5:
+        non_striker: LJ Wright
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RCC Canning
+    - 2.6:
+        non_striker: RCC Canning
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 2.7:
+        non_striker: RCC Canning
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 3.1:
+        non_striker: LJ Wright
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RCC Canning
+    - 3.2:
+        non_striker: LJ Wright
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RCC Canning
+    - 3.3:
+        non_striker: RCC Canning
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 3.4:
+        non_striker: RCC Canning
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 3.5:
+        non_striker: LJ Wright
+        bowler: JJ van der Wath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RCC Canning
+    - 3.6:
+        non_striker: LJ Wright
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RCC Canning
+    - 3.7:
+        non_striker: RCC Canning
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 4.1:
+        non_striker: RCC Canning
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 4.2:
+        non_striker: RCC Canning
+        bowler: MP Siboto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LJ Wright
+    - 4.3:
+        non_striker: LJ Wright
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RCC Canning
+    - 4.4:
+        non_striker: LJ Wright
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RCC Canning
+    - 4.5:
+        non_striker: RCC Canning
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 4.6:
+        non_striker: LJ Wright
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RCC Canning
+    - 5.1:
+        non_striker: RCC Canning
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 5.2:
+        non_striker: RCC Canning
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Wright
+    - 5.3:
+        non_striker: RCC Canning
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 5.4:
+        non_striker: RCC Canning
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LJ Wright
+    - 5.5:
+        non_striker: RCC Canning
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 5.6:
+        non_striker: RCC Canning
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 6.1:
+        non_striker: LJ Wright
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RCC Canning
+    - 6.2:
+        non_striker: RCC Canning
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 6.3:
+        non_striker: LJ Wright
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RCC Canning
+    - 6.4:
+        non_striker: RCC Canning
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 6.5:
+        non_striker: RCC Canning
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 6.6:
+        non_striker: RCC Canning
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Wright
+    - 7.1:
+        non_striker: LJ Wright
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RCC Canning
+    - 7.2:
+        non_striker: RCC Canning
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 7.3:
+        non_striker: LJ Wright
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RCC Canning
+    - 7.4:
+        non_striker: LJ Wright
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RCC Canning
+    - 7.5:
+        non_striker: LJ Wright
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RCC Canning
+    - 7.6:
+        non_striker: RCC Canning
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LJ Wright
+    - 8.1:
+        non_striker: LJ Wright
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RCC Canning
+    - 8.2:
+        non_striker: RCC Canning
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 8.3:
+        non_striker: LJ Wright
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RCC Canning
+    - 8.4:
+        non_striker: RCC Canning
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 8.5:
+        non_striker: RCC Canning
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 8.6:
+        non_striker: LJ Wright
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RCC Canning
+    - 9.1:
+        non_striker: LJ Wright
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RCC Canning
+    - 9.2:
+        non_striker: LJ Wright
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RCC Canning
+    - 9.3:
+        non_striker: LJ Wright
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RCC Canning
+        wicket:
+          player_out: RCC Canning
+          fielders:
+          - AR Swanepoel
+          kind: caught
+    - 9.4:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RN ten Doeschate
+        batsman: LJ Wright
+    - 9.5:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RN ten Doeschate
+        batsman: LJ Wright
+    - 9.6:
+        non_striker: RN ten Doeschate
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 10.1:
+        non_striker: RN ten Doeschate
+        bowler: D Elgar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 10.2:
+        non_striker: LJ Wright
+        bowler: D Elgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN ten Doeschate
+    - 10.3:
+        non_striker: LJ Wright
+        bowler: D Elgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN ten Doeschate
+    - 10.4:
+        non_striker: LJ Wright
+        bowler: D Elgar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 10.5:
+        non_striker: RN ten Doeschate
+        bowler: D Elgar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 10.6:
+        non_striker: LJ Wright
+        bowler: D Elgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN ten Doeschate
+        wicket:
+          player_out: RN ten Doeschate
+          fielders:
+          - AR Swanepoel
+          kind: caught
+    - 11.1:
+        non_striker: LJ Wright
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 11.2:
+        non_striker: PD Collingwood
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+        wicket:
+          player_out: LJ Wright
+          fielders:
+          - MN van Wyk
+          kind: caught
+    - 11.3:
+        non_striker: PD Collingwood
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kreusch
+    - 11.4:
+        non_striker: JP Kreusch
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Collingwood
+    - 11.5:
+        non_striker: JP Kreusch
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 11.6:
+        non_striker: PD Collingwood
+        bowler: AR Swanepoel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kreusch
+    - 12.1:
+        non_striker: PD Collingwood
+        bowler: D Elgar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kreusch
+    - 12.2:
+        non_striker: PD Collingwood
+        bowler: D Elgar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kreusch
+    - 12.3:
+        non_striker: JP Kreusch
+        bowler: D Elgar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PD Collingwood
+    - 12.4:
+        non_striker: JP Kreusch
+        bowler: D Elgar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 12.5:
+        non_striker: PD Collingwood
+        bowler: D Elgar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kreusch
+    - 12.6:
+        non_striker: JP Kreusch
+        bowler: D Elgar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Collingwood
+    - 13.1:
+        non_striker: PD Collingwood
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Kreusch
+    - 13.2:
+        non_striker: PD Collingwood
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kreusch
+    - 13.3:
+        non_striker: JP Kreusch
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 13.4:
+        non_striker: PD Collingwood
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kreusch
+    - 13.5:
+        non_striker: JP Kreusch
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 13.6:
+        non_striker: PD Collingwood
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kreusch
+        wicket:
+          player_out: JP Kreusch
+          fielders:
+          - RT Bailey
+          kind: caught
+    - 14.1:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PJ van Biljon
+        batsman: PD Collingwood
+    - 14.2:
+        non_striker: PD Collingwood
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 14.3:
+        non_striker: PJ van Biljon
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 14.4:
+        non_striker: PD Collingwood
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 14.5:
+        non_striker: PJ van Biljon
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 14.6:
+        non_striker: PD Collingwood
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 15.1:
+        non_striker: PJ van Biljon
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 15.2:
+        non_striker: PJ van Biljon
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+        wicket:
+          player_out: PD Collingwood
+          fielders:
+          - RT Bailey
+          kind: caught
+    - 15.3:
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Mosehle
+        batsman: PJ van Biljon
+    - 15.4:
+        non_striker: PJ van Biljon
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 15.5:
+        non_striker: M Mosehle
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 15.6:
+        non_striker: PJ van Biljon
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 16.1:
+        non_striker: PJ van Biljon
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 16.2:
+        non_striker: M Mosehle
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 16.3:
+        non_striker: PJ van Biljon
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mosehle
+    - 16.4:
+        non_striker: PJ van Biljon
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mosehle
+    - 16.5:
+        non_striker: PJ van Biljon
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+        wicket:
+          player_out: M Mosehle
+          fielders:
+          - MP Siboto
+          kind: caught
+    - 16.6:
+        non_striker: K Zondo
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 17.1:
+        non_striker: K Zondo
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 17.2:
+        non_striker: PJ van Biljon
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 17.3:
+        non_striker: K Zondo
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ van Biljon
+    - 17.4:
+        non_striker: K Zondo
+        bowler: JJ van der Wath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PJ van Biljon
+    - 17.5:
+        non_striker: PJ van Biljon
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+        wicket:
+          player_out: K Zondo
+          fielders:
+          - RR Hendricks
+          kind: caught
+    - 17.6:
+        non_striker: PJ van Biljon
+        bowler: JJ van der Wath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Simetu
+    - 18.1:
+        non_striker: S Simetu
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 18.2:
+        non_striker: S Simetu
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PJ van Biljon
+    - 18.3:
+        non_striker: S Simetu
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 18.4:
+        non_striker: PJ van Biljon
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Simetu
+    - 18.5:
+        non_striker: PJ van Biljon
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Simetu
+    - 18.6:
+        non_striker: S Simetu
+        bowler: R McLaren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 19.1:
+        non_striker: S Simetu
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+        wicket:
+          player_out: PJ van Biljon
+          fielders:
+          - RT Bailey
+          kind: caught
+    - 19.2:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: BM Edmondson
+        batsman: S Simetu
+    - 19.3:
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BM Edmondson
+        batsman: S Simetu
+    - 19.4:
+        non_striker: S Simetu
+        bowler: J Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BM Edmondson
+    - 19.5:
+        non_striker: S Simetu
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Edmondson
+    - 19.6:
+        non_striker: BM Edmondson
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Simetu
+        wicket:
+          player_out: S Simetu
+          fielders:
+          - RT Bailey
+          kind: caught
+    - 19.7:
+        non_striker: P Matshikwe
+        bowler: J Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Edmondson
+- 2nd innings:
+    team: Knights
+    deliveries:
+    - 0.1:
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MN van Wyk
+        batsman: RR Rossouw
+    - 0.2:
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MN van Wyk
+        batsman: RR Rossouw
+    - 0.3:
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MN van Wyk
+        batsman: RR Rossouw
+    - 0.4:
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MN van Wyk
+        batsman: RR Rossouw
+    - 0.5:
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MN van Wyk
+        batsman: RR Rossouw
+    - 0.6:
+        non_striker: MN van Wyk
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 1.1:
+        non_striker: MN van Wyk
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 1.2:
+        non_striker: MN van Wyk
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 1.3:
+        non_striker: RR Rossouw
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 1.4:
+        non_striker: RR Rossouw
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MN van Wyk
+    - 1.5:
+        non_striker: RR Rossouw
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 1.6:
+        non_striker: MN van Wyk
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 2.1:
+        non_striker: MN van Wyk
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 2.2:
+        non_striker: RR Rossouw
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 2.3:
+        non_striker: MN van Wyk
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 2.4:
+        non_striker: MN van Wyk
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 2.5:
+        non_striker: MN van Wyk
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 2.6:
+        non_striker: MN van Wyk
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 3.1:
+        non_striker: RR Rossouw
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 3.2:
+        non_striker: MN van Wyk
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 3.3:
+        non_striker: MN van Wyk
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 3.4:
+        non_striker: RR Rossouw
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 3.5:
+        non_striker: MN van Wyk
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 3.6:
+        non_striker: MN van Wyk
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 4.1:
+        non_striker: MN van Wyk
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 4.2:
+        non_striker: MN van Wyk
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 4.3:
+        non_striker: RR Rossouw
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MN van Wyk
+    - 4.4:
+        non_striker: RR Rossouw
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 4.5:
+        non_striker: MN van Wyk
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 4.6:
+        non_striker: MN van Wyk
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RR Rossouw
+    - 5.1:
+        non_striker: MN van Wyk
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Rossouw
+    - 5.2:
+        non_striker: MN van Wyk
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 5.3:
+        non_striker: MN van Wyk
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+        wicket:
+          player_out: RR Rossouw
+          fielders:
+          - M Mosehle
+          kind: caught
+    - 5.4:
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RR Hendricks
+        batsman: MN van Wyk
+    - 5.5:
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RR Hendricks
+        batsman: MN van Wyk
+    - 5.6:
+        non_striker: MN van Wyk
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RR Hendricks
+    - 6.1:
+        non_striker: MN van Wyk
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 6.2:
+        non_striker: MN van Wyk
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.3:
+        non_striker: RR Hendricks
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 6.4:
+        non_striker: MN van Wyk
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Hendricks
+    - 6.5:
+        non_striker: MN van Wyk
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          kind: bowled
+    - 6.6:
+        non_striker: MN van Wyk
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 7.1:
+        non_striker: MN van Wyk
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Bailey
+    - 7.2:
+        non_striker: MN van Wyk
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 7.3:
+        non_striker: RT Bailey
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 7.4:
+        non_striker: RT Bailey
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 7.5:
+        non_striker: RT Bailey
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 7.6:
+        non_striker: RT Bailey
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 8.1:
+        non_striker: RT Bailey
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 8.2:
+        non_striker: MN van Wyk
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 8.3:
+        non_striker: RT Bailey
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 8.4:
+        non_striker: MN van Wyk
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 8.5:
+        non_striker: RT Bailey
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 8.6:
+        non_striker: MN van Wyk
+        bowler: LJ Wright
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RT Bailey
+    - 8.7:
+        non_striker: MN van Wyk
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Bailey
+    - 9.1:
+        non_striker: RT Bailey
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MN van Wyk
+    - 9.2:
+        non_striker: RT Bailey
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 9.3:
+        non_striker: RT Bailey
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 9.4:
+        non_striker: RT Bailey
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 9.5:
+        non_striker: MN van Wyk
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RT Bailey
+    - 9.6:
+        non_striker: MN van Wyk
+        bowler: PD Collingwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Bailey
+    - 10.1:
+        non_striker: RT Bailey
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 10.2:
+        non_striker: RT Bailey
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 10.3:
+        non_striker: RT Bailey
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 10.4:
+        non_striker: RT Bailey
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 10.5:
+        non_striker: MN van Wyk
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Bailey
+    - 10.6:
+        non_striker: MN van Wyk
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 11.1:
+        non_striker: MN van Wyk
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 11.2:
+        non_striker: RT Bailey
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 11.3:
+        non_striker: RT Bailey
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 11.4:
+        non_striker: RT Bailey
+        bowler: S Simetu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MN van Wyk
+    - 11.5:
+        non_striker: RT Bailey
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 11.6:
+        non_striker: MN van Wyk
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 11.7:
+        non_striker: RT Bailey
+        bowler: S Simetu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 12.1:
+        non_striker: RT Bailey
+        bowler: P Matshikwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MN van Wyk
+    - 12.2:
+        non_striker: MN van Wyk
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Bailey
+    - 12.3:
+        non_striker: MN van Wyk
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 12.4:
+        non_striker: RT Bailey
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 12.5:
+        non_striker: MN van Wyk
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Bailey
+    - 12.6:
+        non_striker: MN van Wyk
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 13.1:
+        non_striker: MN van Wyk
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 13.2:
+        non_striker: RT Bailey
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+        wicket:
+          player_out: MN van Wyk
+          fielders:
+          - Q Friend (sub)
+          kind: caught
+    - 13.3:
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JJ van der Wath
+        batsman: RT Bailey
+    - 13.4:
+        non_striker: RT Bailey
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ van der Wath
+    - 13.5:
+        non_striker: JJ van der Wath
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 13.6:
+        non_striker: RT Bailey
+        bowler: LJ Wright
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: JJ van der Wath
+    - 13.7:
+        non_striker: JJ van der Wath
+        bowler: LJ Wright
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 14.1:
+        non_striker: JJ van der Wath
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 14.2:
+        non_striker: RT Bailey
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ van der Wath
+    - 14.3:
+        non_striker: JJ van der Wath
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Bailey
+    - 14.4:
+        non_striker: JJ van der Wath
+        bowler: BM Edmondson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RT Bailey
+    - 14.5:
+        non_striker: JJ van der Wath
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 14.6:
+        non_striker: RT Bailey
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ van der Wath
+    - 14.7:
+        non_striker: RT Bailey
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ van der Wath
+    - 15.1:
+        non_striker: JJ van der Wath
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Bailey
+        wicket:
+          player_out: RT Bailey
+          fielders:
+          - PJ van Biljon
+          kind: caught
+    - 15.2:
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Elgar
+        batsman: JJ van der Wath
+    - 15.3:
+        non_striker: JJ van der Wath
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Elgar
+    - 15.4:
+        non_striker: JJ van der Wath
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Elgar
+    - 15.5:
+        non_striker: D Elgar
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ van der Wath
+        wicket:
+          player_out: JJ van der Wath
+          fielders:
+          - RN ten Doeschate
+          kind: caught
+    - 15.6:
+        non_striker: WL Coetsee
+        bowler: P Matshikwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Elgar
+    - 16.1:
+        non_striker: D Elgar
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Coetsee
+    - 16.2:
+        non_striker: WL Coetsee
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Elgar
+    - 16.3:
+        non_striker: D Elgar
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Coetsee
+    - 16.4:
+        non_striker: WL Coetsee
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Elgar
+    - 16.5:
+        non_striker: D Elgar
+        bowler: BM Edmondson
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: WL Coetsee
+    - 16.6:
+        non_striker: D Elgar
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Coetsee
+    - 16.7:
+        non_striker: WL Coetsee
+        bowler: BM Edmondson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Elgar

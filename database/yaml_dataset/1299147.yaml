@@ -1,0 +1,1721 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-08-14'
+  revision: 1
+info:
+  balls_per_over: 5
+  city: Manchester
+  competition: The Hundred Women's Competition
+  dates:
+  - '2022-08-13'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Trent Rockets
+    by:
+      runs: 43
+  overs: 20
+  player_of_match:
+  - A King
+  players:
+    Trent Rockets:
+    - BF Smith
+    - EJ Villani
+    - Marie Kelly
+    - M du Preez
+    - AJ Freeborn
+    - KH Brunt
+    - A King
+    - S Glenn
+    - KE Bryce
+    - S Munro
+    - GK Davis
+    Manchester Originals:
+    - L Lee
+    - EL Lamb
+    - DJS Dottin
+    - AE Satterthwaite
+    - CL Griffith
+    - A Campbell
+    - S Ecclestone
+    - KL Cross
+    - E Threlkeld
+    - G Potts
+    - HE Jones
+  registry:
+    people:
+      A Campbell: 4b788e61
+      A King: '83558266'
+      AE Satterthwaite: 72b7ed1e
+      AJ Freeborn: c6da6ebf
+      AY Harris: 90d95b82
+      BF Smith: c64b7c5b
+      BV Taylor: '99760152'
+      CL Griffith: 85ce4231
+      DJS Dottin: 53bee17f
+      E Threlkeld: c66c73f9
+      EJ Villani: cde96d97
+      EL Lamb: '02181d9a'
+      G Potts: e3a93585
+      GD Lloyd: 36e0770d
+      GK Davis: '54719239'
+      HE Jones: f7b74efa
+      J Ibbotson: 7318fdbf
+      KE Bryce: f13d3eba
+      KH Brunt: 6a434bd3
+      KL Cross: 1ade138e
+      L Lee: 7b01ce83
+      M Kelly: ebf683f9
+      M du Preez: e219f17a
+      S Ecclestone: cdb82f1c
+      S Glenn: b34e0c77
+      S Munro: b4e026de
+      SJ Davis: bc71b0b2
+  teams:
+  - Trent Rockets
+  - Manchester Originals
+  toss:
+    winner: Manchester Originals
+    decision: field
+  umpires:
+  - AY Harris
+  - BV Taylor
+  venue: Old Trafford, Manchester
+innings:
+- 1st innings:
+    team: Trent Rockets
+    deliveries:
+    - 0.1:
+        non_striker: EJ Villani
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+    - 0.2:
+        non_striker: EJ Villani
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+    - 0.3:
+        non_striker: EJ Villani
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 0.4:
+        non_striker: BF Smith
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+    - 0.5:
+        non_striker: BF Smith
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Villani
+    - 1.1:
+        non_striker: BF Smith
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Villani
+        wicket:
+          player_out: EJ Villani
+          kind: lbw
+    - 1.2:
+        non_striker: BF Smith
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Marie Kelly
+    - 1.3:
+        non_striker: Marie Kelly
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+    - 1.4:
+        non_striker: Marie Kelly
+        bowler: HE Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BF Smith
+    - 1.5:
+        non_striker: Marie Kelly
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BF Smith
+    - 1.6:
+        non_striker: Marie Kelly
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BF Smith
+    - 2.1:
+        non_striker: BF Smith
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marie Kelly
+    - 2.2:
+        non_striker: BF Smith
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Marie Kelly
+    - 2.3:
+        non_striker: BF Smith
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marie Kelly
+    - 2.4:
+        non_striker: BF Smith
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marie Kelly
+    - 2.5:
+        non_striker: BF Smith
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Marie Kelly
+    - 3.1:
+        non_striker: BF Smith
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marie Kelly
+    - 3.2:
+        non_striker: BF Smith
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marie Kelly
+    - 3.3:
+        non_striker: BF Smith
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marie Kelly
+    - 3.4:
+        non_striker: BF Smith
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marie Kelly
+        wicket:
+          player_out: Marie Kelly
+          fielders:
+          - E Threlkeld
+          kind: caught
+    - 3.5:
+        non_striker: BF Smith
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M du Preez
+    - 3.6:
+        non_striker: BF Smith
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 4.1:
+        non_striker: BF Smith
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 4.2:
+        non_striker: M du Preez
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 4.3:
+        non_striker: BF Smith
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 4.4:
+        non_striker: BF Smith
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M du Preez
+    - 4.5:
+        non_striker: M du Preez
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BF Smith
+    - 5.1:
+        non_striker: M du Preez
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 5.2:
+        non_striker: BF Smith
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M du Preez
+    - 5.3:
+        non_striker: BF Smith
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 5.4:
+        non_striker: BF Smith
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M du Preez
+    - 5.5:
+        non_striker: BF Smith
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+    - 6.1:
+        non_striker: M du Preez
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 6.2:
+        non_striker: BF Smith
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M du Preez
+        wicket:
+          player_out: M du Preez
+          fielders:
+          - HE Jones
+          kind: caught
+    - 6.3:
+        non_striker: BF Smith
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 6.4:
+        non_striker: BF Smith
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 6.5:
+        non_striker: AJ Freeborn
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 7.1:
+        non_striker: BF Smith
+        bowler: S Ecclestone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Freeborn
+    - 7.2:
+        non_striker: AJ Freeborn
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+    - 7.3:
+        non_striker: AJ Freeborn
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Smith
+    - 7.4:
+        non_striker: BF Smith
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 7.5:
+        non_striker: AJ Freeborn
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Smith
+        wicket:
+          player_out: BF Smith
+          kind: bowled
+    - 8.1:
+        non_striker: KH Brunt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 8.2:
+        non_striker: KH Brunt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 8.3:
+        non_striker: KH Brunt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Freeborn
+    - 8.4:
+        non_striker: KH Brunt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Freeborn
+    - 8.5:
+        non_striker: KH Brunt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 9.1:
+        non_striker: KH Brunt
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Freeborn
+    - 9.2:
+        non_striker: KH Brunt
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 9.3:
+        non_striker: KH Brunt
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 9.4:
+        non_striker: AJ Freeborn
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 9.5:
+        non_striker: AJ Freeborn
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 10.1:
+        non_striker: AJ Freeborn
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Brunt
+    - 10.2:
+        non_striker: AJ Freeborn
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 10.3:
+        non_striker: KH Brunt
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 10.4:
+        non_striker: AJ Freeborn
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 10.5:
+        non_striker: KH Brunt
+        bowler: EL Lamb
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 11.1:
+        non_striker: AJ Freeborn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 11.2:
+        non_striker: KH Brunt
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 11.3:
+        non_striker: KH Brunt
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 11.4:
+        non_striker: KH Brunt
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Freeborn
+    - 11.5:
+        non_striker: KH Brunt
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 12.1:
+        non_striker: AJ Freeborn
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 12.2:
+        non_striker: AJ Freeborn
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 12.3:
+        non_striker: KH Brunt
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 12.4:
+        non_striker: KH Brunt
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 12.5:
+        non_striker: KH Brunt
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Freeborn
+    - 13.1:
+        non_striker: KH Brunt
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 13.2:
+        non_striker: AJ Freeborn
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 13.3:
+        non_striker: AJ Freeborn
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 13.4:
+        non_striker: AJ Freeborn
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Brunt
+    - 13.5:
+        non_striker: AJ Freeborn
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 14.1:
+        non_striker: KH Brunt
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 14.2:
+        non_striker: AJ Freeborn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Brunt
+    - 14.3:
+        non_striker: AJ Freeborn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+    - 14.4:
+        non_striker: AJ Freeborn
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 14.5:
+        non_striker: KH Brunt
+        bowler: G Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Freeborn
+    - 15.1:
+        non_striker: KH Brunt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 15.2:
+        non_striker: KH Brunt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 15.3:
+        non_striker: KH Brunt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 15.4:
+        non_striker: AJ Freeborn
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Brunt
+    - 15.5:
+        non_striker: KH Brunt
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Freeborn
+    - 16.1:
+        non_striker: AJ Freeborn
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Brunt
+        wicket:
+          player_out: KH Brunt
+          fielders:
+          - EL Lamb
+          kind: caught
+    - 16.2:
+        non_striker: AJ Freeborn
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 16.3:
+        non_striker: AJ Freeborn
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 16.4:
+        non_striker: A King
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 16.5:
+        non_striker: AJ Freeborn
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 17.1:
+        non_striker: A King
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 17.2:
+        non_striker: A King
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 17.3:
+        non_striker: AJ Freeborn
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 17.4:
+        non_striker: A King
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 17.5:
+        non_striker: AJ Freeborn
+        bowler: HE Jones
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A King
+    - 18.1:
+        non_striker: A King
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Freeborn
+    - 18.2:
+        non_striker: A King
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Freeborn
+    - 18.3:
+        non_striker: A King
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 18.4:
+        non_striker: AJ Freeborn
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A King
+    - 18.5:
+        non_striker: AJ Freeborn
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 19.1:
+        non_striker: A King
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Freeborn
+    - 19.2:
+        non_striker: AJ Freeborn
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A King
+    - 19.3:
+        non_striker: AJ Freeborn
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 19.4:
+        non_striker: A King
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Freeborn
+    - 19.5:
+        non_striker: A King
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Freeborn
+- 2nd innings:
+    team: Manchester Originals
+    deliveries:
+    - 0.1:
+        non_striker: EL Lamb
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Lee
+    - 0.2:
+        non_striker: EL Lamb
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 0.3:
+        non_striker: EL Lamb
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 0.4:
+        non_striker: EL Lamb
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 0.5:
+        non_striker: EL Lamb
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Lee
+    - 1.1:
+        non_striker: EL Lamb
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.2:
+        non_striker: EL Lamb
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 1.3:
+        non_striker: EL Lamb
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 1.4:
+        non_striker: L Lee
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 1.5:
+        non_striker: L Lee
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+        wicket:
+          player_out: EL Lamb
+          kind: bowled
+    - 2.1:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 2.2:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Lee
+    - 2.3:
+        non_striker: DJS Dottin
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 2.4:
+        non_striker: L Lee
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 2.5:
+        non_striker: L Lee
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+        wicket:
+          player_out: DJS Dottin
+          fielders:
+          - Marie Kelly
+          kind: caught
+    - 2.6:
+        non_striker: L Lee
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 3.1:
+        non_striker: L Lee
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 3.2:
+        non_striker: L Lee
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 3.3:
+        non_striker: AE Satterthwaite
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Lee
+    - 3.4:
+        non_striker: L Lee
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 3.5:
+        non_striker: L Lee
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 4.1:
+        non_striker: L Lee
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 4.2:
+        non_striker: L Lee
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 4.3:
+        non_striker: AE Satterthwaite
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+    - 4.4:
+        non_striker: AE Satterthwaite
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Lee
+        wicket:
+          player_out: L Lee
+          fielders:
+          - S Glenn
+          kind: caught
+    - 4.5:
+        non_striker: AE Satterthwaite
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Griffith
+    - 5.1:
+        non_striker: AE Satterthwaite
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Griffith
+    - 5.2:
+        non_striker: AE Satterthwaite
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Griffith
+    - 5.3:
+        non_striker: AE Satterthwaite
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Griffith
+    - 5.4:
+        non_striker: CL Griffith
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 5.5:
+        non_striker: AE Satterthwaite
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Griffith
+    - 6.1:
+        non_striker: AE Satterthwaite
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Griffith
+    - 6.2:
+        non_striker: AE Satterthwaite
+        bowler: A King
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: CL Griffith
+    - 6.3:
+        non_striker: AE Satterthwaite
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Griffith
+    - 6.4:
+        non_striker: AE Satterthwaite
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Griffith
+    - 6.5:
+        non_striker: AE Satterthwaite
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Griffith
+    - 6.6:
+        non_striker: CL Griffith
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 7.1:
+        non_striker: CL Griffith
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 7.2:
+        non_striker: CL Griffith
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 7.3:
+        non_striker: CL Griffith
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 7.4:
+        non_striker: CL Griffith
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 7.5:
+        non_striker: CL Griffith
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 8.1:
+        non_striker: CL Griffith
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+        wicket:
+          player_out: AE Satterthwaite
+          fielders:
+          - AJ Freeborn
+          kind: stumped
+    - 8.2:
+        non_striker: CL Griffith
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 8.3:
+        non_striker: CL Griffith
+        bowler: S Glenn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Campbell
+    - 8.4:
+        non_striker: A Campbell
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Griffith
+    - 8.5:
+        non_striker: A Campbell
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Griffith
+    - 9.1:
+        non_striker: CL Griffith
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 9.2:
+        non_striker: CL Griffith
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 9.3:
+        non_striker: CL Griffith
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 9.4:
+        non_striker: A Campbell
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Griffith
+    - 9.5:
+        non_striker: A Campbell
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Griffith
+    - 10.1:
+        non_striker: CL Griffith
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 10.2:
+        non_striker: A Campbell
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Griffith
+    - 10.3:
+        non_striker: A Campbell
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Griffith
+        wicket:
+          player_out: CL Griffith
+          kind: bowled
+    - 10.4:
+        non_striker: A Campbell
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+        wicket:
+          player_out: S Ecclestone
+          kind: lbw
+    - 10.5:
+        non_striker: A Campbell
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Cross
+        wicket:
+          player_out: KL Cross
+          kind: bowled
+    - 11.1:
+        non_striker: A Campbell
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Threlkeld
+    - 11.2:
+        non_striker: A Campbell
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Threlkeld
+    - 11.3:
+        non_striker: E Threlkeld
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 11.4:
+        non_striker: E Threlkeld
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 11.5:
+        non_striker: A Campbell
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Threlkeld
+    - 12.1:
+        non_striker: E Threlkeld
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 12.2:
+        non_striker: A Campbell
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Threlkeld
+    - 12.3:
+        non_striker: E Threlkeld
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 12.4:
+        non_striker: A Campbell
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Threlkeld
+    - 12.5:
+        non_striker: E Threlkeld
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Campbell
+    - 13.1:
+        non_striker: E Threlkeld
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 13.2:
+        non_striker: A Campbell
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Threlkeld
+    - 13.3:
+        non_striker: E Threlkeld
+        bowler: BF Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Campbell
+    - 13.4:
+        non_striker: E Threlkeld
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+    - 13.5:
+        non_striker: E Threlkeld
+        bowler: BF Smith
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: A Campbell
+    - 13.6:
+        non_striker: E Threlkeld
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 14.1:
+        non_striker: E Threlkeld
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 14.2:
+        non_striker: A Campbell
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Threlkeld
+    - 14.3:
+        non_striker: E Threlkeld
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Campbell
+    - 14.4:
+        non_striker: A Campbell
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Threlkeld
+    - 14.5:
+        non_striker: E Threlkeld
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Campbell
+        wicket:
+          player_out: A Campbell
+          fielders:
+          - A King
+          kind: caught
+    - 15.1:
+        non_striker: E Threlkeld
+        bowler: KH Brunt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Potts
+    - 15.2:
+        non_striker: E Threlkeld
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Potts
+    - 15.3:
+        non_striker: G Potts
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Threlkeld
+    - 15.4:
+        non_striker: G Potts
+        bowler: KH Brunt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Threlkeld
+    - 15.5:
+        non_striker: E Threlkeld
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Potts
+    - 15.6:
+        non_striker: G Potts
+        bowler: KH Brunt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Threlkeld
+    - 16.1:
+        non_striker: G Potts
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Threlkeld
+        wicket:
+          player_out: E Threlkeld
+          fielders:
+          - KH Brunt
+          kind: caught
+    - 16.2:
+        non_striker: G Potts
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE Jones
+    - 16.3:
+        non_striker: HE Jones
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Potts
+    - 16.4:
+        non_striker: G Potts
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE Jones
+    - 16.5:
+        non_striker: HE Jones
+        bowler: BF Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Potts
+    - 17.1:
+        non_striker: G Potts
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Jones
+    - 17.2:
+        non_striker: G Potts
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE Jones
+        wicket:
+          player_out: HE Jones
+          fielders:
+          - AJ Freeborn
+          - KE Bryce
+          kind: run out

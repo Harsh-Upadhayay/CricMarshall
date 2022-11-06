@@ -1,0 +1,1813 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-02-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: New Plymouth
+  competition: Super Smash
+  dates:
+  - '2018-12-29'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Auckland
+    by:
+      wickets: 5
+  overs: 20
+  players:
+    Central Districts:
+    - GH Worker
+    - D Cleaver
+    - WA Young
+    - TC Bruce
+    - JA Clarkson
+    - DAJ Bracewell
+    - K Noema-Barnett
+    - BM Wheeler
+    - SHA Rance
+    - FJM Murray
+    - BM Tickner
+    Auckland:
+    - MJ Guptill
+    - C Munro
+    - GD Phillips
+    - MS Chapman
+    - Craig Cachopa
+    - RR O'Donnell
+    - RM Hira
+    - LH Ferguson
+    - BG Lister
+    - MR Quinn
+    - WER Somerville
+  registry:
+    people:
+      BG Lister: 79f5bc26
+      BM Tickner: 48ad3373
+      BM Wheeler: 397f4d3a
+      C Munro: af2c687b
+      CM Brown: 448f4f1c
+      Craig Cachopa: af294a6c
+      D Cleaver: e3a949be
+      DAJ Bracewell: 2e9fdf9b
+      FJM Murray: 2ef64bd1
+      GD Phillips: 9a46c4e5
+      GH Worker: 51a36d3e
+      JA Clarkson: bed90114
+      K Noema-Barnett: 1ad0b441
+      LH Ferguson: 2f9d0389
+      MJ Guptill: 2be41edb
+      MR Quinn: b082d112
+      MS Chapman: 7fa12533
+      RM Hira: 2e966563
+      RR O'Donnell: 2742086d
+      SB Haig: 811655b3
+      SHA Rance: 69c994e4
+      TC Bruce: f92c9151
+      WA Young: 8afe73e2
+      WER Somerville: 74a1c1e3
+  teams:
+  - Central Districts
+  - Auckland
+  toss:
+    decision: field
+    winner: Auckland
+  umpires:
+  - CM Brown
+  - SB Haig
+  venue: Pukekura Park
+innings:
+- 1st innings:
+    team: Central Districts
+    deliveries:
+    - 0.1:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Cleaver
+        batsman: GH Worker
+    - 0.2:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: D Cleaver
+        batsman: GH Worker
+    - 0.3:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Cleaver
+        batsman: GH Worker
+    - 0.4:
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: D Cleaver
+        batsman: GH Worker
+    - 0.5:
+        non_striker: GH Worker
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 0.6:
+        non_striker: GH Worker
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 1.1:
+        non_striker: GH Worker
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 1.2:
+        non_striker: GH Worker
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Cleaver
+    - 1.3:
+        non_striker: GH Worker
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 1.4:
+        non_striker: D Cleaver
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.5:
+        non_striker: D Cleaver
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 1.6:
+        non_striker: GH Worker
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 2.1:
+        non_striker: D Cleaver
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 2.2:
+        non_striker: D Cleaver
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 2.3:
+        non_striker: D Cleaver
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Worker
+    - 2.4:
+        non_striker: D Cleaver
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 2.5:
+        non_striker: D Cleaver
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 2.6:
+        non_striker: D Cleaver
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Worker
+    - 2.7:
+        non_striker: D Cleaver
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Worker
+    - 3.1:
+        non_striker: GH Worker
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 3.2:
+        non_striker: GH Worker
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 3.3:
+        non_striker: GH Worker
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+        wicket:
+          player_out: D Cleaver
+          fielders:
+          - MR Quinn
+          kind: caught
+    - 3.4:
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WA Young
+        batsman: GH Worker
+    - 3.5:
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WA Young
+        batsman: GH Worker
+    - 3.6:
+        non_striker: GH Worker
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 4.1:
+        non_striker: GH Worker
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 4.2:
+        non_striker: GH Worker
+        bowler: RM Hira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Young
+    - 4.3:
+        non_striker: GH Worker
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 4.4:
+        non_striker: WA Young
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 4.5:
+        non_striker: WA Young
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+        wicket:
+          player_out: GH Worker
+          fielders:
+          - MJ Guptill
+          kind: caught
+    - 4.6:
+        non_striker: WA Young
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 4.7:
+        non_striker: WA Young
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 5.1:
+        non_striker: WA Young
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 5.2:
+        non_striker: WA Young
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 5.3:
+        non_striker: TC Bruce
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 5.4:
+        non_striker: WA Young
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 5.5:
+        non_striker: TC Bruce
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 5.6:
+        non_striker: TC Bruce
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 6.1:
+        non_striker: WA Young
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 6.2:
+        non_striker: TC Bruce
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Young
+    - 6.3:
+        non_striker: TC Bruce
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 6.4:
+        non_striker: WA Young
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 6.5:
+        non_striker: WA Young
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+        wicket:
+          player_out: TC Bruce
+          kind: bowled
+    - 6.6:
+        non_striker: WA Young
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 7.1:
+        non_striker: JA Clarkson
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 7.2:
+        non_striker: WA Young
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+        wicket:
+          player_out: JA Clarkson
+          fielders:
+          - RM Hira
+          kind: caught
+    - 7.3:
+        non_striker: WA Young
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 7.4:
+        non_striker: DAJ Bracewell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 7.5:
+        non_striker: WA Young
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+    - 7.6:
+        non_striker: WA Young
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 8.1:
+        non_striker: WA Young
+        bowler: C Munro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+    - 8.2:
+        non_striker: WA Young
+        bowler: C Munro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+    - 8.3:
+        non_striker: WA Young
+        bowler: C Munro
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+    - 8.4:
+        non_striker: WA Young
+        bowler: C Munro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 8.5:
+        non_striker: DAJ Bracewell
+        bowler: C Munro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 8.6:
+        non_striker: WA Young
+        bowler: C Munro
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 9.1:
+        non_striker: WA Young
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 9.2:
+        non_striker: DAJ Bracewell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Young
+    - 9.3:
+        non_striker: DAJ Bracewell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 9.4:
+        non_striker: WA Young
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 9.5:
+        non_striker: DAJ Bracewell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 9.6:
+        non_striker: WA Young
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+        wicket:
+          player_out: DAJ Bracewell
+          kind: bowled
+    - 10.1:
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Noema-Barnett
+        batsman: WA Young
+    - 10.2:
+        non_striker: WA Young
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Noema-Barnett
+    - 10.3:
+        non_striker: K Noema-Barnett
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 10.4:
+        non_striker: K Noema-Barnett
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 10.5:
+        non_striker: WA Young
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Noema-Barnett
+    - 10.6:
+        non_striker: K Noema-Barnett
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 11.1:
+        non_striker: K Noema-Barnett
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 11.2:
+        non_striker: WA Young
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Noema-Barnett
+    - 11.3:
+        non_striker: WA Young
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Noema-Barnett
+    - 11.4:
+        non_striker: WA Young
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Noema-Barnett
+    - 11.5:
+        non_striker: K Noema-Barnett
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 11.6:
+        non_striker: WA Young
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Noema-Barnett
+    - 12.1:
+        non_striker: K Noema-Barnett
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 12.2:
+        non_striker: K Noema-Barnett
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+        wicket:
+          player_out: WA Young
+          fielders:
+          - GD Phillips
+          kind: caught
+    - 12.3:
+        non_striker: K Noema-Barnett
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Wheeler
+    - 12.4:
+        non_striker: K Noema-Barnett
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 12.5:
+        non_striker: BM Wheeler
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Noema-Barnett
+    - 12.6:
+        non_striker: K Noema-Barnett
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 13.1:
+        non_striker: K Noema-Barnett
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Wheeler
+    - 13.2:
+        non_striker: K Noema-Barnett
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Wheeler
+    - 13.3:
+        non_striker: K Noema-Barnett
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 13.4:
+        non_striker: BM Wheeler
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Noema-Barnett
+    - 13.5:
+        non_striker: BM Wheeler
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Noema-Barnett
+    - 13.6:
+        non_striker: BM Wheeler
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Noema-Barnett
+    - 14.1:
+        non_striker: K Noema-Barnett
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Wheeler
+    - 14.2:
+        non_striker: K Noema-Barnett
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Wheeler
+    - 14.3:
+        non_striker: BM Wheeler
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Noema-Barnett
+        wicket:
+          player_out: K Noema-Barnett
+          fielders:
+          - RR O'Donnell
+          kind: caught
+    - 14.4:
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SHA Rance
+        batsman: BM Wheeler
+    - 14.5:
+        non_striker: BM Wheeler
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SHA Rance
+    - 14.6:
+        non_striker: BM Wheeler
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SHA Rance
+        wicket:
+          player_out: BM Wheeler
+          kind: run out
+    - 15.1:
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FJM Murray
+        batsman: SHA Rance
+    - 15.2:
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FJM Murray
+        batsman: SHA Rance
+    - 15.3:
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: FJM Murray
+        batsman: SHA Rance
+    - 15.4:
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FJM Murray
+        batsman: SHA Rance
+    - 15.5:
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: FJM Murray
+        batsman: SHA Rance
+    - 15.6:
+        non_striker: FJM Murray
+        bowler: RM Hira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SHA Rance
+    - 16.1:
+        non_striker: SHA Rance
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FJM Murray
+    - 16.2:
+        non_striker: FJM Murray
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SHA Rance
+    - 16.3:
+        non_striker: FJM Murray
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SHA Rance
+    - 16.4:
+        non_striker: SHA Rance
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FJM Murray
+    - 16.5:
+        non_striker: FJM Murray
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SHA Rance
+        wicket:
+          player_out: SHA Rance
+          fielders:
+          - MJ Guptill
+          kind: caught
+    - 16.6:
+        non_striker: FJM Murray
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Tickner
+    - 17.1:
+        non_striker: BM Tickner
+        bowler: MR Quinn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FJM Murray
+        wicket:
+          player_out: FJM Murray
+          fielders:
+          - GD Phillips
+          kind: caught
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Munro
+        batsman: MJ Guptill
+    - 0.2:
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Munro
+        batsman: MJ Guptill
+    - 0.3:
+        non_striker: MJ Guptill
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 0.4:
+        non_striker: C Munro
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.5:
+        non_striker: C Munro
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.6:
+        non_striker: C Munro
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 1.1:
+        non_striker: MJ Guptill
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          fielders:
+          - SHA Rance
+          kind: caught
+    - 1.2:
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GD Phillips
+        batsman: MJ Guptill
+    - 1.3:
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GD Phillips
+        batsman: MJ Guptill
+    - 1.4:
+        non_striker: MJ Guptill
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - GH Worker
+          kind: caught
+    - 1.5:
+        non_striker: MJ Guptill
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 1.6:
+        non_striker: MJ Guptill
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 2.1:
+        non_striker: MS Chapman
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 2.2:
+        non_striker: MS Chapman
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 2.3:
+        non_striker: MS Chapman
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 2.4:
+        non_striker: MS Chapman
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 2.5:
+        non_striker: MS Chapman
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 2.6:
+        non_striker: MS Chapman
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.1:
+        non_striker: MJ Guptill
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 3.2:
+        non_striker: MJ Guptill
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 3.3:
+        non_striker: MJ Guptill
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 3.4:
+        non_striker: MS Chapman
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.5:
+        non_striker: MS Chapman
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.6:
+        non_striker: MS Chapman
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 4.1:
+        non_striker: MS Chapman
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 4.2:
+        non_striker: MS Chapman
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 4.3:
+        non_striker: MS Chapman
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 4.4:
+        non_striker: MS Chapman
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 4.5:
+        non_striker: MS Chapman
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 4.6:
+        non_striker: MS Chapman
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 5.1:
+        non_striker: MJ Guptill
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 5.2:
+        non_striker: MS Chapman
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 5.3:
+        non_striker: MS Chapman
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 5.4:
+        non_striker: MS Chapman
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 5.5:
+        non_striker: MS Chapman
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 5.6:
+        non_striker: MJ Guptill
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 6.1:
+        non_striker: MS Chapman
+        bowler: DAJ Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Guptill
+    - 6.2:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 6.3:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 6.4:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 6.5:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MS Chapman
+    - 6.6:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 6.7:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - D Cleaver
+          kind: caught
+    - 7.1:
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Craig Cachopa
+        batsman: MJ Guptill
+    - 7.2:
+        non_striker: MJ Guptill
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 7.3:
+        non_striker: MJ Guptill
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 7.4:
+        non_striker: Craig Cachopa
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 7.5:
+        non_striker: Craig Cachopa
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 7.6:
+        non_striker: MJ Guptill
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 8.1:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 8.2:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 8.3:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 8.4:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 8.5:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Craig Cachopa
+    - 8.6:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+        wicket:
+          player_out: Craig Cachopa
+          fielders:
+          - BM Tickner
+          kind: caught
+    - 9.1:
+        non_striker: MJ Guptill
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 9.2:
+        non_striker: MJ Guptill
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 9.3:
+        non_striker: RR O'Donnell
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 9.4:
+        non_striker: RR O'Donnell
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 9.5:
+        non_striker: MJ Guptill
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 9.6:
+        non_striker: RR O'Donnell
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 10.1:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 10.2:
+        non_striker: RR O'Donnell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 10.3:
+        non_striker: RR O'Donnell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 10.4:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 10.5:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 10.6:
+        non_striker: MJ Guptill
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 11.1:
+        non_striker: RR O'Donnell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 11.2:
+        non_striker: MJ Guptill
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 11.3:
+        non_striker: RR O'Donnell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 11.4:
+        non_striker: RR O'Donnell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 11.5:
+        non_striker: MJ Guptill
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 11.6:
+        non_striker: MJ Guptill
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 12.1:
+        non_striker: MJ Guptill
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 12.2:
+        non_striker: RR O'Donnell
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 12.3:
+        non_striker: MJ Guptill
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 12.4:
+        non_striker: MJ Guptill
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 12.5:
+        non_striker: RR O'Donnell
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 12.6:
+        non_striker: MJ Guptill
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 13.1:
+        non_striker: MJ Guptill
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 13.2:
+        non_striker: MJ Guptill
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 13.3:
+        non_striker: RR O'Donnell
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 13.4:
+        non_striker: MJ Guptill
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+        wicket:
+          player_out: RR O'Donnell
+          fielders:
+          - TC Bruce
+          kind: caught
+    - 13.5:
+        non_striker: MJ Guptill
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Hira
+    - 13.6:
+        non_striker: MJ Guptill
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Hira
+    - 14.1:
+        non_striker: RM Hira
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 14.2:
+        non_striker: MJ Guptill
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Hira
+    - 14.3:
+        non_striker: MJ Guptill
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Hira
+    - 14.4:
+        non_striker: RM Hira
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 14.5:
+        non_striker: MJ Guptill
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Hira
+    - 14.6:
+        non_striker: MJ Guptill
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Hira
+    - 15.1:
+        non_striker: RM Hira
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 15.2:
+        non_striker: MJ Guptill
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Hira
+    - 15.3:
+        non_striker: RM Hira
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 15.4:
+        non_striker: RM Hira
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 15.5:
+        non_striker: RM Hira
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 15.6:
+        non_striker: MJ Guptill
+        bowler: FJM Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Hira
+    - 16.1:
+        non_striker: RM Hira
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Guptill
+    - 16.2:
+        non_striker: RM Hira
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 16.3:
+        non_striker: RM Hira
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 16.4:
+        non_striker: RM Hira
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill

@@ -1,0 +1,2430 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nottingham
+  competition: Royal London One-Day Cup
+  dates:
+  - '2018-06-07'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Nottinghamshire
+    by:
+      wickets: 8
+  overs: 50
+  players:
+    Derbyshire:
+    - BT Slater
+    - BA Godleman
+    - WL Madsen
+    - AL Hughes
+    - MJJ Critchley
+    - GC Wilson
+    - D Smit
+    - GC Viljoen
+    - Hamidullah Qadri
+    - D Olivier
+    - R Rampaul
+    Nottinghamshire:
+    - MH Wessels
+    - AD Hales
+    - TJ Moores
+    - LRPL Taylor
+    - SR Patel
+    - SJ Mullaney
+    - CD Nash
+    - WT Root
+    - LJ Fletcher
+    - M Carter
+    - JT Ball
+  registry:
+    people:
+      AD Hales: 92aeac25
+      AG Wharf: 2e0fcc58
+      AL Hughes: 1066a976
+      BA Godleman: b26b1e3d
+      BT Slater: c5f1d2a1
+      CD Nash: 6f049d41
+      D Olivier: a8e56914
+      D Smit: 4bb02ef1
+      GC Viljoen: a316d663
+      GC Wilson: 05de1a5a
+      Hamidullah Qadri: eec81780
+      JT Ball: 3d0ed2f9
+      LJ Fletcher: e423d162
+      LRPL Taylor: b61a3e1a
+      M Carter: 1ca7c00f
+      MH Wessels: 90f47cf2
+      MJJ Critchley: c5cc48bc
+      R Rampaul: d68e7f48
+      RJ Warren: 9d1c62d7
+      SJ Mullaney: 0e0d43b4
+      SR Patel: 18fac429
+      TJ Moores: 85dcb721
+      WL Madsen: 86e0f3f0
+      WT Root: '72898514'
+  teams:
+  - Derbyshire
+  - Nottinghamshire
+  toss:
+    winner: Derbyshire
+    decision: bat
+  umpires:
+  - AG Wharf
+  - RJ Warren
+  venue: Trent Bridge, Nottingham
+innings:
+- 1st innings:
+    team: Derbyshire
+    deliveries:
+    - 0.1:
+        non_striker: BA Godleman
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BT Slater
+    - 0.2:
+        non_striker: BA Godleman
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BT Slater
+    - 0.3:
+        non_striker: BT Slater
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Godleman
+    - 0.4:
+        non_striker: BA Godleman
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BT Slater
+    - 0.5:
+        non_striker: BT Slater
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Godleman
+    - 0.6:
+        non_striker: BA Godleman
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BT Slater
+    - 1.1:
+        non_striker: BT Slater
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Godleman
+    - 1.2:
+        non_striker: BT Slater
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Godleman
+    - 1.3:
+        non_striker: BA Godleman
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BT Slater
+    - 1.4:
+        non_striker: BT Slater
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Godleman
+    - 1.5:
+        non_striker: BT Slater
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Godleman
+    - 1.6:
+        non_striker: BA Godleman
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BT Slater
+    - 2.1:
+        non_striker: BT Slater
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Godleman
+    - 2.2:
+        non_striker: BT Slater
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Godleman
+    - 2.3:
+        non_striker: BT Slater
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Godleman
+    - 2.4:
+        non_striker: BT Slater
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Godleman
+        wicket:
+          player_out: BA Godleman
+          fielders:
+          - SJ Mullaney
+          kind: caught
+    - 2.5:
+        non_striker: BT Slater
+        bowler: M Carter
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: WL Madsen
+    - 2.6:
+        non_striker: BT Slater
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WL Madsen
+    - 2.7:
+        non_striker: BT Slater
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 3.1:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BT Slater
+    - 3.2:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BT Slater
+        wicket:
+          player_out: BT Slater
+          fielders:
+          - TJ Moores
+          kind: caught
+    - 3.3:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Hughes
+    - 3.4:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Hughes
+    - 3.5:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Hughes
+    - 3.6:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Hughes
+    - 4.1:
+        non_striker: AL Hughes
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 4.2:
+        non_striker: AL Hughes
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 4.3:
+        non_striker: WL Madsen
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Hughes
+    - 4.4:
+        non_striker: WL Madsen
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Hughes
+    - 4.5:
+        non_striker: WL Madsen
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Hughes
+        wicket:
+          player_out: AL Hughes
+          fielders:
+          - LRPL Taylor
+          kind: caught
+    - 4.6:
+        non_striker: WL Madsen
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 5.1:
+        non_striker: MJJ Critchley
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 5.2:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 5.3:
+        non_striker: MJJ Critchley
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 5.4:
+        non_striker: MJJ Critchley
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 5.5:
+        non_striker: MJJ Critchley
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 5.6:
+        non_striker: MJJ Critchley
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 6.1:
+        non_striker: WL Madsen
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 6.2:
+        non_striker: WL Madsen
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 6.3:
+        non_striker: MJJ Critchley
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 6.4:
+        non_striker: MJJ Critchley
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 6.5:
+        non_striker: WL Madsen
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 6.6:
+        non_striker: WL Madsen
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 7.1:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 7.2:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 7.3:
+        non_striker: MJJ Critchley
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 7.4:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJJ Critchley
+    - 7.5:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJJ Critchley
+    - 7.6:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 8.1:
+        non_striker: MJJ Critchley
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 8.2:
+        non_striker: MJJ Critchley
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 8.3:
+        non_striker: MJJ Critchley
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 8.4:
+        non_striker: WL Madsen
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 8.5:
+        non_striker: MJJ Critchley
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 8.6:
+        non_striker: MJJ Critchley
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 9.1:
+        non_striker: MJJ Critchley
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 9.2:
+        non_striker: MJJ Critchley
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 9.3:
+        non_striker: MJJ Critchley
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 9.4:
+        non_striker: MJJ Critchley
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 9.5:
+        non_striker: MJJ Critchley
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 9.6:
+        non_striker: MJJ Critchley
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 10.1:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 10.2:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 10.3:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 10.4:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 10.5:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 10.6:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 11.1:
+        non_striker: WL Madsen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 11.2:
+        non_striker: WL Madsen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 11.3:
+        non_striker: MJJ Critchley
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WL Madsen
+    - 11.4:
+        non_striker: MJJ Critchley
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 11.5:
+        non_striker: WL Madsen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 11.6:
+        non_striker: MJJ Critchley
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 12.1:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 12.2:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 12.3:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 12.4:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 12.5:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 12.6:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 13.1:
+        non_striker: WL Madsen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 13.2:
+        non_striker: WL Madsen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 13.3:
+        non_striker: WL Madsen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 13.4:
+        non_striker: WL Madsen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 13.5:
+        non_striker: MJJ Critchley
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WL Madsen
+    - 13.6:
+        non_striker: MJJ Critchley
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 14.1:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 14.2:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 14.3:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 14.4:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 14.5:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 14.6:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WL Madsen
+    - 15.1:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJJ Critchley
+    - 15.2:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 15.3:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 15.4:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 15.5:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 15.6:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 15.7:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 16.1:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 16.2:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 16.3:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 16.4:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 16.5:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 16.6:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJJ Critchley
+    - 17.1:
+        non_striker: MJJ Critchley
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 17.2:
+        non_striker: MJJ Critchley
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 17.3:
+        non_striker: MJJ Critchley
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WL Madsen
+    - 17.4:
+        non_striker: MJJ Critchley
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 17.5:
+        non_striker: MJJ Critchley
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 17.6:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 18.1:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 18.2:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 18.3:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 18.4:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 18.5:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 18.6:
+        non_striker: MJJ Critchley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 19.1:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 19.2:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJJ Critchley
+    - 19.3:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 19.4:
+        non_striker: MJJ Critchley
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 19.5:
+        non_striker: MJJ Critchley
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 19.6:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJJ Critchley
+    - 20.1:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 20.2:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJJ Critchley
+    - 20.3:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 20.4:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+        wicket:
+          player_out: MJJ Critchley
+          fielders:
+          - TJ Moores
+          kind: caught
+    - 20.5:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 20.6:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 21.1:
+        non_striker: GC Wilson
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 21.2:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 21.3:
+        non_striker: WL Madsen
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 21.4:
+        non_striker: GC Wilson
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 21.5:
+        non_striker: GC Wilson
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 21.6:
+        non_striker: GC Wilson
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 22.1:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 22.2:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 22.3:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 22.4:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 22.5:
+        non_striker: GC Wilson
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 22.6:
+        non_striker: WL Madsen
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 23.1:
+        non_striker: GC Wilson
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 23.2:
+        non_striker: GC Wilson
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WL Madsen
+    - 23.3:
+        non_striker: GC Wilson
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 23.4:
+        non_striker: GC Wilson
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 23.5:
+        non_striker: GC Wilson
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 23.6:
+        non_striker: GC Wilson
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 24.1:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 24.2:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 24.3:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 24.4:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 24.5:
+        non_striker: WL Madsen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 24.6:
+        non_striker: GC Wilson
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 25.1:
+        non_striker: WL Madsen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 25.2:
+        non_striker: WL Madsen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 25.3:
+        non_striker: WL Madsen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+        wicket:
+          player_out: GC Wilson
+          fielders:
+          - JT Ball
+          kind: caught
+    - 25.4:
+        non_striker: D Smit
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Madsen
+    - 25.5:
+        non_striker: WL Madsen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Smit
+    - 25.6:
+        non_striker: WL Madsen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Smit
+    - 26.1:
+        non_striker: D Smit
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 26.2:
+        non_striker: D Smit
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 26.3:
+        non_striker: D Smit
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 26.4:
+        non_striker: D Smit
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+    - 26.5:
+        non_striker: D Smit
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Madsen
+        wicket:
+          player_out: WL Madsen
+          fielders:
+          - AD Hales
+          kind: caught
+    - 26.6:
+        non_striker: GC Viljoen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Smit
+    - 27.1:
+        non_striker: GC Viljoen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Smit
+    - 27.2:
+        non_striker: GC Viljoen
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Smit
+    - 27.3:
+        non_striker: D Smit
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 27.4:
+        non_striker: D Smit
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 27.5:
+        non_striker: D Smit
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 27.6:
+        non_striker: D Smit
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 28.1:
+        non_striker: D Smit
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 28.2:
+        non_striker: D Smit
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 28.3:
+        non_striker: D Smit
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 28.4:
+        non_striker: D Smit
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 28.5:
+        non_striker: D Smit
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 28.6:
+        non_striker: D Smit
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 29.1:
+        non_striker: GC Viljoen
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Smit
+    - 29.2:
+        non_striker: GC Viljoen
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Smit
+    - 29.3:
+        non_striker: D Smit
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 29.4:
+        non_striker: D Smit
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 29.5:
+        non_striker: D Smit
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 29.6:
+        non_striker: D Smit
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Viljoen
+    - 30.1:
+        non_striker: GC Viljoen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Smit
+    - 30.2:
+        non_striker: GC Viljoen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Smit
+    - 30.3:
+        non_striker: GC Viljoen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Smit
+    - 30.4:
+        non_striker: GC Viljoen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Smit
+        wicket:
+          player_out: D Smit
+          kind: bowled
+    - 30.5:
+        non_striker: GC Viljoen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamidullah Qadri
+    - 30.6:
+        non_striker: GC Viljoen
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamidullah Qadri
+    - 31.1:
+        non_striker: Hamidullah Qadri
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+        wicket:
+          player_out: GC Viljoen
+          kind: bowled
+    - 31.2:
+        non_striker: Hamidullah Qadri
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+    - 31.3:
+        non_striker: Hamidullah Qadri
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+    - 31.4:
+        non_striker: Hamidullah Qadri
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+    - 31.5:
+        non_striker: Hamidullah Qadri
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+    - 31.6:
+        non_striker: Hamidullah Qadri
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+    - 32.1:
+        non_striker: D Olivier
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamidullah Qadri
+    - 32.2:
+        non_striker: D Olivier
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamidullah Qadri
+    - 32.3:
+        non_striker: D Olivier
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamidullah Qadri
+    - 32.4:
+        non_striker: D Olivier
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamidullah Qadri
+    - 32.5:
+        non_striker: D Olivier
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hamidullah Qadri
+    - 32.6:
+        non_striker: D Olivier
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hamidullah Qadri
+    - 33.1:
+        non_striker: Hamidullah Qadri
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+    - 33.2:
+        non_striker: Hamidullah Qadri
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+    - 33.3:
+        non_striker: Hamidullah Qadri
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+    - 33.4:
+        non_striker: Hamidullah Qadri
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+        wicket:
+          player_out: Hamidullah Qadri
+          fielders:
+          - CD Nash
+          kind: run out
+    - 33.5:
+        non_striker: D Olivier
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rampaul
+    - 33.6:
+        non_striker: D Olivier
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rampaul
+    - 34.1:
+        non_striker: R Rampaul
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+    - 34.2:
+        non_striker: R Rampaul
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+    - 34.3:
+        non_striker: R Rampaul
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+    - 34.4:
+        non_striker: R Rampaul
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Olivier
+    - 34.5:
+        non_striker: R Rampaul
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+    - 34.6:
+        non_striker: R Rampaul
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Olivier
+        wicket:
+          player_out: D Olivier
+          fielders:
+          - LRPL Taylor
+          kind: caught
+- 2nd innings:
+    team: Nottinghamshire
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: WL Madsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+    - 0.2:
+        non_striker: AD Hales
+        bowler: WL Madsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Wessels
+    - 0.3:
+        non_striker: MH Wessels
+        bowler: WL Madsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 0.4:
+        non_striker: AD Hales
+        bowler: WL Madsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+    - 0.5:
+        non_striker: AD Hales
+        bowler: WL Madsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+    - 0.6:
+        non_striker: AD Hales
+        bowler: WL Madsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+    - 1.1:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.2:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 1.3:
+        non_striker: AD Hales
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+    - 1.4:
+        non_striker: AD Hales
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Wessels
+    - 1.5:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 1.6:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.1:
+        non_striker: AD Hales
+        bowler: WL Madsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+    - 2.2:
+        non_striker: AD Hales
+        bowler: WL Madsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+    - 2.3:
+        non_striker: AD Hales
+        bowler: WL Madsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+    - 2.4:
+        non_striker: AD Hales
+        bowler: WL Madsen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Wessels
+    - 2.5:
+        non_striker: AD Hales
+        bowler: WL Madsen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Wessels
+    - 2.6:
+        non_striker: AD Hales
+        bowler: WL Madsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+    - 3.1:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 3.2:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          kind: bowled
+    - 3.3:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 3.4:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 3.5:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 3.6:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 4.1:
+        non_striker: MH Wessels
+        bowler: Hamidullah Qadri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 4.2:
+        non_striker: MH Wessels
+        bowler: Hamidullah Qadri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 4.3:
+        non_striker: MH Wessels
+        bowler: Hamidullah Qadri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 4.4:
+        non_striker: MH Wessels
+        bowler: Hamidullah Qadri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 4.5:
+        non_striker: TJ Moores
+        bowler: Hamidullah Qadri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+    - 4.6:
+        non_striker: TJ Moores
+        bowler: Hamidullah Qadri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+    - 5.1:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TJ Moores
+    - 5.2:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 5.3:
+        non_striker: TJ Moores
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Wessels
+    - 5.4:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 5.5:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 5.6:
+        non_striker: TJ Moores
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Wessels
+    - 6.1:
+        non_striker: TJ Moores
+        bowler: Hamidullah Qadri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MH Wessels
+    - 6.2:
+        non_striker: TJ Moores
+        bowler: Hamidullah Qadri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MH Wessels
+    - 6.3:
+        non_striker: TJ Moores
+        bowler: Hamidullah Qadri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MH Wessels
+    - 6.4:
+        non_striker: TJ Moores
+        bowler: Hamidullah Qadri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MH Wessels
+    - 6.5:
+        non_striker: TJ Moores
+        bowler: Hamidullah Qadri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+    - 6.6:
+        non_striker: TJ Moores
+        bowler: Hamidullah Qadri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Wessels
+    - 7.1:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 7.2:
+        non_striker: TJ Moores
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MH Wessels
+    - 7.3:
+        non_striker: TJ Moores
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Wessels
+    - 7.4:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 7.5:
+        non_striker: MH Wessels
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TJ Moores
+    - 7.6:
+        non_striker: TJ Moores
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Wessels
+    - 8.1:
+        non_striker: TJ Moores
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Wessels
+    - 8.2:
+        non_striker: MH Wessels
+        bowler: MJJ Critchley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TJ Moores
+    - 8.3:
+        non_striker: TJ Moores
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Wessels
+    - 8.4:
+        non_striker: TJ Moores
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Wessels
+    - 8.5:
+        non_striker: TJ Moores
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Wessels
+    - 8.6:
+        non_striker: TJ Moores
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Wessels
+    - 9.1:
+        non_striker: MH Wessels
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 9.2:
+        non_striker: MH Wessels
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 9.3:
+        non_striker: MH Wessels
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 9.4:
+        non_striker: TJ Moores
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+    - 9.5:
+        non_striker: TJ Moores
+        bowler: GC Viljoen
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: MH Wessels
+    - 9.6:
+        non_striker: TJ Moores
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Wessels
+        wicket:
+          player_out: MH Wessels
+          fielders:
+          - Hamidullah Qadri
+          kind: caught
+    - 9.7:
+        non_striker: TJ Moores
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 10.1:
+        non_striker: TJ Moores
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 10.2:
+        non_striker: LRPL Taylor
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TJ Moores
+    - 10.3:
+        non_striker: LRPL Taylor
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TJ Moores
+    - 10.4:
+        non_striker: LRPL Taylor
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 10.5:
+        non_striker: LRPL Taylor
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TJ Moores
+    - 10.6:
+        non_striker: LRPL Taylor
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TJ Moores
+    - 11.1:
+        non_striker: TJ Moores
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LRPL Taylor
+    - 11.2:
+        non_striker: LRPL Taylor
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TJ Moores
+    - 11.3:
+        non_striker: LRPL Taylor
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 11.4:
+        non_striker: LRPL Taylor
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TJ Moores
+    - 11.5:
+        non_striker: LRPL Taylor
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 11.6:
+        non_striker: LRPL Taylor
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TJ Moores

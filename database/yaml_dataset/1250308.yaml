@@ -1,0 +1,2105 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-06-26'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Birmingham
+  competition: Vitality Blast
+  dates:
+  - '2021-06-26'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Durham
+    by:
+      runs: 34
+  overs: 20
+  player_of_match:
+  - BA Stokes
+  players:
+    Durham:
+    - DG Bedingham
+    - G Clark
+    - BA Stokes
+    - CT Bancroft
+    - BA Raine
+    - SG Borthwick
+    - BA Carse
+    - SR Dickson
+    - EJH Eckersley
+    - L Trevaskis
+    - MJ Potts
+    Birmingham Bears:
+    - EJ Pollock
+    - AJ Hose
+    - WMH Rhodes
+    - SR Hain
+    - MJ Lamb
+    - MGK Burgess
+    - CR Brathwaite
+    - TT Bresnan
+    - JG Bethell
+    - DR Briggs
+    - CN Miles
+  registry:
+    people:
+      AJ Hose: 104e88a4
+      BA Carse: cad40f5e
+      BA Raine: 4c0f3806
+      BA Stokes: e087956b
+      CN Miles: 5fed6272
+      CR Brathwaite: e342e5fb
+      CT Bancroft: 399b0b94
+      Chris Watts: 3cfb1554
+      DG Bedingham: a1b69936
+      DR Briggs: f3abd0c9
+      EJ Pollock: d6663a9a
+      EJH Eckersley: d510d457
+      G Clark: 4fd09cfc
+      JG Bethell: 3c55c703
+      L Trevaskis: b5781ac3
+      MGK Burgess: 715941c3
+      MJ Lamb: 463ebce3
+      MJ Potts: 894b2d25
+      PJ Hartley: 17c7ff26
+      S Cummings: d7eea52f
+      SG Borthwick: 51e1ed69
+      SR Dickson: 2344bdd1
+      SR Hain: 67b9536c
+      TT Bresnan: '58043739'
+      WMH Rhodes: f54dbda7
+  teams:
+  - Durham
+  - Birmingham Bears
+  toss:
+    winner: Birmingham Bears
+    decision: field
+  umpires:
+  - Chris Watts
+  - PJ Hartley
+  venue: Edgbaston, Birmingham
+innings:
+- 1st innings:
+    team: Durham
+    deliveries:
+    - 0.1:
+        non_striker: G Clark
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Bedingham
+    - 0.2:
+        non_striker: G Clark
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Bedingham
+    - 0.3:
+        non_striker: DG Bedingham
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Clark
+    - 0.4:
+        non_striker: G Clark
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Bedingham
+    - 0.5:
+        non_striker: DG Bedingham
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Clark
+    - 0.6:
+        non_striker: DG Bedingham
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Clark
+    - 1.1:
+        non_striker: G Clark
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Bedingham
+    - 1.2:
+        non_striker: DG Bedingham
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Clark
+    - 1.3:
+        non_striker: DG Bedingham
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Clark
+    - 1.4:
+        non_striker: DG Bedingham
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Clark
+    - 1.5:
+        non_striker: DG Bedingham
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Clark
+        wicket:
+          player_out: G Clark
+          fielders:
+          - SR Hain
+          kind: caught
+    - 1.6:
+        non_striker: BA Stokes
+        bowler: CN Miles
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DG Bedingham
+    - 2.1:
+        non_striker: BA Stokes
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Bedingham
+    - 2.2:
+        non_striker: BA Stokes
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Bedingham
+    - 2.3:
+        non_striker: BA Stokes
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Bedingham
+    - 2.4:
+        non_striker: BA Stokes
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Bedingham
+        wicket:
+          player_out: DG Bedingham
+          fielders:
+          - AJ Hose
+          kind: caught
+    - 2.5:
+        non_striker: BA Stokes
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Bancroft
+    - 2.6:
+        non_striker: BA Stokes
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 3.1:
+        non_striker: BA Stokes
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 3.2:
+        non_striker: BA Stokes
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Bancroft
+    - 3.3:
+        non_striker: BA Stokes
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 3.4:
+        non_striker: BA Stokes
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 3.5:
+        non_striker: BA Stokes
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Bancroft
+    - 3.6:
+        non_striker: BA Stokes
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 4.1:
+        non_striker: CT Bancroft
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 4.2:
+        non_striker: BA Stokes
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 4.3:
+        non_striker: CT Bancroft
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 4.4:
+        non_striker: BA Stokes
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 4.5:
+        non_striker: CT Bancroft
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 4.6:
+        non_striker: CT Bancroft
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 5.1:
+        non_striker: CT Bancroft
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 5.2:
+        non_striker: CT Bancroft
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Stokes
+    - 5.3:
+        non_striker: CT Bancroft
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Stokes
+    - 5.4:
+        non_striker: CT Bancroft
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 5.5:
+        non_striker: CT Bancroft
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Stokes
+    - 5.6:
+        non_striker: CT Bancroft
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 6.1:
+        non_striker: BA Stokes
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 6.2:
+        non_striker: CT Bancroft
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 6.3:
+        non_striker: BA Stokes
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 6.4:
+        non_striker: CT Bancroft
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 6.5:
+        non_striker: BA Stokes
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Bancroft
+    - 6.6:
+        non_striker: BA Stokes
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 7.1:
+        non_striker: BA Stokes
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 7.2:
+        non_striker: CT Bancroft
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 7.3:
+        non_striker: BA Stokes
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 7.4:
+        non_striker: CT Bancroft
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+    - 7.5:
+        non_striker: CT Bancroft
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 7.6:
+        non_striker: BA Stokes
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 8.1:
+        non_striker: BA Stokes
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 8.2:
+        non_striker: BA Stokes
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 8.3:
+        non_striker: CT Bancroft
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Stokes
+    - 8.4:
+        non_striker: CT Bancroft
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 8.5:
+        non_striker: BA Stokes
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 8.6:
+        non_striker: CT Bancroft
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Stokes
+    - 9.1:
+        non_striker: CT Bancroft
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Stokes
+    - 9.2:
+        non_striker: CT Bancroft
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Stokes
+    - 9.3:
+        non_striker: CT Bancroft
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Stokes
+        wicket:
+          player_out: BA Stokes
+          fielders:
+          - SR Hain
+          kind: caught
+    - 9.4:
+        non_striker: BA Raine
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 9.5:
+        non_striker: BA Raine
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 9.6:
+        non_striker: BA Raine
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 9.7:
+        non_striker: BA Raine
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 10.1:
+        non_striker: CT Bancroft
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Raine
+    - 10.2:
+        non_striker: CT Bancroft
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Raine
+    - 10.3:
+        non_striker: BA Raine
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 10.4:
+        non_striker: CT Bancroft
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Raine
+    - 10.5:
+        non_striker: BA Raine
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CT Bancroft
+    - 10.6:
+        non_striker: BA Raine
+        bowler: JG Bethell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CT Bancroft
+    - 11.1:
+        non_striker: CT Bancroft
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Raine
+    - 11.2:
+        non_striker: CT Bancroft
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Raine
+    - 11.3:
+        non_striker: CT Bancroft
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Raine
+    - 11.4:
+        non_striker: CT Bancroft
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Raine
+    - 11.5:
+        non_striker: CT Bancroft
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Raine
+    - 11.6:
+        non_striker: BA Raine
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 12.1:
+        non_striker: BA Raine
+        bowler: WMH Rhodes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 12.2:
+        non_striker: CT Bancroft
+        bowler: WMH Rhodes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Raine
+        wicket:
+          player_out: BA Raine
+          kind: bowled
+    - 12.3:
+        non_striker: CT Bancroft
+        bowler: WMH Rhodes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+    - 12.4:
+        non_striker: CT Bancroft
+        bowler: WMH Rhodes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+    - 12.5:
+        non_striker: CT Bancroft
+        bowler: WMH Rhodes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+    - 12.6:
+        non_striker: CT Bancroft
+        bowler: WMH Rhodes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Borthwick
+    - 13.1:
+        non_striker: CT Bancroft
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Borthwick
+    - 13.2:
+        non_striker: SG Borthwick
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 13.3:
+        non_striker: CT Bancroft
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+    - 13.4:
+        non_striker: CT Bancroft
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Borthwick
+    - 13.5:
+        non_striker: SG Borthwick
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Bancroft
+    - 13.6:
+        non_striker: SG Borthwick
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 14.1:
+        non_striker: SG Borthwick
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 14.2:
+        non_striker: CT Bancroft
+        bowler: DR Briggs
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Borthwick
+    - 14.3:
+        non_striker: CT Bancroft
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Borthwick
+    - 14.4:
+        non_striker: CT Bancroft
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Borthwick
+    - 14.5:
+        non_striker: SG Borthwick
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 14.6:
+        non_striker: SG Borthwick
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 14.7:
+        non_striker: CT Bancroft
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Borthwick
+    - 15.1:
+        non_striker: CT Bancroft
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SG Borthwick
+    - 15.2:
+        non_striker: CT Bancroft
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+    - 15.3:
+        non_striker: CT Bancroft
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Borthwick
+    - 15.4:
+        non_striker: SG Borthwick
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 15.5:
+        non_striker: SG Borthwick
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Bancroft
+    - 15.6:
+        non_striker: SG Borthwick
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 16.1:
+        non_striker: CT Bancroft
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SG Borthwick
+    - 16.2:
+        non_striker: CT Bancroft
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Borthwick
+        wicket:
+          player_out: SG Borthwick
+          fielders:
+          - CN Miles
+          kind: caught
+    - 16.3:
+        non_striker: BA Carse
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 16.4:
+        non_striker: BA Carse
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Bancroft
+    - 16.5:
+        non_striker: BA Carse
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 16.6:
+        non_striker: CT Bancroft
+        bowler: TT Bresnan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Carse
+    - 17.1:
+        non_striker: BA Carse
+        bowler: WMH Rhodes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Bancroft
+    - 17.2:
+        non_striker: BA Carse
+        bowler: WMH Rhodes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Bancroft
+    - 17.3:
+        non_striker: CT Bancroft
+        bowler: WMH Rhodes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Carse
+    - 17.4:
+        non_striker: CT Bancroft
+        bowler: WMH Rhodes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Carse
+    - 17.5:
+        non_striker: CT Bancroft
+        bowler: WMH Rhodes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 17.6:
+        non_striker: BA Carse
+        bowler: WMH Rhodes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+    - 17.7:
+        non_striker: BA Carse
+        bowler: WMH Rhodes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Bancroft
+        wicket:
+          player_out: CT Bancroft
+          fielders:
+          - AJ Hose
+          kind: caught
+    - 18.1:
+        non_striker: SR Dickson
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 18.2:
+        non_striker: BA Carse
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Dickson
+    - 18.3:
+        non_striker: SR Dickson
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Carse
+    - 18.4:
+        non_striker: SR Dickson
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+        wicket:
+          player_out: BA Carse
+          fielders:
+          - JG Bethell
+          kind: caught
+    - 18.5:
+        non_striker: EJH Eckersley
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Dickson
+    - 18.6:
+        non_striker: EJH Eckersley
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Dickson
+    - 18.7:
+        non_striker: EJH Eckersley
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Dickson
+        wicket:
+          player_out: SR Dickson
+          fielders:
+          - WMH Rhodes
+          kind: caught
+    - 19.1:
+        non_striker: L Trevaskis
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJH Eckersley
+    - 19.2:
+        non_striker: EJH Eckersley
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Trevaskis
+    - 19.3:
+        non_striker: EJH Eckersley
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Trevaskis
+    - 19.4:
+        non_striker: L Trevaskis
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJH Eckersley
+    - 19.5:
+        non_striker: L Trevaskis
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJH Eckersley
+    - 19.6:
+        non_striker: L Trevaskis
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EJH Eckersley
+- 2nd innings:
+    team: Birmingham Bears
+    deliveries:
+    - 0.1:
+        non_striker: AJ Hose
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Pollock
+    - 0.2:
+        non_striker: AJ Hose
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Pollock
+    - 0.3:
+        non_striker: EJ Pollock
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 0.4:
+        non_striker: EJ Pollock
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 0.5:
+        non_striker: EJ Pollock
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 0.6:
+        non_striker: EJ Pollock
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hose
+    - 1.1:
+        non_striker: AJ Hose
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Pollock
+    - 1.2:
+        non_striker: AJ Hose
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Pollock
+    - 1.3:
+        non_striker: AJ Hose
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Pollock
+    - 1.4:
+        non_striker: AJ Hose
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Pollock
+    - 1.5:
+        non_striker: AJ Hose
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Pollock
+    - 1.6:
+        non_striker: AJ Hose
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJ Pollock
+    - 2.1:
+        non_striker: EJ Pollock
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+        wicket:
+          player_out: AJ Hose
+          kind: lbw
+    - 2.2:
+        non_striker: EJ Pollock
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WMH Rhodes
+    - 2.3:
+        non_striker: EJ Pollock
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WMH Rhodes
+    - 2.4:
+        non_striker: EJ Pollock
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WMH Rhodes
+    - 2.5:
+        non_striker: EJ Pollock
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WMH Rhodes
+    - 2.6:
+        non_striker: WMH Rhodes
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Pollock
+    - 3.1:
+        non_striker: WMH Rhodes
+        bowler: BA Carse
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EJ Pollock
+    - 3.2:
+        non_striker: WMH Rhodes
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Pollock
+        wicket:
+          player_out: EJ Pollock
+          fielders:
+          - BA Stokes
+          kind: caught
+    - 3.3:
+        non_striker: SR Hain
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WMH Rhodes
+    - 3.4:
+        non_striker: SR Hain
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WMH Rhodes
+    - 3.5:
+        non_striker: WMH Rhodes
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+    - 3.6:
+        non_striker: WMH Rhodes
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+    - 3.7:
+        non_striker: WMH Rhodes
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 4.1:
+        non_striker: WMH Rhodes
+        bowler: SG Borthwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 4.2:
+        non_striker: SR Hain
+        bowler: SG Borthwick
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WMH Rhodes
+    - 4.3:
+        non_striker: SR Hain
+        bowler: SG Borthwick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WMH Rhodes
+    - 4.4:
+        non_striker: SR Hain
+        bowler: SG Borthwick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WMH Rhodes
+    - 4.5:
+        non_striker: SR Hain
+        bowler: SG Borthwick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WMH Rhodes
+    - 4.6:
+        non_striker: SR Hain
+        bowler: SG Borthwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WMH Rhodes
+    - 4.7:
+        non_striker: WMH Rhodes
+        bowler: SG Borthwick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+    - 5.1:
+        non_striker: SR Hain
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WMH Rhodes
+    - 5.2:
+        non_striker: SR Hain
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WMH Rhodes
+    - 5.3:
+        non_striker: SR Hain
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WMH Rhodes
+    - 5.4:
+        non_striker: WMH Rhodes
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+        wicket:
+          player_out: SR Hain
+          fielders:
+          - EJH Eckersley
+          kind: caught
+    - 5.5:
+        non_striker: WMH Rhodes
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Lamb
+    - 5.6:
+        non_striker: WMH Rhodes
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Lamb
+    - 6.1:
+        non_striker: MJ Lamb
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WMH Rhodes
+    - 6.2:
+        non_striker: WMH Rhodes
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Lamb
+    - 6.3:
+        non_striker: WMH Rhodes
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Lamb
+    - 6.4:
+        non_striker: WMH Rhodes
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Lamb
+    - 6.5:
+        non_striker: WMH Rhodes
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Lamb
+    - 6.6:
+        non_striker: WMH Rhodes
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Lamb
+    - 7.1:
+        non_striker: MJ Lamb
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WMH Rhodes
+    - 7.2:
+        non_striker: WMH Rhodes
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 7.3:
+        non_striker: MJ Lamb
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WMH Rhodes
+    - 7.4:
+        non_striker: MJ Lamb
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WMH Rhodes
+    - 7.5:
+        non_striker: WMH Rhodes
+        bowler: BA Carse
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: MJ Lamb
+    - 7.6:
+        non_striker: WMH Rhodes
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 7.7:
+        non_striker: MJ Lamb
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WMH Rhodes
+    - 8.1:
+        non_striker: MJ Lamb
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WMH Rhodes
+    - 8.2:
+        non_striker: MJ Lamb
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WMH Rhodes
+    - 8.3:
+        non_striker: WMH Rhodes
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Lamb
+    - 8.4:
+        non_striker: WMH Rhodes
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Lamb
+    - 8.5:
+        non_striker: WMH Rhodes
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 8.6:
+        non_striker: MJ Lamb
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WMH Rhodes
+    - 9.1:
+        non_striker: MJ Lamb
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WMH Rhodes
+    - 9.2:
+        non_striker: MJ Lamb
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WMH Rhodes
+    - 9.3:
+        non_striker: MJ Lamb
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WMH Rhodes
+    - 9.4:
+        non_striker: MJ Lamb
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WMH Rhodes
+    - 9.5:
+        non_striker: MJ Lamb
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WMH Rhodes
+    - 9.6:
+        non_striker: WMH Rhodes
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 10.1:
+        non_striker: WMH Rhodes
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Lamb
+    - 10.2:
+        non_striker: WMH Rhodes
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 10.3:
+        non_striker: MJ Lamb
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WMH Rhodes
+        wicket:
+          player_out: WMH Rhodes
+          fielders:
+          - DG Bedingham
+          kind: run out
+    - 10.4:
+        non_striker: MGK Burgess
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 10.5:
+        non_striker: MJ Lamb
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MGK Burgess
+    - 10.6:
+        non_striker: MJ Lamb
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MGK Burgess
+    - 11.1:
+        non_striker: MJ Lamb
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MGK Burgess
+    - 11.2:
+        non_striker: MGK Burgess
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 11.3:
+        non_striker: MJ Lamb
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MGK Burgess
+    - 11.4:
+        non_striker: MGK Burgess
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 11.5:
+        non_striker: MJ Lamb
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MGK Burgess
+    - 11.6:
+        non_striker: MGK Burgess
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Lamb
+    - 12.1:
+        non_striker: MJ Lamb
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MGK Burgess
+    - 12.2:
+        non_striker: MJ Lamb
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MGK Burgess
+    - 12.3:
+        non_striker: MGK Burgess
+        bowler: BA Raine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Lamb
+    - 12.4:
+        non_striker: MJ Lamb
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MGK Burgess
+    - 12.5:
+        non_striker: MGK Burgess
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Lamb
+    - 12.6:
+        non_striker: MGK Burgess
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 13.1:
+        non_striker: MGK Burgess
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 13.2:
+        non_striker: MJ Lamb
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MGK Burgess
+        wicket:
+          player_out: MGK Burgess
+          fielders:
+          - L Trevaskis
+          kind: caught
+    - 13.3:
+        non_striker: CR Brathwaite
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 13.4:
+        non_striker: MJ Lamb
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 13.5:
+        non_striker: CR Brathwaite
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 13.6:
+        non_striker: MJ Lamb
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 14.1:
+        non_striker: MJ Lamb
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 14.2:
+        non_striker: CR Brathwaite
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Lamb
+    - 14.3:
+        non_striker: CR Brathwaite
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Lamb
+    - 14.4:
+        non_striker: CR Brathwaite
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Lamb
+    - 14.5:
+        non_striker: CR Brathwaite
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 14.6:
+        non_striker: MJ Lamb
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 15.1:
+        non_striker: MJ Lamb
+        bowler: SG Borthwick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+        wicket:
+          player_out: CR Brathwaite
+          kind: bowled
+    - 15.2:
+        non_striker: MJ Lamb
+        bowler: SG Borthwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Bresnan
+    - 15.3:
+        non_striker: TT Bresnan
+        bowler: SG Borthwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 15.4:
+        non_striker: MJ Lamb
+        bowler: SG Borthwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Bresnan
+    - 15.5:
+        non_striker: TT Bresnan
+        bowler: SG Borthwick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Lamb
+    - 15.6:
+        non_striker: MJ Lamb
+        bowler: SG Borthwick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Bresnan
+    - 16.1:
+        non_striker: TT Bresnan
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Lamb
+    - 16.2:
+        non_striker: TT Bresnan
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Lamb
+    - 16.3:
+        non_striker: TT Bresnan
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Lamb
+        wicket:
+          player_out: MJ Lamb
+          fielders:
+          - BA Raine
+          kind: caught
+    - 16.4:
+        non_striker: JG Bethell
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Bresnan
+    - 16.5:
+        non_striker: JG Bethell
+        bowler: BA Stokes
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: TT Bresnan
+    - 16.6:
+        non_striker: JG Bethell
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Bresnan
+        wicket:
+          player_out: TT Bresnan
+          fielders:
+          - BA Raine
+          kind: caught
+    - 16.7:
+        non_striker: DR Briggs
+        bowler: BA Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 17.1:
+        non_striker: DR Briggs
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 17.2:
+        non_striker: JG Bethell
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Briggs
+    - 17.3:
+        non_striker: JG Bethell
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Briggs
+    - 17.4:
+        non_striker: JG Bethell
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Briggs
+    - 17.5:
+        non_striker: DR Briggs
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+        wicket:
+          player_out: JG Bethell
+          fielders:
+          - CT Bancroft
+          kind: caught
+    - 17.6:
+        non_striker: CN Miles
+        bowler: MJ Potts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Briggs
+    - 18.1:
+        non_striker: CN Miles
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Briggs
+    - 18.2:
+        non_striker: DR Briggs
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Miles
+    - 18.3:
+        non_striker: DR Briggs
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Miles
+        wicket:
+          player_out: CN Miles
+          fielders:
+          - SR Dickson
+          kind: caught

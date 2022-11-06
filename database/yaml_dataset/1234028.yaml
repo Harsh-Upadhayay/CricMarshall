@@ -1,0 +1,2145 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-02-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Wellington
+  competition: Super Smash
+  dates:
+  - '2021-02-13'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      wickets: 5
+  overs: 20
+  players:
+    Canterbury:
+    - CJ Bowes
+    - KJ McClure
+    - DJ Mitchell
+    - CE McConchie
+    - LJ Carter
+    - CD Fletcher
+    - HB Shipley
+    - MJ Henry
+    - TD Astle
+    - WSA Williams
+    - EJ Nuttall
+    Wellington:
+    - FH Allen
+    - DP Conway
+    - TA Blundell
+    - TM Johnson
+    - JDS Neesham
+    - MG Bracewell
+    - JD Gibson
+    - HK Bennett
+    - PF Younghusband
+    - LV van Beek
+    - BV Sears
+  registry:
+    people:
+      BV Sears: e1891e00
+      CD Fletcher: 4af9f5d4
+      CE McConchie: d285acaf
+      CJ Bowes: 45df0e72
+      CM Brown: 448f4f1c
+      DJ Mitchell: eade4650
+      DP Conway: df5a6881
+      EJ Nuttall: c9bb898a
+      FH Allen: bf74b130
+      HB Shipley: 5426de63
+      HK Bennett: '94238673'
+      JD Gibson: 57f520ee
+      JDS Neesham: 9219eff0
+      KJ McClure: 4c895bc1
+      LJ Carter: dfb51f40
+      LV van Beek: 782fb776
+      MG Bracewell: e38bce7a
+      MJ Henry: e84ac20c
+      PF Younghusband: 149d0c18
+      RE Hayward: 57689d0b
+      SB Haig: 811655b3
+      TA Blundell: 21e5f325
+      TD Astle: 383dd431
+      TM Johnson: 917f66da
+      WR Knights: 63cbf8d8
+      WSA Williams: 861eed37
+  teams:
+  - Canterbury
+  - Wellington
+  toss:
+    decision: field
+    winner: Wellington
+  umpires:
+  - CM Brown
+  - WR Knights
+  venue: Basin Reserve
+innings:
+- 1st innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: KJ McClure
+        batsman: CJ Bowes
+    - 0.2:
+        non_striker: CJ Bowes
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ McClure
+    - 0.3:
+        non_striker: CJ Bowes
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ McClure
+    - 0.4:
+        non_striker: CJ Bowes
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ McClure
+    - 0.5:
+        non_striker: CJ Bowes
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ McClure
+    - 0.6:
+        non_striker: CJ Bowes
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ McClure
+    - 1.1:
+        non_striker: KJ McClure
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 1.2:
+        non_striker: CJ Bowes
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ McClure
+    - 1.3:
+        non_striker: CJ Bowes
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ McClure
+    - 1.4:
+        non_striker: CJ Bowes
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ McClure
+        wicket:
+          player_out: KJ McClure
+          fielders:
+          - BV Sears
+          kind: caught
+    - 1.5:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJ Mitchell
+        batsman: CJ Bowes
+    - 1.6:
+        non_striker: DJ Mitchell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 2.1:
+        non_striker: CJ Bowes
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 2.2:
+        non_striker: CJ Bowes
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 2.3:
+        non_striker: CJ Bowes
+        bowler: BV Sears
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Mitchell
+    - 2.4:
+        non_striker: CJ Bowes
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 2.5:
+        non_striker: CJ Bowes
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 2.6:
+        non_striker: DJ Mitchell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 2.7:
+        non_striker: DJ Mitchell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 3.1:
+        non_striker: DJ Mitchell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 3.2:
+        non_striker: DJ Mitchell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 3.3:
+        non_striker: DJ Mitchell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 3.4:
+        non_striker: DJ Mitchell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 3.5:
+        non_striker: CJ Bowes
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 3.6:
+        non_striker: DJ Mitchell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 4.1:
+        non_striker: DJ Mitchell
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 4.2:
+        non_striker: DJ Mitchell
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 4.3:
+        non_striker: DJ Mitchell
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 4.4:
+        non_striker: DJ Mitchell
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 4.5:
+        non_striker: CJ Bowes
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 4.6:
+        non_striker: CJ Bowes
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 5.1:
+        non_striker: CJ Bowes
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 5.2:
+        non_striker: DJ Mitchell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 5.3:
+        non_striker: CJ Bowes
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 5.4:
+        non_striker: DJ Mitchell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 5.5:
+        non_striker: DJ Mitchell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 5.6:
+        non_striker: CJ Bowes
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 6.1:
+        non_striker: CJ Bowes
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 6.2:
+        non_striker: CJ Bowes
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 6.3:
+        non_striker: DJ Mitchell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 6.4:
+        non_striker: DJ Mitchell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 6.5:
+        non_striker: DJ Mitchell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 6.6:
+        non_striker: CJ Bowes
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 7.1:
+        non_striker: DJ Mitchell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 7.2:
+        non_striker: CJ Bowes
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 7.3:
+        non_striker: CJ Bowes
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 7.4:
+        non_striker: CJ Bowes
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.5:
+        non_striker: DJ Mitchell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+        wicket:
+          player_out: CJ Bowes
+          fielders:
+          - TM Johnson
+          kind: caught
+    - 7.6:
+        non_striker: DJ Mitchell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CE McConchie
+    - 8.1:
+        non_striker: DJ Mitchell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 8.2:
+        non_striker: DJ Mitchell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 8.3:
+        non_striker: DJ Mitchell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 8.4:
+        non_striker: CE McConchie
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 8.5:
+        non_striker: DJ Mitchell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 8.6:
+        non_striker: DJ Mitchell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 9.1:
+        non_striker: DJ Mitchell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 9.2:
+        non_striker: DJ Mitchell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 9.3:
+        non_striker: CE McConchie
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 9.4:
+        non_striker: CE McConchie
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.5:
+        non_striker: DJ Mitchell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 9.6:
+        non_striker: DJ Mitchell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 10.1:
+        non_striker: CE McConchie
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.2:
+        non_striker: DJ Mitchell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 10.3:
+        non_striker: DJ Mitchell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 10.4:
+        non_striker: DJ Mitchell
+        bowler: BV Sears
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CE McConchie
+    - 10.5:
+        non_striker: CE McConchie
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 10.6:
+        non_striker: CE McConchie
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.1:
+        non_striker: CE McConchie
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.2:
+        non_striker: DJ Mitchell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CE McConchie
+    - 11.3:
+        non_striker: DJ Mitchell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 11.4:
+        non_striker: DJ Mitchell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 11.5:
+        non_striker: CE McConchie
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          fielders:
+          - DP Conway
+          kind: caught
+    - 11.6:
+        non_striker: LJ Carter
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 12.1:
+        non_striker: CE McConchie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 12.2:
+        non_striker: LJ Carter
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 12.3:
+        non_striker: CE McConchie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 12.4:
+        non_striker: LJ Carter
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 12.5:
+        non_striker: CE McConchie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Carter
+    - 12.6:
+        non_striker: LJ Carter
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 13.1:
+        non_striker: LJ Carter
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 13.2:
+        non_striker: CE McConchie
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+        wicket:
+          player_out: LJ Carter
+          fielders:
+          - JDS Neesham
+          kind: caught
+    - 13.3:
+        non_striker: CE McConchie
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+        wicket:
+          player_out: CD Fletcher
+          kind: caught and bowled
+    - 13.4:
+        non_striker: CE McConchie
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 13.5:
+        non_striker: HB Shipley
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 13.6:
+        non_striker: HB Shipley
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 14.1:
+        non_striker: HB Shipley
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 14.2:
+        non_striker: CE McConchie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 14.3:
+        non_striker: HB Shipley
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 14.4:
+        non_striker: HB Shipley
+        bowler: JDS Neesham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CE McConchie
+    - 14.5:
+        non_striker: HB Shipley
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 14.6:
+        non_striker: HB Shipley
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 14.7:
+        non_striker: CE McConchie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 15.1:
+        non_striker: CE McConchie
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 15.2:
+        non_striker: HB Shipley
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 15.3:
+        non_striker: CE McConchie
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 15.4:
+        non_striker: HB Shipley
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 15.5:
+        non_striker: CE McConchie
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HB Shipley
+    - 15.6:
+        non_striker: CE McConchie
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Shipley
+    - 15.7:
+        non_striker: CE McConchie
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 16.1:
+        non_striker: HB Shipley
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 16.2:
+        non_striker: CE McConchie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Shipley
+    - 16.3:
+        non_striker: CE McConchie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 16.4:
+        non_striker: HB Shipley
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CE McConchie
+    - 16.5:
+        non_striker: CE McConchie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 16.6:
+        non_striker: HB Shipley
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 17.1:
+        non_striker: CE McConchie
+        bowler: JDS Neesham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HB Shipley
+    - 17.2:
+        non_striker: CE McConchie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HB Shipley
+    - 17.3:
+        non_striker: CE McConchie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HB Shipley
+    - 17.4:
+        non_striker: CE McConchie
+        bowler: JDS Neesham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HB Shipley
+    - 17.5:
+        non_striker: CE McConchie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HB Shipley
+    - 17.6:
+        non_striker: CE McConchie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 17.7:
+        non_striker: CE McConchie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+        wicket:
+          player_out: HB Shipley
+          fielders:
+          - MG Bracewell
+          kind: caught
+    - 17.8:
+        bowler: JDS Neesham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: MJ Henry
+        batsman: CE McConchie
+    - 17.9:
+        non_striker: MJ Henry
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 18.1:
+        non_striker: CE McConchie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Henry
+    - 18.2:
+        non_striker: CE McConchie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+    - 18.3:
+        non_striker: MJ Henry
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 18.4:
+        non_striker: MJ Henry
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 18.5:
+        non_striker: MJ Henry
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 18.6:
+        non_striker: MJ Henry
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CE McConchie
+    - 19.1:
+        non_striker: MJ Henry
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CE McConchie
+    - 19.2:
+        non_striker: CE McConchie
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Henry
+    - 19.3:
+        non_striker: CE McConchie
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+    - 19.4:
+        non_striker: MJ Henry
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+        wicket:
+          player_out: CE McConchie
+          fielders:
+          - HK Bennett
+          kind: caught
+    - 19.5:
+        non_striker: TD Astle
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Henry
+        wicket:
+          player_out: MJ Henry
+          fielders:
+          - TM Johnson
+          kind: caught
+    - 19.6:
+        non_striker: WSA Williams
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TD Astle
+- 2nd innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DP Conway
+        batsman: FH Allen
+    - 0.2:
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        bowler: MJ Henry
+        non_striker: FH Allen
+        batsman: DP Conway
+    - 0.3:
+        non_striker: DP Conway
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.4:
+        non_striker: DP Conway
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 0.5:
+        non_striker: DP Conway
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 0.6:
+        non_striker: DP Conway
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.1:
+        non_striker: FH Allen
+        bowler: EJ Nuttall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 1.2:
+        non_striker: FH Allen
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.3:
+        non_striker: FH Allen
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 1.4:
+        non_striker: DP Conway
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.5:
+        non_striker: FH Allen
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.6:
+        non_striker: FH Allen
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 1.7:
+        non_striker: FH Allen
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 2.1:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 2.2:
+        non_striker: FH Allen
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 2.3:
+        non_striker: DP Conway
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 2.4:
+        non_striker: DP Conway
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.5:
+        non_striker: DP Conway
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.6:
+        non_striker: DP Conway
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.1:
+        non_striker: FH Allen
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.2:
+        non_striker: FH Allen
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.3:
+        non_striker: FH Allen
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 3.4:
+        non_striker: FH Allen
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 3.5:
+        non_striker: DP Conway
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - LJ Carter
+          kind: caught
+    - 3.6:
+        non_striker: TA Blundell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 4.1:
+        non_striker: DP Conway
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 4.2:
+        non_striker: DP Conway
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+        wicket:
+          player_out: TA Blundell
+          fielders:
+          - CJ Bowes
+          kind: caught
+    - 4.3:
+        non_striker: DP Conway
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 4.4:
+        non_striker: TM Johnson
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 4.5:
+        non_striker: TM Johnson
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 4.6:
+        non_striker: TM Johnson
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 5.1:
+        non_striker: DP Conway
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Johnson
+    - 5.2:
+        non_striker: DP Conway
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 5.3:
+        non_striker: TM Johnson
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 5.4:
+        non_striker: TM Johnson
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 5.5:
+        non_striker: DP Conway
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Johnson
+    - 5.6:
+        non_striker: DP Conway
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Johnson
+    - 6.1:
+        non_striker: TM Johnson
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 6.2:
+        non_striker: DP Conway
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 6.3:
+        non_striker: DP Conway
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 6.4:
+        non_striker: DP Conway
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Johnson
+    - 6.5:
+        non_striker: DP Conway
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 6.6:
+        non_striker: TM Johnson
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 7.1:
+        non_striker: DP Conway
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Johnson
+    - 7.2:
+        non_striker: DP Conway
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 7.3:
+        non_striker: TM Johnson
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 7.4:
+        non_striker: TM Johnson
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 7.5:
+        non_striker: TM Johnson
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 7.6:
+        non_striker: TM Johnson
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.1:
+        non_striker: TM Johnson
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.2:
+        non_striker: DP Conway
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 8.3:
+        non_striker: TM Johnson
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 8.4:
+        non_striker: TM Johnson
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 8.5:
+        non_striker: TM Johnson
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.6:
+        non_striker: DP Conway
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Johnson
+    - 9.1:
+        non_striker: DP Conway
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+    - 9.2:
+        non_striker: DP Conway
+        bowler: TD Astle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Johnson
+    - 9.3:
+        non_striker: DP Conway
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Johnson
+        wicket:
+          player_out: TM Johnson
+          fielders:
+          - HB Shipley
+          kind: caught
+    - 9.4:
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JDS Neesham
+        batsman: DP Conway
+    - 9.5:
+        non_striker: DP Conway
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 9.6:
+        non_striker: JDS Neesham
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 9.7:
+        non_striker: JDS Neesham
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 10.1:
+        non_striker: JDS Neesham
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 10.2:
+        non_striker: DP Conway
+        bowler: CE McConchie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JDS Neesham
+    - 10.3:
+        non_striker: JDS Neesham
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 10.4:
+        non_striker: JDS Neesham
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 10.5:
+        non_striker: DP Conway
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 10.6:
+        non_striker: DP Conway
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 11.1:
+        non_striker: JDS Neesham
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 11.2:
+        non_striker: JDS Neesham
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 11.3:
+        non_striker: DP Conway
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 11.4:
+        non_striker: JDS Neesham
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 11.5:
+        non_striker: DP Conway
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 11.6:
+        non_striker: JDS Neesham
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 12.1:
+        non_striker: JDS Neesham
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 12.2:
+        non_striker: DP Conway
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 12.3:
+        non_striker: DP Conway
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 12.4:
+        non_striker: JDS Neesham
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 12.5:
+        non_striker: DP Conway
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 12.6:
+        non_striker: JDS Neesham
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 13.1:
+        non_striker: JDS Neesham
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 13.2:
+        non_striker: DP Conway
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 13.3:
+        non_striker: JDS Neesham
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 13.4:
+        non_striker: JDS Neesham
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 13.5:
+        non_striker: JDS Neesham
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 13.6:
+        non_striker: JDS Neesham
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 14.1:
+        non_striker: DP Conway
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 14.2:
+        non_striker: DP Conway
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+        wicket:
+          player_out: JDS Neesham
+          fielders:
+          - CD Fletcher
+          kind: caught
+    - 14.3:
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MG Bracewell
+        batsman: DP Conway
+    - 14.4:
+        non_striker: DP Conway
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 14.5:
+        non_striker: MG Bracewell
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 14.6:
+        non_striker: MG Bracewell
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 15.1:
+        non_striker: MG Bracewell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 15.2:
+        non_striker: MG Bracewell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 15.3:
+        non_striker: DP Conway
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 15.4:
+        non_striker: MG Bracewell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 15.5:
+        non_striker: DP Conway
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 15.6:
+        non_striker: DP Conway
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 16.1:
+        non_striker: MG Bracewell
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 16.2:
+        non_striker: MG Bracewell
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 16.3:
+        non_striker: DP Conway
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+        wicket:
+          player_out: MG Bracewell
+          fielders:
+          - CJ Bowes
+          kind: caught
+    - 16.4:
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JD Gibson
+        batsman: DP Conway
+    - 16.5:
+        non_striker: DP Conway
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Gibson
+    - 16.6:
+        non_striker: DP Conway
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Gibson
+    - 17.1:
+        non_striker: DP Conway
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Gibson
+    - 17.2:
+        non_striker: DP Conway
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Gibson
+    - 17.3:
+        non_striker: DP Conway
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Gibson
+    - 17.4:
+        non_striker: DP Conway
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Gibson
+    - 17.5:
+        non_striker: JD Gibson
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 17.6:
+        non_striker: JD Gibson
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 18.1:
+        non_striker: JD Gibson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 18.2:
+        non_striker: DP Conway
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Gibson
+    - 18.3:
+        non_striker: DP Conway
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Gibson
+    - 18.4:
+        non_striker: JD Gibson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 18.5:
+        non_striker: JD Gibson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 18.6:
+        non_striker: JD Gibson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 19.1:
+        non_striker: JD Gibson
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 19.2:
+        non_striker: DP Conway
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Gibson
+    - 19.3:
+        non_striker: DP Conway
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Gibson
+    - 19.4:
+        non_striker: JD Gibson
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway

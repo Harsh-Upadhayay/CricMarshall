@@ -1,0 +1,2083 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-04-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: East London
+  competition: CSA T20 Challenge
+  dates:
+  - '2016-12-07'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Warriors
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - JT Smuts
+  - JT Smuts
+  players:
+    Dolphins:
+    - MN van Wyk
+    - CS Delport
+    - KP Pietersen
+    - R Frylinck
+    - K Zondo
+    - KA Maharaj
+    - P Subrayen
+    - BS Makhanya
+    - C Chetty
+    - Imran Tahir
+    - M Shezi
+    Warriors:
+    - JT Smuts
+    - C Fortuin
+    - CA Ingram
+    - CN Ackermann
+    - C Jonker
+    - MQ Adams
+    - LC Ngoepe
+    - ACR Birch
+    - SSB Magala
+    - A Gqamane
+    - BD Walters
+  registry:
+    people:
+      A Gqamane: a83c44b8
+      ACR Birch: 9df3a2f4
+      BD Walters: 1e182ae2
+      BM White: 66c21d35
+      BS Makhanya: 1b42a100
+      C Chetty: 27ca3a11
+      C Fortuin: f25cebec
+      C Jonker: a81d6706
+      CA Ingram: c995d726
+      CN Ackermann: e734d090
+      CS Delport: afa78c3a
+      D Govindjee: 8b4c4069
+      Imran Tahir: acee4cc4
+      JT Smuts: 42172c3c
+      K Zondo: 4aad78d3
+      KA Maharaj: 0b60eb09
+      KP Pietersen: 39f01cdb
+      LC Ngoepe: 51355a30
+      LJ Willemse: bec17912
+      M Shezi: 016e5101
+      MN van Wyk: 710dd98c
+      MQ Adams: 59a7fc89
+      P Subrayen: 7ec9711d
+      R Frylinck: 8b248d88
+      SSB Magala: 8361e524
+      Stephen Harris: fdcfd4aa
+  teams:
+  - Dolphins
+  - Warriors
+  toss:
+    winner: Dolphins
+    decision: bat
+  umpires:
+  - BM White
+  - Stephen Harris
+  venue: Buffalo Park, East London
+innings:
+- 1st innings:
+    team: Dolphins
+    deliveries:
+    - 0.1:
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CS Delport
+        batsman: MN van Wyk
+    - 0.2:
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CS Delport
+        batsman: MN van Wyk
+    - 0.3:
+        non_striker: MN van Wyk
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 0.4:
+        non_striker: CS Delport
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 0.5:
+        non_striker: MN van Wyk
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Delport
+    - 0.6:
+        non_striker: MN van Wyk
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+        wicket:
+          player_out: CS Delport
+          kind: bowled
+    - 1.1:
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: KP Pietersen
+        batsman: MN van Wyk
+    - 1.2:
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KP Pietersen
+        batsman: MN van Wyk
+    - 1.3:
+        non_striker: MN van Wyk
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KP Pietersen
+    - 1.4:
+        non_striker: MN van Wyk
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Pietersen
+    - 1.5:
+        non_striker: MN van Wyk
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Pietersen
+    - 1.6:
+        non_striker: MN van Wyk
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 2.1:
+        non_striker: MN van Wyk
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 2.2:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 2.3:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 2.4:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 2.5:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 2.6:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MN van Wyk
+    - 3.1:
+        non_striker: MN van Wyk
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KP Pietersen
+    - 3.2:
+        non_striker: MN van Wyk
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KP Pietersen
+    - 3.3:
+        non_striker: MN van Wyk
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 3.4:
+        non_striker: KP Pietersen
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 3.5:
+        non_striker: MN van Wyk
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KP Pietersen
+    - 3.6:
+        non_striker: MN van Wyk
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 4.1:
+        non_striker: MN van Wyk
+        bowler: SSB Magala
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: KP Pietersen
+    - 4.2:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 4.3:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MN van Wyk
+    - 4.4:
+        non_striker: MN van Wyk
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 4.5:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 4.6:
+        non_striker: MN van Wyk
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 4.7:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MN van Wyk
+    - 5.1:
+        non_striker: KP Pietersen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 5.2:
+        non_striker: MN van Wyk
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 5.3:
+        non_striker: KP Pietersen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MN van Wyk
+    - 5.4:
+        non_striker: KP Pietersen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 5.5:
+        non_striker: KP Pietersen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 5.6:
+        non_striker: KP Pietersen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 6.1:
+        non_striker: MN van Wyk
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 6.2:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 6.3:
+        non_striker: MN van Wyk
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 6.4:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 6.5:
+        non_striker: MN van Wyk
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 6.6:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 7.1:
+        non_striker: KP Pietersen
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 7.2:
+        non_striker: MN van Wyk
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KP Pietersen
+    - 7.3:
+        non_striker: MN van Wyk
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 7.4:
+        non_striker: KP Pietersen
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 7.5:
+        non_striker: MN van Wyk
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 7.6:
+        non_striker: KP Pietersen
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 8.1:
+        non_striker: MN van Wyk
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 8.2:
+        non_striker: KP Pietersen
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 8.3:
+        non_striker: MN van Wyk
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 8.4:
+        non_striker: KP Pietersen
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 8.5:
+        non_striker: KP Pietersen
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 8.6:
+        non_striker: MN van Wyk
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Pietersen
+    - 9.1:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 9.2:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 9.3:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 9.4:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 9.5:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 9.6:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 10.1:
+        non_striker: KP Pietersen
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 10.2:
+        non_striker: MN van Wyk
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KP Pietersen
+    - 10.3:
+        non_striker: MN van Wyk
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 10.4:
+        non_striker: KP Pietersen
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 10.5:
+        non_striker: KP Pietersen
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 10.6:
+        non_striker: MN van Wyk
+        bowler: CA Ingram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KP Pietersen
+    - 11.1:
+        non_striker: KP Pietersen
+        bowler: A Gqamane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MN van Wyk
+    - 11.2:
+        non_striker: KP Pietersen
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 11.3:
+        non_striker: KP Pietersen
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 11.4:
+        non_striker: MN van Wyk
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 11.5:
+        non_striker: KP Pietersen
+        bowler: A Gqamane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MN van Wyk
+    - 11.6:
+        non_striker: KP Pietersen
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 11.7:
+        non_striker: MN van Wyk
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KP Pietersen
+    - 11.8:
+        non_striker: MN van Wyk
+        bowler: A Gqamane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KP Pietersen
+    - 12.1:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 12.2:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 12.3:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 12.4:
+        non_striker: MN van Wyk
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 12.5:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 12.6:
+        non_striker: MN van Wyk
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 13.1:
+        non_striker: MN van Wyk
+        bowler: C Jonker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 13.2:
+        non_striker: KP Pietersen
+        bowler: C Jonker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 13.3:
+        non_striker: KP Pietersen
+        bowler: C Jonker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 13.4:
+        non_striker: KP Pietersen
+        bowler: C Jonker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 13.5:
+        non_striker: MN van Wyk
+        bowler: C Jonker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Pietersen
+    - 13.6:
+        non_striker: MN van Wyk
+        bowler: C Jonker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 14.1:
+        non_striker: MN van Wyk
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 14.2:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MN van Wyk
+    - 14.3:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 14.4:
+        non_striker: MN van Wyk
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Pietersen
+    - 14.5:
+        non_striker: MN van Wyk
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 14.6:
+        non_striker: KP Pietersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 15.1:
+        non_striker: KP Pietersen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+        wicket:
+          player_out: MN van Wyk
+          fielders:
+          - C Fortuin
+          kind: caught
+    - 15.2:
+        non_striker: KP Pietersen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 15.3:
+        non_striker: KP Pietersen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Frylinck
+    - 15.4:
+        non_striker: KP Pietersen
+        bowler: BD Walters
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Frylinck
+    - 15.5:
+        non_striker: R Frylinck
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 15.6:
+        non_striker: KP Pietersen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Frylinck
+    - 16.1:
+        non_striker: R Frylinck
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 16.2:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 16.3:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Frylinck
+    - 16.4:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Frylinck
+    - 16.5:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Frylinck
+    - 16.6:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+        wicket:
+          player_out: R Frylinck
+          kind: bowled
+    - 17.1:
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: K Zondo
+        batsman: KP Pietersen
+    - 17.2:
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: K Zondo
+        batsman: KP Pietersen
+    - 17.3:
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Zondo
+        batsman: KP Pietersen
+    - 17.4:
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Zondo
+        batsman: KP Pietersen
+    - 17.5:
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Zondo
+        batsman: KP Pietersen
+    - 17.6:
+        non_striker: KP Pietersen
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Zondo
+    - 18.1:
+        non_striker: K Zondo
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 18.2:
+        non_striker: KP Pietersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 18.3:
+        non_striker: K Zondo
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Pietersen
+        wicket:
+          player_out: KP Pietersen
+          kind: bowled
+    - 18.4:
+        non_striker: K Zondo
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 18.5:
+        non_striker: KA Maharaj
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 18.6:
+        non_striker: K Zondo
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Maharaj
+    - 19.1:
+        non_striker: KA Maharaj
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Zondo
+    - 19.2:
+        non_striker: KA Maharaj
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Zondo
+    - 19.3:
+        non_striker: KA Maharaj
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+        wicket:
+          player_out: K Zondo
+          fielders:
+          - C Jonker
+          kind: caught
+    - 19.4:
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: P Subrayen
+        batsman: KA Maharaj
+    - 19.5:
+        bowler: BD Walters
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: P Subrayen
+        batsman: KA Maharaj
+    - 19.6:
+        non_striker: KA Maharaj
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Subrayen
+    - 19.7:
+        non_striker: KA Maharaj
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Subrayen
+- 2nd innings:
+    team: Warriors
+    deliveries:
+    - 0.1:
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Fortuin
+        batsman: JT Smuts
+    - 0.2:
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Fortuin
+        batsman: JT Smuts
+    - 0.3:
+        non_striker: JT Smuts
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 0.4:
+        non_striker: JT Smuts
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 0.5:
+        non_striker: JT Smuts
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+        wicket:
+          player_out: C Fortuin
+          fielders:
+          - P Subrayen
+          kind: caught
+    - 0.6:
+        non_striker: JT Smuts
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Ingram
+    - 1.1:
+        non_striker: CA Ingram
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 1.2:
+        non_striker: CA Ingram
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 1.3:
+        non_striker: JT Smuts
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 1.4:
+        non_striker: JT Smuts
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 1.5:
+        non_striker: CA Ingram
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 1.6:
+        non_striker: CA Ingram
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 2.1:
+        non_striker: CA Ingram
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 2.2:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 2.3:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 2.4:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 2.5:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 2.6:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 3.1:
+        non_striker: CA Ingram
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 3.2:
+        non_striker: CA Ingram
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 3.3:
+        non_striker: CA Ingram
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 3.4:
+        non_striker: JT Smuts
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 3.5:
+        non_striker: CA Ingram
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 3.6:
+        non_striker: CA Ingram
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 4.1:
+        non_striker: JT Smuts
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 4.2:
+        non_striker: CA Ingram
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 4.3:
+        non_striker: CA Ingram
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 4.4:
+        non_striker: JT Smuts
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 4.5:
+        non_striker: JT Smuts
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 4.6:
+        non_striker: JT Smuts
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 5.1:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 5.2:
+        non_striker: CA Ingram
+        bowler: R Frylinck
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: JT Smuts
+    - 5.3:
+        non_striker: CA Ingram
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 5.4:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 5.5:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 5.6:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 6.1:
+        non_striker: CA Ingram
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 6.2:
+        non_striker: CA Ingram
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 6.3:
+        non_striker: JT Smuts
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 6.4:
+        non_striker: CA Ingram
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 6.5:
+        non_striker: CA Ingram
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 6.6:
+        non_striker: JT Smuts
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 7.1:
+        non_striker: CA Ingram
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 7.2:
+        non_striker: JT Smuts
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 7.3:
+        non_striker: CA Ingram
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JT Smuts
+    - 7.4:
+        non_striker: CA Ingram
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 7.5:
+        non_striker: JT Smuts
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 7.6:
+        non_striker: CA Ingram
+        bowler: Imran Tahir
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: JT Smuts
+    - 8.1:
+        non_striker: JT Smuts
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 8.2:
+        non_striker: JT Smuts
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 8.3:
+        non_striker: CA Ingram
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 8.4:
+        non_striker: CA Ingram
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 8.5:
+        non_striker: CA Ingram
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 8.6:
+        non_striker: CA Ingram
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 9.1:
+        non_striker: CA Ingram
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 9.2:
+        non_striker: CA Ingram
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 9.3:
+        non_striker: JT Smuts
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Ingram
+    - 9.4:
+        non_striker: JT Smuts
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 9.5:
+        non_striker: JT Smuts
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+        wicket:
+          player_out: CA Ingram
+          kind: lbw
+    - 9.6:
+        non_striker: JT Smuts
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 10.1:
+        non_striker: CN Ackermann
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 10.2:
+        non_striker: JT Smuts
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 10.3:
+        non_striker: JT Smuts
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Ackermann
+    - 10.4:
+        non_striker: JT Smuts
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 10.5:
+        non_striker: CN Ackermann
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 10.6:
+        non_striker: JT Smuts
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 11.1:
+        non_striker: JT Smuts
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 11.2:
+        non_striker: CN Ackermann
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 11.3:
+        non_striker: CN Ackermann
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 11.4:
+        non_striker: CN Ackermann
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JT Smuts
+    - 11.5:
+        non_striker: CN Ackermann
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 11.6:
+        non_striker: CN Ackermann
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 12.1:
+        non_striker: CN Ackermann
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 12.2:
+        non_striker: JT Smuts
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+        wicket:
+          player_out: CN Ackermann
+          kind: bowled
+    - 12.3:
+        non_striker: JT Smuts
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 12.4:
+        non_striker: C Jonker
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 12.5:
+        non_striker: C Jonker
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 12.6:
+        non_striker: JT Smuts
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 13.1:
+        non_striker: JT Smuts
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 13.2:
+        non_striker: C Jonker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 13.3:
+        non_striker: C Jonker
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JT Smuts
+    - 13.4:
+        non_striker: C Jonker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 13.5:
+        non_striker: C Jonker
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JT Smuts
+    - 13.6:
+        non_striker: C Jonker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 13.7:
+        non_striker: C Jonker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 13.8:
+        non_striker: C Jonker
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 14.1:
+        non_striker: C Jonker
+        bowler: CS Delport
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JT Smuts
+    - 14.2:
+        non_striker: C Jonker
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 14.3:
+        non_striker: C Jonker
+        bowler: CS Delport
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JT Smuts
+    - 14.4:
+        non_striker: C Jonker
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 14.5:
+        non_striker: JT Smuts
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Jonker
+    - 14.6:
+        non_striker: JT Smuts
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Jonker
+    - 14.7:
+        non_striker: JT Smuts
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 14.8:
+        non_striker: JT Smuts
+        bowler: CS Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 15.1:
+        non_striker: JT Smuts
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 15.2:
+        non_striker: C Jonker
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 15.3:
+        non_striker: JT Smuts
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 15.4:
+        non_striker: C Jonker
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 15.5:
+        non_striker: JT Smuts
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 15.6:
+        non_striker: C Jonker
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 16.1:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Jonker
+    - 16.2:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 16.3:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 16.4:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 16.5:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 16.6:
+        non_striker: C Jonker
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 17.1:
+        non_striker: C Jonker
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JT Smuts
+    - 17.2:
+        non_striker: C Jonker
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 17.3:
+        non_striker: JT Smuts
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 17.4:
+        non_striker: C Jonker
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 17.5:
+        non_striker: C Jonker
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 17.6:
+        non_striker: C Jonker
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 18.1:
+        non_striker: C Jonker
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 18.2:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 18.3:
+        non_striker: C Jonker
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 18.4:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Jonker
+    - 18.5:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Jonker
+    - 18.6:
+        non_striker: JT Smuts
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Jonker

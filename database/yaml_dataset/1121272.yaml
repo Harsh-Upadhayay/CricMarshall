@@ -1,0 +1,2193 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-01'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Chattogram
+  competition: Bangladesh Premier League
+  dates:
+  - '2017-11-25'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Rangpur Riders
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - Mashrafe Mortaza
+  players:
+    Rangpur Riders:
+    - BB McCullum
+    - CH Gayle
+    - Mashrafe Mortaza
+    - Mohammad Mithun
+    - RS Bopara
+    - NLTC Perera
+    - Nahidul Islam
+    - Shahriar Nafees
+    - SL Malinga
+    - Rubel Hossain
+    - Sohag Gazi
+    Chittagong Vikings:
+    - L Ronchi
+    - Soumya Sarkar
+    - Anamul Haque
+    - S van Zyl
+    - Sikandar Raza
+    - Najibullah Zadran
+    - LM Reece
+    - Tanbir Hayder
+    - Al-Amin
+    - Sunzamul Islam
+    - Taskin Ahmed
+  registry:
+    people:
+      Al-Amin: ec72efc5
+      Anamul Haque: 72b245dd
+      Anisur Rahman: affbf093
+      BB McCullum: b8a55852
+      CH Gayle: db584dad
+      L Ronchi: 0fa5042b
+      LM Reece: 9789e56e
+      Mashrafe Mortaza: e186f49c
+      Mohammad Mithun: '77191792'
+      Morshed Ali Khan: a7c3cf5f
+      NLTC Perera: 0f12f9df
+      Nahidul Islam: 8c7b16c8
+      Najibullah Zadran: 1212cbec
+      RS Bopara: 7ca5e05d
+      Raqibul Hasan: 4c64cc8d
+      Riazuddin: '08f088e3'
+      Rubel Hossain: f56cd097
+      S van Zyl: f4dfcbb4
+      SL Malinga: a12e1d51
+      Shahriar Nafees: b9c225c2
+      Sikandar Raza: 26d041c4
+      Sohag Gazi: 5a4c12ab
+      Soumya Sarkar: 4d9f9686
+      Sunzamul Islam: 0f348f58
+      Tanbir Hayder: 24104e5c
+      Tanvir Ahmed: ea2df1f1
+      Taskin Ahmed: ef18b66e
+  teams:
+  - Chittagong Vikings
+  - Rangpur Riders
+  toss:
+    winner: Rangpur Riders
+    decision: field
+  umpires:
+  - Riazuddin
+  - Tanvir Ahmed
+  venue: Zahur Ahmed Chowdhury Stadium, Chittagong
+innings:
+- 1st innings:
+    team: Chittagong Vikings
+    deliveries:
+    - 0.1:
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Soumya Sarkar
+        batsman: L Ronchi
+    - 0.2:
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Soumya Sarkar
+        batsman: L Ronchi
+    - 0.3:
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Soumya Sarkar
+        batsman: L Ronchi
+    - 0.4:
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Soumya Sarkar
+        batsman: L Ronchi
+    - 0.5:
+        non_striker: L Ronchi
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 0.6:
+        non_striker: Soumya Sarkar
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Ronchi
+    - 1.1:
+        non_striker: L Ronchi
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 1.2:
+        non_striker: L Ronchi
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+        wicket:
+          player_out: L Ronchi
+          fielders:
+          - Mohammad Mithun
+          - Rubel Hossain
+          kind: run out
+    - 1.3:
+        non_striker: Soumya Sarkar
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 1.4:
+        non_striker: Soumya Sarkar
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 1.5:
+        non_striker: Soumya Sarkar
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 1.6:
+        non_striker: Soumya Sarkar
+        bowler: SL Malinga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anamul Haque
+    - 1.7:
+        non_striker: Soumya Sarkar
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anamul Haque
+    - 2.1:
+        non_striker: Anamul Haque
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Soumya Sarkar
+    - 2.2:
+        non_striker: Anamul Haque
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 2.3:
+        non_striker: Soumya Sarkar
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 2.4:
+        non_striker: Anamul Haque
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 2.5:
+        non_striker: Anamul Haque
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 2.6:
+        non_striker: Anamul Haque
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 3.1:
+        non_striker: Soumya Sarkar
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 3.2:
+        non_striker: Soumya Sarkar
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anamul Haque
+    - 3.3:
+        non_striker: Anamul Haque
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 3.4:
+        non_striker: Anamul Haque
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 3.5:
+        non_striker: Soumya Sarkar
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+        wicket:
+          player_out: Anamul Haque
+          fielders:
+          - SL Malinga
+          kind: caught
+    - 3.6:
+        non_striker: S van Zyl
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 4.1:
+        non_striker: S van Zyl
+        bowler: Sohag Gazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Soumya Sarkar
+    - 4.2:
+        non_striker: S van Zyl
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 4.3:
+        non_striker: S van Zyl
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 4.4:
+        non_striker: S van Zyl
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 4.5:
+        non_striker: S van Zyl
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Soumya Sarkar
+    - 4.6:
+        non_striker: S van Zyl
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 4.7:
+        non_striker: S van Zyl
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 5.1:
+        non_striker: S van Zyl
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 5.2:
+        non_striker: S van Zyl
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Soumya Sarkar
+    - 5.3:
+        non_striker: S van Zyl
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 5.4:
+        non_striker: Soumya Sarkar
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 5.5:
+        non_striker: Soumya Sarkar
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 5.6:
+        non_striker: S van Zyl
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Soumya Sarkar
+    - 6.1:
+        non_striker: Soumya Sarkar
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 6.2:
+        non_striker: S van Zyl
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 6.3:
+        non_striker: Soumya Sarkar
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 6.4:
+        non_striker: S van Zyl
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 6.5:
+        non_striker: Soumya Sarkar
+        bowler: Sohag Gazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S van Zyl
+    - 6.6:
+        non_striker: Soumya Sarkar
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 6.7:
+        non_striker: S van Zyl
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 7.1:
+        non_striker: S van Zyl
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 7.2:
+        non_striker: S van Zyl
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+        wicket:
+          player_out: Soumya Sarkar
+          kind: bowled
+    - 7.3:
+        non_striker: S van Zyl
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 7.4:
+        non_striker: Sikandar Raza
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 7.5:
+        non_striker: S van Zyl
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 7.6:
+        non_striker: Sikandar Raza
+        bowler: Nahidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 8.1:
+        non_striker: Sikandar Raza
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 8.2:
+        non_striker: Sikandar Raza
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 8.3:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 8.4:
+        non_striker: Sikandar Raza
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 8.5:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 8.6:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 9.1:
+        non_striker: Sikandar Raza
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 9.2:
+        non_striker: Sikandar Raza
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 9.3:
+        non_striker: S van Zyl
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 9.4:
+        non_striker: Sikandar Raza
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 9.5:
+        non_striker: Sikandar Raza
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 9.6:
+        non_striker: Sikandar Raza
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 10.1:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 10.2:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 10.3:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 10.4:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 10.5:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 10.6:
+        non_striker: Sikandar Raza
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 10.7:
+        non_striker: Sikandar Raza
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 10.8:
+        non_striker: Sikandar Raza
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 11.1:
+        non_striker: Sikandar Raza
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 11.2:
+        non_striker: Sikandar Raza
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 11.3:
+        non_striker: Sikandar Raza
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 11.4:
+        non_striker: Sikandar Raza
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S van Zyl
+    - 11.5:
+        non_striker: Sikandar Raza
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 11.6:
+        non_striker: S van Zyl
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 12.1:
+        non_striker: Sikandar Raza
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 12.2:
+        non_striker: S van Zyl
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 12.3:
+        non_striker: Sikandar Raza
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S van Zyl
+    - 12.4:
+        non_striker: Sikandar Raza
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 12.5:
+        non_striker: Sikandar Raza
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 12.6:
+        non_striker: S van Zyl
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.1:
+        non_striker: S van Zyl
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.2:
+        non_striker: Sikandar Raza
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 13.3:
+        non_striker: S van Zyl
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 13.4:
+        non_striker: S van Zyl
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 13.5:
+        non_striker: Sikandar Raza
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 13.6:
+        non_striker: Sikandar Raza
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S van Zyl
+    - 14.1:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 14.2:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 14.3:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 14.4:
+        non_striker: Sikandar Raza
+        bowler: Rubel Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S van Zyl
+    - 14.5:
+        non_striker: Sikandar Raza
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 14.6:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - Shahriar Nafees
+          kind: caught
+    - 14.7:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 15.1:
+        non_striker: S van Zyl
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 15.2:
+        non_striker: Najibullah Zadran
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 15.3:
+        non_striker: Najibullah Zadran
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 15.4:
+        non_striker: S van Zyl
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 15.5:
+        non_striker: Najibullah Zadran
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S van Zyl
+    - 15.6:
+        non_striker: Najibullah Zadran
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 16.1:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Najibullah Zadran
+    - 16.2:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 16.3:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 16.4:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran
+    - 16.5:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 16.6:
+        non_striker: S van Zyl
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Najibullah Zadran
+    - 17.1:
+        non_striker: Najibullah Zadran
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 17.2:
+        non_striker: Najibullah Zadran
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 17.3:
+        non_striker: S van Zyl
+        bowler: SL Malinga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Najibullah Zadran
+    - 17.4:
+        non_striker: Najibullah Zadran
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 17.5:
+        non_striker: S van Zyl
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 17.6:
+        non_striker: Najibullah Zadran
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 18.1:
+        non_striker: S van Zyl
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 18.2:
+        non_striker: Najibullah Zadran
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+        wicket:
+          player_out: S van Zyl
+          fielders:
+          - Mohammad Mithun
+          kind: caught
+    - 18.3:
+        non_striker: Najibullah Zadran
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Reece
+    - 18.4:
+        non_striker: Najibullah Zadran
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Reece
+    - 18.5:
+        non_striker: LM Reece
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 18.6:
+        non_striker: Najibullah Zadran
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Reece
+        wicket:
+          player_out: LM Reece
+          fielders:
+          - Mohammad Mithun
+          - Shahriar Nafees
+          kind: run out
+    - 19.1:
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Tanbir Hayder
+        batsman: Najibullah Zadran
+    - 19.2:
+        non_striker: Najibullah Zadran
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanbir Hayder
+    - 19.3:
+        non_striker: Tanbir Hayder
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 19.4:
+        non_striker: Tanbir Hayder
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+        wicket:
+          player_out: Najibullah Zadran
+          fielders:
+          - NLTC Perera
+          kind: caught
+    - 19.5:
+        non_striker: Tanbir Hayder
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Al-Amin
+    - 19.6:
+        non_striker: Al-Amin
+        bowler: SL Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tanbir Hayder
+- 2nd innings:
+    team: Rangpur Riders
+    deliveries:
+    - 0.1:
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CH Gayle
+        batsman: BB McCullum
+    - 0.2:
+        non_striker: BB McCullum
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.3:
+        non_striker: BB McCullum
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.4:
+        non_striker: BB McCullum
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CH Gayle
+    - 0.5:
+        non_striker: BB McCullum
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 0.6:
+        non_striker: BB McCullum
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 1.1:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 1.2:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 1.3:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BB McCullum
+    - 1.4:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 1.5:
+        non_striker: BB McCullum
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 1.6:
+        non_striker: BB McCullum
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 2.1:
+        non_striker: CH Gayle
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 2.2:
+        non_striker: CH Gayle
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BB McCullum
+    - 2.3:
+        non_striker: BB McCullum
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 2.4:
+        non_striker: CH Gayle
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 2.5:
+        non_striker: CH Gayle
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 2.6:
+        non_striker: CH Gayle
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 3.1:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 3.2:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 3.3:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 3.4:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 3.5:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 3.6:
+        non_striker: BB McCullum
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 4.1:
+        non_striker: CH Gayle
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BB McCullum
+    - 4.2:
+        non_striker: CH Gayle
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 4.3:
+        non_striker: CH Gayle
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 4.4:
+        non_striker: BB McCullum
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CH Gayle
+    - 4.5:
+        non_striker: BB McCullum
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 4.6:
+        non_striker: CH Gayle
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 5.1:
+        non_striker: BB McCullum
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 5.2:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+        wicket:
+          player_out: BB McCullum
+          kind: bowled
+    - 5.3:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 5.4:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mashrafe Mortaza
+    - 5.5:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashrafe Mortaza
+    - 5.6:
+        non_striker: Mashrafe Mortaza
+        bowler: Al-Amin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CH Gayle
+    - 6.1:
+        non_striker: Mashrafe Mortaza
+        bowler: Soumya Sarkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CH Gayle
+    - 6.2:
+        non_striker: Mashrafe Mortaza
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 6.3:
+        non_striker: CH Gayle
+        bowler: Soumya Sarkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mashrafe Mortaza
+    - 6.4:
+        non_striker: CH Gayle
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mashrafe Mortaza
+    - 6.5:
+        non_striker: CH Gayle
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 6.6:
+        non_striker: CH Gayle
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mashrafe Mortaza
+    - 6.7:
+        non_striker: CH Gayle
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mashrafe Mortaza
+    - 6.8:
+        non_striker: CH Gayle
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+    - 7.1:
+        non_striker: Mashrafe Mortaza
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 7.2:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mashrafe Mortaza
+    - 7.3:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashrafe Mortaza
+    - 7.4:
+        non_striker: Mashrafe Mortaza
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 7.5:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mashrafe Mortaza
+    - 7.6:
+        non_striker: CH Gayle
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mashrafe Mortaza
+    - 8.1:
+        non_striker: Mashrafe Mortaza
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CH Gayle
+    - 8.2:
+        non_striker: Mashrafe Mortaza
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 8.3:
+        non_striker: CH Gayle
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mashrafe Mortaza
+    - 8.4:
+        non_striker: CH Gayle
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashrafe Mortaza
+    - 8.5:
+        non_striker: Mashrafe Mortaza
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CH Gayle
+    - 8.6:
+        non_striker: Mashrafe Mortaza
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 9.1:
+        non_striker: CH Gayle
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mashrafe Mortaza
+    - 9.2:
+        non_striker: CH Gayle
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mashrafe Mortaza
+    - 9.3:
+        non_striker: Mashrafe Mortaza
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 9.4:
+        non_striker: CH Gayle
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+        wicket:
+          player_out: Mashrafe Mortaza
+          kind: bowled
+    - 9.5:
+        non_striker: CH Gayle
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 9.6:
+        non_striker: Mohammad Mithun
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 10.1:
+        non_striker: Mohammad Mithun
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 10.2:
+        non_striker: CH Gayle
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+    - 10.3:
+        non_striker: CH Gayle
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 10.4:
+        non_striker: Mohammad Mithun
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Gayle
+    - 10.5:
+        non_striker: CH Gayle
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 10.6:
+        non_striker: Mohammad Mithun
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+        wicket:
+          player_out: CH Gayle
+          fielders:
+          - L Ronchi
+          kind: caught
+    - 11.1:
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: RS Bopara
+        batsman: Mohammad Mithun
+    - 11.2:
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RS Bopara
+        batsman: Mohammad Mithun
+    - 11.3:
+        non_striker: Mohammad Mithun
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Bopara
+    - 11.4:
+        non_striker: Mohammad Mithun
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Bopara
+    - 11.5:
+        non_striker: Mohammad Mithun
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 11.6:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 12.1:
+        non_striker: RS Bopara
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Mithun
+    - 12.2:
+        non_striker: RS Bopara
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 12.3:
+        non_striker: Mohammad Mithun
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 12.4:
+        non_striker: RS Bopara
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Mithun
+    - 12.5:
+        non_striker: RS Bopara
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 12.6:
+        non_striker: Mohammad Mithun
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 13.1:
+        non_striker: Mohammad Mithun
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 13.2:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 13.3:
+        non_striker: Mohammad Mithun
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 13.4:
+        non_striker: Mohammad Mithun
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 13.5:
+        non_striker: Mohammad Mithun
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 13.6:
+        non_striker: RS Bopara
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 14.1:
+        non_striker: RS Bopara
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 14.2:
+        non_striker: Mohammad Mithun
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 14.3:
+        non_striker: RS Bopara
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 14.4:
+        non_striker: Mohammad Mithun
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 14.5:
+        non_striker: RS Bopara
+        bowler: LM Reece
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Mithun
+    - 14.6:
+        non_striker: RS Bopara
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Mithun
+    - 14.7:
+        non_striker: RS Bopara
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 15.1:
+        non_striker: RS Bopara
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 15.2:
+        non_striker: Mohammad Mithun
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 15.3:
+        non_striker: Mohammad Mithun
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+        wicket:
+          player_out: RS Bopara
+          fielders:
+          - Najibullah Zadran
+          kind: caught
+    - 15.4:
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: NLTC Perera
+        batsman: Mohammad Mithun
+    - 15.5:
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: NLTC Perera
+        batsman: Mohammad Mithun
+    - 15.6:
+        non_striker: NLTC Perera
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Mithun
+    - 16.1:
+        non_striker: Mohammad Mithun
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 16.2:
+        non_striker: Mohammad Mithun
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 16.3:
+        non_striker: Mohammad Mithun
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 16.4:
+        non_striker: NLTC Perera
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Mithun
+    - 16.5:
+        non_striker: NLTC Perera
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 16.6:
+        non_striker: Mohammad Mithun
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NLTC Perera
+    - 17.1:
+        non_striker: NLTC Perera
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 17.2:
+        non_striker: Mohammad Mithun
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 17.3:
+        non_striker: NLTC Perera
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Mithun
+    - 17.4:
+        non_striker: NLTC Perera
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 17.5:
+        non_striker: Mohammad Mithun
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 17.6:
+        non_striker: NLTC Perera
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 17.7:
+        non_striker: Mohammad Mithun
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 18.1:
+        non_striker: Mohammad Mithun
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 18.2:
+        non_striker: NLTC Perera
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 18.3:
+        non_striker: Mohammad Mithun
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 18.4:
+        non_striker: NLTC Perera
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Mithun
+    - 18.5:
+        non_striker: NLTC Perera
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Mithun
+        wicket:
+          player_out: Mohammad Mithun
+          kind: bowled
+    - 18.6:
+        non_striker: NLTC Perera
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahidul Islam
+    - 19.1:
+        non_striker: Nahidul Islam
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NLTC Perera
+    - 19.2:
+        non_striker: Nahidul Islam
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NLTC Perera
+    - 19.3:
+        non_striker: Nahidul Islam
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+        wicket:
+          player_out: Nahidul Islam
+          fielders:
+          - Anamul Haque
+          kind: run out
+    - 19.4:
+        non_striker: NLTC Perera
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahriar Nafees
+        wicket:
+          player_out: Shahriar Nafees
+          fielders:
+          - Soumya Sarkar
+          kind: caught
+    - 19.5:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SL Malinga
+        batsman: NLTC Perera
+    - 19.6:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SL Malinga
+        batsman: NLTC Perera
+    - 19.7:
+        non_striker: SL Malinga
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NLTC Perera

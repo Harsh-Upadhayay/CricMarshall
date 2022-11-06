@@ -1,0 +1,1835 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-03-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Southampton
+  dates:
+  - '2004-09-13'
+  gender: male
+  match_type: ODI
+  match_type_number: 2172
+  outcome:
+    winner: Australia
+    by:
+      wickets: 9
+  overs: 50
+  player_of_match:
+  - MS Kasprowicz
+  players:
+    United States of America:
+    - RP Alexander
+    - MR Johnson
+    - LC Romero
+    - SJ Massiah
+    - RW Staple
+    - CA Reid
+    - Rashid Zia
+    - Aijaz Ali
+    - Nasir Javed
+    - DL Blake
+    - HR Johnson
+    Australia:
+    - AC Gilchrist
+    - ML Hayden
+    - RT Ponting
+    - DS Lehmann
+    - A Symonds
+    - DR Martyn
+    - MJ Clarke
+    - MS Kasprowicz
+    - B Lee
+    - JN Gillespie
+    - GD McGrath
+  registry:
+    people:
+      A Symonds: bd77eb62
+      AC Gilchrist: 2b6e6dec
+      Aijaz Ali: 6d60ece6
+      Aleem Dar: f02778d1
+      B Lee: dd09ff8e
+      BF Bowden: efc0a862
+      CA Reid: 6b062b4b
+      DL Blake: 6cd0b2d8
+      DR Martyn: '69762509'
+      DS Lehmann: 53fe6ee4
+      GD McGrath: ee7d0c82
+      HR Johnson: 98653b57
+      JN Gillespie: 74234d66
+      LC Romero: a2a1efe2
+      MJ Clarke: f842c2cf
+      ML Hayden: d8699ab7
+      MR Johnson: 2b30ca91
+      MS Kasprowicz: 8d0ea930
+      Nasir Javed: 474a8333
+      RP Alexander: c25927f8
+      RS Madugalle: 766b5798
+      RT Ponting: 7d415ea5
+      RW Staple: 9de31202
+      Rashid Zia: d797ecfe
+      SA Bucknor: 2ad22b51
+      SJ Massiah: 59cc6b79
+  teams:
+  - United States of America
+  - Australia
+  toss:
+    decision: field
+    winner: Australia
+  umpires:
+  - Aleem Dar
+  - BF Bowden
+  venue: The Rose Bowl
+innings:
+- 1st innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        non_striker: MR Johnson
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Alexander
+    - 0.2:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Johnson
+        wicket:
+          player_out: MR Johnson
+          kind: bowled
+    - 0.3:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Romero
+    - 0.4:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Romero
+    - 0.5:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Romero
+    - 0.6:
+        non_striker: LC Romero
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 1.1:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Romero
+    - 1.2:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Romero
+        wicket:
+          player_out: LC Romero
+          kind: run out
+    - 1.3:
+        non_striker: SJ Massiah
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Alexander
+    - 1.4:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 1.5:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 1.6:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 2.1:
+        non_striker: SJ Massiah
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 2.2:
+        non_striker: SJ Massiah
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 2.3:
+        non_striker: SJ Massiah
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Alexander
+    - 2.4:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Massiah
+    - 2.5:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 2.6:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 2.7:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 3.1:
+        non_striker: SJ Massiah
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Alexander
+    - 3.2:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Massiah
+    - 3.3:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Massiah
+    - 3.4:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 3.5:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 3.6:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 3.7:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 4.1:
+        non_striker: SJ Massiah
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 4.2:
+        non_striker: SJ Massiah
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 4.3:
+        non_striker: SJ Massiah
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RP Alexander
+    - 4.4:
+        non_striker: SJ Massiah
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 4.5:
+        non_striker: SJ Massiah
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 4.6:
+        non_striker: SJ Massiah
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Alexander
+    - 4.7:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 5.1:
+        non_striker: SJ Massiah
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 5.2:
+        non_striker: SJ Massiah
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 5.3:
+        non_striker: SJ Massiah
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 5.4:
+        non_striker: SJ Massiah
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 5.5:
+        non_striker: SJ Massiah
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 5.6:
+        non_striker: SJ Massiah
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 6.1:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 6.2:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 6.3:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Massiah
+    - 6.4:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Massiah
+    - 6.5:
+        non_striker: SJ Massiah
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 6.6:
+        non_striker: SJ Massiah
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 6.7:
+        non_striker: SJ Massiah
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Alexander
+    - 6.8:
+        non_striker: SJ Massiah
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 7.1:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 7.2:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 7.3:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 7.4:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 7.5:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 7.6:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Massiah
+    - 8.1:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Massiah
+    - 8.2:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SJ Massiah
+    - 8.3:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 8.4:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 8.5:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 8.6:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: SJ Massiah
+    - 8.7:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Massiah
+    - 8.8:
+        non_striker: RP Alexander
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 9.1:
+        non_striker: SJ Massiah
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 9.2:
+        non_striker: SJ Massiah
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Alexander
+    - 9.3:
+        non_striker: SJ Massiah
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 9.4:
+        non_striker: SJ Massiah
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Alexander
+    - 9.5:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 9.6:
+        non_striker: RP Alexander
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 10.1:
+        non_striker: SJ Massiah
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+    - 10.2:
+        non_striker: SJ Massiah
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Alexander
+        wicket:
+          player_out: RP Alexander
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 10.3:
+        non_striker: SJ Massiah
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Staple
+    - 10.4:
+        non_striker: SJ Massiah
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Staple
+    - 10.5:
+        non_striker: SJ Massiah
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Staple
+    - 10.6:
+        non_striker: SJ Massiah
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Staple
+    - 11.1:
+        non_striker: RW Staple
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 11.2:
+        non_striker: RW Staple
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 11.3:
+        non_striker: RW Staple
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Massiah
+    - 11.4:
+        non_striker: RW Staple
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 11.5:
+        non_striker: RW Staple
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 11.6:
+        non_striker: RW Staple
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 12.1:
+        non_striker: SJ Massiah
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Staple
+    - 12.2:
+        non_striker: SJ Massiah
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Staple
+    - 12.3:
+        non_striker: SJ Massiah
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Staple
+    - 12.4:
+        non_striker: SJ Massiah
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RW Staple
+    - 12.5:
+        non_striker: SJ Massiah
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Staple
+    - 12.6:
+        non_striker: SJ Massiah
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Staple
+        wicket:
+          player_out: RW Staple
+          kind: lbw
+    - 13.1:
+        non_striker: CA Reid
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 13.2:
+        non_striker: CA Reid
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SJ Massiah
+    - 13.3:
+        non_striker: SJ Massiah
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Reid
+    - 13.4:
+        non_striker: SJ Massiah
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Reid
+    - 13.5:
+        non_striker: SJ Massiah
+        bowler: JN Gillespie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Reid
+    - 13.6:
+        non_striker: SJ Massiah
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Reid
+    - 13.7:
+        non_striker: SJ Massiah
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Reid
+    - 14.1:
+        non_striker: CA Reid
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Massiah
+    - 14.2:
+        non_striker: CA Reid
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+    - 14.3:
+        non_striker: CA Reid
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Massiah
+        wicket:
+          player_out: SJ Massiah
+          fielders:
+          - DS Lehmann
+          kind: caught
+    - 14.4:
+        non_striker: Rashid Zia
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Reid
+        wicket:
+          player_out: CA Reid
+          kind: lbw
+    - 14.5:
+        non_striker: Rashid Zia
+        bowler: MS Kasprowicz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Aijaz Ali
+    - 14.6:
+        non_striker: Rashid Zia
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aijaz Ali
+    - 14.7:
+        non_striker: Rashid Zia
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aijaz Ali
+    - 15.1:
+        non_striker: Aijaz Ali
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+    - 15.2:
+        non_striker: Aijaz Ali
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+    - 15.3:
+        non_striker: Aijaz Ali
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+    - 15.4:
+        non_striker: Aijaz Ali
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+    - 15.5:
+        non_striker: Aijaz Ali
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+    - 15.6:
+        non_striker: Aijaz Ali
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+    - 16.1:
+        non_striker: Rashid Zia
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aijaz Ali
+    - 16.2:
+        non_striker: Aijaz Ali
+        bowler: MS Kasprowicz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rashid Zia
+    - 16.3:
+        non_striker: Aijaz Ali
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+    - 16.4:
+        non_striker: Aijaz Ali
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+    - 16.5:
+        non_striker: Aijaz Ali
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+    - 16.6:
+        non_striker: Aijaz Ali
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+    - 16.7:
+        non_striker: Aijaz Ali
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+    - 17.1:
+        non_striker: Rashid Zia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aijaz Ali
+    - 17.2:
+        non_striker: Rashid Zia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aijaz Ali
+        wicket:
+          player_out: Aijaz Ali
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 17.3:
+        non_striker: Rashid Zia
+        bowler: JN Gillespie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Nasir Javed
+    - 17.4:
+        non_striker: Rashid Zia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Javed
+    - 17.5:
+        non_striker: Nasir Javed
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+    - 17.6:
+        non_striker: Nasir Javed
+        bowler: JN Gillespie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rashid Zia
+    - 17.7:
+        non_striker: Rashid Zia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 18.1:
+        non_striker: Nasir Javed
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Zia
+    - 18.2:
+        non_striker: Rashid Zia
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 18.3:
+        non_striker: Rashid Zia
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 18.4:
+        non_striker: Rashid Zia
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 18.5:
+        non_striker: Rashid Zia
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 18.6:
+        non_striker: Rashid Zia
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 19.1:
+        non_striker: Nasir Javed
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+    - 19.2:
+        non_striker: Nasir Javed
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Zia
+        wicket:
+          player_out: Rashid Zia
+          kind: lbw
+    - 19.3:
+        non_striker: Nasir Javed
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Blake
+    - 19.4:
+        non_striker: Nasir Javed
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Blake
+        wicket:
+          player_out: DL Blake
+          kind: lbw
+    - 19.5:
+        non_striker: Nasir Javed
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Johnson
+    - 19.6:
+        non_striker: Nasir Javed
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Johnson
+    - 20.1:
+        non_striker: Nasir Javed
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Johnson
+    - 20.2:
+        non_striker: Nasir Javed
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Johnson
+    - 20.3:
+        non_striker: Nasir Javed
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Johnson
+    - 20.4:
+        non_striker: HR Johnson
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 20.5:
+        non_striker: HR Johnson
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 20.6:
+        non_striker: HR Johnson
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 21.1:
+        non_striker: Nasir Javed
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Johnson
+    - 21.2:
+        non_striker: HR Johnson
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 21.3:
+        non_striker: HR Johnson
+        bowler: JN Gillespie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nasir Javed
+    - 21.4:
+        non_striker: Nasir Javed
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HR Johnson
+    - 21.5:
+        non_striker: HR Johnson
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 21.6:
+        non_striker: HR Johnson
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 22.1:
+        non_striker: Nasir Javed
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Johnson
+    - 22.2:
+        non_striker: Nasir Javed
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Johnson
+    - 22.3:
+        non_striker: Nasir Javed
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Johnson
+    - 22.4:
+        non_striker: Nasir Javed
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Johnson
+    - 22.5:
+        non_striker: Nasir Javed
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Johnson
+    - 22.6:
+        non_striker: Nasir Javed
+        bowler: MS Kasprowicz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HR Johnson
+    - 23.1:
+        non_striker: HR Johnson
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 23.2:
+        non_striker: HR Johnson
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 23.3:
+        non_striker: HR Johnson
+        bowler: JN Gillespie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nasir Javed
+    - 23.4:
+        non_striker: HR Johnson
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Javed
+    - 23.5:
+        non_striker: HR Johnson
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Javed
+    - 23.6:
+        non_striker: Nasir Javed
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Johnson
+    - 23.7:
+        non_striker: Nasir Javed
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Johnson
+        wicket:
+          player_out: HR Johnson
+          kind: bowled
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: ML Hayden
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 0.2:
+        non_striker: ML Hayden
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 0.3:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: ML Hayden
+    - 0.4:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 0.5:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 0.6:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: ML Hayden
+    - 0.7:
+        non_striker: ML Hayden
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 0.8:
+        non_striker: ML Hayden
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 1.1:
+        non_striker: AC Gilchrist
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.2:
+        non_striker: AC Gilchrist
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 1.3:
+        non_striker: AC Gilchrist
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 1.4:
+        non_striker: ML Hayden
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 1.5:
+        non_striker: ML Hayden
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 1.6:
+        non_striker: ML Hayden
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 2.1:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.2:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 2.3:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.4:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: ML Hayden
+    - 2.5:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.6:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 2.7:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 3.1:
+        non_striker: ML Hayden
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 3.2:
+        non_striker: ML Hayden
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Gilchrist
+    - 3.3:
+        non_striker: ML Hayden
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 3.4:
+        non_striker: ML Hayden
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 3.5:
+        non_striker: ML Hayden
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 3.6:
+        non_striker: AC Gilchrist
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 4.1:
+        non_striker: ML Hayden
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 4.2:
+        non_striker: ML Hayden
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 4.3:
+        non_striker: ML Hayden
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 4.4:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 4.5:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 4.6:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+        wicket:
+          player_out: ML Hayden
+          fielders:
+          - MR Johnson
+          kind: caught
+    - 4.7:
+        non_striker: AC Gilchrist
+        bowler: HR Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 5.1:
+        non_striker: AC Gilchrist
+        bowler: CA Reid
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: RT Ponting
+    - 5.2:
+        non_striker: AC Gilchrist
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 5.3:
+        non_striker: AC Gilchrist
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 5.4:
+        non_striker: AC Gilchrist
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 5.5:
+        non_striker: RT Ponting
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 5.6:
+        non_striker: RT Ponting
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 5.7:
+        non_striker: RT Ponting
+        bowler: CA Reid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 6.1:
+        non_striker: AC Gilchrist
+        bowler: DL Blake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 6.2:
+        non_striker: RT Ponting
+        bowler: DL Blake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Gilchrist
+    - 6.3:
+        non_striker: AC Gilchrist
+        bowler: DL Blake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 6.4:
+        non_striker: RT Ponting
+        bowler: DL Blake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 6.5:
+        non_striker: AC Gilchrist
+        bowler: DL Blake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 6.6:
+        non_striker: AC Gilchrist
+        bowler: DL Blake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 7.1:
+        non_striker: RT Ponting
+        bowler: Rashid Zia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 7.2:
+        non_striker: RT Ponting
+        bowler: Rashid Zia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 7.3:
+        non_striker: RT Ponting
+        bowler: Rashid Zia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 7.4:
+        non_striker: RT Ponting
+        bowler: Rashid Zia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 7.5:
+        non_striker: RT Ponting
+        bowler: Rashid Zia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AC Gilchrist

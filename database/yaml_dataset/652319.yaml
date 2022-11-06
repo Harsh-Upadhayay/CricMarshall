@@ -1,0 +1,2175 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-04-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Cape Town
+  competition: Ram Slam T20 Challenge
+  dates:
+  - '2014-02-09'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Dolphins
+    by:
+      runs: 2
+  overs: 20
+  player_of_match:
+  - MN van Wyk
+  - M Shezi
+  players:
+    Dolphins:
+    - MN van Wyk
+    - CS Delport
+    - C Chetty
+    - D Smit
+    - DA Miller
+    - K Zondo
+    - VB van Jaarsveld
+    - R Frylinck
+    - KJ Abbott
+    - KA Maharaj
+    - M Shezi
+    Cape Cobras:
+    - RE Levi
+    - JH Kallis
+    - S van Zyl
+    - DJ Vilas
+    - JL Ontong
+    - SA Engelbrecht
+    - JM Kemp
+    - DL Piedt
+    - A Mgijima
+    - LB Williams
+    - BE Hendricks
+  registry:
+    people:
+      A Mgijima: 955e8e86
+      AT Holdstock: 6fa3258c
+      BE Hendricks: b56dc5f7
+      C Chetty: 27ca3a11
+      CS Delport: afa78c3a
+      D Smit: 4bb02ef1
+      DA Miller: d67d5f00
+      DJ Smith: d17bec15
+      DJ Vilas: '087210b1'
+      DL Piedt: 537f5ab2
+      EC Hendrikse: 3f2996c9
+      JH Kallis: 86dc8f2e
+      JL Ontong: 55f33b32
+      JM Kemp: 6581d753
+      K Zondo: 4aad78d3
+      KA Maharaj: 0b60eb09
+      KJ Abbott: a9da7784
+      LB Williams: a1d95bd8
+      M Shezi: 016e5101
+      MN van Wyk: 710dd98c
+      MW Brown: d83d7796
+      R Frylinck: 8b248d88
+      RE Levi: 18c78b11
+      S van Zyl: f4dfcbb4
+      SA Engelbrecht: 81a0e294
+      SB Lambson: 4146063f
+      VB van Jaarsveld: 890b877d
+  teams:
+  - Dolphins
+  - Cape Cobras
+  toss:
+    winner: Dolphins
+    decision: bat
+  umpires:
+  - AT Holdstock
+  - DJ Smith
+  venue: Newlands, Cape Town
+innings:
+- 1st innings:
+    team: Dolphins
+    deliveries:
+    - 0.1:
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CS Delport
+        batsman: MN van Wyk
+    - 0.2:
+        non_striker: MN van Wyk
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CS Delport
+    - 0.3:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 0.4:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: MN van Wyk
+    - 0.5:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 0.6:
+        non_striker: CS Delport
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 1.1:
+        non_striker: MN van Wyk
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 1.2:
+        non_striker: CS Delport
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 1.3:
+        non_striker: CS Delport
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 1.4:
+        non_striker: CS Delport
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 1.5:
+        non_striker: CS Delport
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 1.6:
+        non_striker: CS Delport
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 2.1:
+        non_striker: MN van Wyk
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 2.2:
+        non_striker: MN van Wyk
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 2.3:
+        non_striker: MN van Wyk
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+        wicket:
+          player_out: CS Delport
+          fielders:
+          - JM Kemp
+          kind: caught
+    - 2.4:
+        non_striker: MN van Wyk
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 2.5:
+        non_striker: MN van Wyk
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chetty
+    - 2.6:
+        non_striker: MN van Wyk
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chetty
+    - 3.1:
+        non_striker: C Chetty
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 3.2:
+        non_striker: C Chetty
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 3.3:
+        non_striker: C Chetty
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 3.4:
+        non_striker: C Chetty
+        bowler: JH Kallis
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: MN van Wyk
+    - 3.5:
+        non_striker: MN van Wyk
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 3.6:
+        non_striker: MN van Wyk
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 3.7:
+        non_striker: C Chetty
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MN van Wyk
+    - 4.1:
+        non_striker: MN van Wyk
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 4.2:
+        non_striker: C Chetty
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 4.3:
+        non_striker: C Chetty
+        bowler: LB Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MN van Wyk
+    - 4.4:
+        non_striker: C Chetty
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 4.5:
+        non_striker: C Chetty
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 4.6:
+        non_striker: MN van Wyk
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 4.7:
+        non_striker: MN van Wyk
+        bowler: LB Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chetty
+    - 5.1:
+        non_striker: C Chetty
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 5.2:
+        non_striker: C Chetty
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 5.3:
+        non_striker: C Chetty
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 5.4:
+        non_striker: C Chetty
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 5.5:
+        non_striker: C Chetty
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 5.6:
+        non_striker: MN van Wyk
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 6.1:
+        non_striker: MN van Wyk
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chetty
+    - 6.2:
+        non_striker: MN van Wyk
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 6.3:
+        non_striker: MN van Wyk
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 6.4:
+        non_striker: MN van Wyk
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+        wicket:
+          player_out: C Chetty
+          fielders:
+          - DJ Vilas
+          kind: caught
+    - 6.5:
+        non_striker: MN van Wyk
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Smit
+    - 6.6:
+        non_striker: MN van Wyk
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Smit
+    - 7.1:
+        non_striker: D Smit
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 7.2:
+        non_striker: D Smit
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 7.3:
+        non_striker: MN van Wyk
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Smit
+    - 7.4:
+        non_striker: D Smit
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 7.5:
+        non_striker: MN van Wyk
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Smit
+    - 7.6:
+        non_striker: D Smit
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MN van Wyk
+    - 8.1:
+        non_striker: MN van Wyk
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Smit
+    - 8.2:
+        non_striker: MN van Wyk
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Smit
+    - 8.3:
+        non_striker: MN van Wyk
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Smit
+    - 8.4:
+        non_striker: D Smit
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 8.5:
+        non_striker: D Smit
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 8.6:
+        non_striker: MN van Wyk
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Smit
+    - 9.1:
+        non_striker: MN van Wyk
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Smit
+    - 9.2:
+        non_striker: D Smit
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 9.3:
+        non_striker: MN van Wyk
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Smit
+    - 9.4:
+        non_striker: MN van Wyk
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Smit
+    - 9.5:
+        non_striker: MN van Wyk
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Smit
+    - 9.6:
+        non_striker: D Smit
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MN van Wyk
+    - 10.1:
+        non_striker: MN van Wyk
+        bowler: JL Ontong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Smit
+        wicket:
+          player_out: D Smit
+          fielders:
+          - DJ Vilas
+          kind: caught
+    - 10.2:
+        non_striker: MN van Wyk
+        bowler: JL Ontong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.3:
+        non_striker: DA Miller
+        bowler: JL Ontong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 10.4:
+        non_striker: DA Miller
+        bowler: JL Ontong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MN van Wyk
+    - 10.5:
+        non_striker: DA Miller
+        bowler: JL Ontong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 10.6:
+        non_striker: DA Miller
+        bowler: JL Ontong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 11.1:
+        non_striker: DA Miller
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 11.2:
+        non_striker: MN van Wyk
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.3:
+        non_striker: DA Miller
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 11.4:
+        non_striker: DA Miller
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 11.5:
+        non_striker: MN van Wyk
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 11.6:
+        non_striker: MN van Wyk
+        bowler: JM Kemp
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 12.1:
+        non_striker: DA Miller
+        bowler: JL Ontong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 12.2:
+        non_striker: MN van Wyk
+        bowler: JL Ontong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.3:
+        non_striker: DA Miller
+        bowler: JL Ontong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 12.4:
+        non_striker: DA Miller
+        bowler: JL Ontong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 12.5:
+        non_striker: DA Miller
+        bowler: JL Ontong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 12.6:
+        non_striker: DA Miller
+        bowler: JL Ontong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 13.1:
+        non_striker: MN van Wyk
+        bowler: SA Engelbrecht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 13.2:
+        non_striker: DA Miller
+        bowler: SA Engelbrecht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 13.3:
+        non_striker: DA Miller
+        bowler: SA Engelbrecht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 13.4:
+        non_striker: DA Miller
+        bowler: SA Engelbrecht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+        wicket:
+          player_out: MN van Wyk
+          fielders:
+          - JH Kallis
+          kind: caught
+    - 13.5:
+        bowler: SA Engelbrecht
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: K Zondo
+        batsman: DA Miller
+    - 13.6:
+        non_striker: K Zondo
+        bowler: SA Engelbrecht
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 14.1:
+        non_striker: DA Miller
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Zondo
+    - 14.2:
+        non_striker: K Zondo
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.3:
+        non_striker: DA Miller
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 14.4:
+        non_striker: DA Miller
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 14.5:
+        non_striker: DA Miller
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 14.6:
+        non_striker: DA Miller
+        bowler: DL Piedt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 15.1:
+        non_striker: K Zondo
+        bowler: SA Engelbrecht
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 15.2:
+        non_striker: K Zondo
+        bowler: SA Engelbrecht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.3:
+        non_striker: DA Miller
+        bowler: SA Engelbrecht
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Zondo
+    - 15.4:
+        non_striker: DA Miller
+        bowler: SA Engelbrecht
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 15.5:
+        non_striker: DA Miller
+        bowler: SA Engelbrecht
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 15.6:
+        non_striker: K Zondo
+        bowler: SA Engelbrecht
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 16.1:
+        non_striker: DA Miller
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Zondo
+    - 16.2:
+        non_striker: DA Miller
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 16.3:
+        non_striker: K Zondo
+        bowler: BE Hendricks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Miller
+    - 16.4:
+        non_striker: DA Miller
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 16.5:
+        non_striker: DA Miller
+        bowler: BE Hendricks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Zondo
+    - 16.6:
+        non_striker: DA Miller
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 16.7:
+        non_striker: K Zondo
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 17.1:
+        non_striker: DA Miller
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+        wicket:
+          player_out: K Zondo
+          fielders:
+          - JM Kemp
+          kind: caught
+    - 17.2:
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: VB van Jaarsveld
+        batsman: DA Miller
+    - 17.3:
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: VB van Jaarsveld
+        batsman: DA Miller
+    - 17.4:
+        non_striker: DA Miller
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB van Jaarsveld
+        wicket:
+          player_out: VB van Jaarsveld
+          fielders:
+          - JL Ontong
+          kind: caught
+    - 17.5:
+        non_striker: DA Miller
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 17.6:
+        non_striker: R Frylinck
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 18.1:
+        non_striker: DA Miller
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 18.2:
+        non_striker: DA Miller
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 18.3:
+        non_striker: R Frylinck
+        bowler: BE Hendricks
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Miller
+    - 18.4:
+        non_striker: DA Miller
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 18.5:
+        non_striker: DA Miller
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 18.6:
+        non_striker: DA Miller
+        bowler: BE Hendricks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 19.1:
+        non_striker: R Frylinck
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          fielders:
+          - JM Kemp
+          kind: caught
+    - 19.2:
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: KJ Abbott
+        batsman: R Frylinck
+    - 19.3:
+        non_striker: KJ Abbott
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+        wicket:
+          player_out: R Frylinck
+          fielders:
+          - A Mgijima
+          kind: caught
+    - 19.4:
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KA Maharaj
+        batsman: KJ Abbott
+    - 19.5:
+        non_striker: KJ Abbott
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Maharaj
+    - 19.6:
+        non_striker: KJ Abbott
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+- 2nd innings:
+    team: Cape Cobras
+    deliveries:
+    - 0.1:
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JH Kallis
+        batsman: RE Levi
+    - 0.2:
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JH Kallis
+        batsman: RE Levi
+    - 0.3:
+        non_striker: RE Levi
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 0.4:
+        non_striker: RE Levi
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 0.5:
+        non_striker: RE Levi
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JH Kallis
+    - 0.6:
+        non_striker: RE Levi
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 1.1:
+        non_striker: JH Kallis
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Levi
+    - 1.2:
+        non_striker: JH Kallis
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE Levi
+        wicket:
+          player_out: RE Levi
+          fielders:
+          - CS Delport
+          kind: caught
+    - 1.3:
+        non_striker: JH Kallis
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 1.4:
+        non_striker: S van Zyl
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 1.5:
+        non_striker: S van Zyl
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JH Kallis
+    - 1.6:
+        non_striker: JH Kallis
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 2.1:
+        non_striker: S van Zyl
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 2.2:
+        non_striker: S van Zyl
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+        wicket:
+          player_out: JH Kallis
+          kind: bowled
+    - 2.3:
+        non_striker: S van Zyl
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 2.4:
+        non_striker: DJ Vilas
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 2.5:
+        non_striker: DJ Vilas
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 2.6:
+        non_striker: DJ Vilas
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 3.1:
+        non_striker: DJ Vilas
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 3.2:
+        non_striker: S van Zyl
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 3.3:
+        non_striker: S van Zyl
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 3.4:
+        non_striker: S van Zyl
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 3.5:
+        non_striker: S van Zyl
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 3.6:
+        non_striker: S van Zyl
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 4.1:
+        non_striker: DJ Vilas
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 4.2:
+        non_striker: DJ Vilas
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 4.3:
+        non_striker: DJ Vilas
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 4.4:
+        non_striker: S van Zyl
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+        wicket:
+          player_out: DJ Vilas
+          kind: lbw
+    - 4.5:
+        non_striker: S van Zyl
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Ontong
+    - 4.6:
+        non_striker: S van Zyl
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Ontong
+    - 5.1:
+        non_striker: JL Ontong
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 5.2:
+        non_striker: JL Ontong
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 5.3:
+        non_striker: S van Zyl
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Ontong
+        wicket:
+          player_out: JL Ontong
+          fielders:
+          - D Smit
+          kind: caught
+    - 5.4:
+        non_striker: S van Zyl
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 5.5:
+        non_striker: S van Zyl
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 5.6:
+        non_striker: S van Zyl
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 6.1:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 6.2:
+        non_striker: SA Engelbrecht
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 6.3:
+        non_striker: SA Engelbrecht
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 6.4:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 6.5:
+        non_striker: SA Engelbrecht
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 6.6:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Engelbrecht
+    - 7.1:
+        non_striker: SA Engelbrecht
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 7.2:
+        non_striker: S van Zyl
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 7.3:
+        non_striker: SA Engelbrecht
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 7.4:
+        non_striker: S van Zyl
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 7.5:
+        non_striker: SA Engelbrecht
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 7.6:
+        non_striker: SA Engelbrecht
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 8.1:
+        non_striker: SA Engelbrecht
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 8.2:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 8.3:
+        non_striker: SA Engelbrecht
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 8.4:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 8.5:
+        non_striker: SA Engelbrecht
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 8.6:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Engelbrecht
+    - 9.1:
+        non_striker: S van Zyl
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 9.2:
+        non_striker: SA Engelbrecht
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 9.3:
+        non_striker: S van Zyl
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 9.4:
+        non_striker: S van Zyl
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 9.5:
+        non_striker: S van Zyl
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Engelbrecht
+    - 9.6:
+        non_striker: S van Zyl
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Engelbrecht
+    - 10.1:
+        non_striker: SA Engelbrecht
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 10.2:
+        non_striker: S van Zyl
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 10.3:
+        non_striker: SA Engelbrecht
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 10.4:
+        non_striker: S van Zyl
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Engelbrecht
+    - 10.5:
+        non_striker: S van Zyl
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 10.6:
+        non_striker: SA Engelbrecht
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 11.1:
+        non_striker: S van Zyl
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 11.2:
+        non_striker: SA Engelbrecht
+        bowler: K Zondo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S van Zyl
+    - 11.3:
+        non_striker: SA Engelbrecht
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 11.4:
+        non_striker: S van Zyl
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Engelbrecht
+    - 11.5:
+        non_striker: S van Zyl
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 11.6:
+        non_striker: SA Engelbrecht
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 11.7:
+        non_striker: SA Engelbrecht
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 12.1:
+        non_striker: SA Engelbrecht
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 12.2:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 12.3:
+        non_striker: SA Engelbrecht
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 12.4:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 12.5:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Engelbrecht
+    - 12.6:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 12.7:
+        non_striker: SA Engelbrecht
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 13.1:
+        non_striker: SA Engelbrecht
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 13.2:
+        non_striker: S van Zyl
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Engelbrecht
+    - 13.3:
+        non_striker: S van Zyl
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Engelbrecht
+    - 13.4:
+        non_striker: S van Zyl
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 13.5:
+        non_striker: SA Engelbrecht
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 13.6:
+        non_striker: S van Zyl
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Engelbrecht
+    - 14.1:
+        non_striker: SA Engelbrecht
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 14.2:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Engelbrecht
+    - 14.3:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 14.4:
+        non_striker: SA Engelbrecht
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 14.5:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Engelbrecht
+    - 14.6:
+        non_striker: S van Zyl
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 14.7:
+        non_striker: SA Engelbrecht
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 15.1:
+        non_striker: SA Engelbrecht
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 15.2:
+        non_striker: SA Engelbrecht
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 15.3:
+        non_striker: SA Engelbrecht
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 15.4:
+        non_striker: S van Zyl
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Engelbrecht
+    - 15.5:
+        non_striker: S van Zyl
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 15.6:
+        non_striker: SA Engelbrecht
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 16.1:
+        non_striker: SA Engelbrecht
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+        wicket:
+          player_out: S van Zyl
+          fielders:
+          - R Frylinck
+          kind: run out
+    - 16.2:
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JM Kemp
+        batsman: SA Engelbrecht
+    - 16.3:
+        non_striker: SA Engelbrecht
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kemp
+    - 16.4:
+        non_striker: SA Engelbrecht
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Kemp
+    - 16.5:
+        non_striker: SA Engelbrecht
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kemp
+    - 16.6:
+        non_striker: JM Kemp
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 17.1:
+        non_striker: SA Engelbrecht
+        bowler: R Frylinck
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JM Kemp
+    - 17.2:
+        non_striker: JM Kemp
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 17.3:
+        non_striker: SA Engelbrecht
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kemp
+    - 17.4:
+        non_striker: JM Kemp
+        bowler: R Frylinck
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Engelbrecht
+    - 17.5:
+        non_striker: SA Engelbrecht
+        bowler: R Frylinck
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Kemp
+    - 17.6:
+        non_striker: SA Engelbrecht
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JM Kemp
+    - 17.7:
+        non_striker: SA Engelbrecht
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kemp
+    - 18.1:
+        non_striker: JM Kemp
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+        wicket:
+          player_out: SA Engelbrecht
+          fielders:
+          - K Zondo
+          kind: caught
+    - 18.2:
+        non_striker: JM Kemp
+        bowler: KJ Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DL Piedt
+    - 18.3:
+        non_striker: JM Kemp
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Piedt
+    - 18.4:
+        non_striker: DL Piedt
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kemp
+    - 18.5:
+        non_striker: JM Kemp
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Piedt
+    - 18.6:
+        non_striker: JM Kemp
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Piedt
+    - 18.7:
+        non_striker: JM Kemp
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Piedt
+    - 19.1:
+        non_striker: DL Piedt
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kemp
+    - 19.2:
+        non_striker: DL Piedt
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kemp
+    - 19.3:
+        non_striker: JM Kemp
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Piedt
+        wicket:
+          player_out: DL Piedt
+          fielders:
+          - R Frylinck
+          kind: run out
+    - 19.4:
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Mgijima
+        batsman: JM Kemp
+    - 19.5:
+        non_striker: JM Kemp
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mgijima
+    - 19.6:
+        non_striker: A Mgijima
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kemp

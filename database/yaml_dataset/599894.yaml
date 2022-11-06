@@ -1,0 +1,2091 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dhaka
+  competition: Bangladesh Premier League
+  dates:
+  - '2013-02-07'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sylhet Royals
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - Shamsur Rahman
+  players:
+    Sylhet Royals:
+    - S Chanderpaul
+    - PR Stirling
+    - Mushfiqur Rahim
+    - Nazmul Hossain Milon
+    - Mominul Haque
+    - E Chigumbura
+    - Mohammad Nabi
+    - Sohag Gazi
+    - Suhrawadi Shuvo
+    - Nazmul Hossain
+    - DP Nannes
+    Rangpur Riders:
+    - Shamsur Rahman
+    - Junaid Siddique
+    - Imrul Kayes
+    - Nasir Hossain
+    - KJ O'Brien
+    - CJ Borgas
+    - Taposh Ghosh
+    - Dhiman Ghosh
+    - Mohammad Sharif
+    - Murad Khan
+    - Abdur Razzak
+  registry:
+    people:
+      Abdur Razzak: 888e32bf
+      Anisur Rahman: affbf093
+      CJ Borgas: d901964b
+      DP Nannes: c404f58a
+      Dhiman Ghosh: 1494a583
+      E Chigumbura: d2babdd5
+      Enamul Haque: 2ae9be7f
+      Imrul Kayes: 5fbe14fc
+      Junaid Siddique: 62e203d4
+      KJ O'Brien: 243431b5
+      MJ Procter: 32e65048
+      Mohammad Nabi: 62af8546
+      Mohammad Sharif: 1ec36a1e
+      Mominul Haque: de0a3209
+      Morshed Ali Khan: a7c3cf5f
+      Murad Khan: 5173fb9d
+      Mushfiqur Rahim: a94e08ea
+      Nasir Hossain: 6eea0b32
+      Nazmul Hossain: 5e5eab39
+      Nazmul Hossain Milon: 0637aa94
+      PR Stirling: cf494ffe
+      RK Illingworth: '20672246'
+      S Chanderpaul: 881a9bdd
+      Shamsur Rahman: '02789d88'
+      Sohag Gazi: 5a4c12ab
+      Suhrawadi Shuvo: 8fb49ef8
+      Taposh Ghosh: f211a4c1
+  teams:
+  - Rangpur Riders
+  - Sylhet Royals
+  toss:
+    winner: Sylhet Royals
+    decision: field
+  umpires:
+  - Enamul Haque
+  - RK Illingworth
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Rangpur Riders
+    deliveries:
+    - 0.1:
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Junaid Siddique
+        batsman: Shamsur Rahman
+    - 0.2:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Junaid Siddique
+    - 0.3:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Junaid Siddique
+    - 0.4:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Junaid Siddique
+    - 0.5:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+    - 0.6:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+        wicket:
+          player_out: Junaid Siddique
+          fielders:
+          - E Chigumbura
+          kind: caught
+    - 0.7:
+        non_striker: Imrul Kayes
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsur Rahman
+    - 1.1:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imrul Kayes
+    - 1.2:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imrul Kayes
+    - 1.3:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imrul Kayes
+    - 1.4:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 1.5:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 1.6:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 1.7:
+        non_striker: Imrul Kayes
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 1.8:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 2.1:
+        non_striker: Shamsur Rahman
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 2.2:
+        non_striker: Shamsur Rahman
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 2.3:
+        non_striker: Imrul Kayes
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsur Rahman
+    - 2.4:
+        non_striker: Imrul Kayes
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsur Rahman
+    - 2.5:
+        non_striker: Imrul Kayes
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamsur Rahman
+    - 2.6:
+        non_striker: Imrul Kayes
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsur Rahman
+    - 3.1:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 3.2:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 3.3:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imrul Kayes
+    - 3.4:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 3.5:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 3.6:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 4.1:
+        non_striker: Shamsur Rahman
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imrul Kayes
+    - 4.2:
+        non_striker: Shamsur Rahman
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 4.3:
+        non_striker: Shamsur Rahman
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imrul Kayes
+    - 4.4:
+        non_striker: Shamsur Rahman
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 4.5:
+        non_striker: Imrul Kayes
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamsur Rahman
+    - 4.6:
+        non_striker: Imrul Kayes
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shamsur Rahman
+    - 5.1:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 5.2:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imrul Kayes
+    - 5.3:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 5.4:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 5.5:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imrul Kayes
+    - 5.6:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 6.1:
+        non_striker: Imrul Kayes
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 6.2:
+        non_striker: Shamsur Rahman
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 6.3:
+        non_striker: Shamsur Rahman
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 6.4:
+        non_striker: Imrul Kayes
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamsur Rahman
+    - 6.5:
+        non_striker: Imrul Kayes
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shamsur Rahman
+    - 6.6:
+        non_striker: Imrul Kayes
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamsur Rahman
+    - 7.1:
+        non_striker: Shamsur Rahman
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 7.2:
+        non_striker: Imrul Kayes
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 7.3:
+        non_striker: Shamsur Rahman
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imrul Kayes
+    - 7.4:
+        non_striker: Shamsur Rahman
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 7.5:
+        non_striker: Imrul Kayes
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shamsur Rahman
+    - 7.6:
+        non_striker: Imrul Kayes
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 8.1:
+        non_striker: Imrul Kayes
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsur Rahman
+    - 8.2:
+        non_striker: Imrul Kayes
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamsur Rahman
+    - 8.3:
+        non_striker: Imrul Kayes
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 8.4:
+        non_striker: Shamsur Rahman
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Imrul Kayes
+    - 8.5:
+        non_striker: Imrul Kayes
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamsur Rahman
+    - 8.6:
+        non_striker: Imrul Kayes
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 9.1:
+        non_striker: Imrul Kayes
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 9.2:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 9.3:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 9.4:
+        non_striker: Imrul Kayes
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shamsur Rahman
+    - 9.5:
+        non_striker: Imrul Kayes
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsur Rahman
+    - 9.6:
+        non_striker: Imrul Kayes
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 10.1:
+        non_striker: Imrul Kayes
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsur Rahman
+    - 10.2:
+        non_striker: Imrul Kayes
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shamsur Rahman
+    - 10.3:
+        non_striker: Imrul Kayes
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 10.4:
+        non_striker: Shamsur Rahman
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 10.5:
+        non_striker: Shamsur Rahman
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 10.6:
+        non_striker: Imrul Kayes
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 11.1:
+        non_striker: Imrul Kayes
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 11.2:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imrul Kayes
+    - 11.3:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imrul Kayes
+    - 11.4:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 11.5:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 11.6:
+        non_striker: Imrul Kayes
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 12.1:
+        non_striker: Imrul Kayes
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamsur Rahman
+    - 12.2:
+        non_striker: Imrul Kayes
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamsur Rahman
+    - 12.3:
+        non_striker: Imrul Kayes
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsur Rahman
+    - 12.4:
+        non_striker: Imrul Kayes
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 12.5:
+        non_striker: Shamsur Rahman
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 12.6:
+        non_striker: Imrul Kayes
+        bowler: Sohag Gazi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shamsur Rahman
+    - 13.1:
+        non_striker: Shamsur Rahman
+        bowler: Mominul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 13.2:
+        non_striker: Imrul Kayes
+        bowler: Mominul Haque
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamsur Rahman
+    - 13.3:
+        non_striker: Imrul Kayes
+        bowler: Mominul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 13.4:
+        non_striker: Shamsur Rahman
+        bowler: Mominul Haque
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imrul Kayes
+    - 13.5:
+        non_striker: Shamsur Rahman
+        bowler: Mominul Haque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 13.6:
+        non_striker: Imrul Kayes
+        bowler: Mominul Haque
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shamsur Rahman
+    - 14.1:
+        non_striker: Shamsur Rahman
+        bowler: E Chigumbura
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imrul Kayes
+    - 14.2:
+        non_striker: Shamsur Rahman
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imrul Kayes
+    - 14.3:
+        non_striker: Shamsur Rahman
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 14.4:
+        non_striker: Imrul Kayes
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shamsur Rahman
+    - 14.5:
+        non_striker: Imrul Kayes
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 14.6:
+        non_striker: Shamsur Rahman
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imrul Kayes
+    - 14.7:
+        non_striker: Shamsur Rahman
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 15.1:
+        non_striker: Shamsur Rahman
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+        wicket:
+          player_out: Imrul Kayes
+          fielders:
+          - DP Nannes
+          kind: caught
+    - 15.2:
+        non_striker: Shamsur Rahman
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nasir Hossain
+    - 15.3:
+        non_striker: Shamsur Rahman
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 15.4:
+        non_striker: Nasir Hossain
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 15.5:
+        non_striker: Shamsur Rahman
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasir Hossain
+    - 15.6:
+        non_striker: Nasir Hossain
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamsur Rahman
+    - 16.1:
+        non_striker: Shamsur Rahman
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Hossain
+    - 16.2:
+        non_striker: Shamsur Rahman
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasir Hossain
+        wicket:
+          player_out: Nasir Hossain
+          fielders:
+          - Suhrawadi Shuvo
+          kind: caught
+    - 16.3:
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KJ O'Brien
+        batsman: Shamsur Rahman
+    - 16.4:
+        non_striker: Shamsur Rahman
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 16.5:
+        non_striker: Shamsur Rahman
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ O'Brien
+    - 16.6:
+        non_striker: Shamsur Rahman
+        bowler: E Chigumbura
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ O'Brien
+    - 17.1:
+        non_striker: KJ O'Brien
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 17.2:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ O'Brien
+    - 17.3:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 17.4:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 17.5:
+        non_striker: Shamsur Rahman
+        bowler: DP Nannes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KJ O'Brien
+    - 17.6:
+        non_striker: KJ O'Brien
+        bowler: DP Nannes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 18.1:
+        non_striker: KJ O'Brien
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 18.2:
+        non_striker: Shamsur Rahman
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+    - 18.3:
+        non_striker: Shamsur Rahman
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 18.4:
+        non_striker: KJ O'Brien
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 18.5:
+        non_striker: Shamsur Rahman
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ O'Brien
+    - 18.6:
+        non_striker: KJ O'Brien
+        bowler: Suhrawadi Shuvo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 19.1:
+        non_striker: KJ O'Brien
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamsur Rahman
+    - 19.2:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 19.3:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ O'Brien
+    - 19.4:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ O'Brien
+    - 19.5:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ O'Brien
+        wicket:
+          player_out: KJ O'Brien
+          kind: bowled
+    - 19.6:
+        non_striker: Shamsur Rahman
+        bowler: Nazmul Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Borgas
+- 2nd innings:
+    team: Sylhet Royals
+    deliveries:
+    - 0.1:
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PR Stirling
+        batsman: S Chanderpaul
+    - 0.2:
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PR Stirling
+        batsman: S Chanderpaul
+    - 0.3:
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: PR Stirling
+        batsman: S Chanderpaul
+    - 0.4:
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: PR Stirling
+        batsman: S Chanderpaul
+    - 0.5:
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: PR Stirling
+        batsman: S Chanderpaul
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 1.1:
+        non_striker: PR Stirling
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 1.2:
+        non_striker: PR Stirling
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chanderpaul
+    - 1.3:
+        non_striker: PR Stirling
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 1.4:
+        non_striker: S Chanderpaul
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 1.5:
+        non_striker: PR Stirling
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chanderpaul
+    - 1.6:
+        non_striker: PR Stirling
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 2.1:
+        non_striker: S Chanderpaul
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.2:
+        non_striker: S Chanderpaul
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.3:
+        non_striker: S Chanderpaul
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.4:
+        non_striker: S Chanderpaul
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PR Stirling
+    - 2.5:
+        non_striker: S Chanderpaul
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 2.6:
+        non_striker: S Chanderpaul
+        bowler: Abdur Razzak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 2.7:
+        non_striker: S Chanderpaul
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.1:
+        non_striker: PR Stirling
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chanderpaul
+    - 3.2:
+        non_striker: PR Stirling
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 3.3:
+        non_striker: S Chanderpaul
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 3.4:
+        non_striker: S Chanderpaul
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 3.5:
+        non_striker: S Chanderpaul
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 3.6:
+        non_striker: PR Stirling
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 4.1:
+        non_striker: S Chanderpaul
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 4.2:
+        non_striker: S Chanderpaul
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          kind: bowled
+    - 4.3:
+        non_striker: S Chanderpaul
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 4.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chanderpaul
+    - 4.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Abdur Razzak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Chanderpaul
+    - 4.6:
+        non_striker: S Chanderpaul
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 5.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Chanderpaul
+    - 5.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Chanderpaul
+    - 5.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 5.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 5.5:
+        non_striker: S Chanderpaul
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 5.6:
+        non_striker: S Chanderpaul
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mushfiqur Rahim
+    - 6.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 6.2:
+        non_striker: S Chanderpaul
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 6.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 6.4:
+        non_striker: S Chanderpaul
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mushfiqur Rahim
+    - 6.5:
+        non_striker: S Chanderpaul
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 6.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 7.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chanderpaul
+    - 7.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+    - 7.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Chanderpaul
+    - 7.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 7.5:
+        non_striker: S Chanderpaul
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 7.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Chanderpaul
+    - 8.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chanderpaul
+        wicket:
+          player_out: S Chanderpaul
+          kind: lbw
+    - 8.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Milon
+    - 8.3:
+        non_striker: Nazmul Hossain Milon
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 8.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Milon
+    - 8.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Milon
+    - 8.6:
+        non_striker: Nazmul Hossain Milon
+        bowler: Nasir Hossain
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mushfiqur Rahim
+    - 8.7:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Milon
+    - 9.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Milon
+    - 9.2:
+        non_striker: Nazmul Hossain Milon
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 9.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nazmul Hossain Milon
+    - 9.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Milon
+    - 9.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Milon
+    - 9.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Milon
+    - 9.7:
+        non_striker: Nazmul Hossain Milon
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 10.1:
+        non_striker: Nazmul Hossain Milon
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 10.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Milon
+    - 10.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Milon
+        wicket:
+          player_out: Nazmul Hossain Milon
+          fielders:
+          - CJ Borgas
+          kind: caught
+    - 10.4:
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Mominul Haque
+        batsman: Mushfiqur Rahim
+    - 10.5:
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mominul Haque
+        batsman: Mushfiqur Rahim
+    - 10.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 11.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 11.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 11.3:
+        non_striker: Mominul Haque
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.4:
+        non_striker: Mominul Haque
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 11.5:
+        non_striker: Mominul Haque
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 11.6:
+        non_striker: Mominul Haque
+        bowler: Nasir Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 12.1:
+        non_striker: Mushfiqur Rahim
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 12.2:
+        non_striker: Mominul Haque
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 12.3:
+        non_striker: Mushfiqur Rahim
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 12.4:
+        non_striker: Mominul Haque
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 12.5:
+        non_striker: Mushfiqur Rahim
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 12.6:
+        non_striker: Mominul Haque
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 13.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Taposh Ghosh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 13.2:
+        non_striker: Mominul Haque
+        bowler: Taposh Ghosh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 13.3:
+        non_striker: Mominul Haque
+        bowler: Taposh Ghosh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mushfiqur Rahim
+    - 13.4:
+        non_striker: Mominul Haque
+        bowler: Taposh Ghosh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 13.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Taposh Ghosh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mominul Haque
+    - 13.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Taposh Ghosh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 13.7:
+        non_striker: Mominul Haque
+        bowler: Taposh Ghosh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 14.1:
+        non_striker: Mominul Haque
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 14.2:
+        non_striker: Mushfiqur Rahim
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 14.3:
+        non_striker: Mominul Haque
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 14.4:
+        non_striker: Mominul Haque
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 14.5:
+        non_striker: Mushfiqur Rahim
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 14.6:
+        non_striker: Mominul Haque
+        bowler: KJ O'Brien
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 15.1:
+        non_striker: Mominul Haque
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 15.2:
+        non_striker: Mominul Haque
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 15.3:
+        non_striker: Mominul Haque
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+        wicket:
+          player_out: Mushfiqur Rahim
+          kind: lbw
+    - 15.4:
+        non_striker: Mominul Haque
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 15.5:
+        non_striker: Mominul Haque
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Chigumbura
+    - 15.6:
+        non_striker: Mominul Haque
+        bowler: Abdur Razzak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Chigumbura
+    - 16.1:
+        non_striker: Mominul Haque
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Chigumbura
+    - 16.2:
+        non_striker: E Chigumbura
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mominul Haque
+    - 16.3:
+        non_striker: E Chigumbura
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mominul Haque
+    - 16.4:
+        non_striker: E Chigumbura
+        bowler: Mohammad Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Mominul Haque
+    - 16.5:
+        non_striker: E Chigumbura
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 16.6:
+        non_striker: Mominul Haque
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Chigumbura
+    - 16.7:
+        non_striker: E Chigumbura
+        bowler: Mohammad Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 17.1:
+        non_striker: E Chigumbura
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 17.2:
+        non_striker: Mominul Haque
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Chigumbura
+    - 17.3:
+        non_striker: E Chigumbura
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 17.4:
+        non_striker: Mominul Haque
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Chigumbura
+    - 17.5:
+        non_striker: Mominul Haque
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Chigumbura
+    - 17.6:
+        non_striker: Mominul Haque
+        bowler: Murad Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Chigumbura
+    - 18.1:
+        non_striker: E Chigumbura
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 18.2:
+        non_striker: Mominul Haque
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Chigumbura
+    - 18.3:
+        non_striker: Mominul Haque
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Chigumbura
+    - 18.4:
+        non_striker: E Chigumbura
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mominul Haque
+    - 18.5:
+        non_striker: Mominul Haque
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: E Chigumbura
+    - 18.6:
+        non_striker: Mominul Haque
+        bowler: Abdur Razzak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Chigumbura

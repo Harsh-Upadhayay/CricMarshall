@@ -1,0 +1,5008 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-01-25'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Doha
+  dates:
+  - '2022-01-23'
+  gender: male
+  match_type: ODI
+  match_type_number: 4348
+  outcome:
+    winner: Afghanistan
+    by:
+      runs: 48
+  overs: 50
+  player_of_match:
+  - Rahmanullah Gurbaz
+  players:
+    Afghanistan:
+    - Rahmanullah Gurbaz
+    - Usman Ghani
+    - Rahmat Shah
+    - Hashmatullah Shahidi
+    - Najibullah Zadran
+    - Gulbadin Naib
+    - Rashid Khan
+    - Sharafuddin Ashraf
+    - Mujeeb Ur Rahman
+    - Fareed Ahmad
+    - Yamin Ahmadzai
+    Netherlands:
+    - SA Edwards
+    - Musa Ahmed
+    - CN Ackermann
+    - BFW de Leede
+    - PM Seelaar
+    - BHG Gorlee
+    - Saqib Zulfiqar
+    - R Klein
+    - PRP Boissevain
+    - FJ Klaassen
+    - VJ Kingma
+  registry:
+    people:
+      Ahmed Shah Durrani: af23265a
+      Ahmed Shah Pakteen: '43602937'
+      BFW de Leede: fc4375ef
+      BHG Gorlee: 9bce9dfe
+      Bismillah Shinwari: cae815a0
+      CN Ackermann: e734d090
+      FJ Klaassen: c042b412
+      Fareed Ahmad: 67b7bad4
+      Gulbadin Naib: 9f77963a
+      Hashmatullah Shahidi: c2a46cb4
+      Izatullah Safi: '0429e73e'
+      Mujeeb Ur Rahman: 7d92277a
+      Musa Ahmed: ec9db8a7
+      Najibullah Zadran: 1212cbec
+      PM Seelaar: abbdca1a
+      PRP Boissevain: a300e810
+      R Klein: ff1ec94d
+      Rahmanullah Gurbaz: 0bacade8
+      Rahmat Shah: f9c29fcd
+      Rashid Khan: 5f547c8b
+      SA Edwards: b59db04f
+      Saqib Zulfiqar: 5d38476c
+      Sharafuddin Ashraf: 7e678d00
+      Usman Ghani: e3829b2a
+      VJ Kingma: 3a7ea906
+      WC Labrooy: 29d4e29b
+      Yamin Ahmadzai: 6e4588bc
+  teams:
+  - Afghanistan
+  - Netherlands
+  toss:
+    winner: Afghanistan
+    decision: bat
+  umpires:
+  - Ahmed Shah Pakteen
+  - Bismillah Shinwari
+  venue: West End Park International Cricket Stadium, Doha
+innings:
+- 1st innings:
+    team: Afghanistan
+    deliveries:
+    - 0.1:
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Usman Ghani
+        batsman: Rahmanullah Gurbaz
+    - 0.2:
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Usman Ghani
+        batsman: Rahmanullah Gurbaz
+    - 0.3:
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Usman Ghani
+        batsman: Rahmanullah Gurbaz
+    - 0.4:
+        bowler: VJ Kingma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: Usman Ghani
+        batsman: Rahmanullah Gurbaz
+    - 0.5:
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Usman Ghani
+        batsman: Rahmanullah Gurbaz
+    - 0.6:
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Usman Ghani
+        batsman: Rahmanullah Gurbaz
+    - 0.7:
+        non_striker: Usman Ghani
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 1.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Usman Ghani
+        wicket:
+          player_out: Usman Ghani
+          kind: bowled
+    - 1.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmat Shah
+    - 1.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 1.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahmat Shah
+    - 1.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 1.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 1.7:
+        non_striker: Rahmat Shah
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 2.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmat Shah
+    - 2.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 2.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 2.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 2.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 2.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 3.1:
+        non_striker: Rahmat Shah
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 3.2:
+        non_striker: Rahmat Shah
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 3.3:
+        non_striker: Rahmat Shah
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 3.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 3.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 3.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmat Shah
+    - 4.1:
+        non_striker: Rahmat Shah
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 4.2:
+        non_striker: Rahmat Shah
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 4.3:
+        non_striker: Rahmat Shah
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 4.4:
+        non_striker: Rahmat Shah
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 4.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 4.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 5.1:
+        non_striker: Rahmat Shah
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 5.2:
+        non_striker: Rahmat Shah
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 5.3:
+        non_striker: Rahmat Shah
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 5.4:
+        non_striker: Rahmat Shah
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 5.5:
+        non_striker: Rahmat Shah
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 5.6:
+        non_striker: Rahmat Shah
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 6.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 6.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 6.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmat Shah
+    - 6.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 6.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 6.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 7.1:
+        non_striker: Rahmat Shah
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 7.2:
+        non_striker: Rahmat Shah
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 7.3:
+        non_striker: Rahmat Shah
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 7.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 7.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 7.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmat Shah
+    - 8.1:
+        non_striker: Rahmat Shah
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.2:
+        non_striker: Rahmat Shah
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 8.3:
+        non_striker: Rahmat Shah
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.4:
+        non_striker: Rahmat Shah
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 8.5:
+        non_striker: Rahmat Shah
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 8.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 9.1:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 9.2:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 9.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmat Shah
+    - 9.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 9.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 9.6:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 10.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 10.2:
+        non_striker: Rahmat Shah
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 10.3:
+        non_striker: Rahmat Shah
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 10.4:
+        non_striker: Rahmat Shah
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 10.5:
+        non_striker: Rahmat Shah
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 10.6:
+        non_striker: Rahmat Shah
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 11.1:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 11.2:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 11.3:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 11.4:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 11.5:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 11.6:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 12.1:
+        non_striker: Rahmat Shah
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 12.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 12.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 12.4:
+        non_striker: Rahmat Shah
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 12.5:
+        non_striker: Rahmat Shah
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 12.6:
+        non_striker: Rahmat Shah
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 13.1:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 13.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 13.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 13.4:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 13.5:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 13.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 14.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 14.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 14.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 14.4:
+        non_striker: Rahmat Shah
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 14.5:
+        non_striker: Rahmat Shah
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 14.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmat Shah
+    - 15.1:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 15.2:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 15.3:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 15.4:
+        non_striker: Rahmat Shah
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 15.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmat Shah
+    - 15.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 16.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 16.2:
+        non_striker: Rahmat Shah
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 16.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 16.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 16.5:
+        non_striker: Rahmat Shah
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 16.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 17.1:
+        non_striker: Rahmat Shah
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 17.2:
+        non_striker: Rahmat Shah
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 17.3:
+        non_striker: Rahmat Shah
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 17.4:
+        non_striker: Rahmat Shah
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 17.5:
+        non_striker: Rahmat Shah
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 17.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 18.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 18.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 18.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 18.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 18.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 18.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 19.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+    - 19.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmat Shah
+    - 19.3:
+        non_striker: Rahmat Shah
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 19.4:
+        non_striker: Rahmat Shah
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 19.5:
+        non_striker: Rahmat Shah
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 19.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmat Shah
+        wicket:
+          player_out: Rahmat Shah
+          fielders:
+          - SA Edwards
+          kind: stumped
+    - 20.1:
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Hashmatullah Shahidi
+        batsman: Rahmanullah Gurbaz
+    - 20.2:
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Hashmatullah Shahidi
+        batsman: Rahmanullah Gurbaz
+    - 20.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 20.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Hashmatullah Shahidi
+    - 20.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 20.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 21.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 21.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hashmatullah Shahidi
+    - 21.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hashmatullah Shahidi
+    - 21.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 21.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 21.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 22.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 22.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 22.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 22.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 22.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rahmanullah Gurbaz
+    - 22.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 23.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 23.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 23.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 23.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 23.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 23.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 24.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 24.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 24.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 24.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 24.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 24.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 25.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rahmanullah Gurbaz
+    - 25.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Rahmanullah Gurbaz
+    - 25.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 25.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 25.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 25.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 26.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 26.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 26.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 26.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 26.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hashmatullah Shahidi
+    - 26.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Hashmatullah Shahidi
+    - 26.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 27.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 27.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 27.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 27.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 27.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 27.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 28.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 28.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 28.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 28.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: VJ Kingma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Rahmanullah Gurbaz
+    - 28.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 28.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 28.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 29.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Hashmatullah Shahidi
+    - 29.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 29.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 29.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 29.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 29.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 30.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 30.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 30.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 30.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 30.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 30.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Hashmatullah Shahidi
+    - 31.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 31.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 31.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 31.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 31.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hashmatullah Shahidi
+    - 31.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 32.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 32.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 32.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 32.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 32.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 32.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 33.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 33.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 33.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 33.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 33.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 33.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 34.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 34.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 34.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 34.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 34.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 34.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 35.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 35.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 35.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 35.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 35.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 35.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PM Seelaar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 36.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 36.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 36.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 36.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 36.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 36.6:
+        non_striker: Rahmanullah Gurbaz
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 37.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 37.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 37.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 37.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 37.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 37.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 38.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 38.2:
+        non_striker: Rahmanullah Gurbaz
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 38.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: R Klein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahmanullah Gurbaz
+    - 38.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 38.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 38.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 38.7:
+        non_striker: Rahmanullah Gurbaz
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 39.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 39.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 39.3:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 39.4:
+        non_striker: Rahmanullah Gurbaz
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 39.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+    - 39.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahmanullah Gurbaz
+    - 40.1:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 40.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 40.3:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 40.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 40.5:
+        non_striker: Rahmanullah Gurbaz
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 40.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahmanullah Gurbaz
+    - 41.1:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahmanullah Gurbaz
+        wicket:
+          player_out: Rahmanullah Gurbaz
+          fielders:
+          - R Klein
+          kind: caught
+    - 41.2:
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Najibullah Zadran
+        batsman: Hashmatullah Shahidi
+    - 41.3:
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Najibullah Zadran
+        batsman: Hashmatullah Shahidi
+    - 41.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 41.5:
+        non_striker: Najibullah Zadran
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hashmatullah Shahidi
+    - 41.6:
+        non_striker: Najibullah Zadran
+        bowler: PRP Boissevain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 42.1:
+        non_striker: Najibullah Zadran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 42.2:
+        non_striker: Najibullah Zadran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 42.3:
+        non_striker: Najibullah Zadran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 42.4:
+        non_striker: Hashmatullah Shahidi
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Najibullah Zadran
+    - 42.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: FJ Klaassen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Najibullah Zadran
+    - 42.6:
+        non_striker: Najibullah Zadran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 43.1:
+        non_striker: Najibullah Zadran
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 43.2:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 43.3:
+        non_striker: Najibullah Zadran
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 43.4:
+        non_striker: Najibullah Zadran
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hashmatullah Shahidi
+    - 43.5:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 43.6:
+        non_striker: Hashmatullah Shahidi
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 44.1:
+        non_striker: Najibullah Zadran
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+    - 44.2:
+        non_striker: Najibullah Zadran
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hashmatullah Shahidi
+        wicket:
+          player_out: Hashmatullah Shahidi
+          kind: bowled
+    - 44.3:
+        non_striker: Najibullah Zadran
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 44.4:
+        non_striker: Gulbadin Naib
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 44.5:
+        non_striker: Gulbadin Naib
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 44.6:
+        non_striker: Najibullah Zadran
+        bowler: R Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gulbadin Naib
+    - 45.1:
+        non_striker: Najibullah Zadran
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+    - 45.2:
+        non_striker: Najibullah Zadran
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gulbadin Naib
+        wicket:
+          player_out: Gulbadin Naib
+          fielders:
+          - SA Edwards
+          kind: stumped
+    - 45.3:
+        non_striker: Najibullah Zadran
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 45.4:
+        non_striker: Rashid Khan
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 45.5:
+        non_striker: Rashid Khan
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 45.6:
+        non_striker: Najibullah Zadran
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 46.1:
+        non_striker: Rashid Khan
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 46.2:
+        non_striker: Najibullah Zadran
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 46.3:
+        non_striker: Rashid Khan
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 46.4:
+        non_striker: Najibullah Zadran
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Khan
+    - 46.5:
+        non_striker: Najibullah Zadran
+        bowler: VJ Kingma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rashid Khan
+    - 46.6:
+        non_striker: Najibullah Zadran
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 46.7:
+        non_striker: Najibullah Zadran
+        bowler: VJ Kingma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Rashid Khan
+    - 47.1:
+        non_striker: Najibullah Zadran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 47.2:
+        non_striker: Rashid Khan
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 47.3:
+        non_striker: Najibullah Zadran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 47.4:
+        non_striker: Najibullah Zadran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rashid Khan
+    - 47.5:
+        non_striker: Najibullah Zadran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Khan
+    - 47.6:
+        non_striker: Najibullah Zadran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 48.1:
+        non_striker: Rashid Khan
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 48.2:
+        non_striker: Najibullah Zadran
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 48.3:
+        non_striker: Rashid Khan
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 48.4:
+        non_striker: Najibullah Zadran
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 48.5:
+        non_striker: Rashid Khan
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 48.6:
+        non_striker: Najibullah Zadran
+        bowler: VJ Kingma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 49.1:
+        non_striker: Rashid Khan
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 49.2:
+        non_striker: Najibullah Zadran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+    - 49.3:
+        non_striker: Najibullah Zadran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Khan
+    - 49.4:
+        non_striker: Rashid Khan
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran
+    - 49.5:
+        non_striker: Rashid Khan
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 49.6:
+        non_striker: Najibullah Zadran
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Khan
+        wicket:
+          player_out: Rashid Khan
+          fielders:
+          - BFW de Leede
+          kind: caught
+- 2nd innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Musa Ahmed
+        batsman: SA Edwards
+    - 0.2:
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Musa Ahmed
+        batsman: SA Edwards
+    - 0.3:
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Musa Ahmed
+        batsman: SA Edwards
+    - 0.4:
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Musa Ahmed
+        batsman: SA Edwards
+    - 0.5:
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Musa Ahmed
+        batsman: SA Edwards
+    - 0.6:
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Musa Ahmed
+        batsman: SA Edwards
+    - 0.7:
+        non_striker: Musa Ahmed
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Edwards
+    - 1.1:
+        non_striker: Musa Ahmed
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 1.2:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Ahmed
+    - 1.3:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Ahmed
+    - 1.4:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Ahmed
+    - 1.5:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Ahmed
+    - 1.6:
+        non_striker: Musa Ahmed
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 2.1:
+        non_striker: Musa Ahmed
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 2.2:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Ahmed
+    - 2.3:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Ahmed
+    - 2.4:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Musa Ahmed
+    - 2.5:
+        non_striker: Musa Ahmed
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SA Edwards
+    - 2.6:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Musa Ahmed
+    - 2.7:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Ahmed
+    - 3.1:
+        non_striker: Musa Ahmed
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Edwards
+    - 3.2:
+        non_striker: Musa Ahmed
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 3.3:
+        non_striker: Musa Ahmed
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 3.4:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Ahmed
+    - 3.5:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Musa Ahmed
+        wicket:
+          player_out: Musa Ahmed
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: caught
+    - 3.6:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 3.7:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 4.1:
+        non_striker: CN Ackermann
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 4.2:
+        non_striker: CN Ackermann
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 4.3:
+        non_striker: CN Ackermann
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 4.4:
+        non_striker: CN Ackermann
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 4.5:
+        non_striker: CN Ackermann
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 4.6:
+        non_striker: CN Ackermann
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 5.1:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 5.2:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 5.3:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 5.4:
+        non_striker: CN Ackermann
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 5.5:
+        non_striker: CN Ackermann
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 5.6:
+        non_striker: CN Ackermann
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 6.1:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 6.2:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 6.3:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 6.4:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 6.5:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 6.6:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 7.1:
+        non_striker: CN Ackermann
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 7.2:
+        non_striker: CN Ackermann
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 7.3:
+        non_striker: CN Ackermann
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 7.4:
+        non_striker: CN Ackermann
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 7.5:
+        non_striker: CN Ackermann
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 7.6:
+        non_striker: CN Ackermann
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 8.1:
+        non_striker: CN Ackermann
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Edwards
+    - 8.2:
+        non_striker: CN Ackermann
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 8.3:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+        wicket:
+          player_out: CN Ackermann
+          fielders:
+          - Gulbadin Naib
+          kind: caught
+    - 8.4:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 8.5:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 8.6:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 8.7:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 9.1:
+        non_striker: BFW de Leede
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 9.2:
+        non_striker: BFW de Leede
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 9.3:
+        non_striker: BFW de Leede
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 9.4:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 9.5:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 9.6:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 10.1:
+        non_striker: BFW de Leede
+        bowler: Fareed Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Edwards
+    - 10.2:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 10.3:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 10.4:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 10.5:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 10.6:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 11.1:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 11.2:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 11.3:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 11.4:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 11.5:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 11.6:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 12.1:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 12.2:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 12.3:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 12.4:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 12.5:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 12.6:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 13.1:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 13.2:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 13.3:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 13.4:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 13.5:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 13.6:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 14.1:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 14.2:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 14.3:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 14.4:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 14.5:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 14.6:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 15.1:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 15.2:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 15.3:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 15.4:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 15.5:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 15.6:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 16.1:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 16.2:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 16.3:
+        non_striker: BFW de Leede
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 16.4:
+        non_striker: BFW de Leede
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 16.5:
+        non_striker: BFW de Leede
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 16.6:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 17.1:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 17.2:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 17.3:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 17.4:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 17.5:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 17.6:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 18.1:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 18.2:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 18.3:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 18.4:
+        non_striker: BFW de Leede
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 18.5:
+        non_striker: BFW de Leede
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 18.6:
+        non_striker: BFW de Leede
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 19.1:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 19.2:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 19.3:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 19.4:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 19.5:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 19.6:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 20.1:
+        non_striker: BFW de Leede
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 20.2:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 20.3:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 20.4:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 20.5:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 20.6:
+        non_striker: BFW de Leede
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 21.1:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 21.2:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 21.3:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 21.4:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 21.5:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 21.6:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 22.1:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 22.2:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 22.3:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 22.4:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 22.5:
+        non_striker: BFW de Leede
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 22.6:
+        non_striker: BFW de Leede
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 23.1:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 23.2:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 23.3:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 23.4:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 23.5:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 23.6:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 24.1:
+        non_striker: BFW de Leede
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 24.2:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 24.3:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 24.4:
+        non_striker: SA Edwards
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 24.5:
+        non_striker: BFW de Leede
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 24.6:
+        non_striker: BFW de Leede
+        bowler: Gulbadin Naib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 25.1:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 25.2:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 25.3:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 25.4:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 25.5:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 25.6:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 26.1:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BFW de Leede
+    - 26.2:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 26.3:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 26.4:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 26.5:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 26.6:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 27.1:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 27.2:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 27.3:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 27.4:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 27.5:
+        non_striker: BFW de Leede
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 27.6:
+        non_striker: SA Edwards
+        bowler: Sharafuddin Ashraf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 28.1:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 28.2:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 28.3:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 28.4:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 28.5:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 28.6:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 29.1:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 29.2:
+        non_striker: BFW de Leede
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 29.3:
+        non_striker: BFW de Leede
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 29.4:
+        non_striker: BFW de Leede
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 29.5:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 29.6:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 30.1:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 30.2:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 30.3:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 30.4:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 30.5:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 30.6:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Edwards
+    - 31.1:
+        non_striker: BFW de Leede
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 31.2:
+        non_striker: BFW de Leede
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 31.3:
+        non_striker: BFW de Leede
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 31.4:
+        non_striker: BFW de Leede
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 31.5:
+        non_striker: SA Edwards
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BFW de Leede
+    - 31.6:
+        non_striker: BFW de Leede
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Edwards
+    - 31.7:
+        non_striker: BFW de Leede
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 32.1:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 32.2:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 32.3:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 32.4:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 32.5:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 32.6:
+        non_striker: BFW de Leede
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 33.1:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 33.2:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 33.3:
+        non_striker: BFW de Leede
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 33.4:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BFW de Leede
+    - 33.5:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 33.6:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 33.7:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 34.1:
+        non_striker: BFW de Leede
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 34.2:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+        wicket:
+          player_out: BFW de Leede
+          kind: bowled
+    - 34.3:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Seelaar
+    - 34.4:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 34.5:
+        non_striker: PM Seelaar
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 34.6:
+        non_striker: PM Seelaar
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 35.1:
+        non_striker: PM Seelaar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 35.2:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 35.3:
+        non_striker: PM Seelaar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 35.4:
+        non_striker: PM Seelaar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 35.5:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 35.6:
+        non_striker: PM Seelaar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 36.1:
+        non_striker: PM Seelaar
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 36.2:
+        non_striker: PM Seelaar
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 36.3:
+        non_striker: SA Edwards
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 36.4:
+        non_striker: PM Seelaar
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 36.5:
+        non_striker: PM Seelaar
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 36.6:
+        non_striker: PM Seelaar
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 37.1:
+        non_striker: PM Seelaar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 37.2:
+        non_striker: PM Seelaar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 37.3:
+        non_striker: PM Seelaar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 37.4:
+        non_striker: PM Seelaar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 37.5:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Seelaar
+    - 37.6:
+        non_striker: SA Edwards
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Seelaar
+    - 38.1:
+        non_striker: PM Seelaar
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 38.2:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PM Seelaar
+    - 38.3:
+        non_striker: SA Edwards
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 38.4:
+        non_striker: PM Seelaar
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 38.5:
+        non_striker: PM Seelaar
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 38.6:
+        non_striker: PM Seelaar
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 38.7:
+        non_striker: PM Seelaar
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+        wicket:
+          player_out: SA Edwards
+          kind: lbw
+    - 39.1:
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BHG Gorlee
+        batsman: PM Seelaar
+    - 39.2:
+        non_striker: PM Seelaar
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BHG Gorlee
+    - 39.3:
+        non_striker: PM Seelaar
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BHG Gorlee
+    - 39.4:
+        non_striker: PM Seelaar
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BHG Gorlee
+    - 39.5:
+        non_striker: PM Seelaar
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BHG Gorlee
+    - 39.6:
+        non_striker: PM Seelaar
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BHG Gorlee
+    - 40.1:
+        non_striker: PM Seelaar
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BHG Gorlee
+    - 40.2:
+        non_striker: BHG Gorlee
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Seelaar
+    - 40.3:
+        non_striker: BHG Gorlee
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 40.4:
+        non_striker: PM Seelaar
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BHG Gorlee
+    - 40.5:
+        non_striker: BHG Gorlee
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Seelaar
+    - 40.6:
+        non_striker: PM Seelaar
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BHG Gorlee
+        wicket:
+          player_out: PM Seelaar
+          fielders:
+          - Sharafuddin Ashraf
+          kind: run out
+    - 41.1:
+        non_striker: BHG Gorlee
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Zulfiqar
+    - 41.2:
+        non_striker: BHG Gorlee
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Zulfiqar
+    - 41.3:
+        non_striker: BHG Gorlee
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Saqib Zulfiqar
+    - 41.4:
+        non_striker: Saqib Zulfiqar
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BHG Gorlee
+    - 41.5:
+        non_striker: BHG Gorlee
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Zulfiqar
+    - 41.6:
+        non_striker: BHG Gorlee
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Zulfiqar
+    - 42.1:
+        non_striker: Saqib Zulfiqar
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BHG Gorlee
+    - 42.2:
+        non_striker: BHG Gorlee
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Zulfiqar
+    - 42.3:
+        non_striker: BHG Gorlee
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saqib Zulfiqar
+    - 42.4:
+        non_striker: BHG Gorlee
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Zulfiqar
+    - 42.5:
+        non_striker: BHG Gorlee
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Saqib Zulfiqar
+    - 42.6:
+        non_striker: Saqib Zulfiqar
+        bowler: Yamin Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BHG Gorlee
+    - 43.1:
+        non_striker: Saqib Zulfiqar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BHG Gorlee
+    - 43.2:
+        non_striker: Saqib Zulfiqar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BHG Gorlee
+    - 43.3:
+        non_striker: BHG Gorlee
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Zulfiqar
+    - 43.4:
+        non_striker: BHG Gorlee
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqib Zulfiqar
+    - 43.5:
+        non_striker: Saqib Zulfiqar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BHG Gorlee
+        wicket:
+          player_out: BHG Gorlee
+          fielders:
+          - Yamin Ahmadzai
+          kind: caught
+    - 43.6:
+        non_striker: R Klein
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqib Zulfiqar
+    - 44.1:
+        non_striker: R Klein
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqib Zulfiqar
+    - 44.2:
+        non_striker: Saqib Zulfiqar
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Klein
+    - 44.3:
+        non_striker: Saqib Zulfiqar
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Klein
+    - 44.4:
+        non_striker: Saqib Zulfiqar
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Klein
+    - 44.5:
+        non_striker: R Klein
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Zulfiqar
+    - 44.6:
+        non_striker: R Klein
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Zulfiqar
+    - 45.1:
+        non_striker: Saqib Zulfiqar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Klein
+    - 45.2:
+        non_striker: R Klein
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saqib Zulfiqar
+    - 45.3:
+        non_striker: R Klein
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqib Zulfiqar
+    - 45.4:
+        non_striker: Saqib Zulfiqar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Klein
+    - 45.5:
+        non_striker: Saqib Zulfiqar
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Klein
+    - 45.6:
+        non_striker: R Klein
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqib Zulfiqar
+    - 46.1:
+        non_striker: R Klein
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saqib Zulfiqar
+    - 46.2:
+        non_striker: R Klein
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqib Zulfiqar
+    - 46.3:
+        non_striker: Saqib Zulfiqar
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Klein
+    - 46.4:
+        non_striker: Saqib Zulfiqar
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Klein
+    - 46.5:
+        non_striker: Saqib Zulfiqar
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Klein
+        wicket:
+          player_out: Saqib Zulfiqar
+          fielders:
+          - Rahmanullah Gurbaz
+          - Rahmat Shah
+          kind: run out
+    - 46.6:
+        non_striker: R Klein
+        bowler: Fareed Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PRP Boissevain
+    - 47.1:
+        non_striker: R Klein
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PRP Boissevain
+        wicket:
+          player_out: PRP Boissevain
+          fielders:
+          - Rahmanullah Gurbaz
+          kind: caught
+    - 47.2:
+        non_striker: R Klein
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FJ Klaassen
+    - 47.3:
+        non_striker: R Klein
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FJ Klaassen
+        wicket:
+          player_out: FJ Klaassen
+          fielders:
+          - Gulbadin Naib
+          kind: caught
+    - 47.4:
+        non_striker: R Klein
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VJ Kingma
+    - 47.5:
+        non_striker: R Klein
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VJ Kingma
+        wicket:
+          player_out: VJ Kingma
+          kind: bowled

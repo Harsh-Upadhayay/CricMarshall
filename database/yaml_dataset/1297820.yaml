@@ -1,0 +1,1955 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-05-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nottingham
+  competition: Vitality Blast
+  dates:
+  - '2022-05-31'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Lancashire
+    by:
+      runs: 87
+  overs: 20
+  players:
+    Lancashire:
+    - PD Salt
+    - KK Jennings
+    - LS Livingstone
+    - TH David
+    - DJ Vilas
+    - SJ Croft
+    - DJ Lamb
+    - L Wood
+    - TW Hartley
+    - RJ Gleeson
+    - MW Parkinson
+    Nottinghamshire:
+    - JM Clarke
+    - AD Hales
+    - BM Duckett
+    - SR Patel
+    - SJ Mullaney
+    - TJ Moores
+    - DT Christian
+    - M Carter
+    - LJ Fletcher
+    - JT Ball
+    - D Paterson
+  registry:
+    people:
+      AD Hales: 92aeac25
+      BM Duckett: 5f26f677
+      D Paterson: 462d7c62
+      DJ Lamb: 27c5a793
+      DJ Millns: 46ecfe40
+      DJ Vilas: '087210b1'
+      DT Christian: 2a2e6343
+      ID Blackwell: 818e8bf2
+      JM Clarke: 2eca67f5
+      JT Ball: 3d0ed2f9
+      KK Jennings: 8479a24a
+      L Wood: 65b6943c
+      LJ Fletcher: e423d162
+      LS Livingstone: 50c6bc2b
+      M Carter: 1ca7c00f
+      MW Parkinson: '19708692'
+      PD Salt: 3d284ca3
+      RJ Gleeson: 402f8494
+      SJ Croft: ab474682
+      SJ Mullaney: 0e0d43b4
+      SR Patel: 18fac429
+      TH David: f1f99156
+      TJ Moores: 85dcb721
+      TW Hartley: 22b98d7c
+      Wayne Noon: 736e1761
+  teams:
+  - Lancashire
+  - Nottinghamshire
+  toss:
+    winner: Nottinghamshire
+    decision: field
+  umpires:
+  - DJ Millns
+  - ID Blackwell
+  venue: Trent Bridge, Nottingham
+innings:
+- 1st innings:
+    team: Lancashire
+    deliveries:
+    - 0.1:
+        non_striker: KK Jennings
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 0.2:
+        non_striker: KK Jennings
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Salt
+    - 0.3:
+        non_striker: KK Jennings
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 0.4:
+        non_striker: KK Jennings
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.5:
+        non_striker: PD Salt
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 0.6:
+        non_striker: PD Salt
+        bowler: M Carter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KK Jennings
+    - 1.1:
+        non_striker: PD Salt
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 1.2:
+        non_striker: PD Salt
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Jennings
+    - 1.3:
+        non_striker: PD Salt
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 1.4:
+        non_striker: KK Jennings
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 1.5:
+        non_striker: PD Salt
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Jennings
+    - 1.6:
+        non_striker: PD Salt
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Jennings
+    - 2.1:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 2.2:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 2.3:
+        non_striker: PD Salt
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 2.4:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 2.5:
+        non_striker: PD Salt
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 2.6:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 3.1:
+        non_striker: KK Jennings
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          fielders:
+          - TJ Moores
+          kind: caught
+    - 3.2:
+        non_striker: KK Jennings
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LS Livingstone
+    - 3.3:
+        non_striker: KK Jennings
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 3.4:
+        non_striker: LS Livingstone
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 3.5:
+        non_striker: KK Jennings
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 3.6:
+        non_striker: KK Jennings
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 4.1:
+        non_striker: KK Jennings
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LS Livingstone
+    - 4.2:
+        non_striker: KK Jennings
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 4.3:
+        non_striker: KK Jennings
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 4.4:
+        non_striker: KK Jennings
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 4.5:
+        non_striker: KK Jennings
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 4.6:
+        non_striker: KK Jennings
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 5.1:
+        non_striker: LS Livingstone
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 5.2:
+        non_striker: KK Jennings
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 5.3:
+        non_striker: LS Livingstone
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KK Jennings
+    - 5.4:
+        non_striker: LS Livingstone
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Jennings
+    - 5.5:
+        non_striker: LS Livingstone
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 5.6:
+        non_striker: LS Livingstone
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 6.1:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 6.2:
+        non_striker: LS Livingstone
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 6.3:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: LS Livingstone
+    - 6.4:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 6.5:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 6.6:
+        non_striker: LS Livingstone
+        bowler: SR Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KK Jennings
+    - 7.1:
+        non_striker: LS Livingstone
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 7.2:
+        non_striker: KK Jennings
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 7.3:
+        non_striker: LS Livingstone
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 7.4:
+        non_striker: KK Jennings
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 7.5:
+        non_striker: KK Jennings
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 7.6:
+        non_striker: LS Livingstone
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 8.1:
+        non_striker: LS Livingstone
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 8.2:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 8.3:
+        non_striker: LS Livingstone
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Jennings
+    - 8.4:
+        non_striker: LS Livingstone
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 8.5:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+    - 8.6:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 9.1:
+        non_striker: KK Jennings
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Livingstone
+    - 9.2:
+        non_striker: LS Livingstone
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 9.3:
+        non_striker: KK Jennings
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LS Livingstone
+    - 9.4:
+        non_striker: KK Jennings
+        bowler: LJ Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LS Livingstone
+    - 9.5:
+        non_striker: KK Jennings
+        bowler: LJ Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LS Livingstone
+    - 9.6:
+        non_striker: LS Livingstone
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KK Jennings
+    - 9.7:
+        non_striker: LS Livingstone
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 10.1:
+        non_striker: LS Livingstone
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 10.2:
+        non_striker: KK Jennings
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Livingstone
+        wicket:
+          player_out: LS Livingstone
+          fielders:
+          - DT Christian
+          kind: caught
+    - 10.3:
+        non_striker: KK Jennings
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 10.4:
+        non_striker: KK Jennings
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 10.5:
+        non_striker: TH David
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 10.6:
+        non_striker: KK Jennings
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TH David
+    - 11.1:
+        non_striker: TH David
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 11.2:
+        non_striker: KK Jennings
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 11.3:
+        non_striker: TH David
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 11.4:
+        non_striker: KK Jennings
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 11.5:
+        non_striker: KK Jennings
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 11.6:
+        non_striker: KK Jennings
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 12.1:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 12.2:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+        wicket:
+          player_out: TH David
+          fielders:
+          - JM Clarke
+          kind: caught
+    - 12.3:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 12.4:
+        non_striker: DJ Vilas
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Jennings
+    - 12.5:
+        non_striker: DJ Vilas
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 12.6:
+        non_striker: KK Jennings
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 13.1:
+        non_striker: KK Jennings
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 13.2:
+        non_striker: DJ Vilas
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 13.3:
+        non_striker: DJ Vilas
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Jennings
+    - 13.4:
+        non_striker: KK Jennings
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Vilas
+    - 13.5:
+        non_striker: KK Jennings
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 13.6:
+        non_striker: DJ Vilas
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+    - 14.1:
+        non_striker: KK Jennings
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 14.2:
+        non_striker: DJ Vilas
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Jennings
+    - 14.3:
+        non_striker: DJ Vilas
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Jennings
+        wicket:
+          player_out: KK Jennings
+          fielders:
+          - LJ Fletcher
+          kind: caught
+    - 14.4:
+        non_striker: DJ Vilas
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Croft
+    - 14.5:
+        non_striker: SJ Croft
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 14.6:
+        non_striker: DJ Vilas
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Croft
+    - 15.1:
+        non_striker: SJ Croft
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 15.2:
+        non_striker: DJ Vilas
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Croft
+    - 15.3:
+        non_striker: SJ Croft
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Vilas
+    - 15.4:
+        non_striker: SJ Croft
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 15.5:
+        non_striker: DJ Vilas
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Croft
+    - 15.6:
+        non_striker: SJ Croft
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 16.1:
+        non_striker: SJ Croft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Vilas
+    - 16.2:
+        non_striker: SJ Croft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 16.3:
+        non_striker: DJ Vilas
+        bowler: JT Ball
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Croft
+    - 16.4:
+        non_striker: DJ Vilas
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Croft
+    - 16.5:
+        non_striker: SJ Croft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 16.6:
+        non_striker: DJ Vilas
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SJ Croft
+    - 16.7:
+        non_striker: DJ Vilas
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Croft
+    - 17.1:
+        non_striker: DJ Vilas
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Croft
+    - 17.2:
+        non_striker: DJ Vilas
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Croft
+    - 17.3:
+        non_striker: SJ Croft
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 17.4:
+        non_striker: DJ Vilas
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Croft
+    - 17.5:
+        non_striker: SJ Croft
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+        wicket:
+          player_out: DJ Vilas
+          fielders:
+          - JM Clarke
+          kind: caught
+    - 17.6:
+        non_striker: SJ Croft
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Lamb
+    - 18.1:
+        non_striker: SJ Croft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Lamb
+    - 18.2:
+        non_striker: SJ Croft
+        bowler: JT Ball
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Lamb
+    - 18.3:
+        non_striker: SJ Croft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Lamb
+        wicket:
+          player_out: DJ Lamb
+          fielders:
+          - AD Hales
+          kind: caught
+    - 18.4:
+        non_striker: SJ Croft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wood
+    - 18.5:
+        non_striker: L Wood
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Croft
+    - 18.6:
+        non_striker: SJ Croft
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wood
+    - 18.7:
+        non_striker: L Wood
+        bowler: JT Ball
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Croft
+    - 18.8:
+        non_striker: L Wood
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Croft
+    - 19.1:
+        non_striker: L Wood
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Croft
+    - 19.2:
+        non_striker: SJ Croft
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wood
+    - 19.3:
+        non_striker: SJ Croft
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wood
+    - 19.4:
+        non_striker: L Wood
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Croft
+        wicket:
+          player_out: SJ Croft
+          fielders:
+          - DT Christian
+          kind: caught
+    - 19.5:
+        non_striker: L Wood
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TW Hartley
+    - 19.6:
+        non_striker: L Wood
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TW Hartley
+- 2nd innings:
+    team: Nottinghamshire
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: TW Hartley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Clarke
+    - 0.2:
+        non_striker: AD Hales
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 0.3:
+        non_striker: AD Hales
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 0.4:
+        non_striker: AD Hales
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 0.5:
+        non_striker: AD Hales
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 0.6:
+        non_striker: AD Hales
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+        wicket:
+          player_out: JM Clarke
+          fielders:
+          - SJ Croft
+          kind: caught
+    - 0.7:
+        non_striker: AD Hales
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 1.1:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 1.2:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 1.3:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+        wicket:
+          player_out: BM Duckett
+          fielders:
+          - PD Salt
+          kind: caught
+    - 1.4:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Patel
+    - 1.5:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+        wicket:
+          player_out: SR Patel
+          fielders:
+          - MW Parkinson
+          kind: caught
+    - 1.6:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Mullaney
+        wicket:
+          player_out: SJ Mullaney
+          fielders:
+          - TH David
+          kind: run out
+    - 1.7:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 2.1:
+        non_striker: TJ Moores
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 2.2:
+        non_striker: AD Hales
+        bowler: TW Hartley
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: TJ Moores
+    - 2.3:
+        non_striker: TJ Moores
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.4:
+        non_striker: TJ Moores
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 2.5:
+        non_striker: TJ Moores
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.6:
+        non_striker: TJ Moores
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 2.7:
+        non_striker: TJ Moores
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 3.1:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 3.2:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 3.3:
+        non_striker: TJ Moores
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 3.4:
+        non_striker: TJ Moores
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 3.5:
+        non_striker: TJ Moores
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 3.6:
+        non_striker: TJ Moores
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 4.1:
+        non_striker: AD Hales
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 4.2:
+        non_striker: TJ Moores
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 4.3:
+        non_striker: TJ Moores
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 4.4:
+        non_striker: AD Hales
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 4.5:
+        non_striker: AD Hales
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+        wicket:
+          player_out: TJ Moores
+          fielders:
+          - PD Salt
+          kind: caught
+    - 4.6:
+        non_striker: AD Hales
+        bowler: L Wood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 5.1:
+        non_striker: DT Christian
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 5.2:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 5.3:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 5.4:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 5.5:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: DT Christian
+    - 5.6:
+        non_striker: AD Hales
+        bowler: RJ Gleeson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 6.1:
+        non_striker: DT Christian
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 6.2:
+        non_striker: DT Christian
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          fielders:
+          - SJ Croft
+          kind: caught
+    - 6.3:
+        non_striker: DT Christian
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carter
+    - 6.4:
+        non_striker: M Carter
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DT Christian
+    - 6.5:
+        non_striker: M Carter
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 6.6:
+        non_striker: M Carter
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 7.1:
+        non_striker: DT Christian
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carter
+    - 7.2:
+        non_striker: DT Christian
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carter
+    - 7.3:
+        non_striker: DT Christian
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carter
+    - 7.4:
+        non_striker: M Carter
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 7.5:
+        non_striker: DT Christian
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carter
+    - 7.6:
+        non_striker: DT Christian
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carter
+    - 8.1:
+        non_striker: M Carter
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 8.2:
+        non_striker: M Carter
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 8.3:
+        non_striker: DT Christian
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carter
+    - 8.4:
+        non_striker: M Carter
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 8.5:
+        non_striker: DT Christian
+        bowler: LS Livingstone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Carter
+    - 8.6:
+        non_striker: DT Christian
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Carter
+    - 8.7:
+        non_striker: DT Christian
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Carter
+    - 9.1:
+        non_striker: M Carter
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 9.2:
+        non_striker: DT Christian
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carter
+    - 9.3:
+        non_striker: DT Christian
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carter
+    - 9.4:
+        non_striker: DT Christian
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carter
+    - 9.5:
+        non_striker: M Carter
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 9.6:
+        non_striker: M Carter
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 10.1:
+        non_striker: DT Christian
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Carter
+    - 10.2:
+        non_striker: DT Christian
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Carter
+        wicket:
+          player_out: M Carter
+          kind: lbw
+    - 10.3:
+        non_striker: DT Christian
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Fletcher
+    - 10.4:
+        non_striker: LJ Fletcher
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 10.5:
+        non_striker: DT Christian
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Fletcher
+    - 10.6:
+        non_striker: DT Christian
+        bowler: TW Hartley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Fletcher
+    - 11.1:
+        non_striker: LJ Fletcher
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 11.2:
+        non_striker: LJ Fletcher
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 11.3:
+        non_striker: DT Christian
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Fletcher
+    - 11.4:
+        non_striker: LJ Fletcher
+        bowler: MW Parkinson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DT Christian
+    - 11.5:
+        non_striker: LJ Fletcher
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 11.6:
+        non_striker: DT Christian
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LJ Fletcher
+    - 11.7:
+        non_striker: DT Christian
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Fletcher
+    - 12.1:
+        non_striker: LJ Fletcher
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 12.2:
+        non_striker: DT Christian
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Fletcher
+    - 12.3:
+        non_striker: DT Christian
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LJ Fletcher
+    - 12.4:
+        non_striker: DT Christian
+        bowler: LS Livingstone
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 2
+        batsman: LJ Fletcher
+    - 12.5:
+        non_striker: LJ Fletcher
+        bowler: LS Livingstone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DT Christian
+    - 12.6:
+        non_striker: LJ Fletcher
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+        wicket:
+          player_out: DT Christian
+          fielders:
+          - TW Hartley
+          kind: caught
+    - 12.7:
+        non_striker: LJ Fletcher
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Ball
+    - 12.8:
+        non_striker: LJ Fletcher
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Ball
+    - 13.1:
+        non_striker: LJ Fletcher
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Ball
+    - 13.2:
+        non_striker: LJ Fletcher
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Ball
+        wicket:
+          player_out: JT Ball
+          fielders:
+          - TH David
+          kind: caught
+    - 13.3:
+        non_striker: LJ Fletcher
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Paterson
+    - 13.4:
+        non_striker: LJ Fletcher
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Paterson
+    - 13.5:
+        non_striker: D Paterson
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Fletcher
+    - 13.6:
+        non_striker: LJ Fletcher
+        bowler: MW Parkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Paterson
+    - 14.1:
+        non_striker: LJ Fletcher
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Paterson
+    - 14.2:
+        non_striker: LJ Fletcher
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Paterson
+    - 14.3:
+        non_striker: D Paterson
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LJ Fletcher
+    - 14.4:
+        non_striker: D Paterson
+        bowler: LS Livingstone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Fletcher
+        wicket:
+          player_out: LJ Fletcher
+          fielders:
+          - SJ Croft
+          kind: caught

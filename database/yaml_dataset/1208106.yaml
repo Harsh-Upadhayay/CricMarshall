@@ -1,0 +1,2230 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dhaka
+  competition: Bangladesh Premier League
+  dates:
+  - '2020-01-10'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Khulna Tigers
+    by:
+      runs: 92
+  overs: 20
+  player_of_match:
+  - Mushfiqur Rahim
+  players:
+    Khulna Tigers:
+    - Nazmul Hossain Shanto
+    - Mehedi Hasan Miraz
+    - RR Rossouw
+    - Mushfiqur Rahim
+    - Najibullah Zadran
+    - Shamsur Rahman
+    - R Frylinck
+    - Mohammad Amir
+    - Shafiul Islam
+    - Shohidul Islam
+    - Aminul Islam Biplob
+    Cumilla Warriors:
+    - S van Zyl
+    - Sabbir Rahman
+    - WU Tharanga
+    - DJ Malan
+    - Soumya Sarkar
+    - Yasir Ali Chowdhury
+    - Fardeen Hasan
+    - Abu Hider
+    - Mujeeb Ur Rahman
+    - Sumon Khan
+    - Ifran Hossain
+  registry:
+    people:
+      Abu Hider: 31803fac
+      Aminul Islam: f8ce577b
+      DJ Malan: ad9c32a2
+      Fardeen Hasan: 23667d99
+      Gazi Sohel: f0df3ed7
+      Ifran Hossain: 9ff33bef
+      Mahfuzur Rahman: 3275b68b
+      Mehedi Hasan Miraz: c58b0108
+      Mohammad Amir: e174dadd
+      Mujeeb Ur Rahman: 7d92277a
+      Mujibul Haque: e6c09bda
+      Mushfiqur Rahim: a94e08ea
+      Najibullah Zadran: 1212cbec
+      Nazmul Hossain Shanto: 1274d7ab
+      R Frylinck: 8b248d88
+      RMPJ Rambukwella: 13fa6ffc
+      RR Rossouw: cad00a4d
+      S van Zyl: f4dfcbb4
+      Sabbir Rahman: 7147f314
+      Saif Hassan: bb95564b
+      Shafiul Islam: 1a8eebbe
+      Shamsur Rahman: '02789d88'
+      Shohidul Islam: 607ed7c2
+      Soumya Sarkar: 4d9f9686
+      Sumon Khan: a84ccd7d
+      Tanvir Ahmed: ea2df1f1
+      WU Tharanga: 7ed9fd56
+      Yasir Ali Chowdhury: 5791b840
+  teams:
+  - Khulna Tigers
+  - Cumilla Warriors
+  toss:
+    winner: Cumilla Warriors
+    decision: field
+  umpires:
+  - Gazi Sohel
+  - RMPJ Rambukwella
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Khulna Tigers
+    deliveries:
+    - 0.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 0.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 0.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 0.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+        wicket:
+          player_out: Nazmul Hossain Shanto
+          kind: lbw
+    - 0.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 0.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 1.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 1.2:
+        non_striker: RR Rossouw
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 1.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Rossouw
+    - 1.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 1.5:
+        non_striker: RR Rossouw
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 1.6:
+        non_striker: RR Rossouw
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 2.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 2.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 2.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 2.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 2.5:
+        non_striker: RR Rossouw
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 2.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 3.1:
+        non_striker: RR Rossouw
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 3.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+        wicket:
+          player_out: RR Rossouw
+          fielders:
+          - Sabbir Rahman
+          kind: caught
+    - 3.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 3.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 3.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 3.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 4.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 4.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 4.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 4.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 4.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mehedi Hasan Miraz
+    - 4.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 5.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 5.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 5.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 5.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 5.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 5.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 6.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Soumya Sarkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mushfiqur Rahim
+    - 6.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 6.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 6.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 6.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 6.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 6.7:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Soumya Sarkar
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Mushfiqur Rahim
+    - 7.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 7.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 7.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 7.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 7.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 7.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 8.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 8.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 8.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 8.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 8.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 8.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 9.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 9.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 9.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 9.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mushfiqur Rahim
+    - 9.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 9.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 9.7:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 10.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 10.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 10.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 10.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 10.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 10.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Sumon Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mushfiqur Rahim
+    - 10.7:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 11.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mehedi Hasan Miraz
+    - 11.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 11.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 11.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 12.1:
+        non_striker: Mushfiqur Rahim
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 12.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 12.3:
+        non_striker: Mushfiqur Rahim
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mehedi Hasan Miraz
+    - 12.4:
+        non_striker: Mushfiqur Rahim
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 12.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 12.6:
+        non_striker: Mushfiqur Rahim
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 13.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 13.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 13.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mehedi Hasan Miraz
+    - 13.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mehedi Hasan Miraz
+    - 13.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 13.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mushfiqur Rahim
+    - 13.7:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 13.8:
+        non_striker: Mushfiqur Rahim
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 13.9:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 14.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 14.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 14.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 14.4:
+        non_striker: Mushfiqur Rahim
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mehedi Hasan Miraz
+    - 14.5:
+        non_striker: Mushfiqur Rahim
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 14.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: S van Zyl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 15.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mehedi Hasan Miraz
+    - 15.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 15.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 15.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 15.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 15.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ifran Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 16.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 16.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 16.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 16.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 16.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 16.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mujeeb Ur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 17.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mushfiqur Rahim
+    - 17.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 17.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 17.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mushfiqur Rahim
+    - 17.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mushfiqur Rahim
+    - 17.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 18.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Sumon Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mehedi Hasan Miraz
+    - 18.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 18.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 18.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+        wicket:
+          player_out: Mehedi Hasan Miraz
+          kind: retired hurt
+    - 18.5:
+        non_striker: Najibullah Zadran
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 18.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Sumon Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najibullah Zadran
+    - 18.7:
+        non_striker: Mushfiqur Rahim
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran
+    - 18.8:
+        non_striker: Mushfiqur Rahim
+        bowler: Sumon Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 19.1:
+        non_striker: Najibullah Zadran
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 19.2:
+        non_striker: Najibullah Zadran
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 19.3:
+        non_striker: Najibullah Zadran
+        bowler: Soumya Sarkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mushfiqur Rahim
+    - 19.4:
+        non_striker: Najibullah Zadran
+        bowler: Soumya Sarkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mushfiqur Rahim
+    - 19.5:
+        non_striker: Najibullah Zadran
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 19.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 19.7:
+        non_striker: Mushfiqur Rahim
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 19.8:
+        non_striker: Najibullah Zadran
+        bowler: Soumya Sarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+- 2nd innings:
+    team: Cumilla Warriors
+    deliveries:
+    - 0.1:
+        non_striker: Sabbir Rahman
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 0.2:
+        non_striker: Sabbir Rahman
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 0.3:
+        non_striker: S van Zyl
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sabbir Rahman
+        wicket:
+          player_out: Sabbir Rahman
+          kind: bowled
+    - 0.4:
+        non_striker: S van Zyl
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+    - 0.5:
+        non_striker: S van Zyl
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+    - 0.6:
+        non_striker: S van Zyl
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+    - 1.1:
+        non_striker: WU Tharanga
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S van Zyl
+    - 1.2:
+        non_striker: WU Tharanga
+        bowler: R Frylinck
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S van Zyl
+    - 1.3:
+        non_striker: S van Zyl
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+    - 1.4:
+        non_striker: S van Zyl
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WU Tharanga
+    - 1.5:
+        non_striker: WU Tharanga
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 1.6:
+        non_striker: WU Tharanga
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 2.1:
+        non_striker: S van Zyl
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+    - 2.2:
+        non_striker: S van Zyl
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WU Tharanga
+    - 2.3:
+        non_striker: S van Zyl
+        bowler: Mohammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WU Tharanga
+    - 2.4:
+        non_striker: WU Tharanga
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 2.5:
+        non_striker: WU Tharanga
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 2.6:
+        non_striker: S van Zyl
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+    - 3.1:
+        non_striker: WU Tharanga
+        bowler: R Frylinck
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S van Zyl
+    - 3.2:
+        non_striker: WU Tharanga
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 3.3:
+        non_striker: S van Zyl
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WU Tharanga
+    - 3.4:
+        non_striker: S van Zyl
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WU Tharanga
+    - 3.5:
+        non_striker: WU Tharanga
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 3.6:
+        non_striker: WU Tharanga
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 3.7:
+        non_striker: WU Tharanga
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 4.1:
+        non_striker: WU Tharanga
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+        wicket:
+          player_out: S van Zyl
+          fielders:
+          - RR Rossouw
+          kind: caught
+    - 4.2:
+        non_striker: WU Tharanga
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 4.3:
+        non_striker: WU Tharanga
+        bowler: Shohidul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 4.4:
+        non_striker: WU Tharanga
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 4.5:
+        non_striker: WU Tharanga
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 4.6:
+        non_striker: WU Tharanga
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 4.7:
+        non_striker: WU Tharanga
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+        wicket:
+          player_out: DJ Malan
+          kind: bowled
+    - 5.1:
+        non_striker: Soumya Sarkar
+        bowler: Shamsur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WU Tharanga
+    - 5.2:
+        non_striker: Soumya Sarkar
+        bowler: Shamsur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WU Tharanga
+    - 5.3:
+        non_striker: Soumya Sarkar
+        bowler: Shamsur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WU Tharanga
+    - 5.4:
+        non_striker: WU Tharanga
+        bowler: Shamsur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 5.5:
+        non_striker: WU Tharanga
+        bowler: Shamsur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 5.6:
+        non_striker: WU Tharanga
+        bowler: Shamsur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 6.1:
+        non_striker: Soumya Sarkar
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WU Tharanga
+    - 6.2:
+        non_striker: Soumya Sarkar
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WU Tharanga
+    - 6.3:
+        non_striker: WU Tharanga
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 6.4:
+        non_striker: WU Tharanga
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 6.5:
+        non_striker: WU Tharanga
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 6.6:
+        non_striker: Soumya Sarkar
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WU Tharanga
+    - 7.1:
+        non_striker: Soumya Sarkar
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+    - 7.2:
+        non_striker: Soumya Sarkar
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WU Tharanga
+    - 7.3:
+        non_striker: WU Tharanga
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 7.4:
+        non_striker: WU Tharanga
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 7.5:
+        non_striker: Soumya Sarkar
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WU Tharanga
+    - 7.6:
+        non_striker: WU Tharanga
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 8.1:
+        non_striker: WU Tharanga
+        bowler: Shamsur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 8.2:
+        non_striker: Soumya Sarkar
+        bowler: Shamsur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WU Tharanga
+    - 8.3:
+        non_striker: WU Tharanga
+        bowler: Shamsur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Soumya Sarkar
+    - 8.4:
+        non_striker: WU Tharanga
+        bowler: Shamsur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 8.5:
+        non_striker: Soumya Sarkar
+        bowler: Shamsur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WU Tharanga
+    - 8.6:
+        non_striker: Soumya Sarkar
+        bowler: Shamsur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WU Tharanga
+        wicket:
+          player_out: WU Tharanga
+          fielders:
+          - Saif Hassan (sub)
+          kind: caught
+    - 8.7:
+        non_striker: Soumya Sarkar
+        bowler: Shamsur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 9.1:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 9.2:
+        non_striker: Soumya Sarkar
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 9.3:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 9.4:
+        non_striker: Soumya Sarkar
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 9.5:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 9.6:
+        non_striker: Soumya Sarkar
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 10.1:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 10.2:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 10.3:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 10.4:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Ali Chowdhury
+    - 10.5:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 10.6:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 11.1:
+        non_striker: Soumya Sarkar
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 11.2:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 11.3:
+        non_striker: Soumya Sarkar
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 11.4:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+        wicket:
+          player_out: Soumya Sarkar
+          kind: lbw
+    - 11.5:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fardeen Hasan
+    - 11.6:
+        non_striker: Fardeen Hasan
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 12.1:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fardeen Hasan
+    - 12.2:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fardeen Hasan
+    - 12.3:
+        non_striker: Fardeen Hasan
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasir Ali Chowdhury
+    - 12.4:
+        non_striker: Fardeen Hasan
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 12.5:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fardeen Hasan
+    - 12.6:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fardeen Hasan
+    - 13.1:
+        non_striker: Fardeen Hasan
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yasir Ali Chowdhury
+    - 13.2:
+        non_striker: Fardeen Hasan
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+        wicket:
+          player_out: Yasir Ali Chowdhury
+          fielders:
+          - Najibullah Zadran
+          kind: caught
+    - 13.3:
+        non_striker: Abu Hider
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fardeen Hasan
+    - 13.4:
+        non_striker: Fardeen Hasan
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abu Hider
+    - 13.5:
+        non_striker: Abu Hider
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fardeen Hasan
+    - 13.6:
+        non_striker: Abu Hider
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fardeen Hasan
+    - 14.1:
+        non_striker: Fardeen Hasan
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abu Hider
+    - 14.2:
+        non_striker: Abu Hider
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fardeen Hasan
+    - 14.3:
+        non_striker: Abu Hider
+        bowler: Shohidul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Fardeen Hasan
+    - 14.4:
+        non_striker: Abu Hider
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fardeen Hasan
+    - 14.5:
+        non_striker: Fardeen Hasan
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abu Hider
+    - 14.6:
+        non_striker: Abu Hider
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fardeen Hasan
+    - 14.7:
+        non_striker: Fardeen Hasan
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abu Hider
+    - 15.1:
+        non_striker: Abu Hider
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fardeen Hasan
+    - 15.2:
+        non_striker: Abu Hider
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fardeen Hasan
+    - 15.3:
+        non_striker: Fardeen Hasan
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abu Hider
+        wicket:
+          player_out: Abu Hider
+          fielders:
+          - Shamsur Rahman
+          kind: caught
+    - 15.4:
+        non_striker: Fardeen Hasan
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb Ur Rahman
+    - 15.5:
+        non_striker: Fardeen Hasan
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb Ur Rahman
+    - 15.6:
+        non_striker: Fardeen Hasan
+        bowler: Aminul Islam Biplob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb Ur Rahman
+    - 16.1:
+        non_striker: Mujeeb Ur Rahman
+        bowler: Mohammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fardeen Hasan
+    - 16.2:
+        non_striker: Mujeeb Ur Rahman
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fardeen Hasan
+    - 16.3:
+        non_striker: Mujeeb Ur Rahman
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fardeen Hasan
+    - 16.4:
+        non_striker: Mujeeb Ur Rahman
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fardeen Hasan
+    - 16.5:
+        non_striker: Mujeeb Ur Rahman
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fardeen Hasan
+    - 16.6:
+        non_striker: Mujeeb Ur Rahman
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fardeen Hasan
+    - 16.7:
+        non_striker: Mujeeb Ur Rahman
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fardeen Hasan
+    - 17.1:
+        non_striker: Mujeeb Ur Rahman
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fardeen Hasan
+    - 17.2:
+        non_striker: Fardeen Hasan
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb Ur Rahman
+    - 17.3:
+        non_striker: Mujeeb Ur Rahman
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fardeen Hasan
+    - 17.4:
+        non_striker: Mujeeb Ur Rahman
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fardeen Hasan
+        wicket:
+          player_out: Fardeen Hasan
+          fielders:
+          - Shohidul Islam
+          kind: caught
+    - 17.5:
+        non_striker: Sumon Khan
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb Ur Rahman
+    - 17.6:
+        non_striker: Sumon Khan
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb Ur Rahman
+    - 18.1:
+        non_striker: Mujeeb Ur Rahman
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sumon Khan
+    - 18.2:
+        non_striker: Sumon Khan
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb Ur Rahman
+    - 18.3:
+        non_striker: Mujeeb Ur Rahman
+        bowler: Shohidul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sumon Khan
+    - 18.4:
+        non_striker: Mujeeb Ur Rahman
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sumon Khan
+    - 18.5:
+        non_striker: Sumon Khan
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb Ur Rahman
+        wicket:
+          player_out: Mujeeb Ur Rahman
+          fielders:
+          - Aminul Islam Biplob
+          kind: caught
+    - 18.6:
+        non_striker: Ifran Hossain
+        bowler: Shohidul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sumon Khan
+    - 18.7:
+        non_striker: Ifran Hossain
+        bowler: Shohidul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sumon Khan
+    - 19.1:
+        non_striker: Ifran Hossain
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sumon Khan
+    - 19.2:
+        non_striker: Ifran Hossain
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sumon Khan
+    - 19.3:
+        non_striker: Sumon Khan
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ifran Hossain
+    - 19.4:
+        non_striker: Sumon Khan
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ifran Hossain
+    - 19.5:
+        non_striker: Sumon Khan
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ifran Hossain
+    - 19.6:
+        non_striker: Ifran Hossain
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sumon Khan

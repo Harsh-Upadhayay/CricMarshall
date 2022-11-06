@@ -1,0 +1,2213 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-07-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  competition: T20 Blaze
+  dates:
+  - '2022-06-07'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Barbados
+    by:
+      runs: 7
+  overs: 20
+  players:
+    Barbados:
+    - HK Matthews
+    - SC Selman
+    - AA Alleyne
+    - SJ Bruce
+    - S Carrington
+    - SS Connell
+    - N Cumberbatch
+    - Kycia A Knight
+    - Kyshona A Knight
+    - CO Taitt
+    - A Williams
+    Guyana:
+    - SA Campbelle
+    - S Gajnabi
+    - CS Fraser
+    - KK Mentore
+    - SS Grimmond
+    - K Schultz
+    - TD Smartt
+    - EM Giddings
+    - M Mangru
+    - A Munisar
+    - LCA Toussaint
+  registry:
+    people:
+      A Munisar: a811cb83
+      A Williams: f1733e13
+      AA Alleyne: 4b0e3049
+      CO Taitt: 170c0116
+      CS Fraser: fb9a8cc3
+      EM Giddings: b2289ae8
+      HK Matthews: d32cf49a
+      K Schultz: 6900060d
+      KK Mentore: df36df18
+      Kycia A Knight: 552f664a
+      Kyshona A Knight: d85a1960
+      LCA Toussaint: f9c65d8d
+      LN Rajkumar: e331686b
+      M Mangru: b9fec7a5
+      N Cumberbatch: da4f9274
+      R Banwarie: 85dbb571
+      S Carrington: 9087d74c
+      S Gajnabi: c35739a1
+      SA Campbelle: a7cd72b2
+      SC Selman: c29ada99
+      SJ Bruce: aeccf5cc
+      SS Connell: 2f9a6bd1
+      SS Grimmond: 6bebf334
+      TD Smartt: cc3884f9
+  teams:
+  - Barbados
+  - Guyana
+  toss:
+    winner: Barbados
+    decision: bat
+  umpires:
+  - R Banwarie
+  - LN Rajkumar
+  venue: Guyana National Stadium, Providence
+innings:
+- 1st innings:
+    team: Barbados
+    deliveries:
+    - 0.1:
+        non_striker: HK Matthews
+        bowler: EM Giddings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kycia A Knight
+    - 0.2:
+        non_striker: HK Matthews
+        bowler: EM Giddings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kycia A Knight
+    - 0.3:
+        non_striker: HK Matthews
+        bowler: EM Giddings
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kycia A Knight
+    - 0.4:
+        non_striker: HK Matthews
+        bowler: EM Giddings
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: Kycia A Knight
+    - 0.5:
+        non_striker: HK Matthews
+        bowler: EM Giddings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kycia A Knight
+    - 0.6:
+        non_striker: HK Matthews
+        bowler: EM Giddings
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kycia A Knight
+    - 0.7:
+        non_striker: Kycia A Knight
+        bowler: EM Giddings
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        batsman: HK Matthews
+    - 0.8:
+        non_striker: Kycia A Knight
+        bowler: EM Giddings
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.1:
+        non_striker: HK Matthews
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kycia A Knight
+        wicket:
+          player_out: Kycia A Knight
+          kind: caught and bowled
+    - 1.2:
+        non_striker: HK Matthews
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kyshona A Knight
+    - 1.3:
+        non_striker: Kyshona A Knight
+        bowler: CS Fraser
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: HK Matthews
+    - 1.4:
+        non_striker: Kyshona A Knight
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 1.5:
+        non_striker: HK Matthews
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 1.6:
+        non_striker: HK Matthews
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 1.7:
+        non_striker: HK Matthews
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 2.1:
+        non_striker: Kyshona A Knight
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.2:
+        non_striker: Kyshona A Knight
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.3:
+        non_striker: Kyshona A Knight
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.4:
+        non_striker: HK Matthews
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 2.5:
+        non_striker: HK Matthews
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 2.6:
+        non_striker: HK Matthews
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kyshona A Knight
+    - 3.1:
+        non_striker: Kyshona A Knight
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HK Matthews
+    - 3.2:
+        non_striker: HK Matthews
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 3.3:
+        non_striker: HK Matthews
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kyshona A Knight
+    - 3.4:
+        non_striker: HK Matthews
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kyshona A Knight
+    - 3.5:
+        non_striker: HK Matthews
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 3.6:
+        non_striker: HK Matthews
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 4.1:
+        non_striker: Kyshona A Knight
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.2:
+        non_striker: Kyshona A Knight
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.3:
+        non_striker: Kyshona A Knight
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 4.4:
+        non_striker: Kyshona A Knight
+        bowler: TD Smartt
+        extras:
+          byes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: HK Matthews
+    - 4.5:
+        non_striker: HK Matthews
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 4.6:
+        non_striker: HK Matthews
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kyshona A Knight
+    - 5.1:
+        non_striker: Kyshona A Knight
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 5.2:
+        non_striker: Kyshona A Knight
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 5.3:
+        non_striker: Kyshona A Knight
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 5.4:
+        non_striker: Kyshona A Knight
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 5.5:
+        non_striker: Kyshona A Knight
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 5.6:
+        non_striker: HK Matthews
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 6.1:
+        non_striker: Kyshona A Knight
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 6.2:
+        non_striker: Kyshona A Knight
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 6.3:
+        non_striker: HK Matthews
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kyshona A Knight
+    - 6.4:
+        non_striker: HK Matthews
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kyshona A Knight
+    - 6.5:
+        non_striker: HK Matthews
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 6.6:
+        non_striker: HK Matthews
+        bowler: TD Smartt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 7.1:
+        non_striker: Kyshona A Knight
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 7.2:
+        non_striker: Kyshona A Knight
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 7.3:
+        non_striker: Kyshona A Knight
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 7.4:
+        non_striker: Kyshona A Knight
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 7.5:
+        non_striker: HK Matthews
+        bowler: SS Grimmond
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 7.6:
+        non_striker: HK Matthews
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 7.7:
+        non_striker: HK Matthews
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 8.1:
+        non_striker: Kyshona A Knight
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 8.2:
+        non_striker: Kyshona A Knight
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 8.3:
+        non_striker: Kyshona A Knight
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 8.4:
+        non_striker: Kyshona A Knight
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 8.5:
+        non_striker: HK Matthews
+        bowler: A Munisar
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: Kyshona A Knight
+    - 8.6:
+        non_striker: HK Matthews
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kyshona A Knight
+        wicket:
+          player_out: Kyshona A Knight
+          kind: bowled
+    - 8.7:
+        non_striker: HK Matthews
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+        wicket:
+          player_out: AA Alleyne
+          kind: bowled
+    - 9.1:
+        non_striker: CO Taitt
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 9.2:
+        non_striker: CO Taitt
+        bowler: SS Grimmond
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: HK Matthews
+    - 9.3:
+        non_striker: HK Matthews
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Taitt
+    - 9.4:
+        non_striker: HK Matthews
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Taitt
+        wicket:
+          player_out: CO Taitt
+          fielders:
+          - TD Smartt
+          kind: caught
+    - 9.5:
+        non_striker: HK Matthews
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 9.6:
+        non_striker: HK Matthews
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 10.1:
+        non_striker: N Cumberbatch
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 10.2:
+        non_striker: N Cumberbatch
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 10.3:
+        non_striker: HK Matthews
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Cumberbatch
+    - 10.4:
+        non_striker: N Cumberbatch
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 10.5:
+        non_striker: N Cumberbatch
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 10.6:
+        non_striker: N Cumberbatch
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 11.1:
+        non_striker: N Cumberbatch
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 11.2:
+        non_striker: HK Matthews
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 11.3:
+        non_striker: HK Matthews
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 11.4:
+        non_striker: HK Matthews
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Cumberbatch
+    - 11.5:
+        non_striker: N Cumberbatch
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 11.6:
+        non_striker: HK Matthews
+        bowler: SS Grimmond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Cumberbatch
+    - 12.1:
+        non_striker: HK Matthews
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 12.2:
+        non_striker: HK Matthews
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 12.3:
+        non_striker: HK Matthews
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 12.4:
+        non_striker: HK Matthews
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 12.5:
+        non_striker: HK Matthews
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 12.6:
+        non_striker: HK Matthews
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Cumberbatch
+    - 13.1:
+        non_striker: HK Matthews
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 13.2:
+        non_striker: HK Matthews
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Cumberbatch
+    - 13.3:
+        non_striker: N Cumberbatch
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 13.4:
+        non_striker: HK Matthews
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 13.5:
+        non_striker: HK Matthews
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 13.6:
+        non_striker: HK Matthews
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Cumberbatch
+    - 14.1:
+        non_striker: HK Matthews
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 14.2:
+        non_striker: HK Matthews
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+    - 14.3:
+        non_striker: HK Matthews
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Cumberbatch
+    - 14.4:
+        non_striker: N Cumberbatch
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 14.5:
+        non_striker: N Cumberbatch
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 14.6:
+        non_striker: N Cumberbatch
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 15.1:
+        non_striker: HK Matthews
+        bowler: M Mangru
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: N Cumberbatch
+    - 15.2:
+        non_striker: HK Matthews
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Cumberbatch
+        wicket:
+          player_out: N Cumberbatch
+          kind: lbw
+    - 15.3:
+        non_striker: HK Matthews
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Williams
+    - 15.4:
+        non_striker: A Williams
+        bowler: M Mangru
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: HK Matthews
+    - 15.5:
+        non_striker: A Williams
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 15.6:
+        non_striker: HK Matthews
+        bowler: M Mangru
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: A Williams
+    - 15.7:
+        non_striker: A Williams
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 15.8:
+        non_striker: A Williams
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 16.1:
+        non_striker: HK Matthews
+        bowler: K Schultz
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: A Williams
+    - 16.2:
+        non_striker: HK Matthews
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Williams
+    - 16.3:
+        non_striker: HK Matthews
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Williams
+    - 16.4:
+        non_striker: A Williams
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 16.5:
+        non_striker: A Williams
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          kind: caught and bowled
+    - 16.6:
+        non_striker: A Williams
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Carrington
+    - 16.7:
+        non_striker: A Williams
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Carrington
+    - 17.1:
+        non_striker: S Carrington
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Williams
+    - 17.2:
+        non_striker: A Williams
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Carrington
+    - 17.3:
+        non_striker: A Williams
+        bowler: M Mangru
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: S Carrington
+    - 17.4:
+        non_striker: A Williams
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Carrington
+    - 17.5:
+        non_striker: A Williams
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Carrington
+        wicket:
+          player_out: S Carrington
+          kind: bowled
+    - 17.6:
+        non_striker: A Williams
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Selman
+    - 17.7:
+        non_striker: A Williams
+        bowler: M Mangru
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Selman
+    - 18.1:
+        non_striker: SC Selman
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Williams
+        wicket:
+          player_out: A Williams
+          kind: lbw
+    - 18.2:
+        non_striker: SC Selman
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Connell
+    - 18.3:
+        non_striker: SC Selman
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Connell
+    - 18.4:
+        non_striker: SS Connell
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Selman
+    - 18.5:
+        non_striker: SS Connell
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Selman
+    - 18.6:
+        non_striker: SC Selman
+        bowler: K Schultz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Connell
+    - 19.1:
+        non_striker: SC Selman
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Connell
+        wicket:
+          player_out: SS Connell
+          kind: bowled
+    - 19.2:
+        non_striker: SC Selman
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bruce
+        wicket:
+          player_out: SJ Bruce
+          kind: bowled
+- 2nd innings:
+    team: Guyana
+    deliveries:
+    - 0.1:
+        non_striker: KK Mentore
+        bowler: SJ Bruce
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: M Mangru
+    - 0.2:
+        non_striker: KK Mentore
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 0.3:
+        non_striker: KK Mentore
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 0.4:
+        non_striker: KK Mentore
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 0.5:
+        non_striker: KK Mentore
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 0.6:
+        non_striker: KK Mentore
+        bowler: SJ Bruce
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: M Mangru
+    - 0.7:
+        non_striker: KK Mentore
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+        wicket:
+          player_out: M Mangru
+          kind: retired hurt
+    - 0.8:
+        non_striker: KK Mentore
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 1.1:
+        non_striker: SA Campbelle
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Mentore
+    - 1.2:
+        non_striker: SA Campbelle
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Mentore
+    - 1.3:
+        non_striker: SA Campbelle
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Mentore
+    - 1.4:
+        non_striker: SA Campbelle
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Mentore
+    - 1.5:
+        non_striker: SA Campbelle
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Mentore
+    - 1.6:
+        non_striker: SA Campbelle
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Mentore
+    - 2.1:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Mentore
+    - 2.2:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Mentore
+    - 2.3:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: KK Mentore
+    - 2.4:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KK Mentore
+    - 2.5:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Mentore
+    - 2.6:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        extras:
+          noballs: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: KK Mentore
+    - 2.7:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Mentore
+    - 2.8:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Mentore
+    - 3.1:
+        non_striker: KK Mentore
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 3.2:
+        non_striker: SA Campbelle
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Mentore
+    - 3.3:
+        non_striker: SA Campbelle
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Mentore
+    - 3.4:
+        non_striker: SA Campbelle
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Mentore
+    - 3.5:
+        non_striker: KK Mentore
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 3.6:
+        non_striker: KK Mentore
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 4.1:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Mentore
+        wicket:
+          player_out: KK Mentore
+          kind: lbw
+    - 4.2:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 4.3:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 4.4:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        extras:
+          legbyes: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: S Gajnabi
+    - 4.5:
+        non_striker: S Gajnabi
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 4.6:
+        non_striker: S Gajnabi
+        bowler: SJ Bruce
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: SA Campbelle
+    - 4.7:
+        non_striker: S Gajnabi
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 5.1:
+        non_striker: SA Campbelle
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 5.2:
+        non_striker: S Gajnabi
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 5.3:
+        non_striker: S Gajnabi
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 5.4:
+        non_striker: S Gajnabi
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 5.5:
+        non_striker: S Gajnabi
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 5.6:
+        non_striker: SA Campbelle
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 6.1:
+        non_striker: S Gajnabi
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 6.2:
+        non_striker: S Gajnabi
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 6.3:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 6.4:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 6.5:
+        non_striker: S Gajnabi
+        bowler: SJ Bruce
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: SA Campbelle
+    - 6.6:
+        non_striker: S Gajnabi
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 6.7:
+        non_striker: SA Campbelle
+        bowler: SJ Bruce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 7.1:
+        non_striker: S Gajnabi
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Campbelle
+    - 7.2:
+        non_striker: S Gajnabi
+        bowler: SS Connell
+        extras:
+          wides: 1
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        batsman: SA Campbelle
+    - 7.3:
+        non_striker: S Gajnabi
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 7.4:
+        non_striker: S Gajnabi
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 7.5:
+        non_striker: S Gajnabi
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 7.6:
+        non_striker: S Gajnabi
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 7.7:
+        non_striker: S Gajnabi
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 8.1:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 8.2:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 8.3:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Gajnabi
+    - 8.4:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 8.5:
+        non_striker: S Gajnabi
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 8.6:
+        non_striker: S Gajnabi
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 9.1:
+        non_striker: SA Campbelle
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 9.2:
+        non_striker: S Gajnabi
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 9.3:
+        non_striker: S Gajnabi
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 9.4:
+        non_striker: S Gajnabi
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 9.5:
+        non_striker: S Gajnabi
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 9.6:
+        non_striker: S Gajnabi
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 10.1:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 10.2:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 10.3:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 10.4:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 10.5:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 10.6:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 11.1:
+        non_striker: S Gajnabi
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 11.2:
+        non_striker: S Gajnabi
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 11.3:
+        non_striker: SA Campbelle
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Gajnabi
+    - 11.4:
+        non_striker: SA Campbelle
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 11.5:
+        non_striker: S Gajnabi
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 11.6:
+        non_striker: SA Campbelle
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 12.1:
+        non_striker: SA Campbelle
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 12.2:
+        non_striker: S Gajnabi
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 12.3:
+        non_striker: S Gajnabi
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 12.4:
+        non_striker: SA Campbelle
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 12.5:
+        non_striker: SA Campbelle
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 12.6:
+        non_striker: SA Campbelle
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 13.1:
+        non_striker: S Gajnabi
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 13.2:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 13.3:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 13.4:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 13.5:
+        non_striker: S Gajnabi
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 13.6:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 14.1:
+        non_striker: S Gajnabi
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 14.2:
+        non_striker: S Gajnabi
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 14.3:
+        non_striker: SA Campbelle
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+        wicket:
+          player_out: S Gajnabi
+          fielders:
+          - Kycia A Knight
+          kind: caught
+    - 14.4:
+        non_striker: SA Campbelle
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Fraser
+    - 14.5:
+        non_striker: SA Campbelle
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Fraser
+    - 14.6:
+        non_striker: SA Campbelle
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Fraser
+        wicket:
+          player_out: CS Fraser
+          kind: lbw
+    - 15.1:
+        non_striker: SS Grimmond
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 15.2:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 15.3:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 15.4:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+    - 15.5:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Grimmond
+        wicket:
+          player_out: SS Grimmond
+          kind: bowled
+    - 15.6:
+        non_striker: SA Campbelle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TD Smartt
+    - 16.1:
+        non_striker: TD Smartt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 16.2:
+        non_striker: TD Smartt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+        wicket:
+          player_out: SA Campbelle
+          fielders:
+          - SC Selman
+          kind: caught
+    - 16.3:
+        non_striker: TD Smartt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LCA Toussaint
+    - 16.4:
+        non_striker: TD Smartt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LCA Toussaint
+        wicket:
+          player_out: LCA Toussaint
+          fielders:
+          - Kycia A Knight
+          kind: run out
+    - 16.5:
+        non_striker: TD Smartt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Schultz
+    - 16.6:
+        non_striker: K Schultz
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TD Smartt
+    - 17.1:
+        non_striker: K Schultz
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TD Smartt
+    - 17.2:
+        non_striker: TD Smartt
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Schultz
+        wicket:
+          player_out: K Schultz
+          kind: bowled
+    - 17.3:
+        non_striker: TD Smartt
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Munisar
+    - 17.4:
+        non_striker: A Munisar
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TD Smartt
+    - 17.5:
+        non_striker: TD Smartt
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Munisar
+        wicket:
+          player_out: A Munisar
+          fielders:
+          - Kycia A Knight
+          kind: caught
+    - 17.6:
+        non_striker: TD Smartt
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EM Giddings
+    - 18.1:
+        non_striker: TD Smartt
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EM Giddings
+    - 18.2:
+        non_striker: EM Giddings
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TD Smartt
+    - 18.3:
+        non_striker: EM Giddings
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TD Smartt
+    - 18.4:
+        non_striker: EM Giddings
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TD Smartt
+    - 18.5:
+        non_striker: EM Giddings
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TD Smartt
+    - 18.6:
+        non_striker: EM Giddings
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TD Smartt
+    - 19.1:
+        non_striker: TD Smartt
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EM Giddings
+    - 19.2:
+        non_striker: EM Giddings
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TD Smartt
+    - 19.3:
+        non_striker: TD Smartt
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EM Giddings
+    - 19.4:
+        non_striker: EM Giddings
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TD Smartt
+    - 19.5:
+        non_striker: TD Smartt
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EM Giddings
+    - 19.6:
+        non_striker: EM Giddings
+        bowler: SC Selman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TD Smartt
+        wicket:
+          player_out: TD Smartt
+          fielders:
+          - S Carrington
+          kind: caught

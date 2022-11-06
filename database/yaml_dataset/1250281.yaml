@@ -1,0 +1,1663 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-06-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nottingham
+  competition: Vitality Blast
+  dates:
+  - '2021-06-18'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Nottinghamshire
+    by:
+      runs: 2
+  overs: 20
+  player_of_match:
+  - SR Patel
+  players:
+    Nottinghamshire:
+    - JM Clarke
+    - AD Hales
+    - SG Budinger
+    - BM Duckett
+    - TJ Moores
+    - SR Patel
+    - SJ Mullaney
+    - LJ Fletcher
+    - M Carter
+    - CG Harrison
+    - JT Ball
+    Derbyshire:
+    - LM Reece
+    - HRC Came
+    - BA Godleman
+    - JL du Plooy
+    - MJJ Critchley
+    - FJ Hudson-Prentice
+    - BD Guest
+    - AT Thomson
+    - LV van Beek
+    - C McKerr
+    - GLS Scrimshaw
+  registry:
+    people:
+      AD Hales: 92aeac25
+      AT Thomson: ad286dcc
+      BA Godleman: b26b1e3d
+      BD Guest: 8159d5fc
+      BM Duckett: 5f26f677
+      C McKerr: 5ccdb14f
+      CG Harrison: f655d740
+      FJ Hudson-Prentice: 932d3cc9
+      GLS Scrimshaw: 95a06106
+      HRC Came: 0a7c6649
+      JL du Plooy: 6e6fb538
+      JM Clarke: 2eca67f5
+      JT Ball: 3d0ed2f9
+      LJ Fletcher: e423d162
+      LM Reece: 9789e56e
+      LV van Beek: 782fb776
+      M Carter: 1ca7c00f
+      MJJ Critchley: c5cc48bc
+      N Pratt: 01f65cd3
+      NGB Cook: 772fe461
+      SG Budinger: bfc60227
+      SJ Mullaney: 0e0d43b4
+      SR Patel: 18fac429
+      TJ Moores: 85dcb721
+      Wayne Noon: 736e1761
+  teams:
+  - Nottinghamshire
+  - Derbyshire
+  toss:
+    decision: field
+    winner: Derbyshire
+  umpires:
+  - N Pratt
+  - NGB Cook
+  venue: Trent Bridge, Nottingham
+innings:
+- 1st innings:
+    team: Nottinghamshire
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 0.2:
+        non_striker: JM Clarke
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Hales
+    - 0.3:
+        non_striker: JM Clarke
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          kind: lbw
+    - 0.4:
+        non_striker: JM Clarke
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SG Budinger
+    - 0.5:
+        non_striker: JM Clarke
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SG Budinger
+    - 0.6:
+        non_striker: SG Budinger
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Clarke
+    - 0.7:
+        non_striker: SG Budinger
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+        wicket:
+          player_out: JM Clarke
+          fielders:
+          - BA Godleman
+          kind: caught
+    - 1.1:
+        non_striker: SG Budinger
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 1.2:
+        non_striker: BM Duckett
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+    - 1.3:
+        non_striker: BM Duckett
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+    - 1.4:
+        non_striker: BM Duckett
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Budinger
+    - 1.5:
+        non_striker: SG Budinger
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 1.6:
+        non_striker: BM Duckett
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Budinger
+    - 2.1:
+        non_striker: BM Duckett
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+    - 2.2:
+        non_striker: BM Duckett
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SG Budinger
+    - 2.3:
+        non_striker: BM Duckett
+        bowler: LV van Beek
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: SG Budinger
+    - 2.4:
+        non_striker: BM Duckett
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+        wicket:
+          player_out: SG Budinger
+          fielders:
+          - BD Guest
+          kind: caught
+    - 2.5:
+        non_striker: TJ Moores
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 2.6:
+        non_striker: TJ Moores
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 3.1:
+        non_striker: BM Duckett
+        bowler: C McKerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TJ Moores
+    - 3.2:
+        non_striker: BM Duckett
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 3.3:
+        non_striker: TJ Moores
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 3.4:
+        non_striker: TJ Moores
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 3.5:
+        non_striker: BM Duckett
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 3.6:
+        non_striker: TJ Moores
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 3.7:
+        non_striker: TJ Moores
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 4.1:
+        non_striker: BM Duckett
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 4.2:
+        non_striker: TJ Moores
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 4.3:
+        non_striker: TJ Moores
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 4.4:
+        non_striker: TJ Moores
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 4.5:
+        non_striker: BM Duckett
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 4.6:
+        non_striker: TJ Moores
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 5.1:
+        non_striker: TJ Moores
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BM Duckett
+    - 5.2:
+        non_striker: TJ Moores
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 5.3:
+        non_striker: TJ Moores
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 5.4:
+        non_striker: BM Duckett
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+        wicket:
+          player_out: TJ Moores
+          fielders:
+          - BD Guest
+          kind: caught
+    - 5.5:
+        non_striker: BM Duckett
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR Patel
+    - 5.6:
+        non_striker: SR Patel
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 5.7:
+        non_striker: BM Duckett
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Patel
+    - 5.8:
+        non_striker: BM Duckett
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Patel
+    - 6.1:
+        non_striker: SR Patel
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 6.2:
+        non_striker: SR Patel
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 6.3:
+        non_striker: SR Patel
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 6.4:
+        non_striker: SR Patel
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 6.5:
+        non_striker: BM Duckett
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 6.6:
+        non_striker: SR Patel
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 7.1:
+        non_striker: SR Patel
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 7.2:
+        non_striker: BM Duckett
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 7.3:
+        non_striker: BM Duckett
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 7.4:
+        non_striker: SR Patel
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 7.5:
+        non_striker: BM Duckett
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 7.6:
+        non_striker: BM Duckett
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 8.1:
+        non_striker: SR Patel
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 8.2:
+        non_striker: BM Duckett
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Patel
+    - 8.3:
+        non_striker: BM Duckett
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Patel
+    - 8.4:
+        non_striker: BM Duckett
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Patel
+    - 8.5:
+        non_striker: BM Duckett
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 8.6:
+        non_striker: SR Patel
+        bowler: LM Reece
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BM Duckett
+    - 9.1:
+        non_striker: BM Duckett
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Patel
+    - 9.2:
+        non_striker: BM Duckett
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Patel
+    - 9.3:
+        non_striker: BM Duckett
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 9.4:
+        non_striker: SR Patel
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+        wicket:
+          player_out: BM Duckett
+          fielders:
+          - MJJ Critchley
+          kind: caught
+    - 9.5:
+        non_striker: SR Patel
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Mullaney
+    - 9.6:
+        non_striker: SR Patel
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SJ Mullaney
+    - 10.1:
+        non_striker: SR Patel
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Mullaney
+    - 10.2:
+        non_striker: SR Patel
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Mullaney
+    - 10.3:
+        non_striker: SR Patel
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SJ Mullaney
+    - 10.4:
+        non_striker: SJ Mullaney
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 10.5:
+        non_striker: SR Patel
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SJ Mullaney
+    - 10.6:
+        non_striker: SR Patel
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Mullaney
+    - 11.1:
+        non_striker: SJ Mullaney
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Patel
+    - 11.2:
+        non_striker: SJ Mullaney
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Patel
+    - 11.3:
+        non_striker: SJ Mullaney
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Patel
+    - 11.4:
+        non_striker: SJ Mullaney
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 11.5:
+        non_striker: SR Patel
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Mullaney
+    - 11.6:
+        non_striker: SR Patel
+        bowler: MJJ Critchley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Mullaney
+    - 12.1:
+        non_striker: SJ Mullaney
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Patel
+    - 12.2:
+        non_striker: SJ Mullaney
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Patel
+    - 12.3:
+        non_striker: SJ Mullaney
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 12.4:
+        non_striker: SR Patel
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Mullaney
+        wicket:
+          player_out: SJ Mullaney
+          fielders:
+          - MJJ Critchley
+          kind: caught
+    - 12.5:
+        non_striker: LJ Fletcher
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Patel
+    - 12.6:
+        non_striker: LJ Fletcher
+        bowler: GLS Scrimshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 13.1:
+        non_striker: LJ Fletcher
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 13.2:
+        non_striker: LJ Fletcher
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 13.3:
+        non_striker: SR Patel
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Fletcher
+    - 13.4:
+        non_striker: LJ Fletcher
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Patel
+    - 13.5:
+        non_striker: LJ Fletcher
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SR Patel
+    - 13.6:
+        non_striker: LJ Fletcher
+        bowler: C McKerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 14.1:
+        non_striker: LJ Fletcher
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+    - 14.2:
+        non_striker: LJ Fletcher
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 14.3:
+        non_striker: SR Patel
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Fletcher
+    - 14.4:
+        non_striker: LJ Fletcher
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 14.5:
+        non_striker: SR Patel
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Fletcher
+    - 14.6:
+        non_striker: SR Patel
+        bowler: FJ Hudson-Prentice
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Fletcher
+- 2nd innings:
+    team: Derbyshire
+    deliveries:
+    - 0.1:
+        non_striker: HRC Came
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Reece
+    - 0.2:
+        non_striker: LM Reece
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HRC Came
+    - 0.3:
+        non_striker: HRC Came
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Reece
+    - 0.4:
+        non_striker: HRC Came
+        bowler: M Carter
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: LM Reece
+    - 0.5:
+        non_striker: HRC Came
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LM Reece
+    - 0.6:
+        non_striker: HRC Came
+        bowler: M Carter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LM Reece
+    - 0.7:
+        non_striker: LM Reece
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HRC Came
+    - 1.1:
+        non_striker: LM Reece
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HRC Came
+        wicket:
+          player_out: HRC Came
+          fielders:
+          - SG Budinger
+          kind: caught
+    - 1.2:
+        non_striker: LM Reece
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Godleman
+        wicket:
+          player_out: BA Godleman
+          fielders:
+          - AD Hales
+          kind: caught
+    - 1.3:
+        non_striker: JL du Plooy
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Reece
+    - 1.4:
+        non_striker: LM Reece
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL du Plooy
+    - 1.5:
+        non_striker: LM Reece
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL du Plooy
+    - 1.6:
+        non_striker: LM Reece
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 2.1:
+        non_striker: JL du Plooy
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Reece
+    - 2.2:
+        non_striker: JL du Plooy
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LM Reece
+    - 2.3:
+        non_striker: JL du Plooy
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Reece
+    - 2.4:
+        non_striker: JL du Plooy
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Reece
+    - 2.5:
+        non_striker: JL du Plooy
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Reece
+    - 2.6:
+        non_striker: JL du Plooy
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Reece
+    - 3.1:
+        non_striker: LM Reece
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 3.2:
+        non_striker: JL du Plooy
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LM Reece
+    - 3.3:
+        non_striker: JL du Plooy
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Reece
+    - 3.4:
+        non_striker: LM Reece
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL du Plooy
+    - 3.5:
+        non_striker: LM Reece
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 3.6:
+        non_striker: JL du Plooy
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Reece
+    - 4.1:
+        non_striker: JL du Plooy
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Reece
+    - 4.2:
+        non_striker: LM Reece
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 4.3:
+        non_striker: JL du Plooy
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Reece
+    - 4.4:
+        non_striker: LM Reece
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 4.5:
+        non_striker: JL du Plooy
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Reece
+    - 4.6:
+        non_striker: JL du Plooy
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Reece
+    - 5.1:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Reece
+    - 5.2:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Reece
+    - 5.3:
+        non_striker: LM Reece
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 5.4:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Reece
+    - 5.5:
+        non_striker: LM Reece
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 5.6:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Reece
+    - 6.1:
+        non_striker: LM Reece
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 6.2:
+        non_striker: JL du Plooy
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Reece
+    - 6.3:
+        non_striker: LM Reece
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 6.4:
+        non_striker: JL du Plooy
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Reece
+    - 6.5:
+        non_striker: JL du Plooy
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Reece
+    - 6.6:
+        non_striker: JL du Plooy
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Reece
+        wicket:
+          player_out: LM Reece
+          fielders:
+          - AD Hales
+          kind: caught
+    - 7.1:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+    - 7.2:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: MJJ Critchley
+    - 7.3:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJJ Critchley
+        wicket:
+          player_out: MJJ Critchley
+          kind: lbw
+    - 7.4:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FJ Hudson-Prentice
+    - 7.5:
+        non_striker: FJ Hudson-Prentice
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 7.6:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FJ Hudson-Prentice
+    - 8.1:
+        non_striker: JL du Plooy
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FJ Hudson-Prentice
+    - 8.2:
+        non_striker: FJ Hudson-Prentice
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 8.3:
+        non_striker: FJ Hudson-Prentice
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 8.4:
+        non_striker: JL du Plooy
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FJ Hudson-Prentice
+    - 8.5:
+        non_striker: FJ Hudson-Prentice
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 8.6:
+        non_striker: JL du Plooy
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FJ Hudson-Prentice
+    - 9.1:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FJ Hudson-Prentice
+    - 9.2:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FJ Hudson-Prentice
+    - 9.3:
+        non_striker: FJ Hudson-Prentice
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 9.4:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FJ Hudson-Prentice
+    - 9.5:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FJ Hudson-Prentice
+        wicket:
+          player_out: FJ Hudson-Prentice
+          kind: bowled
+    - 9.6:
+        non_striker: JL du Plooy
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Guest
+    - 9.7:
+        non_striker: BD Guest
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 10.1:
+        non_striker: BD Guest
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 10.2:
+        non_striker: BD Guest
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 10.3:
+        non_striker: JL du Plooy
+        bowler: SJ Mullaney
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BD Guest
+    - 10.4:
+        non_striker: BD Guest
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 10.5:
+        non_striker: BD Guest
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 10.6:
+        non_striker: JL du Plooy
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BD Guest
+    - 11.1:
+        non_striker: BD Guest
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL du Plooy
+    - 11.2:
+        non_striker: BD Guest
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 11.3:
+        non_striker: JL du Plooy
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BD Guest
+    - 11.4:
+        non_striker: BD Guest
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL du Plooy
+    - 11.5:
+        non_striker: BD Guest
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL du Plooy
+    - 11.6:
+        non_striker: BD Guest
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL du Plooy
+    - 12.1:
+        non_striker: JL du Plooy
+        bowler: M Carter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BD Guest
+    - 12.2:
+        non_striker: BD Guest
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 12.3:
+        non_striker: JL du Plooy
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BD Guest
+    - 12.4:
+        non_striker: JL du Plooy
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BD Guest
+        wicket:
+          player_out: BD Guest
+          fielders:
+          - SR Patel
+          kind: caught
+    - 12.5:
+        non_striker: AT Thomson
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 12.6:
+        non_striker: JL du Plooy
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Thomson
+    - 13.1:
+        non_striker: JL du Plooy
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AT Thomson
+    - 13.2:
+        non_striker: JL du Plooy
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Thomson
+    - 13.3:
+        non_striker: AT Thomson
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 13.4:
+        non_striker: JL du Plooy
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Thomson
+    - 13.5:
+        non_striker: JL du Plooy
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AT Thomson
+    - 13.6:
+        non_striker: AT Thomson
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL du Plooy
+    - 14.1:
+        non_striker: JL du Plooy
+        bowler: LJ Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AT Thomson
+    - 14.2:
+        non_striker: AT Thomson
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL du Plooy
+    - 14.3:
+        non_striker: AT Thomson
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL du Plooy
+    - 14.4:
+        non_striker: JL du Plooy
+        bowler: LJ Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AT Thomson
+    - 14.5:
+        non_striker: AT Thomson
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL du Plooy
+    - 14.6:
+        non_striker: AT Thomson
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JL du Plooy

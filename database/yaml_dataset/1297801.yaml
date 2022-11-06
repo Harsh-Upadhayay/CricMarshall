@@ -1,0 +1,2164 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-05-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bristol
+  competition: Vitality Blast
+  dates:
+  - '2022-05-27'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gloucestershire
+    by:
+      runs: 41
+  overs: 20
+  players:
+    Gloucestershire:
+    - Miles Hammond
+    - James Bracey
+    - IA Cockbain
+    - GD Phillips
+    - RF Higgins
+    - JMR Taylor
+    - BAC Howell
+    - TMJ Smith
+    - DA Payne
+    - PA van Meekeren
+    - Naseem Shah
+    Sussex:
+    - Mohammad Rizwan
+    - LJ Wright
+    - JR Philippe
+    - RS Bopara
+    - GHS Garton
+    - DMW Rawlins
+    - HD Ward
+    - WAT Beer
+    - AC Lenham
+    - HT Crocombe
+    - ST Finn
+  registry:
+    people:
+      AC Lenham: 8f9c5014
+      AG Wharf: 2e0fcc58
+      AJ Swann: f9d218a7
+      BAC Howell: 0bec3a6c
+      DA Payne: 6c79c098
+      DMW Rawlins: f1eb3c73
+      GD Phillips: 9a46c4e5
+      GHS Garton: be869ccf
+      HD Ward: 9f7932a7
+      HT Crocombe: 27fc5808
+      IA Cockbain: 542fd5a6
+      JMR Taylor: aed5be04
+      JR Philippe: '39086549'
+      James Bracey: 5bfdc77a
+      LJ Wright: cca50cd6
+      Miles Hammond: c88bc84a
+      Mohammad Rizwan: 2f26ac1a
+      Naseem Shah: 9c9af282
+      PA van Meekeren: 4557dc54
+      RF Higgins: ad212f96
+      RS Bopara: 7ca5e05d
+      ST Finn: ccdd8308
+      TMJ Smith: 0a12e736
+      Tom Lungley: 75169b8c
+      WAT Beer: 98eacfe5
+  teams:
+  - Gloucestershire
+  - Sussex
+  toss:
+    winner: Sussex
+    decision: field
+  umpires:
+  - AG Wharf
+  - Tom Lungley
+  venue: County Ground, Bristol
+innings:
+- 1st innings:
+    team: Gloucestershire
+    deliveries:
+    - 0.1:
+        non_striker: James Bracey
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Miles Hammond
+    - 0.2:
+        non_striker: James Bracey
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Miles Hammond
+    - 0.3:
+        non_striker: Miles Hammond
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+        wicket:
+          player_out: Miles Hammond
+          fielders:
+          - WAT Beer
+          kind: run out
+    - 0.4:
+        non_striker: IA Cockbain
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 0.5:
+        non_striker: James Bracey
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Cockbain
+    - 0.6:
+        non_striker: IA Cockbain
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 1.1:
+        non_striker: IA Cockbain
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+    - 1.2:
+        non_striker: IA Cockbain
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 1.3:
+        non_striker: James Bracey
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IA Cockbain
+    - 1.4:
+        non_striker: James Bracey
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Cockbain
+    - 1.5:
+        non_striker: IA Cockbain
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 1.6:
+        non_striker: James Bracey
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Cockbain
+    - 2.1:
+        non_striker: IA Cockbain
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 2.2:
+        non_striker: James Bracey
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Cockbain
+    - 2.3:
+        non_striker: James Bracey
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Cockbain
+    - 2.4:
+        non_striker: James Bracey
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Cockbain
+    - 2.5:
+        non_striker: James Bracey
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IA Cockbain
+    - 2.6:
+        non_striker: James Bracey
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IA Cockbain
+    - 3.1:
+        non_striker: James Bracey
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IA Cockbain
+        wicket:
+          player_out: IA Cockbain
+          fielders:
+          - JR Philippe
+          kind: caught
+    - 3.2:
+        non_striker: James Bracey
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 3.3:
+        non_striker: James Bracey
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 3.4:
+        non_striker: James Bracey
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 3.5:
+        non_striker: James Bracey
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 3.6:
+        non_striker: GD Phillips
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 4.1:
+        non_striker: GD Phillips
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+    - 4.2:
+        non_striker: GD Phillips
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: James Bracey
+    - 4.3:
+        non_striker: GD Phillips
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: James Bracey
+    - 4.4:
+        non_striker: GD Phillips
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+    - 4.5:
+        non_striker: GD Phillips
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+    - 4.6:
+        non_striker: GD Phillips
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 5.1:
+        non_striker: GD Phillips
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: James Bracey
+    - 5.2:
+        non_striker: GD Phillips
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 5.3:
+        non_striker: James Bracey
+        bowler: ST Finn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GD Phillips
+    - 5.4:
+        non_striker: GD Phillips
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 5.5:
+        non_striker: James Bracey
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 5.6:
+        non_striker: James Bracey
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 6.1:
+        non_striker: GD Phillips
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+    - 6.2:
+        non_striker: GD Phillips
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 6.3:
+        non_striker: James Bracey
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 6.4:
+        non_striker: James Bracey
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 6.5:
+        non_striker: GD Phillips
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: James Bracey
+    - 6.6:
+        non_striker: GD Phillips
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: James Bracey
+    - 7.1:
+        non_striker: James Bracey
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 7.2:
+        non_striker: James Bracey
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 7.3:
+        non_striker: James Bracey
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 7.4:
+        non_striker: GD Phillips
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+    - 7.5:
+        non_striker: GD Phillips
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 7.6:
+        non_striker: James Bracey
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 8.1:
+        non_striker: GD Phillips
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 8.2:
+        non_striker: James Bracey
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 8.3:
+        non_striker: GD Phillips
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+    - 8.4:
+        non_striker: GD Phillips
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: James Bracey
+    - 8.5:
+        non_striker: James Bracey
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 8.6:
+        non_striker: James Bracey
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 9.1:
+        non_striker: GD Phillips
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 9.2:
+        non_striker: James Bracey
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.3:
+        non_striker: GD Phillips
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+    - 9.4:
+        non_striker: GD Phillips
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 9.5:
+        non_striker: James Bracey
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.6:
+        non_striker: GD Phillips
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+    - 10.1:
+        non_striker: James Bracey
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 10.2:
+        non_striker: James Bracey
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 10.3:
+        non_striker: GD Phillips
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: James Bracey
+    - 10.4:
+        non_striker: GD Phillips
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: James Bracey
+    - 10.5:
+        non_striker: GD Phillips
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: James Bracey
+    - 10.6:
+        non_striker: GD Phillips
+        bowler: AC Lenham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 11.1:
+        non_striker: GD Phillips
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+    - 11.2:
+        non_striker: GD Phillips
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+    - 11.3:
+        non_striker: GD Phillips
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 11.4:
+        non_striker: James Bracey
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 11.5:
+        non_striker: James Bracey
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - ST Finn
+          kind: caught
+    - 11.6:
+        non_striker: James Bracey
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RF Higgins
+    - 12.1:
+        non_striker: James Bracey
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RF Higgins
+    - 12.2:
+        non_striker: RF Higgins
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 12.3:
+        non_striker: James Bracey
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RF Higgins
+    - 12.4:
+        non_striker: RF Higgins
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 12.5:
+        non_striker: James Bracey
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RF Higgins
+    - 12.6:
+        non_striker: James Bracey
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RF Higgins
+    - 13.1:
+        non_striker: James Bracey
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RF Higgins
+    - 13.2:
+        non_striker: RF Higgins
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: James Bracey
+    - 13.3:
+        non_striker: RF Higgins
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: James Bracey
+    - 13.4:
+        non_striker: James Bracey
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RF Higgins
+    - 13.5:
+        non_striker: James Bracey
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RF Higgins
+    - 13.6:
+        non_striker: RF Higgins
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: James Bracey
+    - 14.1:
+        non_striker: James Bracey
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RF Higgins
+    - 14.2:
+        non_striker: RF Higgins
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: James Bracey
+    - 14.3:
+        non_striker: RF Higgins
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: James Bracey
+    - 14.4:
+        non_striker: RF Higgins
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: James Bracey
+        wicket:
+          player_out: James Bracey
+          fielders:
+          - HD Ward
+          kind: caught
+    - 14.5:
+        non_striker: RF Higgins
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 14.6:
+        non_striker: RF Higgins
+        bowler: DMW Rawlins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 15.1:
+        non_striker: JMR Taylor
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RF Higgins
+    - 15.2:
+        non_striker: JMR Taylor
+        bowler: HT Crocombe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RF Higgins
+    - 15.3:
+        non_striker: JMR Taylor
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RF Higgins
+    - 15.4:
+        non_striker: JMR Taylor
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RF Higgins
+    - 15.5:
+        non_striker: RF Higgins
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JMR Taylor
+    - 15.6:
+        non_striker: RF Higgins
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 15.7:
+        non_striker: JMR Taylor
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RF Higgins
+    - 16.1:
+        non_striker: RF Higgins
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 16.2:
+        non_striker: JMR Taylor
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RF Higgins
+    - 16.3:
+        non_striker: RF Higgins
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JMR Taylor
+    - 16.4:
+        non_striker: JMR Taylor
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RF Higgins
+    - 16.5:
+        non_striker: RF Higgins
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JMR Taylor
+    - 16.6:
+        non_striker: RF Higgins
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JMR Taylor
+    - 17.1:
+        non_striker: JMR Taylor
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RF Higgins
+    - 17.2:
+        non_striker: RF Higgins
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+    - 17.3:
+        non_striker: RF Higgins
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JMR Taylor
+        wicket:
+          player_out: JMR Taylor
+          fielders:
+          - HD Ward
+          kind: caught
+    - 17.4:
+        non_striker: RF Higgins
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 17.5:
+        non_striker: RF Higgins
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+    - 17.6:
+        non_striker: RF Higgins
+        bowler: ST Finn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 18.1:
+        non_striker: RF Higgins
+        bowler: HT Crocombe
+        runs:
+          extras: 2
+          total: 8
+          batsman: 6
+        extras:
+          noballs: 2
+        batsman: BAC Howell
+    - 18.2:
+        non_striker: RF Higgins
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAC Howell
+    - 18.3:
+        non_striker: RF Higgins
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BAC Howell
+        wicket:
+          player_out: BAC Howell
+          fielders:
+          - Mohammad Rizwan
+          kind: caught
+    - 18.4:
+        non_striker: RF Higgins
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMJ Smith
+    - 18.5:
+        non_striker: RF Higgins
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMJ Smith
+    - 18.6:
+        non_striker: TMJ Smith
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RF Higgins
+    - 18.7:
+        non_striker: RF Higgins
+        bowler: HT Crocombe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMJ Smith
+        wicket:
+          player_out: TMJ Smith
+          fielders:
+          - HT Crocombe
+          kind: run out
+    - 19.1:
+        non_striker: DA Payne
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RF Higgins
+    - 19.2:
+        non_striker: DA Payne
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RF Higgins
+    - 19.3:
+        non_striker: DA Payne
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RF Higgins
+    - 19.4:
+        non_striker: DA Payne
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RF Higgins
+    - 19.5:
+        non_striker: RF Higgins
+        bowler: GHS Garton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DA Payne
+    - 19.6:
+        non_striker: DA Payne
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RF Higgins
+- 2nd innings:
+    team: Sussex
+    deliveries:
+    - 0.1:
+        non_striker: LJ Wright
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 0.2:
+        non_striker: LJ Wright
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 0.3:
+        non_striker: LJ Wright
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 0.4:
+        non_striker: Mohammad Rizwan
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 0.5:
+        non_striker: Mohammad Rizwan
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 0.6:
+        non_striker: Mohammad Rizwan
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 1.1:
+        non_striker: LJ Wright
+        bowler: Naseem Shah
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Mohammad Rizwan
+    - 1.2:
+        non_striker: LJ Wright
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 1.3:
+        non_striker: LJ Wright
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 1.4:
+        non_striker: LJ Wright
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 1.5:
+        non_striker: Mohammad Rizwan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 1.6:
+        non_striker: Mohammad Rizwan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 1.7:
+        non_striker: LJ Wright
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 2.1:
+        non_striker: Mohammad Rizwan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 2.2:
+        non_striker: Mohammad Rizwan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 2.3:
+        non_striker: Mohammad Rizwan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Wright
+    - 2.4:
+        non_striker: Mohammad Rizwan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Wright
+    - 2.5:
+        non_striker: Mohammad Rizwan
+        bowler: PA van Meekeren
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: LJ Wright
+    - 2.6:
+        non_striker: Mohammad Rizwan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 2.7:
+        non_striker: Mohammad Rizwan
+        bowler: PA van Meekeren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LJ Wright
+    - 2.8:
+        non_striker: Mohammad Rizwan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 3.1:
+        non_striker: LJ Wright
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 3.2:
+        non_striker: Mohammad Rizwan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 3.3:
+        non_striker: Mohammad Rizwan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 3.4:
+        non_striker: Mohammad Rizwan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 3.5:
+        non_striker: Mohammad Rizwan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 3.6:
+        non_striker: Mohammad Rizwan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Wright
+    - 4.1:
+        non_striker: LJ Wright
+        bowler: TMJ Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 4.2:
+        non_striker: Mohammad Rizwan
+        bowler: TMJ Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 4.3:
+        non_striker: Mohammad Rizwan
+        bowler: TMJ Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 4.4:
+        non_striker: LJ Wright
+        bowler: TMJ Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 4.5:
+        non_striker: LJ Wright
+        bowler: TMJ Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 4.6:
+        non_striker: Mohammad Rizwan
+        bowler: TMJ Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 5.1:
+        non_striker: LJ Wright
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.2:
+        non_striker: Mohammad Rizwan
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 5.3:
+        non_striker: LJ Wright
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 5.4:
+        non_striker: LJ Wright
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 5.5:
+        non_striker: Mohammad Rizwan
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+        wicket:
+          player_out: LJ Wright
+          kind: bowled
+    - 5.6:
+        non_striker: Mohammad Rizwan
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 6.1:
+        non_striker: JR Philippe
+        bowler: BAC Howell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Rizwan
+    - 6.2:
+        non_striker: Mohammad Rizwan
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 6.3:
+        non_striker: JR Philippe
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 6.4:
+        non_striker: JR Philippe
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 6.5:
+        non_striker: Mohammad Rizwan
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 6.6:
+        non_striker: Mohammad Rizwan
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 7.1:
+        non_striker: Mohammad Rizwan
+        bowler: TMJ Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 7.2:
+        non_striker: Mohammad Rizwan
+        bowler: TMJ Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 7.3:
+        non_striker: Mohammad Rizwan
+        bowler: TMJ Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 7.4:
+        non_striker: JR Philippe
+        bowler: TMJ Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 7.5:
+        non_striker: JR Philippe
+        bowler: TMJ Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Rizwan
+    - 7.6:
+        non_striker: JR Philippe
+        bowler: TMJ Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.1:
+        non_striker: JR Philippe
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.2:
+        non_striker: Mohammad Rizwan
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 8.3:
+        non_striker: JR Philippe
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 8.4:
+        non_striker: Mohammad Rizwan
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 8.5:
+        non_striker: Mohammad Rizwan
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 8.6:
+        non_striker: JR Philippe
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 9.1:
+        non_striker: Mohammad Rizwan
+        bowler: RF Higgins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 9.2:
+        non_striker: JR Philippe
+        bowler: RF Higgins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 9.3:
+        non_striker: JR Philippe
+        bowler: RF Higgins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Rizwan
+    - 9.4:
+        non_striker: JR Philippe
+        bowler: RF Higgins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 9.5:
+        non_striker: Mohammad Rizwan
+        bowler: RF Higgins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 9.6:
+        non_striker: JR Philippe
+        bowler: RF Higgins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 10.1:
+        non_striker: JR Philippe
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 10.2:
+        non_striker: Mohammad Rizwan
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 10.3:
+        non_striker: JR Philippe
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 10.4:
+        non_striker: Mohammad Rizwan
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 10.5:
+        non_striker: JR Philippe
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 10.6:
+        non_striker: Mohammad Rizwan
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 11.1:
+        non_striker: Mohammad Rizwan
+        bowler: RF Higgins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JR Philippe
+    - 11.2:
+        non_striker: Mohammad Rizwan
+        bowler: RF Higgins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 11.3:
+        non_striker: JR Philippe
+        bowler: RF Higgins
+        runs:
+          extras: 2
+          total: 3
+          batsman: 1
+        extras:
+          noballs: 2
+        batsman: Mohammad Rizwan
+    - 11.4:
+        non_striker: Mohammad Rizwan
+        bowler: RF Higgins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JR Philippe
+    - 11.5:
+        non_striker: Mohammad Rizwan
+        bowler: RF Higgins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JR Philippe
+    - 11.6:
+        non_striker: Mohammad Rizwan
+        bowler: RF Higgins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 11.7:
+        non_striker: JR Philippe
+        bowler: RF Higgins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 12.1:
+        non_striker: JR Philippe
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 12.2:
+        non_striker: JR Philippe
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 12.3:
+        non_striker: JR Philippe
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 12.4:
+        non_striker: Mohammad Rizwan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 12.5:
+        non_striker: JR Philippe
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 12.6:
+        non_striker: Mohammad Rizwan
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 13.1:
+        non_striker: JR Philippe
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 13.2:
+        non_striker: Mohammad Rizwan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 13.3:
+        non_striker: Mohammad Rizwan
+        bowler: PA van Meekeren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JR Philippe
+    - 13.4:
+        non_striker: Mohammad Rizwan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 13.5:
+        non_striker: JR Philippe
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+    - 13.6:
+        non_striker: JR Philippe
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 13.7:
+        non_striker: Mohammad Rizwan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 14.1:
+        non_striker: Mohammad Rizwan
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 14.2:
+        non_striker: JR Philippe
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 14.3:
+        non_striker: Mohammad Rizwan
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+    - 14.4:
+        non_striker: Mohammad Rizwan
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 14.5:
+        non_striker: JR Philippe
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Rizwan
+    - 14.6:
+        non_striker: JR Philippe
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rizwan
+    - 15.1:
+        non_striker: JR Philippe
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rizwan
+        wicket:
+          player_out: Mohammad Rizwan
+          fielders:
+          - James Bracey
+          kind: caught
+    - 15.2:
+        non_striker: JR Philippe
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 15.3:
+        non_striker: RS Bopara
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 15.4:
+        non_striker: JR Philippe
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 15.5:
+        non_striker: RS Bopara
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JR Philippe
+    - 15.6:
+        non_striker: JR Philippe
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 16.1:
+        non_striker: JR Philippe
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 16.2:
+        non_striker: RS Bopara
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Philippe
+        wicket:
+          player_out: JR Philippe
+          fielders:
+          - RF Higgins
+          kind: caught
+    - 16.3:
+        non_striker: RS Bopara
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 16.4:
+        non_striker: RS Bopara
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+    - 16.5:
+        non_striker: RS Bopara
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GHS Garton
+    - 16.6:
+        non_striker: GHS Garton
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 17.1:
+        non_striker: GHS Garton
+        bowler: Naseem Shah
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: RS Bopara
+    - 17.2:
+        non_striker: GHS Garton
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 17.3:
+        non_striker: GHS Garton
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 17.4:
+        non_striker: RS Bopara
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GHS Garton
+        wicket:
+          player_out: GHS Garton
+          fielders:
+          - JMR Taylor
+          kind: caught
+    - 17.5:
+        non_striker: RS Bopara
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 17.6:
+        non_striker: RS Bopara
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 17.7:
+        non_striker: DMW Rawlins
+        bowler: Naseem Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+        wicket:
+          player_out: RS Bopara
+          kind: bowled
+    - 18.1:
+        non_striker: HD Ward
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DMW Rawlins
+    - 18.2:
+        non_striker: HD Ward
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 18.3:
+        non_striker: DMW Rawlins
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HD Ward
+    - 18.4:
+        non_striker: HD Ward
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DMW Rawlins
+    - 18.5:
+        non_striker: DMW Rawlins
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Ward
+        wicket:
+          player_out: DMW Rawlins
+          fielders:
+          - James Bracey
+          kind: run out
+    - 18.6:
+        non_striker: HD Ward
+        bowler: DA Payne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WAT Beer
+        wicket:
+          player_out: WAT Beer
+          fielders:
+          - PA van Meekeren
+          kind: caught
+    - 19.1:
+        non_striker: AC Lenham
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HD Ward
+    - 19.2:
+        non_striker: AC Lenham
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Ward
+    - 19.3:
+        non_striker: AC Lenham
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HD Ward
+    - 19.4:
+        non_striker: AC Lenham
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Ward
+    - 19.5:
+        non_striker: AC Lenham
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Ward
+        wicket:
+          player_out: HD Ward
+          fielders:
+          - GD Phillips
+          kind: caught
+    - 19.6:
+        non_striker: AC Lenham
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Crocombe

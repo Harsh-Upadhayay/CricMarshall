@@ -1,0 +1,616 @@
+---
+meta:
+  data_version: 0.91
+  created: 2013-02-24
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Belfast
+  dates:
+  - 2012-06-23
+  gender: male
+  match_type: ODI
+  outcome:
+    result: no result
+  overs: 50
+  players:
+    Australia:
+    - DA Warner
+    - SR Watson
+    - MJ Clarke
+    - MS Wade
+    - XJ Doherty
+    - B Lee
+    - DJ Hussey
+    - PJ Forrest
+    - SPD Smith
+    - PJ Cummins
+    - BW Hilfenhaus
+    Ireland:
+    - WTS Porterfield
+    - PR Stirling
+    - EC Joyce
+    - NJ O'Brien
+    - GC Wilson
+    - KJ O'Brien
+    - AR Cusack
+    - DT Johnston
+    - JF Mooney
+    - GH Dockrell
+    - TJ Murtagh
+  registry:
+    people:
+      AR Cusack: 568e5a4a
+      B Lee: dd09ff8e
+      BC Broad: d6a7dd38
+      BW Hilfenhaus: f3171936
+      DA Warner: dcce6f09
+      DJ Hussey: fd835ab3
+      DT Johnston: e01895bb
+      EC Joyce: a48fc79d
+      GC Wilson: 05de1a5a
+      GH Dockrell: 99cddc5e
+      JF Mooney: aae9ce90
+      K Smith: a2b3ce7e
+      KJ O'Brien: 243431b5
+      M Hawthorne: ea123ee4
+      MA Eggleston: '0969c4f2'
+      MJ Clarke: f842c2cf
+      MS Wade: afa7e784
+      NJ O'Brien: 84826f48
+      PJ Cummins: ded9240e
+      PJ Forrest: 56c205b7
+      PR Stirling: cf494ffe
+      RA Kettleborough: 4017868f
+      SPD Smith: 30a45b23
+      SR Watson: 4329fbb5
+      TJ Murtagh: c89474d1
+      WTS Porterfield: ec02b798
+      XJ Doherty: 502b2c81
+  teams:
+  - Ireland
+  - Australia
+  toss:
+    decision: field
+    winner: Australia
+  umpires:
+  - M Hawthorne
+  - RA Kettleborough
+  venue: Civil Service Cricket Club, Stormont
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        batsman: WTS Porterfield
+        bowler: B Lee
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+        wicket:
+          kind: bowled
+          player_out: WTS Porterfield
+    - 0.2:
+        batsman: EC Joyce
+        bowler: B Lee
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 0.3:
+        batsman: EC Joyce
+        bowler: B Lee
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+        wicket:
+          kind: bowled
+          player_out: EC Joyce
+    - 0.4:
+        batsman: NJ O'Brien
+        bowler: B Lee
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 0.5:
+        batsman: NJ O'Brien
+        bowler: B Lee
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 0.6:
+        batsman: NJ O'Brien
+        bowler: B Lee
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 1.1:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 1.2:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        extras:
+          wides: 1
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 1
+          total: 1
+    - 1.3:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 1.4:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 1.5:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 1.6:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 1.7:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 2.1:
+        batsman: NJ O'Brien
+        bowler: B Lee
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 2.2:
+        batsman: NJ O'Brien
+        bowler: B Lee
+        non_striker: PR Stirling
+        runs:
+          batsman: 1
+          extras: 0
+          total: 1
+    - 2.3:
+        batsman: PR Stirling
+        bowler: B Lee
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 4
+          extras: 0
+          total: 4
+    - 2.4:
+        batsman: PR Stirling
+        bowler: B Lee
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 2.5:
+        batsman: PR Stirling
+        bowler: B Lee
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 2
+          extras: 0
+          total: 2
+    - 2.6:
+        batsman: PR Stirling
+        bowler: B Lee
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 3.1:
+        batsman: NJ O'Brien
+        bowler: BW Hilfenhaus
+        non_striker: PR Stirling
+        runs:
+          batsman: 1
+          extras: 0
+          total: 1
+    - 3.2:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 3.3:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 4
+          extras: 0
+          total: 4
+    - 3.4:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 4
+          extras: 0
+          total: 4
+    - 3.5:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 3.6:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 4.1:
+        batsman: NJ O'Brien
+        bowler: B Lee
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 4.2:
+        batsman: NJ O'Brien
+        bowler: B Lee
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 4.3:
+        batsman: NJ O'Brien
+        bowler: B Lee
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 4.4:
+        batsman: NJ O'Brien
+        bowler: B Lee
+        non_striker: PR Stirling
+        runs:
+          batsman: 1
+          extras: 0
+          total: 1
+    - 4.5:
+        batsman: PR Stirling
+        bowler: B Lee
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 2
+          extras: 0
+          total: 2
+    - 4.6:
+        batsman: PR Stirling
+        bowler: B Lee
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 5.1:
+        batsman: NJ O'Brien
+        bowler: PJ Cummins
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 5.2:
+        batsman: NJ O'Brien
+        bowler: PJ Cummins
+        non_striker: PR Stirling
+        runs:
+          batsman: 1
+          extras: 0
+          total: 1
+    - 5.3:
+        batsman: PR Stirling
+        bowler: PJ Cummins
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 5.4:
+        batsman: PR Stirling
+        bowler: PJ Cummins
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 1
+          extras: 0
+          total: 1
+    - 5.5:
+        batsman: NJ O'Brien
+        bowler: PJ Cummins
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 5.6:
+        batsman: NJ O'Brien
+        bowler: PJ Cummins
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 6.1:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 1
+          extras: 0
+          total: 1
+    - 6.2:
+        batsman: NJ O'Brien
+        bowler: BW Hilfenhaus
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 6.3:
+        batsman: NJ O'Brien
+        bowler: BW Hilfenhaus
+        non_striker: PR Stirling
+        runs:
+          batsman: 1
+          extras: 0
+          total: 1
+    - 6.4:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 6.5:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 6.6:
+        batsman: PR Stirling
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 2
+          extras: 0
+          total: 2
+    - 7.1:
+        batsman: NJ O'Brien
+        bowler: PJ Cummins
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 7.2:
+        batsman: NJ O'Brien
+        bowler: PJ Cummins
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 7.3:
+        batsman: NJ O'Brien
+        bowler: PJ Cummins
+        non_striker: PR Stirling
+        runs:
+          batsman: 4
+          extras: 0
+          total: 4
+    - 7.4:
+        batsman: NJ O'Brien
+        bowler: PJ Cummins
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 7.5:
+        batsman: NJ O'Brien
+        bowler: PJ Cummins
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 7.6:
+        batsman: NJ O'Brien
+        bowler: PJ Cummins
+        non_striker: PR Stirling
+        runs:
+          batsman: 1
+          extras: 0
+          total: 1
+    - 8.1:
+        batsman: NJ O'Brien
+        bowler: BW Hilfenhaus
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 8.2:
+        batsman: NJ O'Brien
+        bowler: BW Hilfenhaus
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 8.3:
+        batsman: NJ O'Brien
+        bowler: BW Hilfenhaus
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 8.4:
+        batsman: NJ O'Brien
+        bowler: BW Hilfenhaus
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 8.5:
+        batsman: NJ O'Brien
+        bowler: BW Hilfenhaus
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 8.6:
+        batsman: NJ O'Brien
+        bowler: BW Hilfenhaus
+        non_striker: PR Stirling
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 9.1:
+        batsman: PR Stirling
+        bowler: PJ Cummins
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 9.2:
+        batsman: PR Stirling
+        bowler: PJ Cummins
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 9.3:
+        batsman: PR Stirling
+        bowler: PJ Cummins
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 4
+          extras: 0
+          total: 4
+    - 9.4:
+        batsman: PR Stirling
+        bowler: PJ Cummins
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+        wicket:
+          fielders:
+          - MJ Clarke
+          kind: caught
+          player_out: PR Stirling
+    - 9.5:
+        batsman: GC Wilson
+        bowler: PJ Cummins
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 9.6:
+        batsman: GC Wilson
+        bowler: PJ Cummins
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 10.1:
+        batsman: NJ O'Brien
+        bowler: BW Hilfenhaus
+        non_striker: GC Wilson
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 10.2:
+        batsman: NJ O'Brien
+        bowler: BW Hilfenhaus
+        non_striker: GC Wilson
+        runs:
+          batsman: 1
+          extras: 0
+          total: 1
+    - 10.3:
+        batsman: GC Wilson
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 10.4:
+        batsman: GC Wilson
+        bowler: BW Hilfenhaus
+        non_striker: NJ O'Brien
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0

@@ -1,0 +1,2091 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dublin
+  competition: Cricket Ireland Inter-Provincial Twenty20 Trophy
+  dates:
+  - '2018-07-07'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Northern Knights
+    by:
+      runs: 39
+  overs: 20
+  players:
+    Northern Knights:
+    - AI Shields
+    - NG Jones
+    - MR Adair
+    - SC Getkate
+    - HT Tector
+    - A Dennison
+    - GJ Thompson
+    - NA Rock
+    - PA Eakin
+    - J Mulder
+    - J Cameron-Dow
+    Munster Reds:
+    - ST Doheny
+    - O Gunning
+    - N Pretorius
+    - RJ Forrest
+    - MC Sorensen
+    - DC Delany
+    - C Hassett
+    - JTA Benton
+    - R Jones
+    - J Barnes
+    - Yaqoob Ali
+  registry:
+    people:
+      A Dennison: 72b95896
+      AI Shields: a926442f
+      Bala Kailash: adcc3906
+      C Hassett: 900dc22e
+      DC Delany: 0f9c9d1d
+      GJ Thompson: 91f0792f
+      HT Tector: 59ea70a4
+      J Barnes: 82038f80
+      J Cameron-Dow: b9a2c483
+      J Mulder: 6b64e7a3
+      JTA Benton: 05d4c10d
+      MC Sorensen: 3f18724b
+      MR Adair: fc55ec67
+      N Pretorius: 398dd99c
+      NA Rock: 43f4087c
+      NG Jones: c5326dd0
+      O Gunning: db535275
+      PA Eakin: 3c9b9153
+      R Jones: 7413c5c6
+      RJ Forrest: a7378253
+      S Wijesundera: 0e9d839b
+      SA Richardson: 2ffee6e0
+      SC Getkate: c8065f31
+      ST Doheny: 4992d6f6
+      Yaqoob Ali: 92a9be81
+  teams:
+  - Northern Knights
+  - Munster Reds
+  toss:
+    winner: Munster Reds
+    decision: field
+  umpires:
+  - Bala Kailash
+  - S Wijesundera
+  venue: Pembroke Cricket Club, Sandymount, Dublin
+innings:
+- 1st innings:
+    team: Northern Knights
+    deliveries:
+    - 0.1:
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NG Jones
+        batsman: AI Shields
+    - 0.2:
+        non_striker: AI Shields
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NG Jones
+    - 0.3:
+        non_striker: AI Shields
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NG Jones
+    - 0.4:
+        non_striker: AI Shields
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NG Jones
+    - 0.5:
+        non_striker: NG Jones
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Shields
+    - 0.6:
+        non_striker: NG Jones
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Shields
+    - 1.1:
+        non_striker: NG Jones
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Shields
+    - 1.2:
+        non_striker: NG Jones
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AI Shields
+    - 1.3:
+        non_striker: NG Jones
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AI Shields
+    - 1.4:
+        non_striker: NG Jones
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AI Shields
+    - 1.5:
+        non_striker: NG Jones
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Shields
+    - 1.6:
+        non_striker: NG Jones
+        bowler: J Barnes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AI Shields
+    - 1.7:
+        non_striker: NG Jones
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AI Shields
+    - 2.1:
+        non_striker: AI Shields
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NG Jones
+    - 2.2:
+        non_striker: AI Shields
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NG Jones
+    - 2.3:
+        non_striker: AI Shields
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NG Jones
+    - 2.4:
+        non_striker: AI Shields
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NG Jones
+        wicket:
+          player_out: NG Jones
+          fielders:
+          - N Pretorius
+          kind: caught
+    - 2.5:
+        non_striker: AI Shields
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 2.6:
+        non_striker: AI Shields
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 3.1:
+        non_striker: AI Shields
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Adair
+    - 3.2:
+        non_striker: AI Shields
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 3.3:
+        non_striker: AI Shields
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 3.4:
+        non_striker: AI Shields
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 3.5:
+        non_striker: AI Shields
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 3.6:
+        non_striker: MR Adair
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AI Shields
+    - 4.1:
+        non_striker: AI Shields
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 4.2:
+        non_striker: AI Shields
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 4.3:
+        non_striker: AI Shields
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Adair
+    - 4.4:
+        non_striker: MR Adair
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Shields
+        wicket:
+          player_out: AI Shields
+          kind: bowled
+    - 4.5:
+        non_striker: MR Adair
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Getkate
+    - 4.6:
+        non_striker: MR Adair
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 5.1:
+        non_striker: MR Adair
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 5.2:
+        non_striker: SC Getkate
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+    - 5.3:
+        non_striker: SC Getkate
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MR Adair
+    - 5.4:
+        non_striker: SC Getkate
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Adair
+        wicket:
+          player_out: MR Adair
+          fielders:
+          - JTA Benton
+          kind: caught
+    - 5.5:
+        non_striker: SC Getkate
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 5.6:
+        non_striker: SC Getkate
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.1:
+        non_striker: SC Getkate
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.2:
+        non_striker: HT Tector
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 6.3:
+        non_striker: SC Getkate
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 6.4:
+        non_striker: SC Getkate
+        bowler: JTA Benton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 6.5:
+        non_striker: SC Getkate
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 6.6:
+        non_striker: SC Getkate
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 6.7:
+        non_striker: HT Tector
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 7.1:
+        non_striker: SC Getkate
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 7.2:
+        non_striker: HT Tector
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+        wicket:
+          player_out: SC Getkate
+          kind: lbw
+    - 7.3:
+        non_striker: HT Tector
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dennison
+    - 7.4:
+        non_striker: HT Tector
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dennison
+    - 7.5:
+        non_striker: HT Tector
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dennison
+    - 7.6:
+        non_striker: A Dennison
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 8.1:
+        non_striker: HT Tector
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dennison
+    - 8.2:
+        non_striker: A Dennison
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.3:
+        non_striker: HT Tector
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dennison
+    - 8.4:
+        non_striker: HT Tector
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dennison
+    - 8.5:
+        non_striker: HT Tector
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dennison
+    - 8.6:
+        non_striker: A Dennison
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - N Pretorius
+          kind: caught
+    - 9.1:
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GJ Thompson
+        batsman: A Dennison
+    - 9.2:
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GJ Thompson
+        batsman: A Dennison
+    - 9.3:
+        non_striker: A Dennison
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Thompson
+    - 9.4:
+        non_striker: GJ Thompson
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dennison
+    - 9.5:
+        non_striker: GJ Thompson
+        bowler: Yaqoob Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Dennison
+    - 9.6:
+        non_striker: GJ Thompson
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dennison
+    - 9.7:
+        non_striker: A Dennison
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Thompson
+    - 10.1:
+        non_striker: A Dennison
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Thompson
+    - 10.2:
+        non_striker: A Dennison
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+    - 10.3:
+        non_striker: A Dennison
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Thompson
+    - 10.4:
+        non_striker: GJ Thompson
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dennison
+    - 10.5:
+        non_striker: GJ Thompson
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Dennison
+    - 10.6:
+        non_striker: GJ Thompson
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dennison
+    - 11.1:
+        non_striker: A Dennison
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+    - 11.2:
+        non_striker: A Dennison
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Thompson
+    - 11.3:
+        non_striker: GJ Thompson
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dennison
+    - 11.4:
+        non_striker: GJ Thompson
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dennison
+    - 11.5:
+        non_striker: A Dennison
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Thompson
+        wicket:
+          player_out: GJ Thompson
+          fielders:
+          - ST Doheny
+          kind: run out
+    - 11.6:
+        non_striker: NA Rock
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dennison
+    - 12.1:
+        non_striker: NA Rock
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dennison
+    - 12.2:
+        non_striker: NA Rock
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dennison
+    - 12.3:
+        non_striker: A Dennison
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 12.4:
+        non_striker: NA Rock
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dennison
+    - 12.5:
+        non_striker: NA Rock
+        bowler: DC Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Dennison
+    - 12.6:
+        non_striker: NA Rock
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dennison
+    - 12.7:
+        non_striker: A Dennison
+        bowler: DC Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NA Rock
+    - 12.8:
+        non_striker: A Dennison
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 13.1:
+        non_striker: A Dennison
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 13.2:
+        non_striker: A Dennison
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 13.3:
+        non_striker: NA Rock
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dennison
+    - 13.4:
+        non_striker: NA Rock
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dennison
+    - 13.5:
+        non_striker: NA Rock
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dennison
+    - 13.6:
+        non_striker: A Dennison
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 14.1:
+        non_striker: NA Rock
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Dennison
+    - 14.2:
+        non_striker: NA Rock
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dennison
+    - 14.3:
+        non_striker: A Dennison
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 14.4:
+        non_striker: A Dennison
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Rock
+    - 14.5:
+        non_striker: NA Rock
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dennison
+        wicket:
+          player_out: A Dennison
+          fielders:
+          - R Jones
+          kind: caught
+    - 14.6:
+        non_striker: NA Rock
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Eakin
+    - 15.1:
+        non_striker: PA Eakin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 15.2:
+        non_striker: PA Eakin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+    - 15.3:
+        non_striker: PA Eakin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+        wicket:
+          player_out: NA Rock
+          kind: bowled
+    - 15.4:
+        non_striker: PA Eakin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mulder
+    - 15.5:
+        non_striker: J Mulder
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Eakin
+    - 15.6:
+        non_striker: PA Eakin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mulder
+    - 16.1:
+        non_striker: J Mulder
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Eakin
+    - 16.2:
+        non_striker: J Mulder
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Eakin
+    - 16.3:
+        non_striker: J Mulder
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Eakin
+    - 16.4:
+        non_striker: J Mulder
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Eakin
+    - 16.5:
+        non_striker: J Mulder
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Eakin
+    - 16.6:
+        non_striker: J Mulder
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PA Eakin
+    - 17.1:
+        non_striker: PA Eakin
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mulder
+    - 17.2:
+        non_striker: J Mulder
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Eakin
+    - 17.3:
+        non_striker: PA Eakin
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Mulder
+    - 17.4:
+        non_striker: PA Eakin
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mulder
+    - 17.5:
+        non_striker: J Mulder
+        bowler: J Barnes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PA Eakin
+    - 17.6:
+        non_striker: J Mulder
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Eakin
+    - 17.7:
+        non_striker: PA Eakin
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mulder
+    - 18.1:
+        non_striker: PA Eakin
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mulder
+    - 18.2:
+        non_striker: PA Eakin
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mulder
+    - 18.3:
+        non_striker: J Mulder
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA Eakin
+    - 18.4:
+        non_striker: J Mulder
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Eakin
+    - 18.5:
+        non_striker: PA Eakin
+        bowler: MC Sorensen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: J Mulder
+    - 18.6:
+        non_striker: J Mulder
+        bowler: MC Sorensen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Eakin
+    - 19.1:
+        non_striker: J Mulder
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PA Eakin
+    - 19.2:
+        non_striker: J Mulder
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Eakin
+        wicket:
+          player_out: PA Eakin
+          kind: bowled
+    - 19.3:
+        non_striker: J Mulder
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Cameron-Dow
+    - 19.4:
+        non_striker: J Cameron-Dow
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mulder
+    - 19.5:
+        non_striker: J Mulder
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cameron-Dow
+    - 19.6:
+        non_striker: J Mulder
+        bowler: J Barnes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Cameron-Dow
+        wicket:
+          player_out: J Cameron-Dow
+          fielders:
+          - JTA Benton
+          kind: run out
+- 2nd innings:
+    team: Munster Reds
+    deliveries:
+    - 0.1:
+        bowler: HT Tector
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: O Gunning
+        batsman: ST Doheny
+    - 0.2:
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: O Gunning
+        batsman: ST Doheny
+    - 0.3:
+        non_striker: ST Doheny
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Gunning
+    - 0.4:
+        non_striker: ST Doheny
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Gunning
+    - 0.5:
+        non_striker: ST Doheny
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Gunning
+    - 0.6:
+        non_striker: ST Doheny
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Gunning
+    - 0.7:
+        non_striker: ST Doheny
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Gunning
+    - 1.1:
+        non_striker: O Gunning
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 1.2:
+        non_striker: O Gunning
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 1.3:
+        non_striker: O Gunning
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 1.4:
+        non_striker: O Gunning
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 1.5:
+        non_striker: ST Doheny
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Gunning
+    - 1.6:
+        non_striker: ST Doheny
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Gunning
+    - 2.1:
+        non_striker: O Gunning
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 2.2:
+        non_striker: ST Doheny
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Gunning
+    - 2.3:
+        non_striker: O Gunning
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 2.4:
+        non_striker: ST Doheny
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Gunning
+    - 2.5:
+        non_striker: O Gunning
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 2.6:
+        non_striker: ST Doheny
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Gunning
+    - 3.1:
+        non_striker: O Gunning
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 3.2:
+        non_striker: O Gunning
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 3.3:
+        non_striker: ST Doheny
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Gunning
+    - 3.4:
+        non_striker: O Gunning
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Doheny
+    - 3.5:
+        non_striker: O Gunning
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Doheny
+    - 3.6:
+        non_striker: O Gunning
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 4.1:
+        non_striker: ST Doheny
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Gunning
+    - 4.2:
+        non_striker: ST Doheny
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Gunning
+    - 4.3:
+        non_striker: O Gunning
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 4.4:
+        non_striker: ST Doheny
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Gunning
+    - 4.5:
+        non_striker: O Gunning
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 4.6:
+        non_striker: ST Doheny
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Gunning
+    - 5.1:
+        non_striker: O Gunning
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Doheny
+    - 5.2:
+        non_striker: O Gunning
+        bowler: NG Jones
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: ST Doheny
+    - 5.3:
+        non_striker: O Gunning
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 5.4:
+        non_striker: ST Doheny
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Gunning
+    - 5.5:
+        non_striker: O Gunning
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 5.6:
+        non_striker: O Gunning
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 5.7:
+        non_striker: ST Doheny
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Gunning
+    - 6.1:
+        non_striker: ST Doheny
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Gunning
+    - 6.2:
+        non_striker: O Gunning
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Doheny
+    - 6.3:
+        non_striker: O Gunning
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+        wicket:
+          player_out: ST Doheny
+          fielders:
+          - NG Jones
+          kind: caught
+    - 6.4:
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Pretorius
+        batsman: O Gunning
+    - 6.5:
+        non_striker: O Gunning
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pretorius
+    - 6.6:
+        non_striker: N Pretorius
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Gunning
+    - 7.1:
+        non_striker: N Pretorius
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Gunning
+        wicket:
+          player_out: O Gunning
+          kind: lbw
+    - 7.2:
+        non_striker: N Pretorius
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 7.3:
+        non_striker: N Pretorius
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 7.4:
+        non_striker: N Pretorius
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Forrest
+    - 7.5:
+        non_striker: N Pretorius
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 7.6:
+        non_striker: RJ Forrest
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pretorius
+    - 8.1:
+        non_striker: RJ Forrest
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pretorius
+    - 8.2:
+        non_striker: N Pretorius
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 8.3:
+        non_striker: RJ Forrest
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pretorius
+    - 8.4:
+        non_striker: N Pretorius
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJ Forrest
+    - 8.5:
+        non_striker: N Pretorius
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 8.6:
+        non_striker: RJ Forrest
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pretorius
+    - 9.1:
+        non_striker: RJ Forrest
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+    - 9.2:
+        non_striker: RJ Forrest
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pretorius
+    - 9.3:
+        non_striker: N Pretorius
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJ Forrest
+    - 9.4:
+        non_striker: N Pretorius
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 9.5:
+        non_striker: N Pretorius
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+        wicket:
+          player_out: RJ Forrest
+          kind: caught and bowled
+    - 9.6:
+        non_striker: MC Sorensen
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pretorius
+    - 10.1:
+        non_striker: MC Sorensen
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+        wicket:
+          player_out: N Pretorius
+          kind: bowled
+    - 10.2:
+        non_striker: MC Sorensen
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 10.3:
+        non_striker: MC Sorensen
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 10.4:
+        non_striker: DC Delany
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Sorensen
+    - 10.5:
+        non_striker: MC Sorensen
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 10.6:
+        non_striker: MC Sorensen
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 11.1:
+        non_striker: DC Delany
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Sorensen
+    - 11.2:
+        non_striker: MC Sorensen
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 11.3:
+        non_striker: DC Delany
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Sorensen
+    - 11.4:
+        non_striker: DC Delany
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Sorensen
+    - 11.5:
+        non_striker: MC Sorensen
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 11.6:
+        non_striker: DC Delany
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Sorensen
+    - 12.1:
+        non_striker: DC Delany
+        bowler: PA Eakin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Sorensen
+    - 12.2:
+        non_striker: DC Delany
+        bowler: PA Eakin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Sorensen
+    - 12.3:
+        non_striker: MC Sorensen
+        bowler: PA Eakin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 12.4:
+        non_striker: MC Sorensen
+        bowler: PA Eakin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 12.5:
+        non_striker: DC Delany
+        bowler: PA Eakin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Sorensen
+        wicket:
+          player_out: MC Sorensen
+          fielders:
+          - NG Jones
+          kind: caught
+    - 12.6:
+        non_striker: C Hassett
+        bowler: PA Eakin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 13.1:
+        non_striker: DC Delany
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hassett
+    - 13.2:
+        non_striker: DC Delany
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hassett
+    - 13.3:
+        non_striker: DC Delany
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Hassett
+    - 13.4:
+        non_striker: C Hassett
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 13.5:
+        non_striker: DC Delany
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Hassett
+        wicket:
+          player_out: C Hassett
+          kind: lbw
+    - 13.6:
+        non_striker: DC Delany
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JTA Benton
+    - 14.1:
+        non_striker: DC Delany
+        bowler: PA Eakin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JTA Benton
+    - 14.2:
+        non_striker: DC Delany
+        bowler: PA Eakin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JTA Benton
+    - 14.3:
+        non_striker: JTA Benton
+        bowler: PA Eakin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 14.4:
+        non_striker: DC Delany
+        bowler: PA Eakin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JTA Benton
+    - 14.5:
+        non_striker: DC Delany
+        bowler: PA Eakin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JTA Benton
+    - 14.6:
+        non_striker: JTA Benton
+        bowler: PA Eakin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 15.1:
+        non_striker: DC Delany
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JTA Benton
+    - 15.2:
+        non_striker: DC Delany
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JTA Benton
+    - 15.3:
+        non_striker: JTA Benton
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 15.4:
+        non_striker: DC Delany
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JTA Benton
+        wicket:
+          player_out: JTA Benton
+          fielders:
+          - AI Shields
+          kind: run out
+    - 15.5:
+        non_striker: DC Delany
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Jones
+    - 15.6:
+        non_striker: R Jones
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Delany
+    - 16.1:
+        non_striker: DC Delany
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Jones
+    - 16.2:
+        non_striker: R Jones
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Delany
+    - 16.3:
+        non_striker: R Jones
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 16.4:
+        non_striker: DC Delany
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Jones
+        wicket:
+          player_out: R Jones
+          kind: bowled
+    - 16.5:
+        non_striker: DC Delany
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Barnes
+    - 16.6:
+        non_striker: DC Delany
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barnes
+    - 17.1:
+        non_striker: DC Delany
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Barnes
+    - 17.2:
+        non_striker: J Barnes
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Delany
+    - 17.3:
+        non_striker: J Barnes
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+        wicket:
+          player_out: DC Delany
+          fielders:
+          - PA Eakin
+          kind: caught
+    - 17.4:
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Yaqoob Ali
+        batsman: J Barnes
+    - 17.5:
+        non_striker: J Barnes
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yaqoob Ali
+    - 17.6:
+        non_striker: J Barnes
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yaqoob Ali
+    - 18.1:
+        non_striker: Yaqoob Ali
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barnes
+    - 18.2:
+        non_striker: Yaqoob Ali
+        bowler: NG Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Barnes
+        wicket:
+          player_out: J Barnes
+          fielders:
+          - J Mulder
+          kind: caught

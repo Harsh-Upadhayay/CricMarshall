@@ -1,0 +1,1865 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-12-20'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: Super Smash
+  dates:
+  - '2021-12-20'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Northern Districts
+    by:
+      wickets: 6
+  overs: 20
+  players:
+    Auckland:
+    - MJ Guptill
+    - GH Worker
+    - MS Chapman
+    - CJ Briggs
+    - RR O'Donnell
+    - BJ Horne
+    - SM Solia
+    - LH Ferguson
+    - L Delport
+    - A Ashok
+    - BG Lister
+    Northern Districts:
+    - KD Clarke
+    - TL Seifert
+    - JA Raval
+    - JF Carter
+    - C de Grandhomme
+    - HR Cooper
+    - A Verma
+    - IS Sodhi
+    - ZN Gibson
+    - FL Walker
+    - MJ Fisher
+  registry:
+    people:
+      A Ashok: 321be7e3
+      A Verma: 8e9a5d20
+      AL Hill: 4165ced0
+      BF Bowden: efc0a862
+      BG Lister: 79f5bc26
+      BJ Horne: 5d99a16a
+      C High: ed55e0da
+      C de Grandhomme: 94d7f855
+      CJ Briggs: 6c3dd24e
+      FL Walker: e6e154e3
+      GH Worker: 51a36d3e
+      HR Cooper: 99528b4b
+      IS Sodhi: 641ac5ff
+      JA Raval: 5f966ec0
+      JF Carter: 125fa4de
+      JM Dempsey: 153c9f33
+      KD Clarke: 7a12be0a
+      L Delport: 2c1438ef
+      LH Ferguson: 2f9d0389
+      MJ Fisher: 7068c81e
+      MJ Guptill: 2be41edb
+      MS Chapman: 7fa12533
+      RR O'Donnell: 2742086d
+      SM Solia: fd9f43bb
+      TL Seifert: 4663bd23
+      WR Knights: 63cbf8d8
+      ZN Gibson: eec5fe00
+  teams:
+  - Auckland
+  - Northern Districts
+  toss:
+    winner: Northern Districts
+    decision: field
+  umpires:
+  - BF Bowden
+  - WR Knights
+  venue: Eden Park Outer Oval, Auckland
+innings:
+- 1st innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Worker
+        batsman: MJ Guptill
+    - 0.2:
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Worker
+        batsman: MJ Guptill
+    - 0.3:
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Worker
+        batsman: MJ Guptill
+    - 0.4:
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Worker
+        batsman: MJ Guptill
+    - 0.5:
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GH Worker
+        batsman: MJ Guptill
+    - 0.6:
+        non_striker: MJ Guptill
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 1.1:
+        non_striker: MJ Guptill
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.2:
+        non_striker: MJ Guptill
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 1.3:
+        non_striker: MJ Guptill
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+        wicket:
+          player_out: GH Worker
+          fielders:
+          - JA Raval
+          kind: caught
+    - 1.4:
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Chapman
+        batsman: MJ Guptill
+    - 1.5:
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MS Chapman
+        batsman: MJ Guptill
+    - 1.6:
+        non_striker: MJ Guptill
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 2.1:
+        non_striker: MJ Guptill
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 2.2:
+        non_striker: MJ Guptill
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 2.3:
+        non_striker: MS Chapman
+        bowler: ZN Gibson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: MJ Guptill
+    - 2.4:
+        non_striker: MS Chapman
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 2.5:
+        non_striker: MS Chapman
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 2.6:
+        non_striker: MJ Guptill
+        bowler: ZN Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 2.7:
+        non_striker: MJ Guptill
+        bowler: ZN Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 2.8:
+        non_striker: MJ Guptill
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 3.1:
+        non_striker: MJ Guptill
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 3.2:
+        non_striker: MS Chapman
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.3:
+        non_striker: MS Chapman
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 3.4:
+        non_striker: MJ Guptill
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - KD Clarke
+          kind: run out
+    - 3.5:
+        non_striker: CJ Briggs
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+        wicket:
+          player_out: MJ Guptill
+          kind: bowled
+    - 3.6:
+        non_striker: CJ Briggs
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 4.1:
+        non_striker: RR O'Donnell
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Briggs
+    - 4.2:
+        non_striker: CJ Briggs
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 4.3:
+        non_striker: CJ Briggs
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 4.4:
+        non_striker: CJ Briggs
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 4.5:
+        non_striker: CJ Briggs
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 4.6:
+        non_striker: CJ Briggs
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 5.1:
+        non_striker: RR O'Donnell
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+    - 5.2:
+        non_striker: RR O'Donnell
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Briggs
+        wicket:
+          player_out: CJ Briggs
+          fielders:
+          - IS Sodhi
+          kind: caught
+    - 5.3:
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BJ Horne
+        batsman: RR O'Donnell
+    - 5.4:
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BJ Horne
+        batsman: RR O'Donnell
+    - 5.5:
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BJ Horne
+        batsman: RR O'Donnell
+    - 5.6:
+        non_striker: BJ Horne
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 6.1:
+        non_striker: RR O'Donnell
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 6.2:
+        non_striker: RR O'Donnell
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 6.3:
+        non_striker: BJ Horne
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 6.4:
+        non_striker: BJ Horne
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 6.5:
+        non_striker: RR O'Donnell
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Horne
+    - 6.6:
+        non_striker: RR O'Donnell
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 7.1:
+        non_striker: RR O'Donnell
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 7.2:
+        non_striker: BJ Horne
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 7.3:
+        non_striker: BJ Horne
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 7.4:
+        non_striker: RR O'Donnell
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Horne
+    - 7.5:
+        non_striker: RR O'Donnell
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 7.6:
+        non_striker: BJ Horne
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 8.1:
+        non_striker: BJ Horne
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+        wicket:
+          player_out: RR O'Donnell
+          fielders:
+          - ZN Gibson
+          kind: caught
+    - 8.2:
+        non_striker: BJ Horne
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 8.3:
+        non_striker: SM Solia
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 8.4:
+        non_striker: SM Solia
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+        wicket:
+          player_out: BJ Horne
+          fielders:
+          - MJ Fisher
+          kind: caught
+    - 8.5:
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: LH Ferguson
+        batsman: SM Solia
+    - 8.6:
+        non_striker: LH Ferguson
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 9.1:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LH Ferguson
+    - 9.2:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 9.3:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 9.4:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 9.5:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 9.6:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 10.1:
+        non_striker: LH Ferguson
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 10.2:
+        non_striker: SM Solia
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Ferguson
+    - 10.3:
+        non_striker: SM Solia
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Ferguson
+    - 10.4:
+        non_striker: SM Solia
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 10.5:
+        non_striker: SM Solia
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 10.6:
+        non_striker: LH Ferguson
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 11.1:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 11.2:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 11.3:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 11.4:
+        non_striker: SM Solia
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 11.5:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 11.6:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          kind: lbw
+    - 12.1:
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Delport
+        batsman: LH Ferguson
+    - 12.2:
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: L Delport
+        batsman: LH Ferguson
+    - 12.3:
+        non_striker: LH Ferguson
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delport
+    - 12.4:
+        non_striker: L Delport
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 12.5:
+        non_striker: LH Ferguson
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delport
+    - 12.6:
+        non_striker: LH Ferguson
+        bowler: A Verma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Delport
+    - 12.7:
+        non_striker: LH Ferguson
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delport
+        wicket:
+          player_out: L Delport
+          fielders:
+          - KD Clarke
+          kind: caught
+    - 13.1:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ashok
+    - 13.2:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ashok
+    - 13.3:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ashok
+    - 13.4:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ashok
+        wicket:
+          player_out: A Ashok
+          kind: bowled
+    - 13.5:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Lister
+    - 13.6:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Lister
+    - 14.1:
+        non_striker: LH Ferguson
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Lister
+    - 14.2:
+        non_striker: BG Lister
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Ferguson
+    - 14.3:
+        non_striker: BG Lister
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 14.4:
+        non_striker: BG Lister
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Ferguson
+    - 14.5:
+        non_striker: BG Lister
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 14.6:
+        non_striker: LH Ferguson
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Lister
+    - 15.1:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Lister
+    - 15.2:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Lister
+    - 15.3:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Lister
+    - 15.4:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Lister
+    - 15.5:
+        non_striker: BG Lister
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 15.6:
+        non_striker: LH Ferguson
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Lister
+    - 16.1:
+        non_striker: BG Lister
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 16.2:
+        non_striker: LH Ferguson
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Lister
+    - 16.3:
+        non_striker: LH Ferguson
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BG Lister
+    - 16.4:
+        non_striker: LH Ferguson
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Lister
+    - 16.5:
+        non_striker: BG Lister
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 16.6:
+        non_striker: LH Ferguson
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BG Lister
+    - 17.1:
+        non_striker: BG Lister
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Ferguson
+    - 17.2:
+        non_striker: BG Lister
+        bowler: FL Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+        wicket:
+          player_out: LH Ferguson
+          fielders:
+          - JA Raval
+          kind: caught
+- 2nd innings:
+    team: Northern Districts
+    deliveries:
+    - 0.1:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.2:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.3:
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.4:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.5:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.6:
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.7:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.8:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.1:
+        non_striker: TL Seifert
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KD Clarke
+    - 1.2:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.3:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.4:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 1.5:
+        non_striker: TL Seifert
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 1.6:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.1:
+        non_striker: TL Seifert
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 2.2:
+        non_striker: TL Seifert
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 2.3:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TL Seifert
+    - 2.4:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.5:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 2.6:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.7:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 3.1:
+        non_striker: TL Seifert
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 3.2:
+        non_striker: TL Seifert
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 3.3:
+        non_striker: TL Seifert
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Clarke
+    - 3.4:
+        non_striker: TL Seifert
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 3.5:
+        non_striker: TL Seifert
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 3.6:
+        non_striker: TL Seifert
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 4.1:
+        non_striker: KD Clarke
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.2:
+        non_striker: TL Seifert
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 4.3:
+        non_striker: TL Seifert
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 4.4:
+        non_striker: KD Clarke
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 4.5:
+        non_striker: KD Clarke
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 4.6:
+        non_striker: TL Seifert
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 5.1:
+        non_striker: TL Seifert
+        bowler: L Delport
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Clarke
+    - 5.2:
+        non_striker: TL Seifert
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 5.3:
+        non_striker: TL Seifert
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KD Clarke
+    - 5.4:
+        non_striker: TL Seifert
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 5.5:
+        non_striker: KD Clarke
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 5.6:
+        non_striker: KD Clarke
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 5.7:
+        non_striker: KD Clarke
+        bowler: L Delport
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TL Seifert
+    - 5.8:
+        non_striker: KD Clarke
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 6.1:
+        non_striker: TL Seifert
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 6.2:
+        non_striker: KD Clarke
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 6.3:
+        non_striker: KD Clarke
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 6.4:
+        non_striker: TL Seifert
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 6.5:
+        non_striker: KD Clarke
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 6.6:
+        non_striker: KD Clarke
+        bowler: A Ashok
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: TL Seifert
+    - 6.7:
+        non_striker: TL Seifert
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 7.1:
+        non_striker: TL Seifert
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 7.2:
+        non_striker: TL Seifert
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 7.3:
+        non_striker: TL Seifert
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 7.4:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 7.5:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 7.6:
+        non_striker: KD Clarke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 8.1:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 8.2:
+        non_striker: TL Seifert
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Clarke
+    - 8.3:
+        non_striker: TL Seifert
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KD Clarke
+    - 8.4:
+        non_striker: TL Seifert
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KD Clarke
+    - 8.5:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 8.6:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 8.7:
+        non_striker: KD Clarke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 9.1:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 9.2:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KD Clarke
+    - 9.3:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 9.4:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+        wicket:
+          player_out: KD Clarke
+          kind: bowled
+    - 9.5:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 9.6:
+        non_striker: JA Raval
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 9.7:
+        non_striker: JA Raval
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TL Seifert
+    - 9.8:
+        non_striker: JA Raval
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 10.1:
+        non_striker: JA Raval
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 10.2:
+        non_striker: TL Seifert
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 10.3:
+        non_striker: TL Seifert
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+        wicket:
+          player_out: JA Raval
+          fielders:
+          - A Ashok
+          kind: caught
+    - 10.4:
+        non_striker: TL Seifert
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 10.5:
+        non_striker: TL Seifert
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 10.6:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 11.1:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 11.2:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 11.3:
+        non_striker: JF Carter
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TL Seifert
+    - 11.4:
+        non_striker: JF Carter
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 11.5:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 11.6:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+        wicket:
+          player_out: JF Carter
+          fielders:
+          - CJ Briggs
+          kind: caught
+    - 11.7:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 12.1:
+        non_striker: C de Grandhomme
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 12.2:
+        non_striker: TL Seifert
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 12.3:
+        non_striker: C de Grandhomme
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 12.4:
+        non_striker: C de Grandhomme
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 12.5:
+        non_striker: C de Grandhomme
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 12.6:
+        non_striker: C de Grandhomme
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 13.1:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C de Grandhomme
+    - 13.2:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 13.3:
+        non_striker: C de Grandhomme
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 13.4:
+        non_striker: C de Grandhomme
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 13.5:
+        non_striker: TL Seifert
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Grandhomme
+    - 13.6:
+        non_striker: C de Grandhomme
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TL Seifert
+    - 13.7:
+        non_striker: C de Grandhomme
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 14.1:
+        non_striker: C de Grandhomme
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 14.2:
+        non_striker: C de Grandhomme
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 14.3:
+        non_striker: TL Seifert
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+    - 14.4:
+        non_striker: TL Seifert
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C de Grandhomme
+    - 14.5:
+        non_striker: TL Seifert
+        bowler: A Ashok
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C de Grandhomme
+    - 14.6:
+        non_striker: TL Seifert
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+        wicket:
+          player_out: C de Grandhomme
+          fielders:
+          - LH Ferguson
+          kind: caught
+    - 14.7:
+        non_striker: HR Cooper
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 15.1:
+        non_striker: TL Seifert
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper

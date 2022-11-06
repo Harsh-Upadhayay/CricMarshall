@@ -1,0 +1,3988 @@
+---
+meta:
+  data_version: 0.91
+  created: '2020-11-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  dates:
+  - '2010-05-28'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Bermuda
+    by:
+      wickets: 7
+  overs: 50
+  player_of_match:
+  - K Tucker
+  players:
+    Bahamas:
+    - M Taylor
+    - H Gilliard
+    - RA Tappin
+    - JR Barry
+    - R Parkes
+    - GT Taylor
+    - DG Weakley
+    - NH Ekanayake
+    - A Peters
+    - J Adderley
+    - G Irvin
+    Bermuda:
+    - FS Crockwell
+    - J Edness
+    - SD Outerbridge
+    - DL Hemp
+    - JJ Tucker
+    - K Tucker
+    - RJ Trott
+    - MO Jones
+    - J Gilbert
+    - IH Romaine
+    - J West
+  registry:
+    people:
+      A Peters: 9e5225be
+      AFG Griffith: 4d46eb96
+      DG Weakley: 224a9f5e
+      DL Hemp: cb263798
+      FS Crockwell: e932483d
+      G Irvin: 17530fd9
+      GT Taylor: c674f722
+      H Gilliard: 49f84b87
+      H Smythe: 2efac75d
+      IH Romaine: 54725e8b
+      J Adderley: 33c4f881
+      J Edness: 74487d79
+      J Gilbert: db3f0650
+      J West: d46933ed
+      JJ Tucker: bceb1b07
+      JR Barry: 9bc324b5
+      K Bayney: a2c35938
+      K Tucker: dd0ecb8b
+      M Taylor: 92075cdc
+      MO Jones: 0e0afd8b
+      NH Ekanayake: 00c98c78
+      R Austin: b6af4f1b
+      R Parkes: 26815eee
+      RA Tappin: 7ce244fd
+      RJ Trott: 52f96571
+      SD Outerbridge: 9295145b
+  teams:
+  - Bahamas
+  - Bermuda
+  toss:
+    decision: field
+    winner: Bermuda
+  umpires:
+  - H Smythe
+  - K Bayney
+  venue: National Stadium
+innings:
+- 1st innings:
+    team: Bahamas
+    deliveries:
+    - 0.1:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: M Taylor
+    - 0.2:
+        non_striker: H Gilliard
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Taylor
+        wicket:
+          player_out: M Taylor
+          fielders:
+          - DL Hemp
+          kind: caught
+    - 0.3:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 0.4:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 0.5:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 0.6:
+        non_striker: H Gilliard
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tappin
+    - 1.1:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 1.2:
+        bowler: K Tucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 1.3:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 1.4:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 1.5:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 1.6:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 1.7:
+        non_striker: H Gilliard
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tappin
+    - 2.1:
+        bowler: MO Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 2.2:
+        bowler: MO Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 2.3:
+        bowler: MO Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 2.4:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 2.5:
+        bowler: MO Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 2.6:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 2.7:
+        bowler: MO Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 2.8:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 2.9:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 2.10:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 2.11:
+        bowler: MO Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 2.12:
+        non_striker: H Gilliard
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tappin
+    - 3.1:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 3.2:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 3.3:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 3.4:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 3.5:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 3.6:
+        non_striker: RA Tappin
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Gilliard
+    - 4.1:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 4.2:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 4.3:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 4.4:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 4.5:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 4.6:
+        bowler: MO Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 4.7:
+        non_striker: H Gilliard
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tappin
+    - 5.1:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 5.2:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 5.3:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 5.4:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 5.5:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RA Tappin
+        batsman: H Gilliard
+    - 5.6:
+        non_striker: RA Tappin
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Gilliard
+    - 6.1:
+        bowler: MO Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 6.2:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 6.3:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 6.4:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 6.5:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: RA Tappin
+    - 6.6:
+        non_striker: H Gilliard
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Tappin
+        wicket:
+          player_out: RA Tappin
+          fielders:
+          - JJ Tucker
+          kind: caught
+    - 6.7:
+        non_striker: H Gilliard
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Barry
+    - 7.1:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JR Barry
+        batsman: H Gilliard
+    - 7.2:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JR Barry
+        batsman: H Gilliard
+    - 7.3:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JR Barry
+        batsman: H Gilliard
+    - 7.4:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: JR Barry
+    - 7.5:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: JR Barry
+    - 7.6:
+        non_striker: H Gilliard
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JR Barry
+        wicket:
+          player_out: JR Barry
+          fielders:
+          - J Edness
+          kind: caught
+    - 8.1:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Parkes
+        batsman: H Gilliard
+    - 8.2:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Parkes
+        batsman: H Gilliard
+    - 8.3:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Parkes
+        batsman: H Gilliard
+    - 8.4:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Parkes
+        batsman: H Gilliard
+    - 8.5:
+        bowler: MO Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: R Parkes
+        batsman: H Gilliard
+    - 8.6:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Parkes
+        batsman: H Gilliard
+    - 8.7:
+        non_striker: R Parkes
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Gilliard
+    - 9.1:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: R Parkes
+    - 9.2:
+        non_striker: H Gilliard
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parkes
+        wicket:
+          player_out: R Parkes
+          fielders:
+          - J Gilbert
+          kind: caught
+    - 9.3:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: GT Taylor
+    - 9.4:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: GT Taylor
+    - 9.5:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: GT Taylor
+    - 9.6:
+        non_striker: H Gilliard
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GT Taylor
+        wicket:
+          player_out: GT Taylor
+          kind: lbw
+    - 10.1:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 10.2:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 10.3:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 10.4:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 10.5:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 10.6:
+        non_striker: DG Weakley
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Gilliard
+    - 11.1:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 11.2:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 11.3:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 11.4:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 11.5:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 11.6:
+        non_striker: H Gilliard
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 12.1:
+        bowler: MO Jones
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 12.2:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 12.3:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 12.4:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 12.5:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 12.6:
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 12.7:
+        non_striker: DG Weakley
+        bowler: MO Jones
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Gilliard
+    - 13.1:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 13.2:
+        bowler: K Tucker
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 13.3:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 13.4:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 13.5:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 13.6:
+        non_striker: H Gilliard
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 14.1:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 14.2:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 14.3:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 14.4:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 14.5:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 14.6:
+        non_striker: H Gilliard
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 15.1:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 15.2:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 15.3:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 15.4:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 15.5:
+        bowler: K Tucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 15.6:
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 15.7:
+        non_striker: H Gilliard
+        bowler: K Tucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DG Weakley
+    - 16.1:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 16.2:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 16.3:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 16.4:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 16.5:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 16.6:
+        non_striker: DG Weakley
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Gilliard
+    - 17.1:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 17.2:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 17.3:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 17.4:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 17.5:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 17.6:
+        bowler: J West
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: H Gilliard
+        batsman: DG Weakley
+    - 17.7:
+        non_striker: H Gilliard
+        bowler: J West
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DG Weakley
+    - 18.1:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 18.2:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 18.3:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 18.4:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 18.5:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: H Gilliard
+    - 18.6:
+        non_striker: DG Weakley
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Gilliard
+        wicket:
+          player_out: H Gilliard
+          fielders:
+          - J Gilbert
+          kind: caught
+    - 19.1:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 19.2:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 19.3:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 19.4:
+        bowler: J West
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 19.5:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 19.6:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 19.7:
+        non_striker: DG Weakley
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Ekanayake
+    - 20.1:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 20.2:
+        bowler: JJ Tucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 20.3:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 20.4:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 20.5:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 20.6:
+        non_striker: NH Ekanayake
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 21.1:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 21.2:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 21.3:
+        bowler: J West
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 21.4:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 21.5:
+        bowler: J West
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 21.6:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 21.7:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 21.8:
+        non_striker: DG Weakley
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Ekanayake
+    - 22.1:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 22.2:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 22.3:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 22.4:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 22.5:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 22.6:
+        non_striker: DG Weakley
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Ekanayake
+    - 23.1:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 23.2:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 23.3:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 23.4:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 23.5:
+        bowler: J West
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 23.6:
+        bowler: J West
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 23.7:
+        non_striker: DG Weakley
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Ekanayake
+    - 24.1:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 24.2:
+        bowler: JJ Tucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 24.3:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 24.4:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 24.5:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 24.6:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 24.7:
+        non_striker: NH Ekanayake
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 25.1:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 25.2:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 25.3:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 25.4:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 25.5:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 25.6:
+        non_striker: DG Weakley
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Ekanayake
+    - 26.1:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 26.2:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 26.3:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 26.4:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 26.5:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 26.6:
+        non_striker: DG Weakley
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Ekanayake
+    - 27.1:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 27.2:
+        bowler: J West
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 27.3:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 27.4:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 27.5:
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 27.6:
+        non_striker: DG Weakley
+        bowler: J West
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Ekanayake
+    - 28.1:
+        bowler: JJ Tucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 28.2:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 28.3:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 28.4:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 28.5:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 28.6:
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 28.7:
+        bowler: JJ Tucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 28.8:
+        non_striker: NH Ekanayake
+        bowler: JJ Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 29.1:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 29.2:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 29.3:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 29.4:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 29.5:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 29.6:
+        non_striker: NH Ekanayake
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 30.1:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 30.2:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 30.3:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 30.4:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 30.5:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 30.6:
+        non_striker: NH Ekanayake
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 31.1:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 31.2:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 31.3:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 31.4:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 31.5:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 31.6:
+        non_striker: NH Ekanayake
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+    - 32.1:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 32.2:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 32.3:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DG Weakley
+        batsman: NH Ekanayake
+    - 32.4:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 32.5:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 32.6:
+        non_striker: NH Ekanayake
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Weakley
+    - 33.1:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: DG Weakley
+    - 33.2:
+        non_striker: NH Ekanayake
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Weakley
+        wicket:
+          player_out: DG Weakley
+          kind: bowled
+    - 33.3:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 33.4:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 33.5:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 33.6:
+        non_striker: NH Ekanayake
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Peters
+    - 34.1:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 34.2:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 34.3:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 34.4:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 34.5:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 34.6:
+        non_striker: A Peters
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Ekanayake
+    - 35.1:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 35.2:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 35.3:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 35.4:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 35.5:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 35.6:
+        non_striker: NH Ekanayake
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Peters
+    - 36.1:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 36.2:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 36.3:
+        bowler: RJ Trott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 36.4:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 36.5:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 36.6:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 36.7:
+        non_striker: NH Ekanayake
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Peters
+    - 37.1:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 37.2:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 37.3:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 37.4:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 37.5:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 37.6:
+        non_striker: A Peters
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Ekanayake
+    - 38.1:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 38.2:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 38.3:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 38.4:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 38.5:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 38.6:
+        non_striker: A Peters
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Ekanayake
+    - 39.1:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 39.2:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 39.3:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: A Peters
+    - 39.4:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 39.5:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 39.6:
+        non_striker: A Peters
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Ekanayake
+    - 40.1:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Peters
+        batsman: NH Ekanayake
+    - 40.2:
+        non_striker: NH Ekanayake
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Peters
+        wicket:
+          player_out: A Peters
+          fielders:
+          - J Edness
+          kind: stumped
+    - 40.3:
+        non_striker: NH Ekanayake
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Adderley
+        wicket:
+          player_out: J Adderley
+          fielders:
+          - J Edness
+          kind: stumped
+    - 40.4:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: G Irvin
+    - 40.5:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: G Irvin
+    - 40.6:
+        non_striker: G Irvin
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NH Ekanayake
+    - 41.1:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: G Irvin
+    - 41.2:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Irvin
+        batsman: NH Ekanayake
+    - 41.3:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Irvin
+        batsman: NH Ekanayake
+    - 41.4:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Irvin
+        batsman: NH Ekanayake
+    - 41.5:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Irvin
+        batsman: NH Ekanayake
+    - 41.6:
+        non_striker: G Irvin
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NH Ekanayake
+    - 42.1:
+        bowler: RJ Trott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: G Irvin
+        batsman: NH Ekanayake
+    - 42.2:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Irvin
+        batsman: NH Ekanayake
+    - 42.3:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: G Irvin
+        batsman: NH Ekanayake
+    - 42.4:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Irvin
+        batsman: NH Ekanayake
+    - 42.5:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Irvin
+        batsman: NH Ekanayake
+    - 42.6:
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: G Irvin
+    - 42.7:
+        non_striker: NH Ekanayake
+        bowler: RJ Trott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Irvin
+    - 43.1:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Irvin
+        batsman: NH Ekanayake
+    - 43.2:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Irvin
+        batsman: NH Ekanayake
+    - 43.3:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NH Ekanayake
+        batsman: G Irvin
+    - 43.4:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Irvin
+        batsman: NH Ekanayake
+    - 43.5:
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NH Ekanayake
+        batsman: G Irvin
+    - 43.6:
+        non_striker: NH Ekanayake
+        bowler: J Gilbert
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Irvin
+        wicket:
+          player_out: G Irvin
+          fielders:
+          - IH Romaine
+          kind: caught
+- 2nd innings:
+    team: Bermuda
+    deliveries:
+    - 0.1:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: FS Crockwell
+    - 0.2:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: FS Crockwell
+    - 0.3:
+        bowler: J Adderley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Edness
+        batsman: FS Crockwell
+    - 0.4:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Edness
+        batsman: FS Crockwell
+    - 0.5:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: FS Crockwell
+    - 0.6:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: FS Crockwell
+    - 0.7:
+        non_striker: J Edness
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FS Crockwell
+    - 1.1:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: FS Crockwell
+        batsman: J Edness
+    - 1.2:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: FS Crockwell
+    - 1.3:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: FS Crockwell
+    - 1.4:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: FS Crockwell
+    - 1.5:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: FS Crockwell
+    - 1.6:
+        bowler: G Irvin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Edness
+        batsman: FS Crockwell
+    - 1.7:
+        non_striker: J Edness
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FS Crockwell
+    - 2.1:
+        non_striker: J Edness
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FS Crockwell
+        wicket:
+          player_out: FS Crockwell
+          fielders:
+          - NH Ekanayake
+          kind: caught
+    - 2.2:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 2.3:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 2.4:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 2.5:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 2.6:
+        non_striker: SD Outerbridge
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edness
+    - 3.1:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 3.2:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 3.3:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 3.4:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 3.5:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 3.6:
+        non_striker: J Edness
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Outerbridge
+    - 4.1:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 4.2:
+        bowler: J Adderley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 4.3:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 4.4:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 4.5:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 4.6:
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 4.7:
+        bowler: J Adderley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 4.8:
+        non_striker: SD Outerbridge
+        bowler: J Adderley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edness
+    - 5.1:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 5.2:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 5.3:
+        bowler: G Irvin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 5.4:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 5.5:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 5.6:
+        non_striker: J Edness
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Outerbridge
+    - 6.1:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 6.2:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 6.3:
+        bowler: A Peters
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 6.4:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 6.5:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 6.6:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 6.7:
+        non_striker: J Edness
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Outerbridge
+    - 7.1:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 7.2:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 7.3:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 7.4:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 7.5:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 7.6:
+        non_striker: SD Outerbridge
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edness
+    - 8.1:
+        bowler: A Peters
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 8.2:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 8.3:
+        bowler: A Peters
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 8.4:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 8.5:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 8.6:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 8.7:
+        non_striker: SD Outerbridge
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edness
+    - 9.1:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 9.2:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 9.3:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 9.4:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 9.5:
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 9.6:
+        bowler: G Irvin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Edness
+        batsman: SD Outerbridge
+    - 9.7:
+        non_striker: J Edness
+        bowler: G Irvin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Outerbridge
+    - 10.1:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 10.2:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 10.3:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 10.4:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 10.5:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 10.6:
+        non_striker: SD Outerbridge
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Edness
+    - 11.1:
+        bowler: M Taylor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 11.2:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 11.3:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 11.4:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 11.5:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 11.6:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 11.7:
+        bowler: M Taylor
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        non_striker: SD Outerbridge
+        batsman: J Edness
+    - 11.8:
+        non_striker: J Edness
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Outerbridge
+    - 12.1:
+        non_striker: SD Outerbridge
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Edness
+        wicket:
+          player_out: J Edness
+          fielders:
+          - R Parkes
+          kind: caught
+    - 12.2:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 12.3:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 12.4:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 12.5:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 12.6:
+        non_striker: SD Outerbridge
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Hemp
+    - 13.1:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 13.2:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 13.3:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 13.4:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 13.5:
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 13.6:
+        non_striker: DL Hemp
+        bowler: M Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Outerbridge
+    - 14.1:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 14.2:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 14.3:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 14.4:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 14.5:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 14.6:
+        non_striker: DL Hemp
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Outerbridge
+    - 15.1:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 15.2:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 15.3:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 15.4:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 15.5:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 15.6:
+        non_striker: DL Hemp
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Outerbridge
+    - 16.1:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 16.2:
+        bowler: DG Weakley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 16.3:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 16.4:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 16.5:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 16.6:
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 16.7:
+        non_striker: SD Outerbridge
+        bowler: DG Weakley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Hemp
+    - 17.1:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 17.2:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 17.3:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 17.4:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 17.5:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 17.6:
+        non_striker: DL Hemp
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Outerbridge
+    - 18.1:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 18.2:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 18.3:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 18.4:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 18.5:
+        bowler: A Peters
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 18.6:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SD Outerbridge
+        batsman: DL Hemp
+    - 18.7:
+        non_striker: DL Hemp
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Outerbridge
+    - 19.1:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 19.2:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: SD Outerbridge
+    - 19.3:
+        non_striker: DL Hemp
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Outerbridge
+        wicket:
+          player_out: SD Outerbridge
+          fielders:
+          - R Parkes
+          kind: caught
+    - 19.4:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 19.5:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 19.6:
+        non_striker: DL Hemp
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Tucker
+    - 20.1:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 20.2:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 20.3:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 20.4:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 20.5:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 20.6:
+        non_striker: DL Hemp
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Tucker
+    - 21.1:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 21.2:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 21.3:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 21.4:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 21.5:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 21.6:
+        non_striker: DL Hemp
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Tucker
+    - 22.1:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 22.2:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 22.3:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 22.4:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 22.5:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 22.6:
+        non_striker: JJ Tucker
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Hemp
+    - 23.1:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 23.2:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 23.3:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 23.4:
+        bowler: NH Ekanayake
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 23.5:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 23.6:
+        non_striker: DL Hemp
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Tucker
+    - 24.1:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 24.2:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 24.3:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 24.4:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 24.5:
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 24.6:
+        non_striker: DL Hemp
+        bowler: A Peters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Tucker
+    - 25.1:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 25.2:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 25.3:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 25.4:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 25.5:
+        non_striker: JJ Tucker
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Hemp
+    - 25.6:
+        bowler: NH Ekanayake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 25.7:
+        non_striker: JJ Tucker
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Hemp
+    - 26.1:
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 26.2:
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 26.3:
+        bowler: JR Barry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 26.4:
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 26.5:
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 26.6:
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 26.7:
+        non_striker: DL Hemp
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Tucker
+    - 27.1:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 27.2:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 27.3:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 27.4:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 27.5:
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: JJ Tucker
+        batsman: DL Hemp
+    - 27.6:
+        non_striker: JJ Tucker
+        bowler: NH Ekanayake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Hemp
+    - 28.1:
+        bowler: JR Barry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DL Hemp
+        batsman: JJ Tucker
+    - 28.2:
+        bowler: JR Barry
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        non_striker: DL Hemp
+        batsman: JJ Tucker

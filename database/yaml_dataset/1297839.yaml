@@ -1,0 +1,953 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-06-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Birmingham
+  competition: Vitality Blast
+  dates:
+  - '2022-06-05'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Birmingham Bears
+    by:
+      runs: 1
+  overs: 20
+  players:
+    Nottinghamshire:
+    - JM Clarke
+    - AD Hales
+    - BM Duckett
+    - TJ Moores
+    - DT Christian
+    - SR Patel
+    - CG Harrison
+    - SJ Mullaney
+    - JT Ball
+    - JL Pattinson
+    - M Carter
+    Birmingham Bears:
+    - PR Stirling
+    - JG Bethell
+    - CG Benjamin
+    - AJ Hose
+    - CR Brathwaite
+    - SR Hain
+    - AL Davies
+    - JB Lintott
+    - DR Briggs
+    - OP Stone
+    - CN Miles
+  registry:
+    people:
+      AD Hales: 92aeac25
+      AJ Hose: 104e88a4
+      AL Davies: 29ede60b
+      BM Duckett: 5f26f677
+      CG Benjamin: 95a15317
+      CG Harrison: f655d740
+      CN Miles: 5fed6272
+      CR Brathwaite: e342e5fb
+      DR Briggs: f3abd0c9
+      DT Christian: 2a2e6343
+      JB Lintott: e5218454
+      JG Bethell: 3c55c703
+      JL Pattinson: f752db61
+      JM Clarke: 2eca67f5
+      JT Ball: 3d0ed2f9
+      M Carter: 1ca7c00f
+      OP Stone: 3f659464
+      PJ Hartley: 17c7ff26
+      PR Stirling: cf494ffe
+      Phil Whitticase: 99d5f6fa
+      SJ Mullaney: 0e0d43b4
+      SJ O'Shaughnessy: 4d4fdf4a
+      SR Hain: 67b9536c
+      SR Patel: 18fac429
+      TJ Moores: 85dcb721
+  teams:
+  - Birmingham Bears
+  - Nottinghamshire
+  toss:
+    winner: Nottinghamshire
+    decision: field
+  umpires:
+  - PJ Hartley
+  - SJ O'Shaughnessy
+  venue: Edgbaston, Birmingham
+innings:
+- 1st innings:
+    team: Birmingham Bears
+    deliveries:
+    - 0.1:
+        non_striker: JG Bethell
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          fielders:
+          - JM Clarke
+          kind: caught
+    - 0.2:
+        non_striker: JG Bethell
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Benjamin
+    - 0.3:
+        non_striker: CG Benjamin
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 0.4:
+        non_striker: CG Benjamin
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JG Bethell
+    - 0.5:
+        non_striker: CG Benjamin
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 0.6:
+        non_striker: CG Benjamin
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 1.1:
+        non_striker: CG Benjamin
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 1.2:
+        non_striker: JG Bethell
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Benjamin
+    - 1.3:
+        non_striker: JG Bethell
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Benjamin
+    - 1.4:
+        non_striker: JG Bethell
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CG Benjamin
+    - 1.5:
+        non_striker: JG Bethell
+        bowler: JT Ball
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CG Benjamin
+    - 1.6:
+        non_striker: JG Bethell
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CG Benjamin
+    - 1.7:
+        non_striker: JG Bethell
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Benjamin
+    - 2.1:
+        non_striker: CG Benjamin
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 2.2:
+        non_striker: CG Benjamin
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 2.3:
+        non_striker: CG Benjamin
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 2.4:
+        non_striker: JG Bethell
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Benjamin
+    - 2.5:
+        non_striker: CG Benjamin
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+        wicket:
+          player_out: JG Bethell
+          fielders:
+          - JL Pattinson
+          kind: caught
+    - 2.6:
+        non_striker: CG Benjamin
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hose
+    - 3.1:
+        non_striker: AJ Hose
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CG Benjamin
+    - 3.2:
+        non_striker: AJ Hose
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Benjamin
+    - 3.3:
+        non_striker: AJ Hose
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Benjamin
+    - 3.4:
+        non_striker: AJ Hose
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Benjamin
+    - 3.5:
+        non_striker: CG Benjamin
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hose
+    - 3.6:
+        non_striker: CG Benjamin
+        bowler: JL Pattinson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Hose
+    - 4.1:
+        non_striker: AJ Hose
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Benjamin
+    - 4.2:
+        non_striker: AJ Hose
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Benjamin
+    - 4.3:
+        non_striker: CG Benjamin
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hose
+    - 4.4:
+        non_striker: CG Benjamin
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 4.5:
+        non_striker: CG Benjamin
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+        wicket:
+          player_out: AJ Hose
+          fielders:
+          - BM Duckett
+          kind: caught
+    - 4.6:
+        non_striker: CG Benjamin
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Brathwaite
+    - 5.1:
+        non_striker: CG Benjamin
+        bowler: CG Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 5.2:
+        non_striker: CG Benjamin
+        bowler: CG Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 5.3:
+        non_striker: CG Benjamin
+        bowler: CG Harrison
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Brathwaite
+    - 5.4:
+        non_striker: CG Benjamin
+        bowler: CG Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 5.5:
+        non_striker: CG Benjamin
+        bowler: CG Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 5.6:
+        non_striker: CG Benjamin
+        bowler: CG Harrison
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Brathwaite
+    - 6.1:
+        non_striker: CR Brathwaite
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Benjamin
+    - 6.2:
+        non_striker: CG Benjamin
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Brathwaite
+    - 6.3:
+        non_striker: CG Benjamin
+        bowler: JT Ball
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CR Brathwaite
+    - 6.4:
+        non_striker: CR Brathwaite
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CG Benjamin
+    - 6.5:
+        non_striker: CG Benjamin
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Brathwaite
+    - 6.6:
+        non_striker: CG Benjamin
+        bowler: JT Ball
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Brathwaite
+        wicket:
+          player_out: CR Brathwaite
+          kind: retired out
+    - 7.1:
+        non_striker: SR Hain
+        bowler: CG Harrison
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Benjamin
+    - 7.2:
+        non_striker: SR Hain
+        bowler: CG Harrison
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Benjamin
+        wicket:
+          player_out: CG Benjamin
+          kind: bowled
+    - 7.3:
+        non_striker: SR Hain
+        bowler: CG Harrison
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AL Davies
+    - 7.4:
+        non_striker: SR Hain
+        bowler: CG Harrison
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Davies
+    - 7.5:
+        non_striker: SR Hain
+        bowler: CG Harrison
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AL Davies
+    - 7.6:
+        non_striker: SR Hain
+        bowler: CG Harrison
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AL Davies
+- 2nd innings:
+    team: Nottinghamshire
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+        wicket:
+          player_out: JM Clarke
+          fielders:
+          - CN Miles
+          kind: caught
+    - 0.2:
+        non_striker: AD Hales
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 0.3:
+        non_striker: AD Hales
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 0.4:
+        non_striker: BM Duckett
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Hales
+    - 0.5:
+        non_striker: BM Duckett
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 0.6:
+        non_striker: BM Duckett
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.1:
+        non_striker: AD Hales
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Duckett
+    - 1.2:
+        non_striker: AD Hales
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 1.3:
+        non_striker: AD Hales
+        bowler: CN Miles
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: BM Duckett
+    - 1.4:
+        non_striker: AD Hales
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BM Duckett
+    - 1.5:
+        non_striker: AD Hales
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BM Duckett
+    - 1.6:
+        non_striker: AD Hales
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 1.7:
+        non_striker: BM Duckett
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 2.1:
+        non_striker: AD Hales
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BM Duckett
+    - 2.2:
+        non_striker: AD Hales
+        bowler: DR Briggs
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BM Duckett
+    - 2.3:
+        non_striker: BM Duckett
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Hales
+    - 2.4:
+        non_striker: BM Duckett
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 2.5:
+        non_striker: BM Duckett
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 2.6:
+        non_striker: BM Duckett
+        bowler: DR Briggs
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Hales
+    - 3.1:
+        non_striker: AD Hales
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 3.2:
+        non_striker: AD Hales
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 3.3:
+        non_striker: AD Hales
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+        wicket:
+          player_out: BM Duckett
+          fielders:
+          - SR Hain
+          kind: caught
+    - 3.4:
+        non_striker: AD Hales
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 3.5:
+        non_striker: TJ Moores
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          kind: caught and bowled
+    - 3.6:
+        non_striker: TJ Moores
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 4.1:
+        non_striker: TJ Moores
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DT Christian
+    - 4.2:
+        non_striker: TJ Moores
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 4.3:
+        non_striker: DT Christian
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TJ Moores
+    - 4.4:
+        non_striker: DT Christian
+        bowler: OP Stone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TJ Moores
+    - 4.5:
+        non_striker: DT Christian
+        bowler: OP Stone
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: TJ Moores
+    - 4.6:
+        non_striker: DT Christian
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 4.7:
+        non_striker: TJ Moores
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 4.8:
+        non_striker: TJ Moores
+        bowler: OP Stone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 5.1:
+        non_striker: DT Christian
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 5.2:
+        non_striker: TJ Moores
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 5.3:
+        non_striker: TJ Moores
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 5.4:
+        non_striker: DT Christian
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 5.5:
+        non_striker: TJ Moores
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 5.6:
+        non_striker: DT Christian
+        bowler: JB Lintott
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: TJ Moores
+    - 6.1:
+        non_striker: TJ Moores
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DT Christian
+    - 6.2:
+        non_striker: TJ Moores
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Christian
+    - 6.3:
+        non_striker: DT Christian
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 6.4:
+        non_striker: TJ Moores
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 6.5:
+        non_striker: TJ Moores
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DT Christian
+    - 6.6:
+        non_striker: TJ Moores
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+        wicket:
+          player_out: DT Christian
+          fielders:
+          - CN Miles
+          kind: caught
+    - 7.1:
+        non_striker: SR Patel
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 7.2:
+        non_striker: TJ Moores
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 7.3:
+        non_striker: SR Patel
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 7.4:
+        non_striker: SR Patel
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TJ Moores
+    - 7.5:
+        non_striker: SR Patel
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 7.6:
+        non_striker: TJ Moores
+        bowler: CN Miles
+        runs:
+          extras: 2
+          total: 3
+          batsman: 1
+        extras:
+          noballs: 2
+        batsman: SR Patel
+        wicket:
+          player_out: SR Patel
+          kind: retired out
+    - 7.7:
+        non_striker: CG Harrison
+        bowler: CN Miles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores

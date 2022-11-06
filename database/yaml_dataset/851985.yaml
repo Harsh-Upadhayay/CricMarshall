@@ -1,0 +1,1962 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-04-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Benoni
+  competition: Ram Slam T20 Challenge
+  dates:
+  - '2015-12-06'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Knights
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - AD Russell
+  - AD Russell
+  players:
+    Titans:
+    - Q de Kock
+    - H Davids
+    - M Mosehle
+    - GL van Buuren
+    - F Behardien
+    - D Wiese
+    - JA Morkel
+    - CH Morris
+    - SF Mofokeng
+    - T Shamsi
+    - L Ngidi
+    Knights:
+    - RR Hendricks
+    - RR Rossouw
+    - TB de Bruyn
+    - AR Swanepoel
+    - TM Bodibe
+    - AD Russell
+    - WL Coetsee
+    - SC van Schalkwyk
+    - MP Siboto
+    - D Olivier
+    - T Ntuli
+  registry:
+    people:
+      AD Russell: bbd41817
+      AR Swanepoel: cba5185d
+      CH Morris: fb66ce1f
+      D Govindjee: 8b4c4069
+      D Olivier: a8e56914
+      D Wiese: aa8d28ae
+      F Behardien: dce2019b
+      GH Pienaar: 3516e46b
+      GL van Buuren: ba377b40
+      H Davids: 9c9f8dbc
+      JA Morkel: c3d35165
+      JD Cloete: b0419f8c
+      L Ngidi: f834dcfc
+      M Mosehle: 8836fcac
+      MP Siboto: 9d50c7e1
+      Q de Kock: 372455c4
+      RR Hendricks: b8cc58c9
+      RR Rossouw: cad00a4d
+      S George: 6d9e5a54
+      SC van Schalkwyk: 97b0e4ff
+      SF Mofokeng: 21fdde93
+      T Ntuli: 8e6827f7
+      T Shamsi: a03bba42
+      TB de Bruyn: 90d6cdea
+      TM Bodibe: ed982dfa
+      WL Coetsee: 5f419ace
+  teams:
+  - Titans
+  - Knights
+  toss:
+    winner: Knights
+    decision: field
+  umpires:
+  - JD Cloete
+  - S George
+  venue: Willowmoore Park, Benoni
+innings:
+- 1st innings:
+    team: Titans
+    deliveries:
+    - 0.1:
+        bowler: D Olivier
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: H Davids
+        batsman: Q de Kock
+    - 0.2:
+        bowler: D Olivier
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: H Davids
+        batsman: Q de Kock
+    - 0.3:
+        non_striker: Q de Kock
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Davids
+    - 0.4:
+        non_striker: Q de Kock
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Davids
+    - 0.5:
+        non_striker: Q de Kock
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Davids
+        wicket:
+          player_out: H Davids
+          fielders:
+          - TB de Bruyn
+          kind: caught
+    - 0.6:
+        non_striker: Q de Kock
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 0.7:
+        non_striker: Q de Kock
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 1.1:
+        non_striker: M Mosehle
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 1.2:
+        non_striker: Q de Kock
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 1.3:
+        non_striker: Q de Kock
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 1.4:
+        non_striker: Q de Kock
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 1.5:
+        non_striker: Q de Kock
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 1.6:
+        non_striker: Q de Kock
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 2.1:
+        non_striker: M Mosehle
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 2.2:
+        non_striker: M Mosehle
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.3:
+        non_striker: M Mosehle
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.4:
+        non_striker: M Mosehle
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 2.5:
+        non_striker: M Mosehle
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 2.6:
+        non_striker: M Mosehle
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 3.1:
+        non_striker: Q de Kock
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+        wicket:
+          player_out: M Mosehle
+          kind: caught and bowled
+    - 3.2:
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GL van Buuren
+        batsman: Q de Kock
+    - 3.3:
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GL van Buuren
+        batsman: Q de Kock
+    - 3.4:
+        non_striker: Q de Kock
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 3.5:
+        non_striker: Q de Kock
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 3.6:
+        non_striker: Q de Kock
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 4.1:
+        non_striker: GL van Buuren
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 4.2:
+        non_striker: Q de Kock
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 4.3:
+        non_striker: Q de Kock
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 4.4:
+        non_striker: Q de Kock
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL van Buuren
+    - 4.5:
+        non_striker: GL van Buuren
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 4.6:
+        non_striker: GL van Buuren
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 5.1:
+        non_striker: Q de Kock
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 5.2:
+        non_striker: Q de Kock
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 5.3:
+        non_striker: Q de Kock
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL van Buuren
+    - 5.4:
+        non_striker: Q de Kock
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL van Buuren
+    - 5.5:
+        non_striker: GL van Buuren
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 5.6:
+        non_striker: GL van Buuren
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.1:
+        non_striker: Q de Kock
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 6.2:
+        non_striker: Q de Kock
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GL van Buuren
+    - 6.3:
+        non_striker: Q de Kock
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL van Buuren
+    - 6.4:
+        non_striker: GL van Buuren
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Q de Kock
+    - 6.5:
+        non_striker: GL van Buuren
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 6.6:
+        non_striker: GL van Buuren
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+    - 7.1:
+        non_striker: Q de Kock
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL van Buuren
+    - 7.2:
+        non_striker: Q de Kock
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 7.3:
+        non_striker: Q de Kock
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 7.4:
+        non_striker: Q de Kock
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL van Buuren
+    - 7.5:
+        non_striker: GL van Buuren
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 7.6:
+        non_striker: Q de Kock
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 8.1:
+        non_striker: GL van Buuren
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 8.2:
+        non_striker: Q de Kock
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 8.3:
+        non_striker: Q de Kock
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL van Buuren
+    - 8.4:
+        non_striker: GL van Buuren
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Q de Kock
+    - 8.5:
+        non_striker: GL van Buuren
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Q de Kock
+    - 8.6:
+        non_striker: GL van Buuren
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q de Kock
+    - 9.1:
+        non_striker: GL van Buuren
+        bowler: T Ntuli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q de Kock
+        wicket:
+          player_out: Q de Kock
+          fielders:
+          - TM Bodibe
+          kind: caught
+    - 9.2:
+        non_striker: GL van Buuren
+        bowler: T Ntuli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 9.3:
+        non_striker: GL van Buuren
+        bowler: T Ntuli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 9.4:
+        non_striker: GL van Buuren
+        bowler: T Ntuli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 9.5:
+        non_striker: F Behardien
+        bowler: T Ntuli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 9.6:
+        non_striker: F Behardien
+        bowler: T Ntuli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL van Buuren
+    - 10.1:
+        non_striker: GL van Buuren
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 10.2:
+        non_striker: F Behardien
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL van Buuren
+    - 10.3:
+        non_striker: GL van Buuren
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 10.4:
+        non_striker: F Behardien
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL van Buuren
+    - 10.5:
+        non_striker: GL van Buuren
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 10.6:
+        non_striker: F Behardien
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 11.1:
+        non_striker: GL van Buuren
+        bowler: T Ntuli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 11.2:
+        non_striker: F Behardien
+        bowler: T Ntuli
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GL van Buuren
+    - 11.3:
+        non_striker: F Behardien
+        bowler: T Ntuli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GL van Buuren
+    - 11.4:
+        non_striker: F Behardien
+        bowler: T Ntuli
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GL van Buuren
+    - 11.5:
+        non_striker: F Behardien
+        bowler: T Ntuli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 11.6:
+        non_striker: F Behardien
+        bowler: T Ntuli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 12.1:
+        non_striker: GL van Buuren
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 12.2:
+        non_striker: F Behardien
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL van Buuren
+    - 12.3:
+        non_striker: GL van Buuren
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+        wicket:
+          player_out: F Behardien
+          fielders:
+          - RR Rossouw
+          kind: caught
+    - 12.4:
+        non_striker: GL van Buuren
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 12.5:
+        non_striker: D Wiese
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 12.6:
+        non_striker: D Wiese
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL van Buuren
+    - 13.1:
+        non_striker: D Wiese
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL van Buuren
+    - 13.2:
+        non_striker: D Wiese
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL van Buuren
+    - 13.3:
+        non_striker: D Wiese
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL van Buuren
+    - 13.4:
+        non_striker: GL van Buuren
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 13.5:
+        non_striker: GL van Buuren
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Wiese
+    - 13.6:
+        non_striker: GL van Buuren
+        bowler: WL Coetsee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 14.1:
+        non_striker: D Wiese
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+    - 14.2:
+        non_striker: D Wiese
+        bowler: D Olivier
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GL van Buuren
+    - 14.3:
+        non_striker: D Wiese
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL van Buuren
+    - 14.4:
+        non_striker: D Wiese
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GL van Buuren
+    - 14.5:
+        non_striker: D Wiese
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL van Buuren
+    - 14.6:
+        non_striker: GL van Buuren
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 14.7:
+        non_striker: GL van Buuren
+        bowler: D Olivier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 15.1:
+        non_striker: GL van Buuren
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+        wicket:
+          player_out: D Wiese
+          kind: caught and bowled
+    - 15.2:
+        non_striker: GL van Buuren
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 15.3:
+        non_striker: JA Morkel
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL van Buuren
+        wicket:
+          player_out: GL van Buuren
+          fielders:
+          - AD Russell
+          kind: caught
+    - 15.4:
+        non_striker: JA Morkel
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Morris
+    - 15.5:
+        non_striker: CH Morris
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 15.6:
+        non_striker: JA Morkel
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CH Morris
+    - 16.1:
+        non_striker: CH Morris
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 16.2:
+        non_striker: CH Morris
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 16.3:
+        non_striker: JA Morkel
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CH Morris
+    - 16.4:
+        non_striker: JA Morkel
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Morris
+    - 16.5:
+        non_striker: CH Morris
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 16.6:
+        non_striker: JA Morkel
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Morris
+    - 17.1:
+        non_striker: JA Morkel
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CH Morris
+    - 17.2:
+        non_striker: CH Morris
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 17.3:
+        non_striker: CH Morris
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+        wicket:
+          player_out: JA Morkel
+          fielders:
+          - TB de Bruyn
+          kind: caught
+    - 17.4:
+        non_striker: CH Morris
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mofokeng
+    - 17.5:
+        non_striker: CH Morris
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mofokeng
+    - 17.6:
+        non_striker: CH Morris
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Mofokeng
+        wicket:
+          player_out: SF Mofokeng
+          kind: caught and bowled
+    - 18.1:
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Shamsi
+        batsman: CH Morris
+    - 18.2:
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Shamsi
+        batsman: CH Morris
+    - 18.3:
+        non_striker: CH Morris
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Shamsi
+    - 18.4:
+        non_striker: CH Morris
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 18.5:
+        non_striker: CH Morris
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Shamsi
+    - 18.6:
+        non_striker: CH Morris
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shamsi
+    - 19.1:
+        non_striker: CH Morris
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Shamsi
+    - 19.2:
+        non_striker: T Shamsi
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CH Morris
+    - 19.3:
+        non_striker: T Shamsi
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Morris
+    - 19.4:
+        non_striker: T Shamsi
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Morris
+        wicket:
+          player_out: CH Morris
+          fielders:
+          - T Ntuli
+          kind: caught
+    - 19.5:
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: L Ngidi
+        batsman: T Shamsi
+    - 19.6:
+        non_striker: T Shamsi
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Ngidi
+- 2nd innings:
+    team: Knights
+    deliveries:
+    - 0.1:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RR Rossouw
+        batsman: RR Hendricks
+    - 0.2:
+        bowler: JA Morkel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: RR Rossouw
+        batsman: RR Hendricks
+    - 0.3:
+        non_striker: RR Hendricks
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 0.4:
+        non_striker: RR Hendricks
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Rossouw
+    - 0.5:
+        non_striker: RR Hendricks
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 0.6:
+        non_striker: RR Hendricks
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 1.1:
+        non_striker: RR Rossouw
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.2:
+        non_striker: RR Rossouw
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.3:
+        non_striker: RR Rossouw
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 1.4:
+        non_striker: RR Hendricks
+        bowler: CH Morris
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: RR Rossouw
+    - 1.5:
+        non_striker: RR Hendricks
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 1.6:
+        non_striker: RR Rossouw
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 1.7:
+        non_striker: RR Hendricks
+        bowler: CH Morris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RR Rossouw
+    - 2.1:
+        non_striker: RR Hendricks
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 2.2:
+        non_striker: RR Hendricks
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 2.3:
+        non_striker: RR Hendricks
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 2.4:
+        non_striker: RR Rossouw
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 2.5:
+        non_striker: RR Hendricks
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 2.6:
+        non_striker: RR Rossouw
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 3.1:
+        non_striker: RR Hendricks
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 3.2:
+        non_striker: RR Hendricks
+        bowler: CH Morris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RR Rossouw
+    - 3.3:
+        non_striker: RR Rossouw
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 3.4:
+        non_striker: RR Hendricks
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+        wicket:
+          player_out: RR Rossouw
+          kind: bowled
+    - 3.5:
+        non_striker: RR Hendricks
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 3.6:
+        non_striker: RR Hendricks
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TB de Bruyn
+    - 4.1:
+        non_striker: RR Hendricks
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 4.2:
+        non_striker: RR Hendricks
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 4.3:
+        non_striker: RR Hendricks
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 4.4:
+        non_striker: RR Hendricks
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TB de Bruyn
+    - 4.5:
+        non_striker: RR Hendricks
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+    - 4.6:
+        non_striker: RR Hendricks
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TB de Bruyn
+        wicket:
+          player_out: TB de Bruyn
+          fielders:
+          - H Davids
+          kind: caught
+    - 5.1:
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Swanepoel
+        batsman: RR Hendricks
+    - 5.2:
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Swanepoel
+        batsman: RR Hendricks
+    - 5.3:
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Swanepoel
+        batsman: RR Hendricks
+    - 5.4:
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Swanepoel
+        batsman: RR Hendricks
+    - 5.5:
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Swanepoel
+        batsman: RR Hendricks
+    - 5.6:
+        non_striker: AR Swanepoel
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.1:
+        non_striker: AR Swanepoel
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.2:
+        non_striker: RR Hendricks
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Swanepoel
+    - 6.3:
+        non_striker: AR Swanepoel
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.4:
+        non_striker: RR Hendricks
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Swanepoel
+    - 6.5:
+        non_striker: RR Hendricks
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Swanepoel
+    - 6.6:
+        non_striker: AR Swanepoel
+        bowler: GL van Buuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 7.1:
+        non_striker: AR Swanepoel
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Hendricks
+    - 7.2:
+        non_striker: AR Swanepoel
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          kind: lbw
+    - 7.3:
+        non_striker: AR Swanepoel
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Bodibe
+    - 7.4:
+        non_striker: AR Swanepoel
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Bodibe
+    - 7.5:
+        non_striker: TM Bodibe
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Swanepoel
+    - 7.6:
+        non_striker: AR Swanepoel
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Bodibe
+    - 8.1:
+        non_striker: TM Bodibe
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Swanepoel
+    - 8.2:
+        non_striker: TM Bodibe
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Swanepoel
+    - 8.3:
+        non_striker: TM Bodibe
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Swanepoel
+        wicket:
+          player_out: AR Swanepoel
+          fielders:
+          - JA Morkel
+          kind: caught
+    - 8.4:
+        non_striker: TM Bodibe
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 8.5:
+        non_striker: TM Bodibe
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 8.6:
+        non_striker: TM Bodibe
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 8.7:
+        non_striker: AD Russell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Bodibe
+    - 9.1:
+        non_striker: TM Bodibe
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 9.2:
+        non_striker: TM Bodibe
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Russell
+    - 9.3:
+        non_striker: TM Bodibe
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 9.4:
+        non_striker: TM Bodibe
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 9.5:
+        non_striker: TM Bodibe
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 9.6:
+        non_striker: TM Bodibe
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 10.1:
+        non_striker: AD Russell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Bodibe
+    - 10.2:
+        non_striker: AD Russell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Bodibe
+    - 10.3:
+        non_striker: AD Russell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Bodibe
+        wicket:
+          player_out: TM Bodibe
+          fielders:
+          - M Mosehle
+          kind: caught
+    - 10.4:
+        non_striker: AD Russell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Coetsee
+    - 10.5:
+        non_striker: AD Russell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Coetsee
+    - 10.6:
+        non_striker: AD Russell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Coetsee
+    - 11.1:
+        non_striker: AD Russell
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Coetsee
+    - 11.2:
+        non_striker: WL Coetsee
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Russell
+    - 11.3:
+        non_striker: WL Coetsee
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 11.4:
+        non_striker: WL Coetsee
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 11.5:
+        non_striker: AD Russell
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WL Coetsee
+    - 11.6:
+        non_striker: WL Coetsee
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 12.1:
+        non_striker: AD Russell
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Coetsee
+    - 12.2:
+        non_striker: AD Russell
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WL Coetsee
+    - 12.3:
+        non_striker: WL Coetsee
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 12.4:
+        non_striker: WL Coetsee
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 12.5:
+        non_striker: WL Coetsee
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 12.6:
+        non_striker: WL Coetsee
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 13.1:
+        non_striker: AD Russell
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Coetsee
+    - 13.2:
+        non_striker: WL Coetsee
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 13.3:
+        non_striker: WL Coetsee
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 13.4:
+        non_striker: WL Coetsee
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 13.5:
+        non_striker: WL Coetsee
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 13.6:
+        non_striker: AD Russell
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WL Coetsee
+    - 13.7:
+        non_striker: AD Russell
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WL Coetsee
+    - 14.1:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Coetsee
+    - 14.2:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WL Coetsee
+        wicket:
+          player_out: WL Coetsee
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 14.3:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 14.4:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 14.5:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC van Schalkwyk
+    - 14.6:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 14.7:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC van Schalkwyk
+    - 14.8:
+        non_striker: AD Russell
+        bowler: CH Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 15.1:
+        non_striker: SC van Schalkwyk
+        bowler: SF Mofokeng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 15.2:
+        non_striker: AD Russell
+        bowler: SF Mofokeng
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 15.3:
+        non_striker: SC van Schalkwyk
+        bowler: SF Mofokeng
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 15.4:
+        non_striker: SC van Schalkwyk
+        bowler: SF Mofokeng
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 15.5:
+        non_striker: SC van Schalkwyk
+        bowler: SF Mofokeng
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell

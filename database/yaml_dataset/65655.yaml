@@ -1,0 +1,4603 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-03-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Melbourne
+  dates:
+  - '2004-02-06'
+  gender: male
+  match_type: ODI
+  match_type_number: 2097
+  outcome:
+    winner: Australia
+    by:
+      wickets: 7
+  overs: 50
+  player_of_match:
+  - RT Ponting
+  players:
+    India:
+    - V Sehwag
+    - SR Tendulkar
+    - VVS Laxman
+    - R Dravid
+    - SC Ganguly
+    - Yuvraj Singh
+    - HK Badani
+    - AB Agarkar
+    - IK Pathan
+    - A Kumble
+    - L Balaji
+    Australia:
+    - AC Gilchrist
+    - ML Hayden
+    - RT Ponting
+    - DR Martyn
+    - A Symonds
+    - MJ Clarke
+    - SM Katich
+    - B Lee
+    - JN Gillespie
+    - BA Williams
+    - IJ Harvey
+  registry:
+    people:
+      A Kumble: 0c2730df
+      A Symonds: bd77eb62
+      AB Agarkar: fa463154
+      AC Gilchrist: 2b6e6dec
+      B Lee: dd09ff8e
+      BA Williams: 953e3931
+      CH Lloyd: 5b445db0
+      DJ Harper: 0ec08b27
+      DR Martyn: '69762509'
+      HK Badani: 5cb078d6
+      IJ Harvey: 3227beb4
+      IK Pathan: 5fa06777
+      JN Gillespie: 74234d66
+      L Balaji: b2b50355
+      MJ Clarke: f842c2cf
+      ML Hayden: d8699ab7
+      R Dravid: '0184dc35'
+      RT Ponting: 7d415ea5
+      SA Bucknor: 2ad22b51
+      SC Ganguly: 725529bc
+      SJA Taufel: 4b43d5ac
+      SM Katich: fdedb37c
+      SR Tendulkar: d2c2b2d5
+      V Sehwag: 8ba8195d
+      VVS Laxman: de8cce37
+      Yuvraj Singh: 1c914163
+  teams:
+  - India
+  - Australia
+  toss:
+    decision: bat
+    winner: India
+  umpires:
+  - SJA Taufel
+  - SA Bucknor
+  venue: Melbourne Cricket Ground
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Sehwag
+    - 0.2:
+        non_striker: V Sehwag
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 0.3:
+        non_striker: V Sehwag
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 0.4:
+        non_striker: V Sehwag
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 0.5:
+        non_striker: V Sehwag
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 0.6:
+        non_striker: V Sehwag
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 1.1:
+        non_striker: V Sehwag
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 1.2:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 1.3:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 1.4:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 1.5:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Sehwag
+    - 1.6:
+        non_striker: V Sehwag
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 2.1:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 2.2:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Sehwag
+    - 2.3:
+        non_striker: V Sehwag
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 2.4:
+        non_striker: V Sehwag
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 2.5:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+        wicket:
+          player_out: V Sehwag
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 2.6:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 3.1:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 3.2:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 3.3:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 3.4:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 3.5:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 3.6:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 4.1:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 4.2:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 4.3:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 4.4:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 4.5:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 4.6:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 5.1:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 5.2:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 5.3:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: VVS Laxman
+    - 5.4:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 5.5:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+        wicket:
+          player_out: SR Tendulkar
+          kind: bowled
+    - 5.6:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 6.1:
+        non_striker: R Dravid
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 6.2:
+        non_striker: R Dravid
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VVS Laxman
+    - 6.3:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 6.4:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 6.5:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 6.6:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 7.1:
+        non_striker: R Dravid
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VVS Laxman
+    - 7.2:
+        non_striker: R Dravid
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 7.3:
+        non_striker: R Dravid
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: VVS Laxman
+    - 7.4:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 7.5:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 7.6:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 8.1:
+        non_striker: R Dravid
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 8.2:
+        non_striker: R Dravid
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: VVS Laxman
+    - 8.3:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 8.4:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 8.5:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 8.6:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 9.1:
+        non_striker: R Dravid
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 9.2:
+        non_striker: R Dravid
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VVS Laxman
+    - 9.3:
+        non_striker: R Dravid
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: VVS Laxman
+    - 9.4:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 9.5:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 9.6:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 9.7:
+        non_striker: VVS Laxman
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 10.1:
+        non_striker: R Dravid
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 10.2:
+        non_striker: R Dravid
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: VVS Laxman
+    - 10.3:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dravid
+    - 10.4:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 10.5:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 10.6:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 11.1:
+        non_striker: R Dravid
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 11.2:
+        non_striker: R Dravid
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 11.3:
+        non_striker: R Dravid
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 11.4:
+        non_striker: R Dravid
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 11.5:
+        non_striker: R Dravid
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 11.6:
+        non_striker: R Dravid
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+    - 12.1:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 12.2:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dravid
+    - 12.3:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 12.4:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 12.5:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dravid
+    - 12.6:
+        non_striker: VVS Laxman
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 13.1:
+        non_striker: R Dravid
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VVS Laxman
+    - 13.2:
+        non_striker: R Dravid
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VVS Laxman
+        wicket:
+          player_out: VVS Laxman
+          fielders:
+          - A Symonds
+          kind: caught
+    - 13.3:
+        non_striker: R Dravid
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 13.4:
+        non_striker: R Dravid
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 13.5:
+        non_striker: R Dravid
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 13.6:
+        non_striker: R Dravid
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 14.1:
+        non_striker: SC Ganguly
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 14.2:
+        non_striker: SC Ganguly
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 14.3:
+        non_striker: SC Ganguly
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+        wicket:
+          player_out: R Dravid
+          fielders:
+          - ML Hayden
+          kind: caught
+    - 14.4:
+        non_striker: SC Ganguly
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yuvraj Singh
+    - 14.5:
+        non_striker: SC Ganguly
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 14.6:
+        non_striker: SC Ganguly
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 15.1:
+        non_striker: Yuvraj Singh
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Ganguly
+    - 15.2:
+        non_striker: Yuvraj Singh
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 15.3:
+        non_striker: Yuvraj Singh
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 15.4:
+        non_striker: Yuvraj Singh
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 15.5:
+        non_striker: Yuvraj Singh
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 15.6:
+        non_striker: Yuvraj Singh
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 16.1:
+        non_striker: Yuvraj Singh
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 16.2:
+        non_striker: Yuvraj Singh
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 16.3:
+        non_striker: Yuvraj Singh
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 16.4:
+        non_striker: Yuvraj Singh
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 16.5:
+        non_striker: SC Ganguly
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 16.6:
+        non_striker: SC Ganguly
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yuvraj Singh
+    - 17.1:
+        non_striker: Yuvraj Singh
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 17.2:
+        non_striker: Yuvraj Singh
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 17.3:
+        non_striker: SC Ganguly
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yuvraj Singh
+    - 17.4:
+        non_striker: SC Ganguly
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 17.5:
+        non_striker: SC Ganguly
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 17.6:
+        non_striker: SC Ganguly
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 18.1:
+        non_striker: Yuvraj Singh
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 18.2:
+        non_striker: Yuvraj Singh
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 18.3:
+        non_striker: SC Ganguly
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 18.4:
+        non_striker: SC Ganguly
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 18.5:
+        non_striker: SC Ganguly
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 18.6:
+        non_striker: Yuvraj Singh
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 19.1:
+        non_striker: SC Ganguly
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 19.2:
+        non_striker: SC Ganguly
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yuvraj Singh
+    - 19.3:
+        non_striker: SC Ganguly
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yuvraj Singh
+    - 19.4:
+        non_striker: SC Ganguly
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 19.5:
+        non_striker: SC Ganguly
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 19.6:
+        non_striker: SC Ganguly
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Yuvraj Singh
+    - 20.1:
+        non_striker: SC Ganguly
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 20.2:
+        non_striker: SC Ganguly
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 20.3:
+        non_striker: Yuvraj Singh
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 20.4:
+        non_striker: Yuvraj Singh
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+        wicket:
+          player_out: SC Ganguly
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 20.5:
+        non_striker: Yuvraj Singh
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 20.6:
+        non_striker: Yuvraj Singh
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 21.1:
+        non_striker: HK Badani
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+        wicket:
+          player_out: Yuvraj Singh
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 21.2:
+        non_striker: HK Badani
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AB Agarkar
+    - 21.3:
+        non_striker: AB Agarkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 21.4:
+        non_striker: AB Agarkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 21.5:
+        non_striker: AB Agarkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 21.6:
+        non_striker: AB Agarkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 21.7:
+        non_striker: AB Agarkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 22.1:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 22.2:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 22.3:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 22.4:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 22.5:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 22.6:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 23.1:
+        non_striker: AB Agarkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 23.2:
+        non_striker: AB Agarkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 23.3:
+        non_striker: HK Badani
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 23.4:
+        non_striker: HK Badani
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 23.5:
+        non_striker: AB Agarkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Badani
+    - 23.6:
+        non_striker: AB Agarkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 24.1:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 24.2:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 24.3:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 24.4:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 24.5:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 24.6:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 25.1:
+        non_striker: HK Badani
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 25.2:
+        non_striker: HK Badani
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB Agarkar
+    - 25.3:
+        non_striker: HK Badani
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 25.4:
+        non_striker: HK Badani
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AB Agarkar
+    - 25.5:
+        non_striker: HK Badani
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 25.6:
+        non_striker: AB Agarkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 25.7:
+        non_striker: AB Agarkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 26.1:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 26.2:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 26.3:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 26.4:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 26.5:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 26.6:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB Agarkar
+    - 27.1:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 27.2:
+        non_striker: HK Badani
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 27.3:
+        non_striker: HK Badani
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 27.4:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 27.5:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 27.6:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Badani
+    - 28.1:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 28.2:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 28.3:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 28.4:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 28.5:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB Agarkar
+    - 28.6:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AB Agarkar
+    - 29.1:
+        non_striker: HK Badani
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 29.2:
+        non_striker: HK Badani
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 29.3:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 29.4:
+        non_striker: HK Badani
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 29.5:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 29.6:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 30.1:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB Agarkar
+    - 30.2:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB Agarkar
+    - 30.3:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB Agarkar
+    - 30.4:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 30.5:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 30.6:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 31.1:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 31.2:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 31.3:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: HK Badani
+    - 31.4:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 31.5:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 31.6:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 31.7:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 32.1:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Badani
+    - 32.2:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 32.3:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 32.4:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 32.5:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 32.6:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AB Agarkar
+    - 33.1:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 33.2:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 33.3:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HK Badani
+    - 33.4:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AB Agarkar
+    - 33.5:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB Agarkar
+    - 33.6:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 34.1:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 34.2:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 34.3:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 34.4:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 34.5:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Badani
+    - 34.6:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 35.1:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 35.2:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 35.3:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 35.4:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 35.5:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 35.6:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 36.1:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 36.2:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 36.3:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: HK Badani
+    - 36.4:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 36.5:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 36.6:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 37.1:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 37.2:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Badani
+    - 37.3:
+        non_striker: AB Agarkar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 37.4:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AB Agarkar
+    - 37.5:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 37.6:
+        non_striker: HK Badani
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 38.1:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HK Badani
+    - 38.2:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 38.3:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 38.4:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 38.5:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 38.6:
+        non_striker: AB Agarkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Badani
+    - 39.1:
+        non_striker: HK Badani
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 39.2:
+        non_striker: HK Badani
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB Agarkar
+    - 39.3:
+        non_striker: AB Agarkar
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 39.4:
+        non_striker: HK Badani
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 39.5:
+        non_striker: HK Badani
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 39.6:
+        non_striker: HK Badani
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 40.1:
+        non_striker: AB Agarkar
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 40.2:
+        non_striker: HK Badani
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+    - 40.3:
+        non_striker: HK Badani
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB Agarkar
+        wicket:
+          player_out: AB Agarkar
+          fielders:
+          - B Lee
+          kind: caught
+    - 40.4:
+        non_striker: HK Badani
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Pathan
+    - 40.5:
+        non_striker: IK Pathan
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 40.6:
+        non_striker: IK Pathan
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 41.1:
+        non_striker: IK Pathan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Badani
+    - 41.2:
+        non_striker: IK Pathan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 41.3:
+        non_striker: IK Pathan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 41.4:
+        non_striker: IK Pathan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 41.5:
+        non_striker: IK Pathan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 41.6:
+        non_striker: HK Badani
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Pathan
+    - 42.1:
+        non_striker: HK Badani
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Pathan
+    - 42.2:
+        non_striker: IK Pathan
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 42.3:
+        non_striker: HK Badani
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Pathan
+    - 42.4:
+        non_striker: IK Pathan
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 42.5:
+        non_striker: IK Pathan
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 42.6:
+        non_striker: HK Badani
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Pathan
+    - 43.1:
+        non_striker: HK Badani
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Pathan
+    - 43.2:
+        non_striker: IK Pathan
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 43.3:
+        non_striker: HK Badani
+        bowler: JN Gillespie
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: IK Pathan
+    - 43.4:
+        non_striker: HK Badani
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IK Pathan
+    - 43.5:
+        non_striker: HK Badani
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Pathan
+    - 43.6:
+        non_striker: HK Badani
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Pathan
+    - 44.1:
+        non_striker: HK Badani
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Pathan
+    - 44.2:
+        non_striker: HK Badani
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IK Pathan
+    - 44.3:
+        non_striker: HK Badani
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Pathan
+    - 44.4:
+        non_striker: HK Badani
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IK Pathan
+    - 44.5:
+        non_striker: HK Badani
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Pathan
+    - 44.6:
+        non_striker: IK Pathan
+        bowler: MJ Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 45.1:
+        non_striker: IK Pathan
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 45.2:
+        non_striker: HK Badani
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Pathan
+    - 45.3:
+        non_striker: HK Badani
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Pathan
+    - 45.4:
+        non_striker: HK Badani
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IK Pathan
+    - 45.5:
+        non_striker: IK Pathan
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 45.6:
+        non_striker: HK Badani
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IK Pathan
+    - 46.1:
+        non_striker: IK Pathan
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+        wicket:
+          player_out: IK Pathan
+          kind: run out
+    - 46.2:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kumble
+    - 46.3:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+    - 46.4:
+        non_striker: A Kumble
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 46.5:
+        non_striker: A Kumble
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Badani
+    - 46.6:
+        non_striker: A Kumble
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 46.7:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kumble
+    - 46.8:
+        non_striker: HK Badani
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 47.1:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Badani
+    - 47.2:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 47.3:
+        non_striker: HK Badani
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+        wicket:
+          player_out: A Kumble
+          kind: run out
+    - 47.4:
+        non_striker: HK Badani
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Balaji
+    - 47.5:
+        non_striker: HK Badani
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Balaji
+    - 47.6:
+        non_striker: HK Badani
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Balaji
+    - 48.1:
+        non_striker: HK Badani
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Balaji
+    - 48.2:
+        non_striker: HK Badani
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Balaji
+    - 48.3:
+        non_striker: L Balaji
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Badani
+    - 48.4:
+        non_striker: L Balaji
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Badani
+    - 48.5:
+        non_striker: HK Badani
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Balaji
+    - 48.6:
+        non_striker: HK Badani
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Balaji
+        wicket:
+          player_out: L Balaji
+          kind: bowled
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 0.2:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 0.3:
+        non_striker: AC Gilchrist
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 0.4:
+        non_striker: AC Gilchrist
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 0.5:
+        non_striker: AC Gilchrist
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 0.6:
+        non_striker: AC Gilchrist
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 1.1:
+        non_striker: AC Gilchrist
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.2:
+        non_striker: AC Gilchrist
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.3:
+        non_striker: AC Gilchrist
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.4:
+        non_striker: AC Gilchrist
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.5:
+        non_striker: AC Gilchrist
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.6:
+        non_striker: AC Gilchrist
+        bowler: L Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: ML Hayden
+    - 1.7:
+        non_striker: AC Gilchrist
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.1:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.2:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.3:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 2.4:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Gilchrist
+    - 2.5:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 2.6:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 3.1:
+        non_striker: AC Gilchrist
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 3.2:
+        non_striker: AC Gilchrist
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 3.3:
+        non_striker: AC Gilchrist
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 3.4:
+        non_striker: AC Gilchrist
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 3.5:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 3.6:
+        non_striker: AC Gilchrist
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 4.1:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 4.2:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 4.3:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 4.4:
+        non_striker: AC Gilchrist
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 4.5:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 4.6:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AC Gilchrist
+    - 5.1:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Gilchrist
+    - 5.2:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 5.3:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 5.4:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 5.5:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 5.6:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+        wicket:
+          player_out: AC Gilchrist
+          fielders:
+          - SR Tendulkar
+          kind: caught
+    - 6.1:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 6.2:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 6.3:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 6.4:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 6.5:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 6.6:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 7.1:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 7.2:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 7.3:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 7.4:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 7.5:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 7.6:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 8.1:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 8.2:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 8.3:
+        non_striker: ML Hayden
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: RT Ponting
+    - 8.4:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 8.5:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 8.6:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 9.1:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 9.2:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 9.3:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 9.4:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 9.5:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 9.6:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 10.1:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 10.2:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 10.3:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 10.4:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 10.5:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 10.6:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 10.7:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 11.1:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 11.2:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 11.3:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 11.4:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 11.5:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 11.6:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 12.1:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 12.2:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 12.3:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 12.4:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 12.5:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 12.6:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 13.1:
+        non_striker: RT Ponting
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 13.2:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 13.3:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 13.4:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 13.5:
+        non_striker: ML Hayden
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RT Ponting
+    - 13.6:
+        non_striker: RT Ponting
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 14.1:
+        non_striker: ML Hayden
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 14.2:
+        non_striker: ML Hayden
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 14.3:
+        non_striker: ML Hayden
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 14.4:
+        non_striker: ML Hayden
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RT Ponting
+    - 14.5:
+        non_striker: ML Hayden
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RT Ponting
+    - 14.6:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 15.1:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 15.2:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Hayden
+    - 15.3:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 15.4:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 15.5:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 15.6:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 16.1:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 16.2:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 16.3:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 16.4:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 16.5:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 16.6:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 16.7:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 16.8:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 16.9:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 17.1:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 17.2:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 17.3:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 17.4:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 17.5:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 17.6:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 18.1:
+        non_striker: ML Hayden
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 18.2:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 18.3:
+        non_striker: ML Hayden
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 18.4:
+        non_striker: RT Ponting
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 18.5:
+        non_striker: ML Hayden
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 18.6:
+        non_striker: ML Hayden
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 19.1:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 19.2:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 19.3:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 19.4:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: ML Hayden
+    - 19.5:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 19.6:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ML Hayden
+    - 20.1:
+        non_striker: RT Ponting
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 20.2:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 20.3:
+        non_striker: RT Ponting
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 20.4:
+        non_striker: RT Ponting
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 20.5:
+        non_striker: RT Ponting
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 20.6:
+        non_striker: RT Ponting
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 21.1:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 21.2:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 21.3:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 21.4:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 21.5:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 21.6:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 22.1:
+        non_striker: RT Ponting
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 22.2:
+        non_striker: RT Ponting
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 22.3:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 22.4:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 22.5:
+        non_striker: RT Ponting
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 22.6:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 23.1:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 23.2:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 23.3:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 23.4:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 23.5:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 23.6:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: ML Hayden
+    - 24.1:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 24.2:
+        non_striker: RT Ponting
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 24.3:
+        non_striker: RT Ponting
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 24.4:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 24.5:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 24.6:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 25.1:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 25.2:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 25.3:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 25.4:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 25.5:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 25.6:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 26.1:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 26.2:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 26.3:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 26.4:
+        non_striker: RT Ponting
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 26.5:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 26.6:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 27.1:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 27.2:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RT Ponting
+    - 27.3:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 27.4:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 27.5:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 27.6:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 28.1:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 28.2:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 28.3:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 28.4:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 28.5:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 28.6:
+        non_striker: ML Hayden
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 29.1:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 29.2:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 29.3:
+        non_striker: ML Hayden
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 29.4:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 29.5:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 29.6:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 29.7:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 30.1:
+        non_striker: RT Ponting
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 30.2:
+        non_striker: ML Hayden
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 30.3:
+        non_striker: ML Hayden
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 30.4:
+        non_striker: RT Ponting
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 30.5:
+        non_striker: ML Hayden
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 30.6:
+        non_striker: ML Hayden
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 31.1:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+        wicket:
+          player_out: ML Hayden
+          kind: caught and bowled
+    - 31.2:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 31.3:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DR Martyn
+    - 31.4:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 31.5:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 31.6:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 31.7:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 32.1:
+        non_striker: DR Martyn
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 32.2:
+        non_striker: RT Ponting
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 32.3:
+        non_striker: RT Ponting
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 32.4:
+        non_striker: RT Ponting
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 32.5:
+        non_striker: RT Ponting
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 32.6:
+        non_striker: RT Ponting
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 33.1:
+        non_striker: DR Martyn
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 33.2:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 33.3:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 33.4:
+        non_striker: RT Ponting
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DR Martyn
+    - 33.5:
+        non_striker: DR Martyn
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+        wicket:
+          player_out: RT Ponting
+          fielders:
+          - R Dravid
+          kind: caught
+    - 33.6:
+        non_striker: DR Martyn
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 34.1:
+        non_striker: A Symonds
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 34.2:
+        non_striker: A Symonds
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 34.3:
+        non_striker: A Symonds
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 34.4:
+        non_striker: A Symonds
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Martyn
+    - 34.5:
+        non_striker: A Symonds
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Martyn
+    - 34.6:
+        non_striker: A Symonds
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 35.1:
+        non_striker: DR Martyn
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 35.2:
+        non_striker: A Symonds
+        bowler: L Balaji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Martyn
+    - 35.3:
+        non_striker: A Symonds
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DR Martyn
+    - 35.4:
+        non_striker: DR Martyn
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 35.5:
+        non_striker: DR Martyn
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 35.6:
+        non_striker: A Symonds
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 35.7:
+        non_striker: A Symonds
+        bowler: L Balaji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 36.1:
+        non_striker: A Symonds
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 36.2:
+        non_striker: A Symonds
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 36.3:
+        non_striker: A Symonds
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 36.4:
+        non_striker: A Symonds
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 36.5:
+        non_striker: A Symonds
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 36.6:
+        non_striker: A Symonds
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DR Martyn
+    - 37.1:
+        non_striker: A Symonds
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 37.2:
+        non_striker: A Symonds
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Martyn
+    - 37.3:
+        non_striker: A Symonds
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 37.4:
+        non_striker: A Symonds
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 37.5:
+        non_striker: DR Martyn
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 37.6:
+        non_striker: DR Martyn
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 37.7:
+        non_striker: DR Martyn
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 38.1:
+        non_striker: DR Martyn
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 38.2:
+        non_striker: DR Martyn
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 38.3:
+        non_striker: DR Martyn
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 38.4:
+        non_striker: A Symonds
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 38.5:
+        non_striker: DR Martyn
+        bowler: AB Agarkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Symonds
+    - 38.6:
+        non_striker: DR Martyn
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 38.7:
+        non_striker: DR Martyn
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 39.1:
+        non_striker: DR Martyn
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 39.2:
+        non_striker: DR Martyn
+        bowler: IK Pathan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Symonds
+    - 39.3:
+        non_striker: A Symonds
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Martyn
+    - 39.4:
+        non_striker: A Symonds
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 39.5:
+        non_striker: A Symonds
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 39.6:
+        non_striker: A Symonds
+        bowler: IK Pathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 40.1:
+        non_striker: DR Martyn
+        bowler: AB Agarkar
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: A Symonds

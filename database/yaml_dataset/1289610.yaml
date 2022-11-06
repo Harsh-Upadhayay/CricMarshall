@@ -1,0 +1,1864 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-01-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: Super Smash
+  dates:
+  - '2022-01-20'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      wickets: 8
+  overs: 20
+  players:
+    Auckland:
+    - GH Worker
+    - WT O'Donnell
+    - MS Chapman
+    - GD Phillips
+    - RR O'Donnell
+    - BJ Horne
+    - SM Solia
+    - WER Somerville
+    - LH Ferguson
+    - A Ashok
+    - BG Lister
+    Wellington:
+    - FH Allen
+    - DP Conway
+    - MG Bracewell
+    - TA Blundell
+    - JDS Neesham
+    - R Ravindra
+    - NG Smith
+    - LV van Beek
+    - PF Younghusband
+    - BV Sears
+    - HK Bennett
+  registry:
+    people:
+      A Ashok: 321be7e3
+      AL Hill: 4165ced0
+      BG Lister: 79f5bc26
+      BJ Horne: 5d99a16a
+      BV Sears: e1891e00
+      C Black: 75b42f71
+      DP Conway: df5a6881
+      FH Allen: bf74b130
+      GD Phillips: 9a46c4e5
+      GH Worker: 51a36d3e
+      HK Bennett: '94238673'
+      JAK Bromley: ccf7baaf
+      JDS Neesham: 9219eff0
+      LH Ferguson: 2f9d0389
+      LV van Beek: 782fb776
+      MG Bracewell: e38bce7a
+      MS Chapman: 7fa12533
+      NG Smith: 05b1aef8
+      PF Younghusband: 149d0c18
+      R Ravindra: ba5e1069
+      RR O'Donnell: 2742086d
+      SM Solia: fd9f43bb
+      TA Blundell: 21e5f325
+      V Mahna: 5dcdc811
+      WER Somerville: 74a1c1e3
+      WR Knights: 63cbf8d8
+      WT O'Donnell: 730b57de
+  teams:
+  - Auckland
+  - Wellington
+  toss:
+    winner: Auckland
+    decision: bat
+  umpires:
+  - C Black
+  - JAK Bromley
+  venue: Eden Park Outer Oval, Auckland
+innings:
+- 1st innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WT O'Donnell
+        batsman: GH Worker
+    - 0.2:
+        non_striker: GH Worker
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 0.3:
+        non_striker: GH Worker
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 0.4:
+        non_striker: GH Worker
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 0.5:
+        non_striker: GH Worker
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WT O'Donnell
+    - 0.6:
+        non_striker: GH Worker
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 1.1:
+        non_striker: GH Worker
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WT O'Donnell
+    - 1.2:
+        non_striker: GH Worker
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 1.3:
+        non_striker: WT O'Donnell
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 1.4:
+        non_striker: GH Worker
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+        wicket:
+          player_out: WT O'Donnell
+          fielders:
+          - DP Conway
+          kind: caught
+    - 1.5:
+        non_striker: GH Worker
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 1.6:
+        non_striker: GH Worker
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 2.1:
+        non_striker: MS Chapman
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 2.2:
+        non_striker: MS Chapman
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 2.3:
+        non_striker: GH Worker
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 2.4:
+        non_striker: MS Chapman
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 2.5:
+        non_striker: MS Chapman
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 2.6:
+        non_striker: MS Chapman
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 3.1:
+        non_striker: GH Worker
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 3.2:
+        non_striker: GH Worker
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 3.3:
+        non_striker: MS Chapman
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 3.4:
+        non_striker: GH Worker
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 3.5:
+        non_striker: MS Chapman
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 3.6:
+        non_striker: MS Chapman
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 4.1:
+        non_striker: GH Worker
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 4.2:
+        non_striker: GH Worker
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - MG Bracewell
+          kind: caught
+    - 4.3:
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GD Phillips
+        batsman: GH Worker
+    - 4.4:
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: GD Phillips
+        batsman: GH Worker
+    - 4.5:
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GD Phillips
+        batsman: GH Worker
+    - 4.6:
+        non_striker: GD Phillips
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 5.1:
+        non_striker: GH Worker
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 5.2:
+        non_striker: GD Phillips
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 5.3:
+        non_striker: GH Worker
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 5.4:
+        non_striker: GD Phillips
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 5.5:
+        non_striker: GD Phillips
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+        wicket:
+          player_out: GH Worker
+          fielders:
+          - R Ravindra
+          kind: caught
+    - 5.6:
+        non_striker: GD Phillips
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 6.1:
+        non_striker: RR O'Donnell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 6.2:
+        non_striker: RR O'Donnell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 6.3:
+        non_striker: RR O'Donnell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 6.4:
+        non_striker: GD Phillips
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 6.5:
+        non_striker: GD Phillips
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 6.6:
+        non_striker: GD Phillips
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 7.1:
+        non_striker: GD Phillips
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 7.2:
+        non_striker: RR O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 7.3:
+        non_striker: GD Phillips
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 7.4:
+        non_striker: GD Phillips
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 7.5:
+        non_striker: GD Phillips
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 7.6:
+        non_striker: RR O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 8.1:
+        non_striker: RR O'Donnell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 8.2:
+        non_striker: GD Phillips
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 8.3:
+        non_striker: GD Phillips
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 8.4:
+        non_striker: RR O'Donnell
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 8.5:
+        non_striker: GD Phillips
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+        wicket:
+          player_out: RR O'Donnell
+          fielders:
+          - R Ravindra
+          kind: caught
+    - 8.6:
+        non_striker: GD Phillips
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 9.1:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.2:
+        non_striker: GD Phillips
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 9.3:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 9.4:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.5:
+        non_striker: GD Phillips
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 9.6:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 10.1:
+        non_striker: GD Phillips
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 10.2:
+        non_striker: GD Phillips
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 10.3:
+        non_striker: BJ Horne
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 10.4:
+        non_striker: BJ Horne
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 10.5:
+        non_striker: BJ Horne
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 10.6:
+        non_striker: GD Phillips
+        bowler: BV Sears
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Horne
+    - 10.7:
+        non_striker: GD Phillips
+        bowler: BV Sears
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 11.1:
+        non_striker: GD Phillips
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 11.2:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 11.3:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 11.4:
+        non_striker: GD Phillips
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 11.5:
+        non_striker: GD Phillips
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 11.6:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.1:
+        non_striker: BJ Horne
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 12.2:
+        non_striker: BJ Horne
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 12.3:
+        non_striker: GD Phillips
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 12.4:
+        non_striker: GD Phillips
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Horne
+    - 12.5:
+        non_striker: GD Phillips
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Horne
+    - 12.6:
+        non_striker: GD Phillips
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 12.7:
+        non_striker: GD Phillips
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 13.1:
+        non_striker: GD Phillips
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 13.2:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 13.3:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 13.4:
+        non_striker: GD Phillips
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 13.5:
+        non_striker: GD Phillips
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 13.6:
+        non_striker: GD Phillips
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Horne
+    - 14.1:
+        non_striker: BJ Horne
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 14.2:
+        non_striker: GD Phillips
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ Horne
+    - 14.3:
+        non_striker: GD Phillips
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 14.4:
+        non_striker: GD Phillips
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 14.5:
+        non_striker: GD Phillips
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Horne
+    - 14.6:
+        non_striker: GD Phillips
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 15.1:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 15.2:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 15.3:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 15.4:
+        non_striker: GD Phillips
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 15.5:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 15.6:
+        non_striker: BJ Horne
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 16.1:
+        non_striker: BJ Horne
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 16.2:
+        non_striker: BJ Horne
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          kind: bowled
+    - 16.3:
+        non_striker: BJ Horne
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 16.4:
+        non_striker: BJ Horne
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 16.5:
+        non_striker: BJ Horne
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          fielders:
+          - NG Smith
+          kind: caught
+    - 16.6:
+        non_striker: BJ Horne
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WER Somerville
+    - 17.1:
+        non_striker: WER Somerville
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 17.2:
+        non_striker: WER Somerville
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Horne
+    - 17.3:
+        non_striker: WER Somerville
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Horne
+    - 17.4:
+        non_striker: WER Somerville
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 17.5:
+        non_striker: WER Somerville
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 17.6:
+        non_striker: BJ Horne
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WER Somerville
+        wicket:
+          player_out: WER Somerville
+          kind: caught and bowled
+    - 17.7:
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: LH Ferguson
+        batsman: BJ Horne
+    - 17.8:
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Ferguson
+        batsman: BJ Horne
+    - 17.9:
+        non_striker: BJ Horne
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 18.1:
+        non_striker: BJ Horne
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Ferguson
+    - 18.2:
+        non_striker: BJ Horne
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LH Ferguson
+    - 18.3:
+        non_striker: LH Ferguson
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 18.4:
+        non_striker: LH Ferguson
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+        wicket:
+          player_out: BJ Horne
+          fielders:
+          - PF Younghusband
+          kind: caught
+    - 18.5:
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Ashok
+        batsman: LH Ferguson
+    - 18.6:
+        non_striker: A Ashok
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LH Ferguson
+    - 19.1:
+        non_striker: A Ashok
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 19.2:
+        non_striker: A Ashok
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LH Ferguson
+    - 19.3:
+        non_striker: A Ashok
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+        wicket:
+          player_out: LH Ferguson
+          fielders:
+          - PF Younghusband
+          kind: caught
+    - 19.4:
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BG Lister
+        batsman: A Ashok
+    - 19.5:
+        non_striker: A Ashok
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Lister
+    - 19.6:
+        non_striker: BG Lister
+        bowler: JDS Neesham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Ashok
+- 2nd innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Conway
+        batsman: FH Allen
+    - 0.2:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DP Conway
+        batsman: FH Allen
+    - 0.3:
+        non_striker: FH Allen
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 0.4:
+        non_striker: FH Allen
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 0.5:
+        non_striker: FH Allen
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 0.6:
+        non_striker: DP Conway
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.1:
+        non_striker: FH Allen
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 1.2:
+        non_striker: FH Allen
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          kind: bowled
+    - 1.3:
+        non_striker: FH Allen
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 1.4:
+        non_striker: FH Allen
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 1.5:
+        non_striker: FH Allen
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 1.6:
+        non_striker: MG Bracewell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.1:
+        non_striker: FH Allen
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 2.2:
+        non_striker: MG Bracewell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 2.3:
+        non_striker: FH Allen
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 2.4:
+        non_striker: MG Bracewell
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: FH Allen
+    - 2.5:
+        non_striker: MG Bracewell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 2.6:
+        non_striker: MG Bracewell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.7:
+        non_striker: MG Bracewell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 3.1:
+        non_striker: FH Allen
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 3.2:
+        non_striker: FH Allen
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 3.3:
+        non_striker: FH Allen
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 3.4:
+        non_striker: FH Allen
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 3.5:
+        non_striker: FH Allen
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MG Bracewell
+    - 3.6:
+        non_striker: MG Bracewell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 4.1:
+        non_striker: FH Allen
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 4.2:
+        non_striker: FH Allen
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 4.3:
+        non_striker: FH Allen
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Bracewell
+    - 4.4:
+        non_striker: FH Allen
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 4.5:
+        non_striker: FH Allen
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 4.6:
+        non_striker: MG Bracewell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 5.1:
+        non_striker: FH Allen
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 5.2:
+        non_striker: MG Bracewell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          kind: lbw
+    - 5.3:
+        non_striker: MG Bracewell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 5.4:
+        non_striker: MG Bracewell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 5.5:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 5.6:
+        non_striker: MG Bracewell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 6.1:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 6.2:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 6.3:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 6.4:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 6.5:
+        non_striker: MG Bracewell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 6.6:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 7.1:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 7.2:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 7.3:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 7.4:
+        non_striker: MG Bracewell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 7.5:
+        non_striker: MG Bracewell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 7.6:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 8.1:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Bracewell
+    - 8.2:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 8.3:
+        non_striker: MG Bracewell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 8.4:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 8.5:
+        non_striker: MG Bracewell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 8.6:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 8.7:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 9.1:
+        non_striker: MG Bracewell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 9.2:
+        non_striker: TA Blundell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 9.3:
+        non_striker: TA Blundell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 9.4:
+        non_striker: TA Blundell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 9.5:
+        non_striker: MG Bracewell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 9.6:
+        non_striker: MG Bracewell
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TA Blundell
+    - 9.7:
+        non_striker: MG Bracewell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 10.1:
+        non_striker: MG Bracewell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 10.2:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 10.3:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 10.4:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 10.5:
+        non_striker: MG Bracewell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 10.6:
+        non_striker: TA Blundell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 11.1:
+        non_striker: TA Blundell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 11.2:
+        non_striker: MG Bracewell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Blundell
+    - 11.3:
+        non_striker: MG Bracewell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 11.4:
+        non_striker: TA Blundell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 11.5:
+        non_striker: MG Bracewell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 11.6:
+        non_striker: MG Bracewell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 12.1:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 12.2:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 12.3:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 12.4:
+        non_striker: MG Bracewell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 12.5:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 12.6:
+        non_striker: MG Bracewell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Blundell
+    - 13.1:
+        non_striker: TA Blundell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 13.2:
+        non_striker: MG Bracewell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Blundell
+    - 13.3:
+        non_striker: MG Bracewell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Blundell
+    - 13.4:
+        non_striker: MG Bracewell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Blundell
+    - 13.5:
+        non_striker: MG Bracewell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Blundell
+    - 13.6:
+        non_striker: MG Bracewell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 14.1:
+        non_striker: MG Bracewell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell

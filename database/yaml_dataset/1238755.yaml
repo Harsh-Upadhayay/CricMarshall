@@ -1,0 +1,678 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hambantota
+  competition: Lanka Premier League
+  dates:
+  - '2020-11-28'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Colombo Kings
+    by:
+      runs: 34
+  overs: 20
+  player_of_match:
+  - AD Russell
+  players:
+    Colombo Kings:
+    - AD Russell
+    - ST de Silva
+    - LJ Evans
+    - LD Chandimal
+    - AD Mathews
+    - SMA Priyanjan
+    - I Udana
+    - Qais Ahmad
+    - DJ Bell-Drummond
+    - PVD Chameera
+    - MA Aponso
+    Galle Gladiators:
+    - MD Gunathilaka
+    - Hazratullah
+    - Shahid Afridi
+    - Azam Khan
+    - PBB Rajapaksa
+    - TAM Siriwardana
+    - GSNFG Jayasuriya
+    - Mohammad Amir
+    - D Lakshan
+    - M Shiraz
+    - AM Fernando
+  registry:
+    people:
+      AD Mathews: 896d78ad
+      AD Russell: bbd41817
+      AM Fernando: de3d549a
+      Azam Khan: ee8f1a6d
+      D Lakshan: 0a2184d9
+      DJ Bell-Drummond: 8f938a32
+      EJAPAM Jayasooriya: edc9d57f
+      GF Labrooy: 8e088dbc
+      GSNFG Jayasuriya: b58b7db6
+      Hazratullah: 5ea51c25
+      I Udana: ac5ae4af
+      LD Chandimal: 8dd02a98
+      LE Hannibal: 3c04e91a
+      LJ Evans: 1c513d54
+      M Shiraz: cdac5a3d
+      MA Aponso: e2ee90d9
+      MD Gunathilaka: 509a7ca1
+      Mohammad Amir: e174dadd
+      PBB Rajapaksa: 6c882e9a
+      PVD Chameera: 327b58d3
+      Qais Ahmad: 8d5d991e
+      RD Kottahachchi: 92e41d14
+      RMPJ Rambukwella: 13fa6ffc
+      SMA Priyanjan: fec50c96
+      ST de Silva: 54ef649e
+      Shahid Afridi: 0dc00542
+      TAM Siriwardana: bf7842c9
+  teams:
+  - Colombo Kings
+  - Galle Gladiators
+  toss:
+    winner: Galle Gladiators
+    decision: field
+  umpires:
+  - RMPJ Rambukwella
+  - RD Kottahachchi
+  venue: Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota
+innings:
+- 1st innings:
+    team: Colombo Kings
+    deliveries:
+    - 0.1:
+        non_striker: ST de Silva
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 0.2:
+        non_striker: ST de Silva
+        bowler: Mohammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 0.3:
+        non_striker: ST de Silva
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 0.4:
+        non_striker: ST de Silva
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 0.5:
+        non_striker: ST de Silva
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 0.6:
+        non_striker: ST de Silva
+        bowler: Mohammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 0.7:
+        non_striker: ST de Silva
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 0.8:
+        non_striker: ST de Silva
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 1.1:
+        non_striker: AD Russell
+        bowler: AM Fernando
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: ST de Silva
+    - 1.2:
+        non_striker: AD Russell
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST de Silva
+        wicket:
+          player_out: ST de Silva
+          fielders:
+          - TAM Siriwardana
+          kind: caught
+    - 1.3:
+        non_striker: LJ Evans
+        bowler: AM Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 1.4:
+        non_striker: LJ Evans
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 1.5:
+        non_striker: LJ Evans
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AD Russell
+    - 1.6:
+        non_striker: LJ Evans
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 1.7:
+        non_striker: LJ Evans
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 1.8:
+        non_striker: LJ Evans
+        bowler: AM Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 2.1:
+        non_striker: AD Russell
+        bowler: M Shiraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 2.2:
+        non_striker: AD Russell
+        bowler: M Shiraz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Evans
+    - 2.3:
+        non_striker: AD Russell
+        bowler: M Shiraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 2.4:
+        non_striker: LJ Evans
+        bowler: M Shiraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 2.5:
+        non_striker: AD Russell
+        bowler: M Shiraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 2.6:
+        non_striker: LJ Evans
+        bowler: M Shiraz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 3.1:
+        non_striker: AD Russell
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LJ Evans
+    - 3.2:
+        non_striker: AD Russell
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LJ Evans
+    - 3.3:
+        non_striker: AD Russell
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 3.4:
+        non_striker: LJ Evans
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 3.5:
+        non_striker: LJ Evans
+        bowler: Mohammad Amir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AD Russell
+    - 3.6:
+        non_striker: LJ Evans
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 3.7:
+        non_striker: AD Russell
+        bowler: Mohammad Amir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 4.1:
+        non_striker: AD Russell
+        bowler: Shahid Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LJ Evans
+    - 4.2:
+        non_striker: AD Russell
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Evans
+    - 4.3:
+        non_striker: AD Russell
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Evans
+    - 4.4:
+        non_striker: LJ Evans
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 4.5:
+        non_striker: LJ Evans
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AD Russell
+    - 4.6:
+        non_striker: LJ Evans
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 4.7:
+        non_striker: LJ Evans
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+- 2nd innings:
+    team: Galle Gladiators
+    deliveries:
+    - 0.1:
+        non_striker: Hazratullah
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Gunathilaka
+    - 0.2:
+        non_striker: Hazratullah
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Gunathilaka
+    - 0.3:
+        non_striker: Hazratullah
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Gunathilaka
+    - 0.4:
+        non_striker: Hazratullah
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Gunathilaka
+    - 0.5:
+        non_striker: Hazratullah
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Gunathilaka
+    - 0.6:
+        non_striker: Hazratullah
+        bowler: I Udana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Gunathilaka
+    - 0.7:
+        non_striker: Hazratullah
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+    - 1.1:
+        non_striker: MD Gunathilaka
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 1.2:
+        non_striker: Hazratullah
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Gunathilaka
+    - 1.3:
+        non_striker: Hazratullah
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Gunathilaka
+    - 1.4:
+        non_striker: Hazratullah
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Gunathilaka
+    - 1.5:
+        non_striker: MD Gunathilaka
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Hazratullah
+    - 1.6:
+        non_striker: MD Gunathilaka
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hazratullah
+    - 1.7:
+        non_striker: Hazratullah
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MD Gunathilaka
+    - 2.1:
+        non_striker: MD Gunathilaka
+        bowler: SMA Priyanjan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Hazratullah
+    - 2.2:
+        non_striker: Hazratullah
+        bowler: SMA Priyanjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+    - 2.3:
+        non_striker: Hazratullah
+        bowler: SMA Priyanjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+    - 2.4:
+        non_striker: Hazratullah
+        bowler: SMA Priyanjan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Gunathilaka
+    - 2.5:
+        non_striker: MD Gunathilaka
+        bowler: SMA Priyanjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+    - 2.6:
+        non_striker: MD Gunathilaka
+        bowler: SMA Priyanjan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hazratullah
+        wicket:
+          player_out: Hazratullah
+          fielders:
+          - ST de Silva
+          kind: caught
+    - 3.1:
+        non_striker: Shahid Afridi
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Gunathilaka
+    - 3.2:
+        non_striker: Shahid Afridi
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Gunathilaka
+    - 3.3:
+        non_striker: MD Gunathilaka
+        bowler: I Udana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahid Afridi
+    - 3.4:
+        non_striker: MD Gunathilaka
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahid Afridi
+    - 3.5:
+        non_striker: MD Gunathilaka
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 3.6:
+        non_striker: MD Gunathilaka
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahid Afridi
+    - 3.7:
+        non_striker: MD Gunathilaka
+        bowler: I Udana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahid Afridi
+    - 4.1:
+        non_striker: Shahid Afridi
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Gunathilaka
+    - 4.2:
+        non_striker: MD Gunathilaka
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 4.3:
+        non_striker: MD Gunathilaka
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+        wicket:
+          player_out: Shahid Afridi
+          fielders:
+          - SMA Priyanjan
+          kind: caught
+    - 4.4:
+        non_striker: MD Gunathilaka
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azam Khan
+    - 4.5:
+        non_striker: MD Gunathilaka
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azam Khan
+    - 4.6:
+        non_striker: MD Gunathilaka
+        bowler: Qais Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Azam Khan

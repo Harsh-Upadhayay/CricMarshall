@@ -1,0 +1,1373 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-01-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: Super Smash
+  dates:
+  - '2021-01-17'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Northern Districts
+    by:
+      wickets: 5
+    method: D/L
+  overs: 20
+  players:
+    Auckland:
+    - MJ Guptill
+    - SM Solia
+    - GD Phillips
+    - WT O'Donnell
+    - RR O'Donnell
+    - BJ Horne
+    - KA Jamieson
+    - WER Somerville
+    - RM ter Braak
+    - L Delport
+    - BG Lister
+    Northern Districts:
+    - JA Raval
+    - TL Seifert
+    - AP Devcich
+    - C de Grandhomme
+    - JF Carter
+    - MJ Santner
+    - SC Kuggeleijn
+    - TG Southee
+    - A Verma
+    - JG Walker
+    - TA Boult
+  registry:
+    people:
+      A Stanley: 5a72b592
+      A Verma: 8e9a5d20
+      AL Hill: 4165ced0
+      AP Devcich: ed90abe4
+      BF Bowden: efc0a862
+      BG Lister: 79f5bc26
+      BJ Horne: 5d99a16a
+      C de Grandhomme: 94d7f855
+      CM Brown: 448f4f1c
+      GD Phillips: 9a46c4e5
+      JA Raval: 5f966ec0
+      JF Carter: 125fa4de
+      JG Walker: 94734e80
+      KA Jamieson: 68c56d09
+      L Delport: 2c1438ef
+      MJ Guptill: 2be41edb
+      MJ Santner: e4a0deae
+      RM ter Braak: ac3e5a31
+      RR O'Donnell: 2742086d
+      SC Kuggeleijn: fef92afc
+      SM Solia: fd9f43bb
+      TA Boult: a818c1be
+      TG Southee: 13c35c9e
+      TL Seifert: 4663bd23
+      WER Somerville: 74a1c1e3
+      WR Knights: 63cbf8d8
+      WT O'Donnell: 730b57de
+  teams:
+  - Auckland
+  - Northern Districts
+  toss:
+    decision: field
+    winner: Northern Districts
+  umpires:
+  - CM Brown
+  - WR Knights
+  venue: Eden Park Outer Oval
+innings:
+- 1st innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Solia
+        batsman: MJ Guptill
+    - 0.2:
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Solia
+        batsman: MJ Guptill
+    - 0.3:
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SM Solia
+        batsman: MJ Guptill
+    - 0.4:
+        non_striker: MJ Guptill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 0.5:
+        non_striker: MJ Guptill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 0.6:
+        non_striker: MJ Guptill
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 1.1:
+        non_striker: SM Solia
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 1.2:
+        non_striker: SM Solia
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 1.3:
+        non_striker: SM Solia
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+        wicket:
+          player_out: MJ Guptill
+          fielders:
+          - C de Grandhomme
+          kind: caught
+    - 1.4:
+        non_striker: SM Solia
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 1.5:
+        non_striker: SM Solia
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 1.6:
+        non_striker: SM Solia
+        bowler: TG Southee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GD Phillips
+    - 2.1:
+        non_striker: SM Solia
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 2.2:
+        non_striker: SM Solia
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 2.3:
+        non_striker: SM Solia
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 2.4:
+        non_striker: SM Solia
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GD Phillips
+    - 2.5:
+        non_striker: GD Phillips
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 2.6:
+        non_striker: SM Solia
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 3.1:
+        non_striker: SM Solia
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 3.2:
+        non_striker: SM Solia
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 3.3:
+        non_striker: SM Solia
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 3.4:
+        non_striker: SM Solia
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 3.5:
+        non_striker: GD Phillips
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 3.6:
+        non_striker: SM Solia
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 4.1:
+        non_striker: SM Solia
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 4.2:
+        non_striker: GD Phillips
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 4.3:
+        non_striker: GD Phillips
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 4.4:
+        non_striker: SM Solia
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 4.5:
+        non_striker: SM Solia
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 4.6:
+        non_striker: SM Solia
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 5.1:
+        non_striker: GD Phillips
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 5.2:
+        non_striker: GD Phillips
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 5.3:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Phillips
+    - 5.4:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 5.5:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 5.6:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Phillips
+    - 5.7:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 5.8:
+        non_striker: SM Solia
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 6.1:
+        non_striker: GD Phillips
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 6.2:
+        non_striker: GD Phillips
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          fielders:
+          - TG Southee
+          kind: caught
+    - 6.3:
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WT O'Donnell
+        batsman: GD Phillips
+    - 6.4:
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: WT O'Donnell
+        batsman: GD Phillips
+    - 6.5:
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WT O'Donnell
+        batsman: GD Phillips
+    - 6.6:
+        non_striker: WT O'Donnell
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 7.1:
+        non_striker: WT O'Donnell
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 7.2:
+        non_striker: GD Phillips
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 7.3:
+        non_striker: GD Phillips
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WT O'Donnell
+    - 7.4:
+        non_striker: GD Phillips
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+        wicket:
+          player_out: WT O'Donnell
+          kind: bowled
+    - 7.5:
+        non_striker: GD Phillips
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 7.6:
+        non_striker: RR O'Donnell
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 8.1:
+        non_striker: GD Phillips
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 8.2:
+        non_striker: RR O'Donnell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 8.3:
+        non_striker: GD Phillips
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 8.4:
+        non_striker: RR O'Donnell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 8.5:
+        non_striker: RR O'Donnell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 8.6:
+        non_striker: RR O'Donnell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.1:
+        non_striker: RR O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Phillips
+    - 9.2:
+        non_striker: RR O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 9.3:
+        non_striker: RR O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - TL Seifert
+          kind: caught
+    - 9.4:
+        non_striker: RR O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Horne
+    - 9.5:
+        non_striker: RR O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Horne
+    - 9.6:
+        non_striker: RR O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+        wicket:
+          player_out: BJ Horne
+          fielders:
+          - TL Seifert
+          kind: caught
+    - 9.7:
+        non_striker: RR O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 10.1:
+        non_striker: KA Jamieson
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 10.2:
+        non_striker: KA Jamieson
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 10.3:
+        non_striker: RR O'Donnell
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Jamieson
+    - 10.4:
+        non_striker: RR O'Donnell
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 10.5:
+        non_striker: KA Jamieson
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 10.6:
+        non_striker: RR O'Donnell
+        bowler: A Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 11.1:
+        non_striker: RR O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 11.2:
+        non_striker: KA Jamieson
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 11.3:
+        non_striker: RR O'Donnell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 11.4:
+        non_striker: KA Jamieson
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR O'Donnell
+    - 11.5:
+        non_striker: KA Jamieson
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 11.6:
+        non_striker: KA Jamieson
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 12.1:
+        non_striker: RR O'Donnell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Jamieson
+    - 12.2:
+        non_striker: RR O'Donnell
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Jamieson
+    - 12.3:
+        non_striker: RR O'Donnell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 12.4:
+        non_striker: RR O'Donnell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 12.5:
+        non_striker: RR O'Donnell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Jamieson
+    - 12.6:
+        non_striker: RR O'Donnell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Jamieson
+    - 12.7:
+        non_striker: RR O'Donnell
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 13.1:
+        non_striker: RR O'Donnell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 13.2:
+        non_striker: KA Jamieson
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 13.3:
+        non_striker: RR O'Donnell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+        wicket:
+          player_out: KA Jamieson
+          kind: bowled
+    - 13.4:
+        non_striker: RR O'Donnell
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WER Somerville
+    - 13.5:
+        non_striker: WER Somerville
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 13.6:
+        non_striker: WER Somerville
+        bowler: TG Southee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+- 2nd innings:
+    team: Northern Districts
+    deliveries:
+    - 0.1:
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TL Seifert
+        batsman: JA Raval
+    - 0.2:
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: TL Seifert
+        batsman: JA Raval
+    - 0.3:
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TL Seifert
+        batsman: JA Raval
+    - 0.4:
+        bowler: KA Jamieson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: TL Seifert
+        batsman: JA Raval
+    - 0.5:
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TL Seifert
+        batsman: JA Raval
+    - 0.6:
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: TL Seifert
+        batsman: JA Raval
+    - 0.7:
+        non_striker: TL Seifert
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+    - 1.1:
+        non_striker: JA Raval
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.2:
+        non_striker: JA Raval
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 1.3:
+        non_striker: JA Raval
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 1.4:
+        non_striker: JA Raval
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TL Seifert
+    - 1.5:
+        non_striker: TL Seifert
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Raval
+    - 1.6:
+        non_striker: TL Seifert
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JA Raval
+    - 1.7:
+        non_striker: JA Raval
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 2.1:
+        non_striker: TL Seifert
+        bowler: RM ter Braak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Raval
+    - 2.2:
+        non_striker: TL Seifert
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 2.3:
+        non_striker: JA Raval
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.4:
+        non_striker: JA Raval
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          fielders:
+          - KA Jamieson
+          kind: caught
+    - 2.5:
+        non_striker: JA Raval
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 2.6:
+        non_striker: AP Devcich
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Raval
+    - 2.7:
+        non_striker: AP Devcich
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Raval
+    - 3.1:
+        non_striker: AP Devcich
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Raval
+        wicket:
+          player_out: JA Raval
+          kind: lbw
+    - 3.2:
+        non_striker: AP Devcich
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C de Grandhomme
+    - 3.3:
+        non_striker: AP Devcich
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C de Grandhomme
+    - 3.4:
+        non_striker: AP Devcich
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Grandhomme
+        wicket:
+          player_out: C de Grandhomme
+          fielders:
+          - MJ Guptill
+          kind: caught
+    - 3.5:
+        non_striker: AP Devcich
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 3.6:
+        non_striker: AP Devcich
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 4.1:
+        non_striker: AP Devcich
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 4.2:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AP Devcich
+    - 4.3:
+        non_striker: AP Devcich
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 4.4:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 4.5:
+        non_striker: AP Devcich
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 4.6:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 4.7:
+        non_striker: AP Devcich
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 5.1:
+        non_striker: AP Devcich
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 5.2:
+        non_striker: JF Carter
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Devcich
+        wicket:
+          player_out: AP Devcich
+          fielders:
+          - KA Jamieson
+          kind: caught
+    - 5.3:
+        non_striker: JF Carter
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 5.4:
+        non_striker: MJ Santner
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 5.5:
+        non_striker: MJ Santner
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 5.6:
+        non_striker: JF Carter
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 6.1:
+        non_striker: MJ Santner
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+    - 6.2:
+        non_striker: MJ Santner
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 6.3:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 6.4:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 6.5:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 6.6:
+        non_striker: JF Carter
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 7.1:
+        non_striker: MJ Santner
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JF Carter
+    - 7.2:
+        non_striker: MJ Santner
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 7.3:
+        non_striker: JF Carter
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 7.4:
+        non_striker: JF Carter
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 7.5:
+        non_striker: JF Carter
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 7.6:
+        non_striker: JF Carter
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 8.1:
+        non_striker: MJ Santner
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JF Carter
+    - 8.2:
+        non_striker: JF Carter
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 8.3:
+        non_striker: MJ Santner
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JF Carter
+        wicket:
+          player_out: JF Carter
+          fielders:
+          - MJ Guptill
+          kind: caught
+    - 8.4:
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SC Kuggeleijn
+        batsman: MJ Santner
+    - 8.5:
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SC Kuggeleijn
+        batsman: MJ Santner
+    - 8.6:
+        non_striker: SC Kuggeleijn
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner
+    - 9.1:
+        non_striker: MJ Santner
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Kuggeleijn
+    - 9.2:
+        non_striker: MJ Santner
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 9.3:
+        non_striker: SC Kuggeleijn
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 9.4:
+        non_striker: MJ Santner
+        bowler: RM ter Braak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SC Kuggeleijn
+    - 9.5:
+        non_striker: SC Kuggeleijn
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Santner

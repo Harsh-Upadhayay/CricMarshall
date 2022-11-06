@@ -1,0 +1,2182 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-01-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: New Plymouth
+  competition: Super Smash
+  dates:
+  - '2020-12-30'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Central Districts
+    by:
+      runs: 45
+  overs: 20
+  players:
+    Central Districts:
+    - GH Worker
+    - BL Wiggins
+    - D Cleaver
+    - TC Bruce
+    - JA Clarkson
+    - DAJ Bracewell
+    - K Noema-Barnett
+    - CK Leopard
+    - JFA Field
+    - AY Patel
+    - BM Tickner
+    Northern Districts:
+    - KD Clarke
+    - TL Seifert
+    - DG Brownlie
+    - AP Devcich
+    - HR Cooper
+    - BR Hampton
+    - SC Kuggeleijn
+    - ZN Gibson
+    - JG Walker
+    - BG Randell
+    - MJ Fisher
+  registry:
+    people:
+      A Mehrotra: f336ff13
+      A Stanley: 5a72b592
+      AP Devcich: ed90abe4
+      AY Patel: fbd4f01f
+      BG Randell: dbeb6733
+      BL Wiggins: d4320277
+      BM Tickner: 48ad3373
+      BR Hampton: 93f25f4f
+      CK Leopard: 46966c2b
+      D Cleaver: e3a949be
+      DAJ Bracewell: 2e9fdf9b
+      DG Brownlie: 22bd731a
+      GH Worker: 51a36d3e
+      HR Cooper: 99528b4b
+      JA Clarkson: bed90114
+      JFA Field: '0085a7ce'
+      JG Walker: 94734e80
+      JM Dempsey: 153c9f33
+      K Noema-Barnett: 1ad0b441
+      KD Clarke: 7a12be0a
+      Kim Cotton: 67a7c2ee
+      MJ Fisher: 7068c81e
+      PA Horne: '095976d7'
+      SC Kuggeleijn: fef92afc
+      TC Bruce: f92c9151
+      TL Seifert: 4663bd23
+      ZN Gibson: eec5fe00
+  teams:
+  - Central Districts
+  - Northern Districts
+  toss:
+    decision: bat
+    winner: Central Districts
+  umpires:
+  - A Mehrotra
+  - JM Dempsey
+  venue: Pukekura Park
+innings:
+- 1st innings:
+    team: Central Districts
+    deliveries:
+    - 0.1:
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BL Wiggins
+        batsman: GH Worker
+    - 0.2:
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BL Wiggins
+        batsman: GH Worker
+    - 0.3:
+        non_striker: GH Worker
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Wiggins
+    - 0.4:
+        non_striker: BL Wiggins
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 0.5:
+        non_striker: BL Wiggins
+        bowler: BG Randell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Worker
+    - 0.6:
+        non_striker: BL Wiggins
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 0.7:
+        non_striker: GH Worker
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Wiggins
+        wicket:
+          player_out: BL Wiggins
+          fielders:
+          - TL Seifert
+          kind: caught
+    - 1.1:
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Cleaver
+        batsman: GH Worker
+    - 1.2:
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Cleaver
+        batsman: GH Worker
+    - 1.3:
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: D Cleaver
+        batsman: GH Worker
+    - 1.4:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 1.5:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: D Cleaver
+    - 1.6:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Cleaver
+    - 2.1:
+        non_striker: D Cleaver
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 2.2:
+        non_striker: GH Worker
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 2.3:
+        non_striker: D Cleaver
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 2.4:
+        non_striker: D Cleaver
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 2.5:
+        non_striker: GH Worker
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 2.6:
+        non_striker: GH Worker
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 3.1:
+        non_striker: D Cleaver
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 3.2:
+        non_striker: GH Worker
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 3.3:
+        non_striker: GH Worker
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 3.4:
+        non_striker: GH Worker
+        bowler: MJ Fisher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: D Cleaver
+    - 3.5:
+        non_striker: GH Worker
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Cleaver
+    - 3.6:
+        non_striker: GH Worker
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 3.7:
+        non_striker: D Cleaver
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 4.1:
+        non_striker: D Cleaver
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 4.2:
+        non_striker: D Cleaver
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 4.3:
+        non_striker: GH Worker
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 4.4:
+        non_striker: D Cleaver
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 4.5:
+        non_striker: GH Worker
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 4.6:
+        non_striker: GH Worker
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 5.1:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 5.2:
+        non_striker: D Cleaver
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Worker
+    - 5.3:
+        non_striker: D Cleaver
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 5.4:
+        non_striker: D Cleaver
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 5.5:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 5.6:
+        non_striker: GH Worker
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 6.1:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 6.2:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 6.3:
+        non_striker: D Cleaver
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 6.4:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 6.5:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+        wicket:
+          player_out: D Cleaver
+          fielders:
+          - ZN Gibson
+          kind: caught
+    - 6.6:
+        non_striker: TC Bruce
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 7.1:
+        non_striker: GH Worker
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 7.2:
+        non_striker: TC Bruce
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 7.3:
+        non_striker: GH Worker
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 7.4:
+        non_striker: TC Bruce
+        bowler: MJ Fisher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Worker
+    - 7.5:
+        non_striker: TC Bruce
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 7.6:
+        non_striker: TC Bruce
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 7.7:
+        non_striker: TC Bruce
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 8.1:
+        non_striker: TC Bruce
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 8.2:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+        wicket:
+          player_out: TC Bruce
+          fielders:
+          - MJ Fisher
+          kind: caught
+    - 8.3:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 8.4:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 8.5:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 8.6:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 9.1:
+        non_striker: GH Worker
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 9.2:
+        non_striker: GH Worker
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 9.3:
+        non_striker: JA Clarkson
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 9.4:
+        non_striker: GH Worker
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Clarkson
+    - 9.5:
+        non_striker: GH Worker
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 9.6:
+        non_striker: GH Worker
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Clarkson
+    - 10.1:
+        non_striker: JA Clarkson
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 10.2:
+        non_striker: GH Worker
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Clarkson
+    - 10.3:
+        non_striker: GH Worker
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Clarkson
+    - 10.4:
+        non_striker: GH Worker
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 10.5:
+        non_striker: JA Clarkson
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Worker
+    - 10.6:
+        non_striker: JA Clarkson
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 11.1:
+        non_striker: JA Clarkson
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 11.2:
+        non_striker: JA Clarkson
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 11.3:
+        non_striker: GH Worker
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+        wicket:
+          player_out: JA Clarkson
+          kind: bowled
+    - 11.4:
+        non_striker: GH Worker
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+    - 11.5:
+        non_striker: GH Worker
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DAJ Bracewell
+    - 11.6:
+        non_striker: GH Worker
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 12.1:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 12.2:
+        non_striker: DAJ Bracewell
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 12.3:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 12.4:
+        non_striker: DAJ Bracewell
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 12.5:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+    - 12.6:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 13.1:
+        non_striker: GH Worker
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DAJ Bracewell
+    - 13.2:
+        non_striker: GH Worker
+        bowler: ZN Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DAJ Bracewell
+    - 13.3:
+        non_striker: GH Worker
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DAJ Bracewell
+    - 13.4:
+        non_striker: GH Worker
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 13.5:
+        non_striker: DAJ Bracewell
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 13.6:
+        non_striker: DAJ Bracewell
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 13.7:
+        non_striker: DAJ Bracewell
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 14.1:
+        non_striker: DAJ Bracewell
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 14.2:
+        non_striker: GH Worker
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 14.3:
+        non_striker: DAJ Bracewell
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Worker
+    - 14.4:
+        non_striker: DAJ Bracewell
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 14.5:
+        non_striker: DAJ Bracewell
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 14.6:
+        non_striker: DAJ Bracewell
+        bowler: JG Walker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 15.1:
+        non_striker: DAJ Bracewell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+        wicket:
+          player_out: GH Worker
+          kind: bowled
+    - 15.2:
+        non_striker: DAJ Bracewell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Noema-Barnett
+    - 15.3:
+        non_striker: DAJ Bracewell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Noema-Barnett
+    - 15.4:
+        non_striker: DAJ Bracewell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Noema-Barnett
+    - 15.5:
+        non_striker: K Noema-Barnett
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DAJ Bracewell
+    - 15.6:
+        non_striker: K Noema-Barnett
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DAJ Bracewell
+    - 16.1:
+        non_striker: DAJ Bracewell
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Noema-Barnett
+    - 16.2:
+        non_striker: K Noema-Barnett
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 16.3:
+        non_striker: DAJ Bracewell
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Noema-Barnett
+    - 16.4:
+        non_striker: K Noema-Barnett
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 16.5:
+        non_striker: DAJ Bracewell
+        bowler: ZN Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Noema-Barnett
+    - 16.6:
+        non_striker: DAJ Bracewell
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Noema-Barnett
+    - 16.7:
+        non_striker: K Noema-Barnett
+        bowler: ZN Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 17.1:
+        non_striker: K Noema-Barnett
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DAJ Bracewell
+    - 17.2:
+        non_striker: K Noema-Barnett
+        bowler: MJ Fisher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DAJ Bracewell
+    - 17.3:
+        non_striker: K Noema-Barnett
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DAJ Bracewell
+    - 17.4:
+        non_striker: K Noema-Barnett
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DAJ Bracewell
+    - 17.5:
+        non_striker: K Noema-Barnett
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 17.6:
+        non_striker: DAJ Bracewell
+        bowler: MJ Fisher
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: K Noema-Barnett
+    - 17.7:
+        non_striker: DAJ Bracewell
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Noema-Barnett
+    - 17.8:
+        non_striker: DAJ Bracewell
+        bowler: MJ Fisher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Noema-Barnett
+    - 18.1:
+        non_striker: K Noema-Barnett
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 18.2:
+        non_striker: DAJ Bracewell
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Noema-Barnett
+        wicket:
+          player_out: K Noema-Barnett
+          fielders:
+          - ZN Gibson
+          kind: caught
+    - 18.3:
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CK Leopard
+        batsman: DAJ Bracewell
+    - 18.4:
+        non_striker: DAJ Bracewell
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Leopard
+    - 18.5:
+        non_striker: CK Leopard
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 18.6:
+        non_striker: DAJ Bracewell
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Leopard
+    - 19.1:
+        non_striker: CK Leopard
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DAJ Bracewell
+    - 19.2:
+        non_striker: CK Leopard
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DAJ Bracewell
+    - 19.3:
+        non_striker: DAJ Bracewell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CK Leopard
+    - 19.4:
+        non_striker: DAJ Bracewell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CK Leopard
+    - 19.5:
+        non_striker: DAJ Bracewell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CK Leopard
+    - 19.6:
+        non_striker: DAJ Bracewell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Leopard
+- 2nd innings:
+    team: Northern Districts
+    deliveries:
+    - 0.1:
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.2:
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.3:
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.4:
+        bowler: DAJ Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: TL Seifert
+        batsman: KD Clarke
+    - 0.5:
+        non_striker: KD Clarke
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 0.6:
+        non_striker: TL Seifert
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 1.1:
+        non_striker: KD Clarke
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.2:
+        non_striker: KD Clarke
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.3:
+        non_striker: KD Clarke
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 1.4:
+        non_striker: KD Clarke
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.5:
+        non_striker: KD Clarke
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.6:
+        non_striker: KD Clarke
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 2.1:
+        non_striker: KD Clarke
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.2:
+        non_striker: KD Clarke
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.3:
+        non_striker: KD Clarke
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.4:
+        non_striker: KD Clarke
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 2.5:
+        non_striker: TL Seifert
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 2.6:
+        non_striker: TL Seifert
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+    - 3.1:
+        non_striker: KD Clarke
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.2:
+        non_striker: KD Clarke
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.3:
+        non_striker: KD Clarke
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 3.4:
+        non_striker: KD Clarke
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          fielders:
+          - JFA Field
+          kind: caught
+    - 3.5:
+        non_striker: KD Clarke
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Brownlie
+    - 3.6:
+        non_striker: KD Clarke
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 4.1:
+        non_striker: KD Clarke
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 4.2:
+        non_striker: DG Brownlie
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KD Clarke
+        wicket:
+          player_out: KD Clarke
+          kind: bowled
+    - 4.3:
+        non_striker: DG Brownlie
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 4.4:
+        non_striker: AP Devcich
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Brownlie
+    - 4.5:
+        non_striker: AP Devcich
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 4.6:
+        non_striker: DG Brownlie
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Devcich
+    - 5.1:
+        non_striker: AP Devcich
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Brownlie
+    - 5.2:
+        non_striker: AP Devcich
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Brownlie
+        wicket:
+          player_out: DG Brownlie
+          fielders:
+          - AY Patel
+          kind: caught
+    - 5.3:
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HR Cooper
+        batsman: AP Devcich
+    - 5.4:
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: HR Cooper
+        batsman: AP Devcich
+    - 5.5:
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HR Cooper
+        batsman: AP Devcich
+    - 5.6:
+        non_striker: AP Devcich
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 6.1:
+        non_striker: HR Cooper
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Devcich
+    - 6.2:
+        non_striker: HR Cooper
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Devcich
+    - 6.3:
+        non_striker: HR Cooper
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 6.4:
+        non_striker: AP Devcich
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 6.5:
+        non_striker: AP Devcich
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 6.6:
+        non_striker: AP Devcich
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 7.1:
+        non_striker: HR Cooper
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Devcich
+    - 7.2:
+        non_striker: HR Cooper
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Devcich
+    - 7.3:
+        non_striker: HR Cooper
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Devcich
+    - 7.4:
+        non_striker: HR Cooper
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Devcich
+    - 7.5:
+        non_striker: HR Cooper
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 7.6:
+        non_striker: AP Devcich
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 8.1:
+        non_striker: HR Cooper
+        bowler: AY Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AP Devcich
+    - 8.2:
+        non_striker: AP Devcich
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 8.3:
+        non_striker: AP Devcich
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Cooper
+    - 8.4:
+        non_striker: HR Cooper
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 8.5:
+        non_striker: AP Devcich
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HR Cooper
+    - 8.6:
+        non_striker: AP Devcich
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 9.1:
+        non_striker: HR Cooper
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 9.2:
+        non_striker: AP Devcich
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+    - 9.3:
+        non_striker: AP Devcich
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Cooper
+        wicket:
+          player_out: HR Cooper
+          fielders:
+          - D Cleaver
+          kind: caught
+    - 9.4:
+        non_striker: AP Devcich
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 9.5:
+        non_striker: AP Devcich
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 9.6:
+        non_striker: AP Devcich
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 10.1:
+        non_striker: AP Devcich
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+        wicket:
+          player_out: BR Hampton
+          fielders:
+          - TC Bruce
+          kind: caught
+    - 10.2:
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SC Kuggeleijn
+        batsman: AP Devcich
+    - 10.3:
+        non_striker: AP Devcich
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 10.4:
+        non_striker: SC Kuggeleijn
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 10.5:
+        non_striker: AP Devcich
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 10.6:
+        non_striker: SC Kuggeleijn
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Devcich
+    - 11.1:
+        non_striker: AP Devcich
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Kuggeleijn
+    - 11.2:
+        non_striker: AP Devcich
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 11.3:
+        non_striker: SC Kuggeleijn
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Devcich
+    - 11.4:
+        non_striker: SC Kuggeleijn
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Devcich
+    - 11.5:
+        non_striker: SC Kuggeleijn
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Devcich
+    - 11.6:
+        non_striker: SC Kuggeleijn
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 12.1:
+        non_striker: SC Kuggeleijn
+        bowler: AY Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Devcich
+    - 12.2:
+        non_striker: SC Kuggeleijn
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Devcich
+    - 12.3:
+        non_striker: SC Kuggeleijn
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 12.4:
+        non_striker: AP Devcich
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Kuggeleijn
+    - 12.5:
+        non_striker: SC Kuggeleijn
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Devcich
+    - 12.6:
+        non_striker: SC Kuggeleijn
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Devcich
+    - 12.7:
+        non_striker: SC Kuggeleijn
+        bowler: AY Patel
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AP Devcich
+    - 12.8:
+        non_striker: AP Devcich
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Kuggeleijn
+    - 13.1:
+        non_striker: SC Kuggeleijn
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Devcich
+    - 13.2:
+        non_striker: SC Kuggeleijn
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 13.3:
+        non_striker: AP Devcich
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+    - 13.4:
+        non_striker: AP Devcich
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+    - 13.5:
+        non_striker: AP Devcich
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+    - 13.6:
+        non_striker: AP Devcich
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+    - 14.1:
+        non_striker: SC Kuggeleijn
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 14.2:
+        non_striker: AP Devcich
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Kuggeleijn
+    - 14.3:
+        non_striker: AP Devcich
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Kuggeleijn
+        wicket:
+          player_out: SC Kuggeleijn
+          fielders:
+          - TC Bruce
+          kind: caught
+    - 14.4:
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ZN Gibson
+        batsman: AP Devcich
+    - 14.5:
+        non_striker: AP Devcich
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZN Gibson
+    - 14.6:
+        non_striker: AP Devcich
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZN Gibson
+        wicket:
+          player_out: ZN Gibson
+          fielders:
+          - GH Worker
+          kind: caught
+    - 15.1:
+        non_striker: AP Devcich
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Walker
+    - 15.2:
+        non_striker: JG Walker
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 15.3:
+        non_striker: AP Devcich
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Walker
+    - 15.4:
+        non_striker: JG Walker
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 15.5:
+        non_striker: AP Devcich
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Walker
+    - 15.6:
+        non_striker: AP Devcich
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Walker
+    - 16.1:
+        non_striker: AP Devcich
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Walker
+    - 16.2:
+        non_striker: AP Devcich
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Walker
+    - 16.3:
+        non_striker: AP Devcich
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Walker
+    - 16.4:
+        non_striker: AP Devcich
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Walker
+    - 16.5:
+        non_striker: JG Walker
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Devcich
+    - 16.6:
+        non_striker: JG Walker
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 17.1:
+        non_striker: JG Walker
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Devcich
+    - 17.2:
+        non_striker: JG Walker
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Devcich
+    - 17.3:
+        non_striker: JG Walker
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 17.4:
+        non_striker: AP Devcich
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Walker
+    - 17.5:
+        non_striker: JG Walker
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Devcich
+    - 17.6:
+        non_striker: JG Walker
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Devcich
+    - 18.1:
+        non_striker: AP Devcich
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Walker
+    - 18.2:
+        non_striker: JG Walker
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Devcich
+    - 18.3:
+        non_striker: JG Walker
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Devcich
+    - 18.4:
+        non_striker: JG Walker
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Devcich
+    - 18.5:
+        non_striker: JG Walker
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+    - 18.6:
+        non_striker: AP Devcich
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JG Walker
+    - 19.1:
+        non_striker: JG Walker
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Devcich
+    - 19.2:
+        non_striker: JG Walker
+        bowler: DAJ Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AP Devcich
+    - 19.3:
+        non_striker: JG Walker
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Devcich
+        wicket:
+          player_out: JG Walker
+          kind: run out
+    - 19.4:
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: BG Randell
+        batsman: AP Devcich
+    - 19.5:
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BG Randell
+        batsman: AP Devcich
+        wicket:
+          player_out: AP Devcich
+          kind: run out
+    - 19.6:
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BG Randell
+        batsman: MJ Fisher
+    - 19.7:
+        non_striker: MJ Fisher
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Randell

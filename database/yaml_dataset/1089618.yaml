@@ -1,0 +1,2084 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Eglinton
+  competition: Cricket Ireland Inter-Provincial Twenty20 Trophy
+  dates:
+  - '2017-06-23'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: North-West Warriors
+    by:
+      runs: 25
+  overs: 20
+  players:
+    Munster Reds:
+    - J Grassi
+    - JB Tector
+    - N Pretorius
+    - RJ Forrest
+    - SF Grobler
+    - Arslan Anwar
+    - HT Tector
+    - DC Delany
+    - Muhammad Sadique
+    - M Neville
+    - Yaqoob Ali
+    North-West Warriors:
+    - SR Thompson
+    - DA Rankin
+    - W McClintock
+    - G Kennedy
+    - J Thompson
+    - AR McBrine
+    - RL Dougherty
+    - SA Britton
+    - SV Lazars
+    - D Scanlon
+    - Ross Allen
+  registry:
+    people:
+      AR McBrine: e957b38f
+      Arslan Anwar: 9e894c5a
+      D Scanlon: 51c90542
+      DA Rankin: ab859427
+      DC Delany: 0f9c9d1d
+      G Kennedy: 574b4c01
+      HT Tector: 59ea70a4
+      J Grassi: 913b4b9f
+      J Thompson: f31ce798
+      JB Tector: 64770caf
+      Jareth McCready: 84fa5232
+      M Neville: f6665e89
+      Muhammad Sadique: 2532a778
+      N Dunn: f9c9bd9e
+      N Pretorius: 398dd99c
+      R Allen: 415e5c01
+      R Black: 156c8fb1
+      RJ Forrest: a7378253
+      RL Dougherty: a124a56b
+      SA Britton: de43472d
+      SF Grobler: 57c0f0c8
+      SR Thompson: 7f3ad1ed
+      SV Lazars: '00784913'
+      W McClintock: b16ddb79
+      Yaqoob Ali: 92a9be81
+  teams:
+  - North-West Warriors
+  - Munster Reds
+  toss:
+    winner: Munster Reds
+    decision: field
+  umpires:
+  - N Dunn
+  - R Black
+  venue: Woodvale Road, Eglinton
+innings:
+- 1st innings:
+    team: North-West Warriors
+    deliveries:
+    - 0.1:
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DA Rankin
+        batsman: SR Thompson
+    - 0.2:
+        non_striker: SR Thompson
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 0.3:
+        non_striker: SR Thompson
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 0.4:
+        non_striker: DA Rankin
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+        wicket:
+          player_out: SR Thompson
+          fielders:
+          - N Pretorius
+          kind: caught
+    - 0.5:
+        non_striker: DA Rankin
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W McClintock
+    - 0.6:
+        non_striker: DA Rankin
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W McClintock
+    - 1.1:
+        non_striker: W McClintock
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 1.2:
+        non_striker: DA Rankin
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W McClintock
+    - 1.3:
+        non_striker: DA Rankin
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W McClintock
+    - 1.4:
+        non_striker: DA Rankin
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W McClintock
+    - 1.5:
+        non_striker: DA Rankin
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W McClintock
+    - 1.6:
+        non_striker: DA Rankin
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W McClintock
+    - 2.1:
+        non_striker: W McClintock
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Rankin
+    - 2.2:
+        non_striker: W McClintock
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 2.3:
+        non_striker: W McClintock
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 2.4:
+        non_striker: W McClintock
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 2.5:
+        non_striker: DA Rankin
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W McClintock
+        wicket:
+          player_out: W McClintock
+          fielders:
+          - DC Delany
+          kind: caught
+    - 2.6:
+        non_striker: G Kennedy
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Rankin
+    - 3.1:
+        non_striker: DA Rankin
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 3.2:
+        non_striker: G Kennedy
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 3.3:
+        non_striker: DA Rankin
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 3.4:
+        non_striker: G Kennedy
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 3.5:
+        non_striker: G Kennedy
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 3.6:
+        non_striker: DA Rankin
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 4.1:
+        non_striker: G Kennedy
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 4.2:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 4.3:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Kennedy
+    - 4.4:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kennedy
+    - 4.5:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Kennedy
+    - 4.6:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 4.7:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 4.8:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 5.1:
+        non_striker: G Kennedy
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 5.2:
+        non_striker: DA Rankin
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 5.3:
+        non_striker: DA Rankin
+        bowler: DC Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: G Kennedy
+    - 5.4:
+        non_striker: G Kennedy
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 5.5:
+        non_striker: G Kennedy
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 5.6:
+        non_striker: G Kennedy
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Rankin
+    - 6.1:
+        non_striker: DA Rankin
+        bowler: SF Grobler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Kennedy
+    - 6.2:
+        non_striker: DA Rankin
+        bowler: SF Grobler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 6.3:
+        non_striker: DA Rankin
+        bowler: SF Grobler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 6.4:
+        non_striker: DA Rankin
+        bowler: SF Grobler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Kennedy
+    - 6.5:
+        non_striker: DA Rankin
+        bowler: SF Grobler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 6.6:
+        non_striker: DA Rankin
+        bowler: SF Grobler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+    - 7.1:
+        non_striker: G Kennedy
+        bowler: Muhammad Sadique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DA Rankin
+    - 7.2:
+        non_striker: G Kennedy
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 7.3:
+        non_striker: DA Rankin
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Kennedy
+    - 7.4:
+        non_striker: DA Rankin
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kennedy
+    - 7.5:
+        non_striker: G Kennedy
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 7.6:
+        non_striker: DA Rankin
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+        wicket:
+          player_out: G Kennedy
+          fielders:
+          - J Grassi
+          kind: stumped
+    - 7.7:
+        non_striker: DA Rankin
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thompson
+    - 8.1:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thompson
+    - 8.2:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thompson
+    - 8.3:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thompson
+    - 8.4:
+        non_striker: J Thompson
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 8.5:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thompson
+    - 8.6:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thompson
+    - 9.1:
+        non_striker: J Thompson
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 9.2:
+        non_striker: J Thompson
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 9.3:
+        non_striker: DA Rankin
+        bowler: DC Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Thompson
+    - 9.4:
+        non_striker: J Thompson
+        bowler: DC Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DA Rankin
+    - 9.5:
+        non_striker: J Thompson
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 9.6:
+        non_striker: DA Rankin
+        bowler: DC Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Thompson
+    - 9.7:
+        non_striker: DA Rankin
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thompson
+    - 9.8:
+        non_striker: J Thompson
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 10.1:
+        non_striker: J Thompson
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 10.2:
+        non_striker: J Thompson
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 10.3:
+        non_striker: J Thompson
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Rankin
+    - 10.4:
+        non_striker: J Thompson
+        bowler: Yaqoob Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DA Rankin
+    - 10.5:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thompson
+    - 10.6:
+        non_striker: DA Rankin
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Thompson
+    - 11.1:
+        non_striker: DA Rankin
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Thompson
+        wicket:
+          player_out: J Thompson
+          fielders:
+          - RJ Forrest
+          kind: caught
+    - 11.2:
+        non_striker: DA Rankin
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 11.3:
+        non_striker: AR McBrine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 11.4:
+        non_striker: DA Rankin
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 11.5:
+        non_striker: AR McBrine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+        wicket:
+          player_out: DA Rankin
+          fielders:
+          - J Grassi
+          kind: caught
+    - 11.6:
+        non_striker: AR McBrine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Dougherty
+    - 12.1:
+        non_striker: RL Dougherty
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 12.2:
+        non_striker: AR McBrine
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Dougherty
+    - 12.3:
+        non_striker: AR McBrine
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Dougherty
+    - 12.4:
+        non_striker: AR McBrine
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Dougherty
+    - 12.5:
+        non_striker: AR McBrine
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Dougherty
+    - 12.6:
+        non_striker: RL Dougherty
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 13.1:
+        non_striker: RL Dougherty
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 13.2:
+        non_striker: AR McBrine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Dougherty
+    - 13.3:
+        non_striker: RL Dougherty
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 13.4:
+        non_striker: AR McBrine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Dougherty
+    - 13.5:
+        non_striker: AR McBrine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Dougherty
+    - 13.6:
+        non_striker: AR McBrine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RL Dougherty
+    - 14.1:
+        non_striker: RL Dougherty
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 14.2:
+        non_striker: AR McBrine
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Dougherty
+    - 14.3:
+        non_striker: AR McBrine
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Dougherty
+    - 14.4:
+        non_striker: AR McBrine
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Dougherty
+    - 14.5:
+        non_striker: RL Dougherty
+        bowler: Muhammad Sadique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR McBrine
+    - 14.6:
+        non_striker: RL Dougherty
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 14.7:
+        non_striker: AR McBrine
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Dougherty
+    - 15.1:
+        non_striker: AR McBrine
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Dougherty
+    - 15.2:
+        non_striker: RL Dougherty
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 15.3:
+        non_striker: RL Dougherty
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 15.4:
+        non_striker: AR McBrine
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Dougherty
+    - 15.5:
+        non_striker: AR McBrine
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Dougherty
+    - 15.6:
+        non_striker: AR McBrine
+        bowler: M Neville
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RL Dougherty
+    - 16.1:
+        non_striker: AR McBrine
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Dougherty
+    - 16.2:
+        non_striker: AR McBrine
+        bowler: Yaqoob Ali
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: RL Dougherty
+    - 16.3:
+        non_striker: AR McBrine
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Dougherty
+    - 16.4:
+        non_striker: RL Dougherty
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 16.5:
+        non_striker: RL Dougherty
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 16.6:
+        non_striker: AR McBrine
+        bowler: Yaqoob Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RL Dougherty
+    - 17.1:
+        non_striker: RL Dougherty
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 17.2:
+        non_striker: RL Dougherty
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 17.3:
+        non_striker: RL Dougherty
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR McBrine
+    - 17.4:
+        non_striker: RL Dougherty
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 17.5:
+        non_striker: AR McBrine
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RL Dougherty
+    - 17.6:
+        non_striker: AR McBrine
+        bowler: M Neville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Dougherty
+    - 18.1:
+        non_striker: RL Dougherty
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 18.2:
+        non_striker: AR McBrine
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Dougherty
+    - 18.3:
+        non_striker: RL Dougherty
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 18.4:
+        non_striker: RL Dougherty
+        bowler: Muhammad Sadique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: AR McBrine
+    - 18.5:
+        non_striker: AR McBrine
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Dougherty
+    - 18.6:
+        non_striker: RL Dougherty
+        bowler: Muhammad Sadique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 19.1:
+        non_striker: AR McBrine
+        bowler: DC Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: RL Dougherty
+    - 19.2:
+        non_striker: RL Dougherty
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 19.3:
+        non_striker: RL Dougherty
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 19.4:
+        non_striker: RL Dougherty
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 19.5:
+        non_striker: RL Dougherty
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR McBrine
+    - 19.6:
+        non_striker: RL Dougherty
+        bowler: DC Delany
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR McBrine
+- 2nd innings:
+    team: Munster Reds
+    deliveries:
+    - 0.1:
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JB Tector
+        batsman: J Grassi
+    - 0.2:
+        non_striker: J Grassi
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Tector
+    - 0.3:
+        non_striker: J Grassi
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JB Tector
+    - 0.4:
+        non_striker: J Grassi
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JB Tector
+    - 0.5:
+        non_striker: J Grassi
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Tector
+    - 0.6:
+        non_striker: J Grassi
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Tector
+    - 1.1:
+        non_striker: JB Tector
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Grassi
+    - 1.2:
+        non_striker: JB Tector
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Grassi
+        wicket:
+          player_out: J Grassi
+          fielders:
+          - RL Dougherty
+          kind: caught
+    - 1.3:
+        non_striker: JB Tector
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pretorius
+    - 1.4:
+        non_striker: N Pretorius
+        bowler: D Scanlon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JB Tector
+    - 1.5:
+        non_striker: N Pretorius
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JB Tector
+        wicket:
+          player_out: JB Tector
+          kind: caught and bowled
+    - 1.6:
+        non_striker: N Pretorius
+        bowler: D Scanlon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RJ Forrest
+    - 1.7:
+        non_striker: N Pretorius
+        bowler: D Scanlon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RJ Forrest
+    - 1.8:
+        non_striker: RJ Forrest
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+    - 2.1:
+        non_striker: N Pretorius
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 2.2:
+        non_striker: RJ Forrest
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+    - 2.3:
+        non_striker: RJ Forrest
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pretorius
+    - 2.4:
+        non_striker: RJ Forrest
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+    - 2.5:
+        non_striker: RJ Forrest
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pretorius
+    - 2.6:
+        non_striker: N Pretorius
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 3.1:
+        non_striker: RJ Forrest
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pretorius
+    - 3.2:
+        non_striker: N Pretorius
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 3.3:
+        non_striker: RJ Forrest
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+    - 3.4:
+        non_striker: RJ Forrest
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+    - 3.5:
+        non_striker: RJ Forrest
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pretorius
+    - 3.6:
+        non_striker: N Pretorius
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RJ Forrest
+    - 4.1:
+        non_striker: RJ Forrest
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pretorius
+    - 4.2:
+        non_striker: N Pretorius
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 4.3:
+        non_striker: N Pretorius
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 4.4:
+        non_striker: N Pretorius
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Forrest
+    - 4.5:
+        non_striker: N Pretorius
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 4.6:
+        non_striker: N Pretorius
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Forrest
+    - 5.1:
+        non_striker: RJ Forrest
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+    - 5.2:
+        non_striker: RJ Forrest
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+    - 5.3:
+        non_striker: RJ Forrest
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Pretorius
+    - 5.4:
+        non_striker: RJ Forrest
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pretorius
+        wicket:
+          player_out: N Pretorius
+          kind: bowled
+    - 5.5:
+        non_striker: RJ Forrest
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Grobler
+    - 5.6:
+        non_striker: SF Grobler
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 6.1:
+        non_striker: SF Grobler
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+    - 6.2:
+        non_striker: SF Grobler
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Forrest
+    - 6.3:
+        non_striker: RJ Forrest
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Grobler
+    - 6.4:
+        non_striker: RJ Forrest
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Grobler
+    - 6.5:
+        non_striker: SF Grobler
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Forrest
+        wicket:
+          player_out: RJ Forrest
+          fielders:
+          - DA Rankin
+          kind: caught
+    - 6.6:
+        non_striker: Arslan Anwar
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SF Grobler
+    - 7.1:
+        non_striker: SF Grobler
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arslan Anwar
+    - 7.2:
+        non_striker: Arslan Anwar
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Grobler
+    - 7.3:
+        non_striker: Arslan Anwar
+        bowler: SV Lazars
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SF Grobler
+    - 7.4:
+        non_striker: Arslan Anwar
+        bowler: SV Lazars
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SF Grobler
+    - 7.5:
+        non_striker: SF Grobler
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arslan Anwar
+    - 7.6:
+        non_striker: Arslan Anwar
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Grobler
+    - 7.7:
+        non_striker: SF Grobler
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arslan Anwar
+    - 8.1:
+        non_striker: Arslan Anwar
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Grobler
+    - 8.2:
+        non_striker: Arslan Anwar
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Grobler
+    - 8.3:
+        non_striker: SF Grobler
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arslan Anwar
+        wicket:
+          player_out: Arslan Anwar
+          fielders:
+          - SR Thompson
+          kind: run out
+    - 8.4:
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HT Tector
+        batsman: SF Grobler
+    - 8.5:
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HT Tector
+        batsman: SF Grobler
+    - 8.6:
+        non_striker: HT Tector
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Grobler
+    - 9.1:
+        non_striker: HT Tector
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Grobler
+        wicket:
+          player_out: SF Grobler
+          kind: bowled
+    - 9.2:
+        non_striker: HT Tector
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 9.3:
+        non_striker: HT Tector
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 9.4:
+        non_striker: HT Tector
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Delany
+    - 9.5:
+        non_striker: HT Tector
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 9.6:
+        non_striker: HT Tector
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 10.1:
+        non_striker: DC Delany
+        bowler: Ross Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.2:
+        non_striker: HT Tector
+        bowler: Ross Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 10.3:
+        non_striker: HT Tector
+        bowler: Ross Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 10.4:
+        non_striker: DC Delany
+        bowler: Ross Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 10.5:
+        non_striker: DC Delany
+        bowler: Ross Allen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 10.6:
+        non_striker: DC Delany
+        bowler: Ross Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.1:
+        non_striker: DC Delany
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 11.2:
+        non_striker: DC Delany
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.3:
+        non_striker: HT Tector
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Delany
+    - 11.4:
+        non_striker: HT Tector
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DC Delany
+    - 11.5:
+        non_striker: HT Tector
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 11.6:
+        non_striker: DC Delany
+        bowler: SV Lazars
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.1:
+        non_striker: DC Delany
+        bowler: Ross Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.2:
+        non_striker: HT Tector
+        bowler: Ross Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 12.3:
+        non_striker: DC Delany
+        bowler: Ross Allen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 12.4:
+        non_striker: DC Delany
+        bowler: Ross Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.5:
+        non_striker: HT Tector
+        bowler: Ross Allen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DC Delany
+    - 12.6:
+        non_striker: HT Tector
+        bowler: Ross Allen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 13.1:
+        non_striker: HT Tector
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 13.2:
+        non_striker: DC Delany
+        bowler: J Thompson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HT Tector
+    - 13.3:
+        non_striker: HT Tector
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 13.4:
+        non_striker: DC Delany
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 13.5:
+        non_striker: HT Tector
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Delany
+    - 13.6:
+        non_striker: DC Delany
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+        wicket:
+          player_out: HT Tector
+          fielders:
+          - RL Dougherty
+          kind: caught
+    - 14.1:
+        non_striker: DC Delany
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Sadique
+    - 14.2:
+        non_striker: Muhammad Sadique
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+    - 14.3:
+        non_striker: Muhammad Sadique
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Delany
+        wicket:
+          player_out: DC Delany
+          fielders:
+          - W McClintock
+          kind: caught
+    - 14.4:
+        non_striker: Muhammad Sadique
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Neville
+    - 14.5:
+        non_striker: Muhammad Sadique
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Neville
+    - 14.6:
+        non_striker: Muhammad Sadique
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Neville
+    - 15.1:
+        non_striker: M Neville
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Sadique
+    - 15.2:
+        non_striker: M Neville
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Sadique
+    - 15.3:
+        non_striker: M Neville
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Sadique
+    - 15.4:
+        non_striker: Muhammad Sadique
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Neville
+    - 15.5:
+        non_striker: Muhammad Sadique
+        bowler: J Thompson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Neville
+    - 15.6:
+        non_striker: M Neville
+        bowler: J Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Sadique
+    - 16.1:
+        non_striker: Muhammad Sadique
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Neville
+        wicket:
+          player_out: M Neville
+          kind: lbw
+    - 16.2:
+        non_striker: Muhammad Sadique
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yaqoob Ali
+    - 16.3:
+        non_striker: Muhammad Sadique
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yaqoob Ali
+    - 16.4:
+        non_striker: Yaqoob Ali
+        bowler: SA Britton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Sadique
+    - 16.5:
+        non_striker: Yaqoob Ali
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Sadique
+    - 16.6:
+        non_striker: Yaqoob Ali
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Sadique
+    - 16.7:
+        non_striker: Muhammad Sadique
+        bowler: SA Britton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yaqoob Ali
+    - 17.1:
+        non_striker: Muhammad Sadique
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yaqoob Ali
+    - 17.2:
+        non_striker: Yaqoob Ali
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Sadique
+    - 17.3:
+        non_striker: Muhammad Sadique
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yaqoob Ali
+    - 17.4:
+        non_striker: Yaqoob Ali
+        bowler: D Scanlon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Sadique
+        wicket:
+          player_out: Muhammad Sadique
+          fielders:
+          - SR Thompson
+          kind: caught

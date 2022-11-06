@@ -1,0 +1,232 @@
+---
+meta:
+  data_version: 0.91
+  created: 2015-08-21
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Cardiff
+  dates:
+  - 2008-09-03
+  gender: male
+  match_type: ODI
+  outcome:
+    result: no result
+  overs: 50
+  players:
+    England:
+    - IR Bell
+    - MJ Prior
+    - OA Shah
+    - KP Pietersen
+    - A Flintoff
+    - PD Collingwood
+    - SR Patel
+    - LJ Wright
+    - SCJ Broad
+    - SJ Harmison
+    - JM Anderson
+    South Africa:
+    - HH Gibbs
+    - HM Amla
+    - JH Kallis
+    - AB de Villiers
+    - JP Duminy
+    - MV Boucher
+    - JL Ontong
+    - J Botha
+    - M Morkel
+    - DW Steyn
+    - A Nel
+  registry:
+    people:
+      A Flintoff: ddc0828d
+      A Nel: 2503e881
+      AB de Villiers: c4487b84
+      DW Steyn: 8fd1a8f5
+      HH Gibbs: e1d1b294
+      HM Amla: e798611a
+      IR Bell: 33155d1b
+      J Botha: 7c503806
+      JH Kallis: 86dc8f2e
+      JL Ontong: 55f33b32
+      JM Anderson: d12143bf
+      JP Duminy: 2e8994e7
+      KP Pietersen: 39f01cdb
+      LJ Wright: cca50cd6
+      M Morkel: 5bb5a915
+      MJ Prior: 1200550f
+      MV Boucher: f3cb53a1
+      NJ Llong: 573fb985
+      OA Shah: 7bf96684
+      PD Collingwood: a386e91b
+      PJ Hartley: 17c7ff26
+      RA Kettleborough: 4017868f
+      RS Mahanama: '57910393'
+      SCJ Broad: eba6a852
+      SJ Harmison: c16d2e28
+      SJA Taufel: 4b43d5ac
+      SR Patel: 18fac429
+  teams:
+  - England
+  - South Africa
+  toss:
+    decision: field
+    winner: England
+  umpires:
+  - NJ Llong
+  - SJA Taufel
+  venue: Sophia Gardens
+innings:
+- 1st innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        batsman: HH Gibbs
+        bowler: JM Anderson
+        non_striker: HM Amla
+        runs:
+          batsman: 2
+          extras: 0
+          total: 2
+    - 0.2:
+        batsman: HH Gibbs
+        bowler: JM Anderson
+        non_striker: HM Amla
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 0.3:
+        batsman: HH Gibbs
+        bowler: JM Anderson
+        non_striker: HM Amla
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 0.4:
+        batsman: HH Gibbs
+        bowler: JM Anderson
+        non_striker: HM Amla
+        runs:
+          batsman: 1
+          extras: 0
+          total: 1
+    - 0.5:
+        batsman: HM Amla
+        bowler: JM Anderson
+        non_striker: HH Gibbs
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 0.6:
+        batsman: HM Amla
+        bowler: JM Anderson
+        non_striker: HH Gibbs
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 1.1:
+        batsman: HH Gibbs
+        bowler: SCJ Broad
+        non_striker: HM Amla
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 1.2:
+        batsman: HH Gibbs
+        bowler: SCJ Broad
+        non_striker: HM Amla
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 1.3:
+        batsman: HH Gibbs
+        bowler: SCJ Broad
+        non_striker: HM Amla
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+        wicket:
+          fielders:
+          - MJ Prior
+          kind: caught
+          player_out: HH Gibbs
+    - 1.4:
+        batsman: JH Kallis
+        bowler: SCJ Broad
+        non_striker: HM Amla
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 1.5:
+        batsman: JH Kallis
+        bowler: SCJ Broad
+        non_striker: HM Amla
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 1.6:
+        batsman: JH Kallis
+        bowler: SCJ Broad
+        non_striker: HM Amla
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 2.1:
+        batsman: HM Amla
+        bowler: JM Anderson
+        non_striker: JH Kallis
+        runs:
+          batsman: 2
+          extras: 0
+          total: 2
+    - 2.2:
+        batsman: HM Amla
+        bowler: JM Anderson
+        non_striker: JH Kallis
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 2.3:
+        batsman: HM Amla
+        bowler: JM Anderson
+        non_striker: JH Kallis
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 2.4:
+        batsman: HM Amla
+        bowler: JM Anderson
+        non_striker: JH Kallis
+        runs:
+          batsman: 1
+          extras: 0
+          total: 1
+    - 2.5:
+        batsman: JH Kallis
+        bowler: JM Anderson
+        non_striker: HM Amla
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0
+    - 2.6:
+        batsman: JH Kallis
+        bowler: JM Anderson
+        non_striker: HM Amla
+        runs:
+          batsman: 0
+          extras: 0
+          total: 0

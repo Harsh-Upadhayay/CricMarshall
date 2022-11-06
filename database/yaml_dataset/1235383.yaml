@@ -1,0 +1,2209 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Durban
+  competition: CSA T20 Challenge
+  dates:
+  - '2021-02-25'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Warriors
+    by:
+      runs: 14
+  overs: 20
+  player_of_match:
+  - LC Ngoepe
+  - M Nabe
+  players:
+    Warriors:
+    - JT Smuts
+    - GL Cloete
+    - LC Ngoepe
+    - S Qeshile
+    - WJ Lubbe
+    - T Stubbs
+    - A Gqamane
+    - M Jansen
+    - A Nortje
+    - M Nabe
+    - L Makhosi
+    Knights:
+    - MC Kleinveldt
+    - PE Kruger
+    - R van Tonder
+    - JD Vandiar
+    - PJ van Biljon
+    - W Makwetu
+    - M Pretorius
+    - S von Berg
+    - G Coetzee
+    - SA Mothoa
+    - M Budaza
+  registry:
+    people:
+      A Gqamane: a83c44b8
+      A Jacobs: 70d117de
+      A Nortje: acdc62f5
+      A Paleker: 634b11ac
+      BP Jele: 7bb1331e
+      G Coetzee: 3204c99f
+      GL Cloete: 3bf40832
+      JD Vandiar: a833f99c
+      JT Smuts: 42172c3c
+      L Makhosi: deccdffa
+      LC Ngoepe: 51355a30
+      M Budaza: 1d105638
+      M Jansen: 81c36ee9
+      M Nabe: 6ed11905
+      M Pretorius: 54c2b697
+      MC Kleinveldt: 961edf30
+      PE Kruger: '39181592'
+      PJ van Biljon: 4025c262
+      R van Tonder: 0ba03cec
+      S Qeshile: '94268960'
+      S Wadvalla: c1a1acf3
+      S von Berg: ffd3fc37
+      SA Mothoa: ea1eba98
+      Siphelele Gasa: e50baa87
+      T Stubbs: 85b3fab2
+      W Makwetu: ae53180e
+      WJ Lubbe: 10f42013
+  teams:
+  - Warriors
+  - Knights
+  toss:
+    winner: Knights
+    decision: field
+  umpires:
+  - A Paleker
+  - Siphelele Gasa
+  venue: Kingsmead, Durban
+innings:
+- 1st innings:
+    team: Warriors
+    deliveries:
+    - 0.1:
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: GL Cloete
+        batsman: JT Smuts
+    - 0.2:
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: GL Cloete
+        batsman: JT Smuts
+    - 0.3:
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GL Cloete
+        batsman: JT Smuts
+    - 0.4:
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GL Cloete
+        batsman: JT Smuts
+    - 0.5:
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GL Cloete
+        batsman: JT Smuts
+    - 0.6:
+        non_striker: JT Smuts
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 1.1:
+        non_striker: GL Cloete
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 1.2:
+        non_striker: GL Cloete
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 1.3:
+        non_striker: GL Cloete
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 1.4:
+        non_striker: GL Cloete
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 1.5:
+        non_striker: JT Smuts
+        bowler: G Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GL Cloete
+    - 1.6:
+        non_striker: JT Smuts
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GL Cloete
+    - 1.7:
+        non_striker: JT Smuts
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL Cloete
+    - 2.1:
+        non_striker: GL Cloete
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 2.2:
+        non_striker: JT Smuts
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 2.3:
+        non_striker: GL Cloete
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 2.4:
+        non_striker: GL Cloete
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 2.5:
+        non_striker: GL Cloete
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 2.6:
+        non_striker: GL Cloete
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 3.1:
+        non_striker: JT Smuts
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 3.2:
+        non_striker: JT Smuts
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 3.3:
+        non_striker: JT Smuts
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 3.4:
+        non_striker: JT Smuts
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 3.5:
+        non_striker: GL Cloete
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 3.6:
+        non_striker: JT Smuts
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GL Cloete
+    - 4.1:
+        non_striker: GL Cloete
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 4.2:
+        non_striker: GL Cloete
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 4.3:
+        non_striker: GL Cloete
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 4.4:
+        non_striker: JT Smuts
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 4.5:
+        non_striker: GL Cloete
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 4.6:
+        non_striker: JT Smuts
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL Cloete
+    - 5.1:
+        non_striker: GL Cloete
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 5.2:
+        non_striker: JT Smuts
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 5.3:
+        non_striker: JT Smuts
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 5.4:
+        non_striker: JT Smuts
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 5.5:
+        non_striker: JT Smuts
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 5.6:
+        non_striker: JT Smuts
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 6.1:
+        non_striker: GL Cloete
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+        wicket:
+          player_out: JT Smuts
+          fielders:
+          - W Makwetu
+          kind: caught
+    - 6.2:
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: LC Ngoepe
+        batsman: GL Cloete
+    - 6.3:
+        non_striker: GL Cloete
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 6.4:
+        non_striker: LC Ngoepe
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 6.5:
+        non_striker: LC Ngoepe
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 6.6:
+        non_striker: LC Ngoepe
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+        wicket:
+          player_out: GL Cloete
+          kind: bowled
+    - 7.1:
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Qeshile
+        batsman: LC Ngoepe
+    - 7.2:
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Qeshile
+        batsman: LC Ngoepe
+    - 7.3:
+        non_striker: LC Ngoepe
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Qeshile
+        wicket:
+          player_out: S Qeshile
+          kind: caught and bowled
+    - 7.4:
+        non_striker: LC Ngoepe
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 7.5:
+        non_striker: LC Ngoepe
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 7.6:
+        non_striker: LC Ngoepe
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+    - 8.1:
+        non_striker: WJ Lubbe
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 8.2:
+        non_striker: LC Ngoepe
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 8.3:
+        non_striker: WJ Lubbe
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 8.4:
+        non_striker: LC Ngoepe
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WJ Lubbe
+    - 8.5:
+        non_striker: WJ Lubbe
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 8.6:
+        non_striker: WJ Lubbe
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LC Ngoepe
+    - 9.1:
+        non_striker: LC Ngoepe
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WJ Lubbe
+        wicket:
+          player_out: WJ Lubbe
+          fielders:
+          - PE Kruger
+          kind: caught
+    - 9.2:
+        bowler: MC Kleinveldt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: T Stubbs
+        batsman: LC Ngoepe
+    - 9.3:
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Stubbs
+        batsman: LC Ngoepe
+    - 9.4:
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Stubbs
+        batsman: LC Ngoepe
+    - 9.5:
+        non_striker: LC Ngoepe
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 9.6:
+        non_striker: LC Ngoepe
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 9.7:
+        non_striker: T Stubbs
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 10.1:
+        non_striker: T Stubbs
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 10.2:
+        non_striker: LC Ngoepe
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 10.3:
+        non_striker: LC Ngoepe
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 10.4:
+        non_striker: T Stubbs
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 10.5:
+        non_striker: LC Ngoepe
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 10.6:
+        non_striker: LC Ngoepe
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 11.1:
+        non_striker: LC Ngoepe
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 11.2:
+        non_striker: LC Ngoepe
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 11.3:
+        non_striker: T Stubbs
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LC Ngoepe
+    - 11.4:
+        non_striker: T Stubbs
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 11.5:
+        non_striker: LC Ngoepe
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 11.6:
+        non_striker: LC Ngoepe
+        bowler: MC Kleinveldt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Stubbs
+    - 12.1:
+        non_striker: T Stubbs
+        bowler: M Budaza
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: LC Ngoepe
+    - 12.2:
+        non_striker: T Stubbs
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 12.3:
+        non_striker: T Stubbs
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 12.4:
+        non_striker: T Stubbs
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 12.5:
+        non_striker: T Stubbs
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 12.6:
+        non_striker: LC Ngoepe
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.1:
+        non_striker: LC Ngoepe
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.2:
+        non_striker: T Stubbs
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LC Ngoepe
+    - 13.3:
+        non_striker: T Stubbs
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 13.4:
+        non_striker: LC Ngoepe
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 13.5:
+        non_striker: T Stubbs
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 13.6:
+        non_striker: LC Ngoepe
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 14.1:
+        non_striker: T Stubbs
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+    - 14.2:
+        non_striker: T Stubbs
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 14.3:
+        non_striker: LC Ngoepe
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 14.4:
+        non_striker: LC Ngoepe
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 14.5:
+        non_striker: LC Ngoepe
+        bowler: M Budaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Stubbs
+    - 14.6:
+        non_striker: LC Ngoepe
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+        wicket:
+          player_out: T Stubbs
+          kind: bowled
+    - 14.7:
+        non_striker: LC Ngoepe
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gqamane
+    - 15.1:
+        non_striker: A Gqamane
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LC Ngoepe
+    - 15.2:
+        non_striker: A Gqamane
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 15.3:
+        non_striker: LC Ngoepe
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gqamane
+    - 15.4:
+        non_striker: A Gqamane
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LC Ngoepe
+    - 15.5:
+        non_striker: A Gqamane
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LC Ngoepe
+    - 15.6:
+        non_striker: A Gqamane
+        bowler: SA Mothoa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Ngoepe
+    - 16.1:
+        non_striker: A Gqamane
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Ngoepe
+        wicket:
+          player_out: LC Ngoepe
+          fielders:
+          - SA Mothoa
+          kind: caught
+    - 16.2:
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Jansen
+        batsman: A Gqamane
+    - 16.3:
+        non_striker: A Gqamane
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 16.4:
+        non_striker: A Gqamane
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 16.5:
+        non_striker: A Gqamane
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 16.6:
+        non_striker: A Gqamane
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+    - 17.1:
+        non_striker: M Jansen
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Gqamane
+    - 17.2:
+        non_striker: M Jansen
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gqamane
+    - 17.3:
+        non_striker: A Gqamane
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 17.4:
+        non_striker: M Jansen
+        bowler: G Coetzee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Gqamane
+    - 17.5:
+        non_striker: M Jansen
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gqamane
+    - 17.6:
+        non_striker: M Jansen
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gqamane
+    - 17.7:
+        non_striker: A Gqamane
+        bowler: G Coetzee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 18.1:
+        non_striker: A Gqamane
+        bowler: M Pretorius
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Jansen
+    - 18.2:
+        non_striker: A Gqamane
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jansen
+    - 18.3:
+        non_striker: M Jansen
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gqamane
+    - 18.4:
+        non_striker: A Gqamane
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Jansen
+    - 18.5:
+        non_striker: A Gqamane
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jansen
+        wicket:
+          player_out: M Jansen
+          fielders:
+          - PJ van Biljon
+          kind: caught
+    - 18.6:
+        non_striker: A Gqamane
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nortje
+    - 18.7:
+        non_striker: A Gqamane
+        bowler: M Pretorius
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Nortje
+    - 19.1:
+        non_striker: A Nortje
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gqamane
+    - 19.2:
+        non_striker: A Nortje
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gqamane
+    - 19.3:
+        non_striker: A Nortje
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gqamane
+        wicket:
+          player_out: A Gqamane
+          fielders:
+          - S von Berg
+          kind: caught
+    - 19.4:
+        bowler: M Budaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: M Nabe
+        batsman: A Nortje
+    - 19.5:
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Nabe
+        batsman: A Nortje
+    - 19.6:
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: M Nabe
+        batsman: A Nortje
+    - 19.7:
+        non_striker: M Nabe
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Nortje
+- 2nd innings:
+    team: Knights
+    deliveries:
+    - 0.1:
+        non_striker: PE Kruger
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Kleinveldt
+        wicket:
+          player_out: PE Kruger
+          fielders:
+          - JT Smuts
+          kind: run out
+    - 0.2:
+        non_striker: MC Kleinveldt
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 0.3:
+        non_striker: R van Tonder
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Kleinveldt
+    - 0.4:
+        non_striker: R van Tonder
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Kleinveldt
+    - 0.5:
+        non_striker: R van Tonder
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Kleinveldt
+    - 0.6:
+        non_striker: R van Tonder
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Kleinveldt
+    - 1.1:
+        non_striker: MC Kleinveldt
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 1.2:
+        non_striker: MC Kleinveldt
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 1.3:
+        non_striker: MC Kleinveldt
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 1.4:
+        non_striker: MC Kleinveldt
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 1.5:
+        non_striker: MC Kleinveldt
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R van Tonder
+    - 1.6:
+        non_striker: MC Kleinveldt
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 2.1:
+        non_striker: MC Kleinveldt
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R van Tonder
+    - 2.2:
+        non_striker: MC Kleinveldt
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R van Tonder
+    - 2.3:
+        non_striker: MC Kleinveldt
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R van Tonder
+    - 2.4:
+        non_striker: MC Kleinveldt
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 2.5:
+        non_striker: R van Tonder
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Kleinveldt
+    - 2.6:
+        non_striker: R van Tonder
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Kleinveldt
+    - 3.1:
+        non_striker: MC Kleinveldt
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R van Tonder
+    - 3.2:
+        non_striker: MC Kleinveldt
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R van Tonder
+    - 3.3:
+        non_striker: MC Kleinveldt
+        bowler: WJ Lubbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R van Tonder
+    - 3.4:
+        non_striker: MC Kleinveldt
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 3.5:
+        non_striker: MC Kleinveldt
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 3.6:
+        non_striker: R van Tonder
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Kleinveldt
+    - 3.7:
+        non_striker: MC Kleinveldt
+        bowler: WJ Lubbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R van Tonder
+    - 4.1:
+        non_striker: R van Tonder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Kleinveldt
+    - 4.2:
+        non_striker: MC Kleinveldt
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 4.3:
+        non_striker: MC Kleinveldt
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 4.4:
+        non_striker: R van Tonder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Kleinveldt
+    - 4.5:
+        non_striker: R van Tonder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Kleinveldt
+    - 4.6:
+        non_striker: MC Kleinveldt
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 5.1:
+        non_striker: MC Kleinveldt
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 5.2:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Kleinveldt
+    - 5.3:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MC Kleinveldt
+    - 5.4:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Kleinveldt
+    - 5.5:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MC Kleinveldt
+    - 5.6:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Kleinveldt
+    - 5.7:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MC Kleinveldt
+    - 6.1:
+        non_striker: R van Tonder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MC Kleinveldt
+    - 6.2:
+        non_striker: MC Kleinveldt
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R van Tonder
+    - 6.3:
+        non_striker: MC Kleinveldt
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 6.4:
+        non_striker: R van Tonder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MC Kleinveldt
+        wicket:
+          player_out: MC Kleinveldt
+          kind: bowled
+    - 6.5:
+        non_striker: R van Tonder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Vandiar
+    - 6.6:
+        non_striker: R van Tonder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Vandiar
+    - 6.7:
+        non_striker: R van Tonder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Vandiar
+    - 7.1:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Vandiar
+    - 7.2:
+        non_striker: JD Vandiar
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 7.3:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Vandiar
+        wicket:
+          player_out: JD Vandiar
+          kind: bowled
+    - 7.4:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+    - 7.5:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ van Biljon
+    - 7.6:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ van Biljon
+    - 8.1:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ van Biljon
+        wicket:
+          player_out: PJ van Biljon
+          kind: lbw
+    - 8.2:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Makwetu
+    - 8.3:
+        non_striker: W Makwetu
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 8.4:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Makwetu
+        wicket:
+          player_out: W Makwetu
+          fielders:
+          - A Nortje
+          kind: caught
+    - 8.5:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Pretorius
+    - 8.6:
+        non_striker: M Pretorius
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 9.1:
+        non_striker: M Pretorius
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 9.2:
+        non_striker: M Pretorius
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 9.3:
+        non_striker: R van Tonder
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pretorius
+    - 9.4:
+        non_striker: R van Tonder
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Pretorius
+    - 9.5:
+        non_striker: R van Tonder
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Pretorius
+        wicket:
+          player_out: M Pretorius
+          fielders:
+          - LC Ngoepe
+          kind: caught
+    - 9.6:
+        non_striker: S von Berg
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 10.1:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S von Berg
+    - 10.2:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S von Berg
+    - 10.3:
+        non_striker: S von Berg
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 10.4:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S von Berg
+    - 10.5:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S von Berg
+    - 10.6:
+        non_striker: S von Berg
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 11.1:
+        non_striker: S von Berg
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R van Tonder
+    - 11.2:
+        non_striker: S von Berg
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 11.3:
+        non_striker: R van Tonder
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S von Berg
+    - 11.4:
+        non_striker: S von Berg
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 11.5:
+        non_striker: R van Tonder
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S von Berg
+    - 11.6:
+        non_striker: S von Berg
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 12.1:
+        non_striker: S von Berg
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 12.2:
+        non_striker: R van Tonder
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S von Berg
+    - 12.3:
+        non_striker: R van Tonder
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S von Berg
+    - 12.4:
+        non_striker: S von Berg
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 12.5:
+        non_striker: R van Tonder
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S von Berg
+    - 12.6:
+        non_striker: R van Tonder
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S von Berg
+    - 13.1:
+        non_striker: R van Tonder
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S von Berg
+    - 13.2:
+        non_striker: S von Berg
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 13.3:
+        non_striker: R van Tonder
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S von Berg
+    - 13.4:
+        non_striker: R van Tonder
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S von Berg
+    - 13.5:
+        non_striker: S von Berg
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R van Tonder
+    - 13.6:
+        non_striker: S von Berg
+        bowler: L Makhosi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R van Tonder
+    - 14.1:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S von Berg
+        wicket:
+          player_out: S von Berg
+          fielders:
+          - S Qeshile
+          kind: caught
+    - 14.2:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Coetzee
+    - 14.3:
+        non_striker: G Coetzee
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 14.4:
+        non_striker: G Coetzee
+        bowler: M Nabe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R van Tonder
+    - 14.5:
+        non_striker: G Coetzee
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 14.6:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Coetzee
+    - 14.7:
+        non_striker: G Coetzee
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 15.1:
+        non_striker: G Coetzee
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R van Tonder
+    - 15.2:
+        non_striker: G Coetzee
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 15.3:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Coetzee
+    - 15.4:
+        non_striker: G Coetzee
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 15.5:
+        non_striker: G Coetzee
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: R van Tonder
+    - 15.6:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 16.1:
+        non_striker: G Coetzee
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 16.2:
+        non_striker: R van Tonder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Coetzee
+    - 16.3:
+        non_striker: G Coetzee
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R van Tonder
+    - 16.4:
+        non_striker: G Coetzee
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 16.5:
+        non_striker: R van Tonder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 16.6:
+        non_striker: R van Tonder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 17.1:
+        non_striker: G Coetzee
+        bowler: M Nabe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R van Tonder
+    - 17.2:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+    - 17.3:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Coetzee
+    - 17.4:
+        non_striker: G Coetzee
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 17.5:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Coetzee
+    - 17.6:
+        non_striker: R van Tonder
+        bowler: M Nabe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Coetzee
+    - 18.1:
+        non_striker: G Coetzee
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 18.2:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Coetzee
+        wicket:
+          player_out: G Coetzee
+          fielders:
+          - A Gqamane
+          kind: caught
+    - 18.3:
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        non_striker: SA Mothoa
+        batsman: R van Tonder
+    - 18.4:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Mothoa
+    - 18.5:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Mothoa
+    - 18.6:
+        non_striker: SA Mothoa
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 18.7:
+        non_striker: R van Tonder
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Mothoa
+    - 19.1:
+        non_striker: SA Mothoa
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+        wicket:
+          player_out: SA Mothoa
+          fielders:
+          - S Qeshile
+          - M Jansen
+          kind: run out
+    - 19.2:
+        non_striker: R van Tonder
+        bowler: A Nortje
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M Budaza
+    - 19.3:
+        non_striker: M Budaza
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R van Tonder
+    - 19.4:
+        non_striker: M Budaza
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R van Tonder
+    - 19.5:
+        non_striker: M Budaza
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R van Tonder
+    - 19.6:
+        non_striker: R van Tonder
+        bowler: A Nortje
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Budaza
+        wicket:
+          player_out: M Budaza
+          kind: bowled

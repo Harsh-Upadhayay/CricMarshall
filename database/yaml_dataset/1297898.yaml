@@ -1,0 +1,1291 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-06-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Chester-le-Street
+  competition: Vitality Blast
+  dates:
+  - '2022-06-24'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Nottinghamshire
+    by:
+      runs: 2
+  overs: 20
+  players:
+    Nottinghamshire:
+    - JM Clarke
+    - AD Hales
+    - BM Duckett
+    - DT Christian
+    - TJ Moores
+    - SJ Mullaney
+    - SG Budinger
+    - LW James
+    - SR Patel
+    - M Carter
+    - LJ Fletcher
+    Durham:
+    - MA Jones
+    - G Clark
+    - AJ Turner
+    - L Trevaskis
+    - BA Raine
+    - BA Carse
+    - EJH Eckersley
+    - OG Robinson
+    - P Coughlin
+    - NA Sowter
+    - AJ Tye
+  registry:
+    people:
+      AD Hales: 92aeac25
+      AJ Turner: ff1e12a0
+      AJ Tye: 7c7d63a2
+      BA Carse: cad40f5e
+      BA Raine: 4c0f3806
+      BM Duckett: 5f26f677
+      DE Malcolm: 29c7ca03
+      DT Christian: 2a2e6343
+      EJH Eckersley: d510d457
+      G Clark: 4fd09cfc
+      JM Clarke: 2eca67f5
+      L Trevaskis: b5781ac3
+      LJ Fletcher: e423d162
+      LW James: 2baad3bd
+      M Carter: 1ca7c00f
+      MA Jones: 05f96194
+      N Pratt: 01f65cd3
+      NA Sowter: ee0c05c0
+      OG Robinson: 60f4c586
+      P Coughlin: '71440756'
+      RT Robinson: b143c87d
+      SG Budinger: bfc60227
+      SJ Mullaney: 0e0d43b4
+      SR Patel: 18fac429
+      TJ Moores: 85dcb721
+  teams:
+  - Nottinghamshire
+  - Durham
+  toss:
+    winner: Durham
+    decision: field
+  umpires:
+  - N Pratt
+  - RT Robinson
+  venue: Riverside Ground, Chester-le-Street
+innings:
+- 1st innings:
+    team: Nottinghamshire
+    deliveries:
+    - 0.1:
+        non_striker: AD Hales
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 0.2:
+        non_striker: AD Hales
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 0.3:
+        non_striker: JM Clarke
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Hales
+    - 0.4:
+        non_striker: AD Hales
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 0.5:
+        non_striker: AD Hales
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+        wicket:
+          player_out: JM Clarke
+          fielders:
+          - L Trevaskis
+          kind: caught
+    - 0.6:
+        non_striker: AD Hales
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 1.1:
+        non_striker: AD Hales
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+    - 1.2:
+        non_striker: AD Hales
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 1.3:
+        non_striker: AD Hales
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Duckett
+    - 1.4:
+        non_striker: BM Duckett
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+    - 1.5:
+        non_striker: BM Duckett
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Hales
+        wicket:
+          player_out: AD Hales
+          fielders:
+          - AJ Turner
+          kind: caught
+    - 1.6:
+        non_striker: BM Duckett
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+    - 2.1:
+        non_striker: DT Christian
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Duckett
+    - 2.2:
+        non_striker: DT Christian
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Duckett
+        wicket:
+          player_out: BM Duckett
+          fielders:
+          - AJ Turner
+          kind: caught
+    - 2.3:
+        non_striker: DT Christian
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TJ Moores
+    - 2.4:
+        non_striker: DT Christian
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TJ Moores
+    - 2.5:
+        non_striker: DT Christian
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 2.6:
+        non_striker: DT Christian
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TJ Moores
+    - 3.1:
+        non_striker: TJ Moores
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Christian
+        wicket:
+          player_out: DT Christian
+          fielders:
+          - G Clark
+          kind: caught
+    - 3.2:
+        non_striker: TJ Moores
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Mullaney
+    - 3.3:
+        non_striker: TJ Moores
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Mullaney
+    - 3.4:
+        non_striker: TJ Moores
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Mullaney
+    - 3.5:
+        non_striker: TJ Moores
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Mullaney
+    - 3.6:
+        non_striker: SJ Mullaney
+        bowler: BA Carse
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJ Moores
+    - 4.1:
+        non_striker: SJ Mullaney
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TJ Moores
+    - 4.2:
+        non_striker: SJ Mullaney
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TJ Moores
+    - 4.3:
+        non_striker: SJ Mullaney
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TJ Moores
+    - 4.4:
+        non_striker: SJ Mullaney
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+    - 4.5:
+        non_striker: SJ Mullaney
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TJ Moores
+    - 4.6:
+        non_striker: SJ Mullaney
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Moores
+        wicket:
+          player_out: TJ Moores
+          fielders:
+          - NA Sowter
+          kind: caught
+    - 5.1:
+        non_striker: SG Budinger
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Mullaney
+    - 5.2:
+        non_striker: SG Budinger
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Mullaney
+    - 5.3:
+        non_striker: SJ Mullaney
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SG Budinger
+    - 5.4:
+        non_striker: SJ Mullaney
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Budinger
+    - 5.5:
+        non_striker: SG Budinger
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Mullaney
+    - 5.6:
+        non_striker: SG Budinger
+        bowler: NA Sowter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Mullaney
+    - 6.1:
+        non_striker: SG Budinger
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Mullaney
+    - 6.2:
+        non_striker: SJ Mullaney
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Budinger
+    - 6.3:
+        non_striker: SG Budinger
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Mullaney
+    - 6.4:
+        non_striker: SJ Mullaney
+        bowler: L Trevaskis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Budinger
+    - 6.5:
+        non_striker: SJ Mullaney
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Budinger
+    - 6.6:
+        non_striker: SG Budinger
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Mullaney
+    - 6.7:
+        non_striker: SJ Mullaney
+        bowler: L Trevaskis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Budinger
+    - 7.1:
+        non_striker: SJ Mullaney
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Budinger
+    - 7.2:
+        non_striker: SG Budinger
+        bowler: AJ Tye
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Mullaney
+    - 7.3:
+        non_striker: SG Budinger
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Mullaney
+    - 7.4:
+        non_striker: SJ Mullaney
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+    - 7.5:
+        non_striker: SJ Mullaney
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SG Budinger
+    - 7.6:
+        non_striker: SG Budinger
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Mullaney
+    - 7.7:
+        non_striker: SG Budinger
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Mullaney
+    - 8.1:
+        non_striker: SG Budinger
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Mullaney
+    - 8.2:
+        non_striker: SG Budinger
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Mullaney
+    - 8.3:
+        non_striker: SJ Mullaney
+        bowler: P Coughlin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Budinger
+    - 8.4:
+        non_striker: SJ Mullaney
+        bowler: P Coughlin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Budinger
+    - 8.5:
+        non_striker: SJ Mullaney
+        bowler: P Coughlin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SG Budinger
+    - 8.6:
+        non_striker: SJ Mullaney
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SG Budinger
+    - 8.7:
+        non_striker: SJ Mullaney
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Budinger
+        wicket:
+          player_out: SG Budinger
+          fielders:
+          - L Trevaskis
+          kind: caught
+    - 8.8:
+        non_striker: SJ Mullaney
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LW James
+    - 8.9:
+        non_striker: SJ Mullaney
+        bowler: P Coughlin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: LW James
+    - 8.10:
+        non_striker: SJ Mullaney
+        bowler: P Coughlin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LW James
+    - 9.1:
+        non_striker: LW James
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SJ Mullaney
+    - 9.2:
+        non_striker: LW James
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Mullaney
+    - 9.3:
+        non_striker: LW James
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Mullaney
+    - 9.4:
+        non_striker: LW James
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Mullaney
+    - 9.5:
+        non_striker: LW James
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Mullaney
+    - 9.6:
+        non_striker: LW James
+        bowler: AJ Tye
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Mullaney
+    - 10.1:
+        non_striker: SJ Mullaney
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LW James
+        wicket:
+          player_out: LW James
+          kind: lbw
+    - 10.2:
+        non_striker: SJ Mullaney
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Patel
+    - 10.3:
+        non_striker: SR Patel
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Mullaney
+    - 10.4:
+        non_striker: SJ Mullaney
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Patel
+        wicket:
+          player_out: SR Patel
+          kind: bowled
+    - 10.5:
+        non_striker: SJ Mullaney
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Carter
+    - 10.6:
+        non_striker: SJ Mullaney
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Carter
+        wicket:
+          player_out: M Carter
+          fielders:
+          - L Trevaskis
+          kind: run out
+- 2nd innings:
+    team: Durham
+    deliveries:
+    - 0.1:
+        non_striker: G Clark
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 0.2:
+        non_striker: MA Jones
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Clark
+    - 0.3:
+        non_striker: G Clark
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 0.4:
+        non_striker: MA Jones
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Clark
+    - 0.5:
+        non_striker: MA Jones
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Clark
+        wicket:
+          player_out: G Clark
+          fielders:
+          - TJ Moores
+          kind: caught
+    - 0.6:
+        non_striker: MA Jones
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+    - 1.1:
+        non_striker: AJ Turner
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Jones
+    - 1.2:
+        non_striker: AJ Turner
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 1.3:
+        non_striker: MA Jones
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Turner
+    - 1.4:
+        non_striker: AJ Turner
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 1.5:
+        non_striker: AJ Turner
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Jones
+    - 1.6:
+        non_striker: AJ Turner
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 2.1:
+        non_striker: AJ Turner
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 2.2:
+        non_striker: AJ Turner
+        bowler: M Carter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Jones
+    - 2.3:
+        non_striker: AJ Turner
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 2.4:
+        non_striker: MA Jones
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Turner
+    - 2.5:
+        non_striker: MA Jones
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Turner
+        wicket:
+          player_out: AJ Turner
+          fielders:
+          - AD Hales
+          kind: caught
+    - 2.6:
+        non_striker: MA Jones
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Trevaskis
+    - 2.7:
+        non_striker: MA Jones
+        bowler: M Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+    - 3.1:
+        non_striker: L Trevaskis
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 3.2:
+        non_striker: MA Jones
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Trevaskis
+    - 3.3:
+        non_striker: MA Jones
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Trevaskis
+    - 3.4:
+        non_striker: MA Jones
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+    - 3.5:
+        non_striker: MA Jones
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Trevaskis
+        wicket:
+          player_out: L Trevaskis
+          kind: bowled
+    - 3.6:
+        non_striker: MA Jones
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Raine
+    - 4.1:
+        non_striker: BA Raine
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 4.2:
+        non_striker: BA Raine
+        bowler: SJ Mullaney
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MA Jones
+    - 4.3:
+        non_striker: MA Jones
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Raine
+    - 4.4:
+        non_striker: MA Jones
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Raine
+    - 4.5:
+        non_striker: MA Jones
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Raine
+    - 4.6:
+        non_striker: MA Jones
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BA Raine
+    - 5.1:
+        non_striker: BA Raine
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 5.2:
+        non_striker: BA Raine
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MA Jones
+    - 5.3:
+        non_striker: MA Jones
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BA Raine
+    - 5.4:
+        non_striker: MA Jones
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Raine
+    - 5.5:
+        non_striker: MA Jones
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Raine
+    - 5.6:
+        non_striker: MA Jones
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Raine
+    - 6.1:
+        non_striker: MA Jones
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Raine
+    - 6.2:
+        non_striker: BA Raine
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 6.3:
+        non_striker: MA Jones
+        bowler: DT Christian
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA Raine
+    - 6.4:
+        non_striker: MA Jones
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Raine
+        wicket:
+          player_out: BA Raine
+          kind: bowled
+    - 6.5:
+        non_striker: MA Jones
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA Carse
+    - 6.6:
+        non_striker: MA Jones
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA Carse
+    - 6.7:
+        non_striker: BA Carse
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 7.1:
+        non_striker: BA Carse
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Jones
+    - 7.2:
+        non_striker: BA Carse
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 7.3:
+        non_striker: MA Jones
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+    - 7.4:
+        non_striker: MA Jones
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA Carse
+        wicket:
+          player_out: BA Carse
+          fielders:
+          - DT Christian
+          kind: caught
+    - 7.5:
+        non_striker: MA Jones
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJH Eckersley
+    - 7.6:
+        non_striker: EJH Eckersley
+        bowler: SR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 8.1:
+        non_striker: EJH Eckersley
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 8.2:
+        non_striker: MA Jones
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJH Eckersley
+    - 8.3:
+        non_striker: MA Jones
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EJH Eckersley
+    - 8.4:
+        non_striker: MA Jones
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJH Eckersley
+    - 8.5:
+        non_striker: EJH Eckersley
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 8.6:
+        non_striker: MA Jones
+        bowler: SJ Mullaney
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJH Eckersley
+    - 9.1:
+        non_striker: EJH Eckersley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Jones
+    - 9.2:
+        non_striker: MA Jones
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJH Eckersley
+    - 9.3:
+        non_striker: MA Jones
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJH Eckersley
+    - 9.4:
+        non_striker: MA Jones
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJH Eckersley
+    - 9.5:
+        non_striker: EJH Eckersley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Jones
+    - 9.6:
+        non_striker: EJH Eckersley
+        bowler: LJ Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Jones
+    - 10.1:
+        non_striker: MA Jones
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJH Eckersley
+    - 10.2:
+        non_striker: MA Jones
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EJH Eckersley
+    - 10.3:
+        non_striker: MA Jones
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: EJH Eckersley
+    - 10.4:
+        non_striker: MA Jones
+        bowler: DT Christian
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJH Eckersley
+    - 10.5:
+        non_striker: EJH Eckersley
+        bowler: DT Christian
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MA Jones
+    - 10.6:
+        non_striker: MA Jones
+        bowler: DT Christian
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EJH Eckersley

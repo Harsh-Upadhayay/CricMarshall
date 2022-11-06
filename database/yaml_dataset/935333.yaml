@@ -1,0 +1,2171 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dhaka
+  competition: Bangladesh Premier League
+  dates:
+  - '2015-12-08'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Rangpur Riders
+    by:
+      runs: 21
+  overs: 20
+  player_of_match:
+  - Jahurul Islam
+  players:
+    Comilla Victorians:
+    - Imrul Kayes
+    - Mahmudul Hasan
+    - Ahmed Shehzad
+    - Ashar Zaidi
+    - Shoaib Malik
+    - Shuvagata Hom
+    - AD Russell
+    - Mashrafe Mortaza
+    - Dhiman Ghosh
+    - Abu Hider
+    - Kamrul Islam Rabbi
+    Rangpur Riders:
+    - LMP Simmons
+    - Soumya Sarkar
+    - Jahurul Islam
+    - Shakib Al Hasan
+    - NLTC Perera
+    - DJG Sammy
+    - Mohammad Nabi
+    - Mohammad Mithun
+    - Abu Jayed
+    - Arafat Sunny
+    - Saqlain Sajib
+  registry:
+    people:
+      AD Russell: bbd41817
+      Abu Hider: 31803fac
+      Abu Jayed: 1bb0993e
+      Ahmed Shehzad: f8fd6e3f
+      Anisur Rahman: affbf093
+      Arafat Sunny: 1f7adc8a
+      Ashar Zaidi: 9bab2b81
+      DJG Sammy: c03c6200
+      Dhiman Ghosh: 1494a583
+      Gazi Sohel: f0df3ed7
+      Imrul Kayes: 5fbe14fc
+      Jahurul Islam: 6752c57b
+      Kamrul Islam Rabbi: f7e9a562
+      LMP Simmons: 89f64c19
+      Mahmudul Hasan: 8c783a97
+      Mashrafe Mortaza: e186f49c
+      Mohammad Mithun: '77191792'
+      Mohammad Nabi: 62af8546
+      Moniruzzaman: 075e9f9c
+      NLTC Perera: 0f12f9df
+      REJ Martinesz: 140cdf29
+      Saqlain Sajib: f3c150bb
+      Shakib Al Hasan: 7dc35884
+      Shoaib Malik: 64c34cd0
+      Showkatur Rahman: 5340a1c1
+      Shuvagata Hom: bb01f9e0
+      Soumya Sarkar: 4d9f9686
+  teams:
+  - Rangpur Riders
+  - Comilla Victorians
+  toss:
+    winner: Comilla Victorians
+    decision: field
+  umpires:
+  - Gazi Sohel
+  - REJ Martinesz
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Rangpur Riders
+    deliveries:
+    - 0.1:
+        bowler: Shoaib Malik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Soumya Sarkar
+        batsman: LMP Simmons
+    - 0.2:
+        non_striker: LMP Simmons
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 0.3:
+        non_striker: LMP Simmons
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 0.4:
+        non_striker: LMP Simmons
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Soumya Sarkar
+    - 0.5:
+        non_striker: LMP Simmons
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 0.6:
+        non_striker: Soumya Sarkar
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 1.1:
+        non_striker: LMP Simmons
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 1.2:
+        non_striker: LMP Simmons
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+        wicket:
+          player_out: Soumya Sarkar
+          fielders:
+          - Shuvagata Hom
+          kind: caught
+    - 1.3:
+        non_striker: LMP Simmons
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 1.4:
+        non_striker: LMP Simmons
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 1.5:
+        non_striker: LMP Simmons
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 1.6:
+        non_striker: LMP Simmons
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 2.1:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 2.2:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 2.3:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 2.4:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 2.5:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 2.6:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 3.1:
+        non_striker: Jahurul Islam
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 3.2:
+        non_striker: LMP Simmons
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jahurul Islam
+    - 3.3:
+        non_striker: LMP Simmons
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jahurul Islam
+    - 3.4:
+        non_striker: LMP Simmons
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jahurul Islam
+    - 3.5:
+        non_striker: LMP Simmons
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 3.6:
+        non_striker: Jahurul Islam
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 4.1:
+        non_striker: LMP Simmons
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 4.2:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMP Simmons
+    - 4.3:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 4.4:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 4.5:
+        non_striker: LMP Simmons
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 4.6:
+        non_striker: LMP Simmons
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 5.1:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+    - 5.2:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: LMP Simmons
+    - 5.3:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 5.4:
+        non_striker: LMP Simmons
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 5.5:
+        non_striker: LMP Simmons
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jahurul Islam
+    - 5.6:
+        non_striker: LMP Simmons
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 5.7:
+        non_striker: LMP Simmons
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 6.1:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMP Simmons
+    - 6.2:
+        non_striker: LMP Simmons
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 6.3:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMP Simmons
+        wicket:
+          player_out: LMP Simmons
+          kind: lbw
+    - 6.4:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 6.5:
+        non_striker: Shakib Al Hasan
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 6.6:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 7.1:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 7.2:
+        non_striker: Shakib Al Hasan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 7.3:
+        non_striker: Shakib Al Hasan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 7.4:
+        non_striker: Shakib Al Hasan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 7.5:
+        non_striker: Shakib Al Hasan
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 7.6:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.1:
+        non_striker: Jahurul Islam
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.2:
+        non_striker: Shakib Al Hasan
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 8.3:
+        non_striker: Shakib Al Hasan
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 8.4:
+        non_striker: Jahurul Islam
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.5:
+        non_striker: Shakib Al Hasan
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 8.6:
+        non_striker: Jahurul Islam
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 9.1:
+        non_striker: Shakib Al Hasan
+        bowler: Mahmudul Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 9.2:
+        non_striker: Shakib Al Hasan
+        bowler: Mahmudul Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jahurul Islam
+    - 9.3:
+        non_striker: Shakib Al Hasan
+        bowler: Mahmudul Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 9.4:
+        non_striker: Shakib Al Hasan
+        bowler: Mahmudul Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jahurul Islam
+    - 9.5:
+        non_striker: Shakib Al Hasan
+        bowler: Mahmudul Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 9.6:
+        non_striker: Jahurul Islam
+        bowler: Mahmudul Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 10.1:
+        non_striker: Jahurul Islam
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 10.2:
+        non_striker: Shakib Al Hasan
+        bowler: Shoaib Malik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Jahurul Islam
+    - 10.3:
+        non_striker: Jahurul Islam
+        bowler: Shoaib Malik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shakib Al Hasan
+    - 10.4:
+        non_striker: Jahurul Islam
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 10.5:
+        non_striker: Shakib Al Hasan
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jahurul Islam
+    - 10.6:
+        non_striker: Shakib Al Hasan
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 10.7:
+        non_striker: Jahurul Islam
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 11.1:
+        non_striker: Jahurul Islam
+        bowler: Kamrul Islam Rabbi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shakib Al Hasan
+    - 11.2:
+        non_striker: Jahurul Islam
+        bowler: Kamrul Islam Rabbi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 11.3:
+        non_striker: Jahurul Islam
+        bowler: Kamrul Islam Rabbi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 11.4:
+        non_striker: Jahurul Islam
+        bowler: Kamrul Islam Rabbi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shakib Al Hasan
+    - 11.5:
+        non_striker: Jahurul Islam
+        bowler: Kamrul Islam Rabbi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+        wicket:
+          player_out: Shakib Al Hasan
+          fielders:
+          - Ashar Zaidi
+          kind: caught
+    - 11.6:
+        non_striker: Jahurul Islam
+        bowler: Kamrul Islam Rabbi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NLTC Perera
+    - 11.7:
+        non_striker: Jahurul Islam
+        bowler: Kamrul Islam Rabbi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+    - 12.1:
+        non_striker: NLTC Perera
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 12.2:
+        non_striker: Jahurul Islam
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 12.3:
+        non_striker: NLTC Perera
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jahurul Islam
+    - 12.4:
+        non_striker: NLTC Perera
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 12.5:
+        non_striker: NLTC Perera
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 12.6:
+        non_striker: Jahurul Islam
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+        wicket:
+          player_out: NLTC Perera
+          fielders:
+          - AD Russell
+          kind: caught
+    - 13.1:
+        non_striker: Jahurul Islam
+        bowler: Kamrul Islam Rabbi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJG Sammy
+    - 13.2:
+        non_striker: DJG Sammy
+        bowler: Kamrul Islam Rabbi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 13.3:
+        non_striker: Jahurul Islam
+        bowler: Kamrul Islam Rabbi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJG Sammy
+    - 13.4:
+        non_striker: Jahurul Islam
+        bowler: Kamrul Islam Rabbi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJG Sammy
+    - 13.5:
+        non_striker: DJG Sammy
+        bowler: Kamrul Islam Rabbi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 13.6:
+        non_striker: Jahurul Islam
+        bowler: Kamrul Islam Rabbi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJG Sammy
+    - 14.1:
+        non_striker: DJG Sammy
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jahurul Islam
+    - 14.2:
+        non_striker: DJG Sammy
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 14.3:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJG Sammy
+    - 14.4:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJG Sammy
+    - 14.5:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJG Sammy
+    - 14.6:
+        non_striker: Jahurul Islam
+        bowler: Ashar Zaidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJG Sammy
+    - 15.1:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJG Sammy
+    - 15.2:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJG Sammy
+    - 15.3:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJG Sammy
+    - 15.4:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJG Sammy
+    - 15.5:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJG Sammy
+    - 15.6:
+        non_striker: DJG Sammy
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jahurul Islam
+    - 16.1:
+        non_striker: Jahurul Islam
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJG Sammy
+    - 16.2:
+        non_striker: Jahurul Islam
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJG Sammy
+    - 16.3:
+        non_striker: Jahurul Islam
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJG Sammy
+    - 16.4:
+        non_striker: DJG Sammy
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 16.5:
+        non_striker: Jahurul Islam
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJG Sammy
+    - 16.6:
+        non_striker: DJG Sammy
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jahurul Islam
+    - 17.1:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJG Sammy
+    - 17.2:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJG Sammy
+    - 17.3:
+        non_striker: DJG Sammy
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 17.4:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJG Sammy
+    - 17.5:
+        non_striker: Jahurul Islam
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJG Sammy
+        wicket:
+          player_out: DJG Sammy
+          fielders:
+          - Shoaib Malik
+          kind: caught
+    - 17.6:
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Mohammad Nabi
+        batsman: Jahurul Islam
+    - 17.7:
+        non_striker: Mohammad Nabi
+        bowler: AD Russell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 18.1:
+        non_striker: Mohammad Nabi
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jahurul Islam
+    - 18.2:
+        non_striker: Jahurul Islam
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nabi
+    - 18.3:
+        non_striker: Jahurul Islam
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+    - 18.4:
+        non_striker: Jahurul Islam
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nabi
+    - 18.5:
+        non_striker: Jahurul Islam
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Nabi
+    - 18.6:
+        non_striker: Jahurul Islam
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 19.1:
+        non_striker: Jahurul Islam
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nabi
+    - 19.2:
+        non_striker: Mohammad Nabi
+        bowler: Abu Hider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Jahurul Islam
+    - 19.3:
+        non_striker: Jahurul Islam
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nabi
+        wicket:
+          player_out: Mohammad Nabi
+          fielders:
+          - Shoaib Malik
+          kind: caught
+    - 19.4:
+        bowler: Abu Hider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Mohammad Mithun
+        batsman: Jahurul Islam
+    - 19.5:
+        non_striker: Jahurul Islam
+        bowler: Abu Hider
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Mithun
+    - 19.6:
+        non_striker: Mohammad Mithun
+        bowler: Abu Hider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jahurul Islam
+    - 19.7:
+        non_striker: Mohammad Mithun
+        bowler: Abu Hider
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Jahurul Islam
+- 2nd innings:
+    team: Comilla Victorians
+    deliveries:
+    - 0.1:
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mahmudul Hasan
+        batsman: Imrul Kayes
+    - 0.2:
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Mahmudul Hasan
+        batsman: Imrul Kayes
+    - 0.3:
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Mahmudul Hasan
+        batsman: Imrul Kayes
+    - 0.4:
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mahmudul Hasan
+        batsman: Imrul Kayes
+    - 0.5:
+        non_striker: Imrul Kayes
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudul Hasan
+    - 0.6:
+        non_striker: Mahmudul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 1.1:
+        non_striker: Imrul Kayes
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudul Hasan
+    - 1.2:
+        non_striker: Imrul Kayes
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudul Hasan
+    - 1.3:
+        non_striker: Mahmudul Hasan
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Imrul Kayes
+    - 1.4:
+        non_striker: Imrul Kayes
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudul Hasan
+    - 1.5:
+        non_striker: Imrul Kayes
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudul Hasan
+    - 1.6:
+        non_striker: Imrul Kayes
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudul Hasan
+    - 2.1:
+        non_striker: Mahmudul Hasan
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 2.2:
+        non_striker: Mahmudul Hasan
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 2.3:
+        non_striker: Mahmudul Hasan
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Imrul Kayes
+    - 2.4:
+        non_striker: Mahmudul Hasan
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imrul Kayes
+    - 2.5:
+        non_striker: Mahmudul Hasan
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 2.6:
+        non_striker: Mahmudul Hasan
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 3.1:
+        non_striker: Mahmudul Hasan
+        bowler: NLTC Perera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imrul Kayes
+    - 3.2:
+        non_striker: Mahmudul Hasan
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 3.3:
+        non_striker: Mahmudul Hasan
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imrul Kayes
+    - 3.4:
+        non_striker: Mahmudul Hasan
+        bowler: NLTC Perera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imrul Kayes
+    - 3.5:
+        non_striker: Mahmudul Hasan
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imrul Kayes
+    - 3.6:
+        non_striker: Mahmudul Hasan
+        bowler: NLTC Perera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imrul Kayes
+    - 3.7:
+        non_striker: Mahmudul Hasan
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imrul Kayes
+    - 3.8:
+        non_striker: Mahmudul Hasan
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 3.9:
+        non_striker: Mahmudul Hasan
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 4.1:
+        non_striker: Mahmudul Hasan
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 4.2:
+        non_striker: Imrul Kayes
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudul Hasan
+    - 4.3:
+        non_striker: Mahmudul Hasan
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 4.4:
+        non_striker: Mahmudul Hasan
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 4.5:
+        non_striker: Mahmudul Hasan
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+    - 4.6:
+        non_striker: Mahmudul Hasan
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imrul Kayes
+    - 5.1:
+        non_striker: Mahmudul Hasan
+        bowler: DJG Sammy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imrul Kayes
+        wicket:
+          player_out: Imrul Kayes
+          fielders:
+          - Arafat Sunny
+          kind: caught
+    - 5.2:
+        non_striker: Mahmudul Hasan
+        bowler: DJG Sammy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Shehzad
+    - 5.3:
+        non_striker: Ahmed Shehzad
+        bowler: DJG Sammy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudul Hasan
+    - 5.4:
+        non_striker: Ahmed Shehzad
+        bowler: DJG Sammy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudul Hasan
+    - 5.5:
+        non_striker: Mahmudul Hasan
+        bowler: DJG Sammy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Shehzad
+    - 5.6:
+        non_striker: Mahmudul Hasan
+        bowler: DJG Sammy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Shehzad
+    - 6.1:
+        non_striker: Mahmudul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Shehzad
+    - 6.2:
+        non_striker: Mahmudul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Shehzad
+    - 6.3:
+        non_striker: Mahmudul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Shehzad
+    - 6.4:
+        non_striker: Mahmudul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Shehzad
+    - 6.5:
+        non_striker: Mahmudul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ahmed Shehzad
+    - 6.6:
+        non_striker: Mahmudul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Shehzad
+    - 7.1:
+        non_striker: Mahmudul Hasan
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ahmed Shehzad
+    - 7.2:
+        non_striker: Ahmed Shehzad
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudul Hasan
+        wicket:
+          player_out: Mahmudul Hasan
+          kind: lbw
+    - 7.3:
+        non_striker: Ahmed Shehzad
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashar Zaidi
+    - 7.4:
+        non_striker: Ahmed Shehzad
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashar Zaidi
+    - 7.5:
+        non_striker: Ashar Zaidi
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Shehzad
+    - 7.6:
+        non_striker: Ashar Zaidi
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Shehzad
+    - 8.1:
+        non_striker: Ahmed Shehzad
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashar Zaidi
+    - 8.2:
+        non_striker: Ahmed Shehzad
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashar Zaidi
+    - 8.3:
+        non_striker: Ashar Zaidi
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ahmed Shehzad
+        wicket:
+          player_out: Ahmed Shehzad
+          fielders:
+          - NLTC Perera
+          kind: caught
+    - 8.4:
+        bowler: Mohammad Nabi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Shoaib Malik
+        batsman: Ashar Zaidi
+    - 8.5:
+        non_striker: Ashar Zaidi
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 8.6:
+        non_striker: Shoaib Malik
+        bowler: Mohammad Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashar Zaidi
+        wicket:
+          player_out: Ashar Zaidi
+          fielders:
+          - LMP Simmons
+          kind: caught
+    - 9.1:
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shuvagata Hom
+        batsman: Shoaib Malik
+    - 9.2:
+        non_striker: Shoaib Malik
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 9.3:
+        non_striker: Shuvagata Hom
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 9.4:
+        non_striker: Shuvagata Hom
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 9.5:
+        non_striker: Shoaib Malik
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 9.6:
+        non_striker: Shoaib Malik
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 10.1:
+        non_striker: Shuvagata Hom
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 10.2:
+        non_striker: Shuvagata Hom
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 10.3:
+        non_striker: Shoaib Malik
+        bowler: Arafat Sunny
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Shuvagata Hom
+    - 10.4:
+        non_striker: Shoaib Malik
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 10.5:
+        non_striker: Shuvagata Hom
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 10.6:
+        non_striker: Shoaib Malik
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 11.1:
+        non_striker: Shoaib Malik
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 11.2:
+        non_striker: Shuvagata Hom
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 11.3:
+        non_striker: Shoaib Malik
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 11.4:
+        non_striker: Shuvagata Hom
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 11.5:
+        non_striker: Shuvagata Hom
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 11.6:
+        non_striker: Shoaib Malik
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shuvagata Hom
+    - 12.1:
+        non_striker: Shoaib Malik
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shuvagata Hom
+    - 12.2:
+        non_striker: Shoaib Malik
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 12.3:
+        non_striker: Shoaib Malik
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+    - 12.4:
+        non_striker: Shoaib Malik
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shuvagata Hom
+        wicket:
+          player_out: Shuvagata Hom
+          kind: bowled
+    - 12.5:
+        non_striker: Shoaib Malik
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 12.6:
+        non_striker: Shoaib Malik
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 13.1:
+        non_striker: AD Russell
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 13.2:
+        non_striker: Shoaib Malik
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 13.3:
+        non_striker: Shoaib Malik
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 13.4:
+        non_striker: Shoaib Malik
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 13.5:
+        non_striker: AD Russell
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 13.6:
+        non_striker: AD Russell
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 14.1:
+        non_striker: Shoaib Malik
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 14.2:
+        non_striker: AD Russell
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 14.3:
+        non_striker: AD Russell
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 14.4:
+        non_striker: Shoaib Malik
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AD Russell
+    - 14.5:
+        non_striker: AD Russell
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 14.6:
+        non_striker: AD Russell
+        bowler: Arafat Sunny
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 15.1:
+        non_striker: AD Russell
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 15.2:
+        non_striker: AD Russell
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Malik
+    - 15.3:
+        non_striker: AD Russell
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 15.4:
+        non_striker: Shoaib Malik
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+    - 15.5:
+        non_striker: Shoaib Malik
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AD Russell
+    - 15.6:
+        non_striker: Shoaib Malik
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AD Russell
+        wicket:
+          player_out: AD Russell
+          fielders:
+          - NLTC Perera
+          kind: caught
+    - 16.1:
+        non_striker: Shoaib Malik
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mashrafe Mortaza
+    - 16.2:
+        non_striker: Shoaib Malik
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mashrafe Mortaza
+    - 16.3:
+        non_striker: Shoaib Malik
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+        wicket:
+          player_out: Mashrafe Mortaza
+          fielders:
+          - Mohammad Nabi
+          kind: caught
+    - 16.4:
+        non_striker: Shoaib Malik
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhiman Ghosh
+    - 16.5:
+        non_striker: Shoaib Malik
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhiman Ghosh
+    - 16.6:
+        non_striker: Shoaib Malik
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhiman Ghosh
+    - 17.1:
+        non_striker: Shoaib Malik
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhiman Ghosh
+    - 17.2:
+        non_striker: Shoaib Malik
+        bowler: NLTC Perera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Dhiman Ghosh
+    - 17.3:
+        non_striker: Dhiman Ghosh
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 17.4:
+        non_striker: Dhiman Ghosh
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 17.5:
+        non_striker: Dhiman Ghosh
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 17.6:
+        non_striker: Dhiman Ghosh
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+        wicket:
+          player_out: Shoaib Malik
+          fielders:
+          - Arafat Sunny
+          kind: caught
+    - 18.1:
+        non_striker: Dhiman Ghosh
+        bowler: DJG Sammy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abu Hider
+    - 18.2:
+        non_striker: Dhiman Ghosh
+        bowler: DJG Sammy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abu Hider
+    - 18.3:
+        non_striker: Abu Hider
+        bowler: DJG Sammy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhiman Ghosh
+    - 18.4:
+        non_striker: Dhiman Ghosh
+        bowler: DJG Sammy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abu Hider
+    - 18.5:
+        non_striker: Dhiman Ghosh
+        bowler: DJG Sammy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abu Hider
+    - 18.6:
+        non_striker: Dhiman Ghosh
+        bowler: DJG Sammy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abu Hider
+    - 19.1:
+        non_striker: Abu Hider
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhiman Ghosh
+        wicket:
+          player_out: Dhiman Ghosh
+          kind: bowled
+    - 19.2:
+        non_striker: Abu Hider
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamrul Islam Rabbi
+    - 19.3:
+        non_striker: Abu Hider
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kamrul Islam Rabbi
+    - 19.4:
+        non_striker: Kamrul Islam Rabbi
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abu Hider
+    - 19.5:
+        non_striker: Abu Hider
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kamrul Islam Rabbi
+        wicket:
+          player_out: Kamrul Islam Rabbi
+          kind: bowled

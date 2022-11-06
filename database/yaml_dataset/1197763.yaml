@@ -1,0 +1,1948 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-01-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dunedin
+  competition: Super Smash
+  dates:
+  - '2020-01-06'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      wickets: 10
+  overs: 20
+  players:
+    Otago:
+    - HD Rutherford
+    - NT Broom
+    - NF Kelly
+    - D Foxcroft
+    - AK Kitchen
+    - JL Finnie
+    - MJG Rippon
+    - JA Duffy
+    - DN Phillips
+    - MW Chu
+    - MD Rae
+    Wellington:
+    - DP Conway
+    - MA Pollard
+    - R Ravindra
+    - MG Bracewell
+    - JDS Neesham
+    - FJ Colson
+    - JD Gibson
+    - PF Younghusband
+    - LV van Beek
+    - OR Newton
+    - HK Bennett
+  registry:
+    people:
+      AK Kitchen: 63a1874a
+      D Foxcroft: ed6894af
+      DJ Walker: d4aea8ac
+      DN Phillips: be0c9f5b
+      DP Conway: df5a6881
+      FJ Colson: c2327c5d
+      HD Rutherford: 0605de92
+      HK Bennett: '94238673'
+      JA Duffy: dadbdb68
+      JD Gibson: 57f520ee
+      JDS Neesham: 9219eff0
+      JL Finnie: 1ccf9e7e
+      K Pulley: 644bf4ad
+      LV van Beek: 782fb776
+      MA Pollard: d3b84c59
+      MD Rae: 1c06d60a
+      MG Bracewell: e38bce7a
+      MJG Rippon: b03db6fa
+      MW Chu: ef9f75f8
+      NF Kelly: 97f437ed
+      NT Broom: a354c917
+      OR Newton: 4e520f6c
+      PF Younghusband: 149d0c18
+      R Ravindra: ba5e1069
+      SB Haig: 811655b3
+  teams:
+  - Otago
+  - Wellington
+  toss:
+    decision: bat
+    winner: Otago
+  umpires:
+  - DJ Walker
+  - SB Haig
+  venue: University Oval
+innings:
+- 1st innings:
+    team: Otago
+    deliveries:
+    - 0.1:
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: NT Broom
+        batsman: HD Rutherford
+    - 0.2:
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NT Broom
+        batsman: HD Rutherford
+    - 0.3:
+        non_striker: NT Broom
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HD Rutherford
+        wicket:
+          player_out: HD Rutherford
+          fielders:
+          - DP Conway
+          kind: caught
+    - 0.4:
+        non_striker: NT Broom
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 0.5:
+        non_striker: NT Broom
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 0.6:
+        non_striker: NF Kelly
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Broom
+    - 1.1:
+        non_striker: NF Kelly
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NT Broom
+    - 1.2:
+        non_striker: NT Broom
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 1.3:
+        non_striker: NT Broom
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 1.4:
+        non_striker: NF Kelly
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Broom
+        wicket:
+          player_out: NT Broom
+          kind: bowled
+    - 1.5:
+        non_striker: NF Kelly
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 1.6:
+        non_striker: NF Kelly
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Foxcroft
+    - 2.1:
+        non_striker: D Foxcroft
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 2.2:
+        non_striker: NF Kelly
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Foxcroft
+    - 2.3:
+        non_striker: NF Kelly
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 2.4:
+        non_striker: D Foxcroft
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 2.5:
+        non_striker: NF Kelly
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 2.6:
+        non_striker: NF Kelly
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 2.7:
+        non_striker: NF Kelly
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Foxcroft
+    - 2.8:
+        non_striker: NF Kelly
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 3.1:
+        non_striker: NF Kelly
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 3.2:
+        non_striker: D Foxcroft
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 3.3:
+        non_striker: D Foxcroft
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NF Kelly
+    - 3.4:
+        non_striker: D Foxcroft
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NF Kelly
+    - 3.5:
+        non_striker: D Foxcroft
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NF Kelly
+    - 3.6:
+        non_striker: NF Kelly
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+        wicket:
+          player_out: NF Kelly
+          kind: run out
+    - 4.1:
+        non_striker: D Foxcroft
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 4.2:
+        non_striker: AK Kitchen
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 4.3:
+        non_striker: D Foxcroft
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 4.4:
+        non_striker: AK Kitchen
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 4.5:
+        non_striker: AK Kitchen
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 4.6:
+        non_striker: D Foxcroft
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Kitchen
+    - 5.1:
+        non_striker: AK Kitchen
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 5.2:
+        non_striker: AK Kitchen
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 5.3:
+        non_striker: AK Kitchen
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 5.4:
+        non_striker: D Foxcroft
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AK Kitchen
+    - 5.5:
+        non_striker: D Foxcroft
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AK Kitchen
+    - 5.6:
+        non_striker: AK Kitchen
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Foxcroft
+    - 6.1:
+        non_striker: D Foxcroft
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 6.2:
+        non_striker: AK Kitchen
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 6.3:
+        non_striker: D Foxcroft
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 6.4:
+        non_striker: AK Kitchen
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 6.5:
+        non_striker: AK Kitchen
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 6.6:
+        non_striker: D Foxcroft
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 7.1:
+        non_striker: D Foxcroft
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 7.2:
+        non_striker: AK Kitchen
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Foxcroft
+    - 7.3:
+        non_striker: D Foxcroft
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 7.4:
+        non_striker: AK Kitchen
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 7.5:
+        non_striker: AK Kitchen
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 7.6:
+        non_striker: D Foxcroft
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 8.1:
+        non_striker: D Foxcroft
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Kitchen
+    - 8.2:
+        non_striker: D Foxcroft
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Kitchen
+    - 8.3:
+        non_striker: D Foxcroft
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 8.4:
+        non_striker: AK Kitchen
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 8.5:
+        non_striker: D Foxcroft
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 8.6:
+        non_striker: AK Kitchen
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 9.1:
+        non_striker: AK Kitchen
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 9.2:
+        non_striker: D Foxcroft
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Kitchen
+    - 9.3:
+        non_striker: D Foxcroft
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 9.4:
+        non_striker: AK Kitchen
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Foxcroft
+    - 9.5:
+        non_striker: AK Kitchen
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 9.6:
+        non_striker: D Foxcroft
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 10.1:
+        non_striker: D Foxcroft
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 10.2:
+        non_striker: AK Kitchen
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 10.3:
+        non_striker: D Foxcroft
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 10.4:
+        non_striker: AK Kitchen
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 10.5:
+        non_striker: D Foxcroft
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 10.6:
+        non_striker: AK Kitchen
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 11.1:
+        non_striker: AK Kitchen
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 11.2:
+        non_striker: AK Kitchen
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 11.3:
+        non_striker: AK Kitchen
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 11.4:
+        non_striker: D Foxcroft
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AK Kitchen
+    - 11.5:
+        non_striker: D Foxcroft
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Kitchen
+    - 11.6:
+        non_striker: D Foxcroft
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 12.1:
+        non_striker: D Foxcroft
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Kitchen
+    - 12.2:
+        non_striker: D Foxcroft
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 12.3:
+        non_striker: AK Kitchen
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 12.4:
+        non_striker: D Foxcroft
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Kitchen
+    - 12.5:
+        non_striker: AK Kitchen
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 12.6:
+        non_striker: D Foxcroft
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Kitchen
+        wicket:
+          player_out: AK Kitchen
+          fielders:
+          - OR Newton
+          kind: caught
+    - 13.1:
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JL Finnie
+        batsman: D Foxcroft
+    - 13.2:
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JL Finnie
+        batsman: D Foxcroft
+    - 13.3:
+        non_striker: D Foxcroft
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Finnie
+    - 13.4:
+        non_striker: JL Finnie
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 13.5:
+        non_striker: D Foxcroft
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Finnie
+    - 13.6:
+        non_striker: JL Finnie
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 14.1:
+        non_striker: D Foxcroft
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Finnie
+    - 14.2:
+        non_striker: D Foxcroft
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+    - 14.3:
+        non_striker: D Foxcroft
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+    - 14.4:
+        non_striker: D Foxcroft
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Finnie
+    - 14.5:
+        non_striker: D Foxcroft
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Finnie
+    - 14.6:
+        non_striker: JL Finnie
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 15.1:
+        non_striker: JL Finnie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 15.2:
+        non_striker: D Foxcroft
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+    - 15.3:
+        non_striker: D Foxcroft
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JL Finnie
+    - 15.4:
+        non_striker: JL Finnie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 15.5:
+        non_striker: JL Finnie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 15.6:
+        non_striker: JL Finnie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 16.1:
+        non_striker: JL Finnie
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Foxcroft
+    - 16.2:
+        non_striker: JL Finnie
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 16.3:
+        non_striker: D Foxcroft
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JL Finnie
+    - 16.4:
+        non_striker: D Foxcroft
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Finnie
+        wicket:
+          player_out: JL Finnie
+          fielders:
+          - LV van Beek
+          kind: caught
+    - 16.5:
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MJG Rippon
+        batsman: D Foxcroft
+    - 16.6:
+        non_striker: D Foxcroft
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 17.1:
+        non_striker: D Foxcroft
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 17.2:
+        non_striker: D Foxcroft
+        bowler: OR Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJG Rippon
+    - 17.3:
+        non_striker: D Foxcroft
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJG Rippon
+    - 17.4:
+        non_striker: D Foxcroft
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 17.5:
+        non_striker: MJG Rippon
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 17.6:
+        non_striker: MJG Rippon
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 17.7:
+        non_striker: MJG Rippon
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 18.1:
+        non_striker: MJG Rippon
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 18.2:
+        non_striker: MJG Rippon
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Foxcroft
+    - 18.3:
+        non_striker: MJG Rippon
+        bowler: MG Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Foxcroft
+    - 18.4:
+        non_striker: D Foxcroft
+        bowler: MG Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJG Rippon
+    - 18.5:
+        non_striker: D Foxcroft
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJG Rippon
+    - 18.6:
+        non_striker: D Foxcroft
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 18.7:
+        non_striker: MJG Rippon
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 19.1:
+        non_striker: MJG Rippon
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+    - 19.2:
+        non_striker: MJG Rippon
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Foxcroft
+    - 19.3:
+        non_striker: D Foxcroft
+        bowler: OR Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MJG Rippon
+    - 19.4:
+        non_striker: D Foxcroft
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJG Rippon
+    - 19.5:
+        non_striker: D Foxcroft
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJG Rippon
+    - 19.6:
+        non_striker: MJG Rippon
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Foxcroft
+    - 19.7:
+        non_striker: MJG Rippon
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Foxcroft
+- 2nd innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MA Pollard
+        batsman: DP Conway
+    - 0.2:
+        non_striker: DP Conway
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 0.3:
+        non_striker: MA Pollard
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 0.4:
+        non_striker: MA Pollard
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 0.5:
+        non_striker: MA Pollard
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 0.6:
+        non_striker: MA Pollard
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 1.1:
+        non_striker: DP Conway
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 1.2:
+        non_striker: DP Conway
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 1.3:
+        non_striker: MA Pollard
+        bowler: AK Kitchen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 1.4:
+        non_striker: MA Pollard
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 1.5:
+        non_striker: DP Conway
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 1.6:
+        non_striker: DP Conway
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 1.7:
+        non_striker: MA Pollard
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 2.1:
+        non_striker: MA Pollard
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 2.2:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 2.3:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Pollard
+    - 2.4:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 2.5:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MA Pollard
+    - 2.6:
+        non_striker: MA Pollard
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 3.1:
+        non_striker: DP Conway
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 3.2:
+        non_striker: MA Pollard
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.3:
+        non_striker: MA Pollard
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 3.4:
+        non_striker: MA Pollard
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.5:
+        non_striker: MA Pollard
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.6:
+        non_striker: MA Pollard
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 4.1:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 4.2:
+        non_striker: MA Pollard
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 4.3:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 4.4:
+        non_striker: MA Pollard
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 4.5:
+        non_striker: MA Pollard
+        bowler: JA Duffy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 4.6:
+        non_striker: MA Pollard
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 4.7:
+        non_striker: MA Pollard
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 5.1:
+        non_striker: MA Pollard
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 5.2:
+        non_striker: MA Pollard
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 5.3:
+        non_striker: MA Pollard
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 5.4:
+        non_striker: DP Conway
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Pollard
+    - 5.5:
+        non_striker: DP Conway
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 5.6:
+        non_striker: DP Conway
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 6.1:
+        non_striker: DP Conway
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 6.2:
+        non_striker: MA Pollard
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 6.3:
+        non_striker: DP Conway
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 6.4:
+        non_striker: MA Pollard
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 6.5:
+        non_striker: MA Pollard
+        bowler: AK Kitchen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DP Conway
+    - 6.6:
+        non_striker: DP Conway
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 7.1:
+        non_striker: DP Conway
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 7.2:
+        non_striker: MA Pollard
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 7.3:
+        non_striker: MA Pollard
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 7.4:
+        non_striker: MA Pollard
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 7.5:
+        non_striker: MA Pollard
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.6:
+        non_striker: DP Conway
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 8.1:
+        non_striker: DP Conway
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 8.2:
+        non_striker: MA Pollard
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.3:
+        non_striker: DP Conway
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 8.4:
+        non_striker: MA Pollard
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.5:
+        non_striker: DP Conway
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 8.6:
+        non_striker: DP Conway
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 9.1:
+        non_striker: DP Conway
+        bowler: DN Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 9.2:
+        non_striker: DP Conway
+        bowler: DN Phillips
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Pollard
+    - 9.3:
+        non_striker: DP Conway
+        bowler: DN Phillips
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Pollard
+    - 9.4:
+        non_striker: DP Conway
+        bowler: DN Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 9.5:
+        non_striker: MA Pollard
+        bowler: DN Phillips
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 9.6:
+        non_striker: MA Pollard
+        bowler: DN Phillips
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: DP Conway
+    - 9.7:
+        non_striker: MA Pollard
+        bowler: DN Phillips
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 10.1:
+        non_striker: DP Conway
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 10.2:
+        non_striker: DP Conway
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 10.3:
+        non_striker: MA Pollard
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 10.4:
+        non_striker: DP Conway
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Pollard
+    - 10.5:
+        non_striker: DP Conway
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 10.6:
+        non_striker: MA Pollard
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 11.1:
+        non_striker: MA Pollard
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 11.2:
+        non_striker: DP Conway
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Pollard
+    - 11.3:
+        non_striker: DP Conway
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 11.4:
+        non_striker: MA Pollard
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 11.5:
+        non_striker: MA Pollard
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 11.6:
+        non_striker: DP Conway
+        bowler: D Foxcroft
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 12.1:
+        non_striker: DP Conway
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 12.2:
+        non_striker: DP Conway
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 12.3:
+        non_striker: MA Pollard
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 12.4:
+        non_striker: MA Pollard
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 12.5:
+        non_striker: DP Conway
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 12.6:
+        non_striker: MA Pollard
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 13.1:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 13.2:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 13.3:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Pollard
+    - 13.4:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Pollard
+    - 13.5:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 13.6:
+        non_striker: MA Pollard
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 14.1:
+        non_striker: MA Pollard
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 14.2:
+        non_striker: MA Pollard
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 14.3:
+        non_striker: DP Conway
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Pollard
+    - 14.4:
+        non_striker: DP Conway
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Pollard
+    - 14.5:
+        non_striker: DP Conway
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 14.6:
+        non_striker: DP Conway
+        bowler: AK Kitchen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 15.1:
+        non_striker: MA Pollard
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 15.2:
+        non_striker: MA Pollard
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 15.3:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Pollard
+    - 15.4:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 15.5:
+        non_striker: DP Conway
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 15.6:
+        non_striker: MA Pollard
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 16.1:
+        non_striker: MA Pollard
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 16.2:
+        non_striker: DP Conway
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 16.3:
+        non_striker: MA Pollard
+        bowler: MD Rae
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway

@@ -1,0 +1,2163 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-04-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Johannesburg
+  competition: CSA T20 Challenge
+  dates:
+  - '2016-11-12'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Titans
+    by:
+      runs: 42
+  overs: 20
+  player_of_match:
+  - JA Morkel
+  - HG Kuhn
+  players:
+    Titans:
+    - H Davids
+    - TG Mokoena
+    - HG Kuhn
+    - MQ Adams
+    - JA Morkel
+    - F Behardien
+    - H Klaasen
+    - D Wiese
+    - MP Siboto
+    - S von Berg
+    - L Ngidi
+    Lions:
+    - RR Hendricks
+    - HE van der Dussen
+    - DA Hendricks
+    - BC Fortuin
+    - PWA Mulder
+    - NJ van den Bergh
+    - M Mosehle
+    - MK McGillivray
+    - GC Viljoen
+    - AM Phangiso
+    - E Leie
+  registry:
+    people:
+      A Paleker: 634b11ac
+      AM Phangiso: 7f8ecc51
+      AT Holdstock: 6fa3258c
+      BC Fortuin: 9a2fc964
+      BP Jele: 7bb1331e
+      D Wiese: aa8d28ae
+      DA Hendricks: f66f5343
+      E Leie: a7bc76a0
+      F Behardien: dce2019b
+      GC Viljoen: a316d663
+      H Davids: 9c9f8dbc
+      H Klaasen: 235c2bb6
+      HE van der Dussen: 9948e262
+      HG Kuhn: ede05b97
+      JA Morkel: c3d35165
+      L Ngidi: f834dcfc
+      M Mosehle: 8836fcac
+      MK McGillivray: 52c0576c
+      MP Siboto: 9d50c7e1
+      MQ Adams: 59a7fc89
+      NJ van den Bergh: 055e8d7b
+      PWA Mulder: c96f6ac5
+      RR Hendricks: b8cc58c9
+      S George: 6d9e5a54
+      S von Berg: ffd3fc37
+      SB Lambson: 4146063f
+      TG Mokoena: '0827b38d'
+  teams:
+  - Titans
+  - Lions
+  toss:
+    winner: Lions
+    decision: field
+  umpires:
+  - AT Holdstock
+  - S George
+  venue: New Wanderers Stadium, Johannesburg
+innings:
+- 1st innings:
+    team: Titans
+    deliveries:
+    - 0.1:
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TG Mokoena
+        batsman: H Davids
+    - 0.2:
+        non_striker: H Davids
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Mokoena
+    - 0.3:
+        non_striker: TG Mokoena
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Davids
+    - 0.4:
+        non_striker: H Davids
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TG Mokoena
+    - 0.5:
+        non_striker: TG Mokoena
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Davids
+    - 0.6:
+        non_striker: H Davids
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Mokoena
+    - 1.1:
+        non_striker: TG Mokoena
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Davids
+    - 1.2:
+        non_striker: TG Mokoena
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Davids
+    - 1.3:
+        non_striker: TG Mokoena
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Davids
+    - 1.4:
+        non_striker: TG Mokoena
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Davids
+    - 1.5:
+        non_striker: TG Mokoena
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Davids
+    - 1.6:
+        non_striker: TG Mokoena
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Davids
+    - 2.1:
+        non_striker: TG Mokoena
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Davids
+        wicket:
+          player_out: H Davids
+          kind: bowled
+    - 2.2:
+        non_striker: TG Mokoena
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HG Kuhn
+    - 2.3:
+        non_striker: HG Kuhn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TG Mokoena
+    - 2.4:
+        non_striker: HG Kuhn
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TG Mokoena
+    - 2.5:
+        non_striker: HG Kuhn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Mokoena
+        wicket:
+          player_out: TG Mokoena
+          fielders:
+          - PWA Mulder
+          kind: caught
+    - 2.6:
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MQ Adams
+        batsman: HG Kuhn
+    - 2.7:
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: MQ Adams
+        batsman: HG Kuhn
+    - 2.8:
+        non_striker: MQ Adams
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 3.1:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MQ Adams
+    - 3.2:
+        non_striker: MQ Adams
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 3.3:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MQ Adams
+    - 3.4:
+        non_striker: MQ Adams
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 3.5:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MQ Adams
+    - 3.6:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MQ Adams
+    - 4.1:
+        non_striker: MQ Adams
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 4.2:
+        non_striker: MQ Adams
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 4.3:
+        non_striker: HG Kuhn
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MQ Adams
+    - 4.4:
+        non_striker: HG Kuhn
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MQ Adams
+    - 4.5:
+        non_striker: MQ Adams
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 4.6:
+        non_striker: MQ Adams
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 5.1:
+        non_striker: MQ Adams
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 5.2:
+        non_striker: MQ Adams
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 5.3:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MQ Adams
+    - 5.4:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MQ Adams
+    - 5.5:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MQ Adams
+    - 5.6:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MQ Adams
+    - 6.1:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MQ Adams
+    - 6.2:
+        non_striker: MQ Adams
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 6.3:
+        non_striker: MQ Adams
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 6.4:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MQ Adams
+    - 6.5:
+        non_striker: MQ Adams
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 6.6:
+        non_striker: MQ Adams
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 7.1:
+        non_striker: MQ Adams
+        bowler: E Leie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Kuhn
+    - 7.2:
+        non_striker: MQ Adams
+        bowler: E Leie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Kuhn
+    - 7.3:
+        non_striker: MQ Adams
+        bowler: E Leie
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: HG Kuhn
+    - 7.4:
+        non_striker: HG Kuhn
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MQ Adams
+    - 7.5:
+        non_striker: HG Kuhn
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MQ Adams
+    - 7.6:
+        non_striker: HG Kuhn
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MQ Adams
+        wicket:
+          player_out: MQ Adams
+          fielders:
+          - RR Hendricks
+          kind: caught
+    - 7.7:
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JA Morkel
+        batsman: HG Kuhn
+    - 7.8:
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JA Morkel
+        batsman: HG Kuhn
+    - 7.9:
+        non_striker: HG Kuhn
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 8.1:
+        non_striker: JA Morkel
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 8.2:
+        non_striker: JA Morkel
+        bowler: AM Phangiso
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HG Kuhn
+    - 8.3:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Morkel
+    - 8.4:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 8.5:
+        non_striker: JA Morkel
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 8.6:
+        non_striker: JA Morkel
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 9.1:
+        non_striker: JA Morkel
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 9.2:
+        non_striker: JA Morkel
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 9.3:
+        non_striker: JA Morkel
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 9.4:
+        non_striker: HG Kuhn
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 9.5:
+        non_striker: HG Kuhn
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 9.6:
+        non_striker: JA Morkel
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 10.1:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 10.2:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 10.3:
+        non_striker: JA Morkel
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 10.4:
+        non_striker: JA Morkel
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Kuhn
+    - 10.5:
+        non_striker: JA Morkel
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 10.6:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 11.1:
+        non_striker: HG Kuhn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 11.2:
+        non_striker: JA Morkel
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 11.3:
+        non_striker: JA Morkel
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 11.4:
+        non_striker: HG Kuhn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 11.5:
+        non_striker: HG Kuhn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Morkel
+    - 11.6:
+        non_striker: HG Kuhn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 12.1:
+        non_striker: HG Kuhn
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 12.2:
+        non_striker: JA Morkel
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 12.3:
+        non_striker: HG Kuhn
+        bowler: E Leie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JA Morkel
+    - 12.4:
+        non_striker: JA Morkel
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 12.5:
+        non_striker: JA Morkel
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Kuhn
+    - 12.6:
+        non_striker: JA Morkel
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 13.1:
+        non_striker: JA Morkel
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 13.2:
+        non_striker: HG Kuhn
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 13.3:
+        non_striker: JA Morkel
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 13.4:
+        non_striker: HG Kuhn
+        bowler: MK McGillivray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Morkel
+    - 13.5:
+        non_striker: HG Kuhn
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Morkel
+    - 13.6:
+        non_striker: HG Kuhn
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JA Morkel
+    - 13.7:
+        non_striker: HG Kuhn
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Morkel
+    - 14.1:
+        non_striker: JA Morkel
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 14.2:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 14.3:
+        non_striker: JA Morkel
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Kuhn
+    - 14.4:
+        non_striker: JA Morkel
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 14.5:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 14.6:
+        non_striker: JA Morkel
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 15.1:
+        non_striker: JA Morkel
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 15.2:
+        non_striker: HG Kuhn
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Morkel
+    - 15.3:
+        non_striker: HG Kuhn
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 15.4:
+        non_striker: HG Kuhn
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+        wicket:
+          player_out: JA Morkel
+          fielders:
+          - BC Fortuin
+          kind: caught
+    - 15.5:
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: F Behardien
+        batsman: HG Kuhn
+    - 15.6:
+        non_striker: HG Kuhn
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 16.1:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 16.2:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Behardien
+    - 16.3:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 16.4:
+        non_striker: F Behardien
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 16.5:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Behardien
+    - 16.6:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Behardien
+    - 16.7:
+        non_striker: HG Kuhn
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Behardien
+    - 17.1:
+        non_striker: F Behardien
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 17.2:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 17.3:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 17.4:
+        non_striker: F Behardien
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 17.5:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 17.6:
+        non_striker: HG Kuhn
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Behardien
+    - 18.1:
+        non_striker: F Behardien
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 18.2:
+        non_striker: HG Kuhn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 18.3:
+        non_striker: HG Kuhn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Behardien
+    - 18.4:
+        non_striker: HG Kuhn
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: F Behardien
+    - 18.5:
+        non_striker: HG Kuhn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Behardien
+    - 18.6:
+        non_striker: HG Kuhn
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 18.7:
+        non_striker: F Behardien
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 19.1:
+        non_striker: HG Kuhn
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Behardien
+    - 19.2:
+        non_striker: HG Kuhn
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 19.3:
+        non_striker: F Behardien
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+    - 19.4:
+        non_striker: F Behardien
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Kuhn
+    - 19.5:
+        non_striker: F Behardien
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 19.6:
+        non_striker: F Behardien
+        bowler: MK McGillivray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Kuhn
+- 2nd innings:
+    team: Lions
+    deliveries:
+    - 0.1:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HE van der Dussen
+        batsman: RR Hendricks
+    - 0.2:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HE van der Dussen
+        batsman: RR Hendricks
+    - 0.3:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HE van der Dussen
+        batsman: RR Hendricks
+    - 0.4:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HE van der Dussen
+        batsman: RR Hendricks
+    - 0.5:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: HE van der Dussen
+        batsman: RR Hendricks
+    - 0.6:
+        non_striker: HE van der Dussen
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+        wicket:
+          player_out: RR Hendricks
+          kind: retired not out
+    - 1.1:
+        non_striker: DA Hendricks
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 1.2:
+        non_striker: DA Hendricks
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 1.3:
+        non_striker: DA Hendricks
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 1.4:
+        non_striker: DA Hendricks
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 1.5:
+        non_striker: DA Hendricks
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HE van der Dussen
+    - 1.6:
+        non_striker: HE van der Dussen
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Hendricks
+    - 2.1:
+        non_striker: HE van der Dussen
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+    - 2.2:
+        non_striker: HE van der Dussen
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Hendricks
+        wicket:
+          player_out: DA Hendricks
+          kind: bowled
+    - 2.3:
+        non_striker: HE van der Dussen
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 2.4:
+        non_striker: BC Fortuin
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 2.5:
+        non_striker: HE van der Dussen
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+    - 2.6:
+        non_striker: HE van der Dussen
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+    - 3.1:
+        non_striker: BC Fortuin
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 3.2:
+        non_striker: BC Fortuin
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 3.3:
+        non_striker: BC Fortuin
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 3.4:
+        non_striker: BC Fortuin
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 3.5:
+        non_striker: BC Fortuin
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 3.6:
+        non_striker: HE van der Dussen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 4.1:
+        non_striker: HE van der Dussen
+        bowler: MP Siboto
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BC Fortuin
+    - 4.2:
+        non_striker: BC Fortuin
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 4.3:
+        non_striker: HE van der Dussen
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 4.4:
+        non_striker: BC Fortuin
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 4.5:
+        non_striker: BC Fortuin
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 4.6:
+        non_striker: HE van der Dussen
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 5.1:
+        non_striker: HE van der Dussen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 5.2:
+        non_striker: BC Fortuin
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 5.3:
+        non_striker: BC Fortuin
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 5.4:
+        non_striker: BC Fortuin
+        bowler: S von Berg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HE van der Dussen
+    - 5.5:
+        non_striker: HE van der Dussen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+    - 5.6:
+        non_striker: HE van der Dussen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+    - 6.1:
+        non_striker: BC Fortuin
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 6.2:
+        non_striker: BC Fortuin
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 6.3:
+        non_striker: HE van der Dussen
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+        wicket:
+          player_out: BC Fortuin
+          fielders:
+          - L Ngidi
+          kind: caught
+    - 6.4:
+        non_striker: HE van der Dussen
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 6.5:
+        non_striker: HE van der Dussen
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 6.6:
+        non_striker: PWA Mulder
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.1:
+        non_striker: PWA Mulder
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.2:
+        non_striker: HE van der Dussen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+    - 7.3:
+        non_striker: HE van der Dussen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder
+    - 7.4:
+        non_striker: HE van der Dussen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWA Mulder
+    - 7.5:
+        non_striker: PWA Mulder
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.6:
+        non_striker: HE van der Dussen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWA Mulder
+        wicket:
+          player_out: PWA Mulder
+          fielders:
+          - TG Mokoena
+          kind: caught
+    - 8.1:
+        bowler: H Davids
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ van den Bergh
+        batsman: HE van der Dussen
+    - 8.2:
+        bowler: H Davids
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ van den Bergh
+        batsman: HE van der Dussen
+    - 8.3:
+        bowler: H Davids
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: NJ van den Bergh
+        batsman: HE van der Dussen
+    - 8.4:
+        bowler: H Davids
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NJ van den Bergh
+        batsman: HE van der Dussen
+    - 8.5:
+        bowler: H Davids
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NJ van den Bergh
+        batsman: HE van der Dussen
+    - 8.6:
+        non_striker: HE van der Dussen
+        bowler: H Davids
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ van den Bergh
+    - 9.1:
+        non_striker: NJ van den Bergh
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+        wicket:
+          player_out: HE van der Dussen
+          fielders:
+          - TG Mokoena
+          kind: caught
+    - 9.2:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mosehle
+        batsman: NJ van den Bergh
+    - 9.3:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mosehle
+        batsman: NJ van den Bergh
+    - 9.4:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mosehle
+        batsman: NJ van den Bergh
+    - 9.5:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Mosehle
+        batsman: NJ van den Bergh
+    - 9.6:
+        non_striker: NJ van den Bergh
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 10.1:
+        non_striker: NJ van den Bergh
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 10.2:
+        non_striker: M Mosehle
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ van den Bergh
+    - 10.3:
+        non_striker: NJ van den Bergh
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 10.4:
+        non_striker: M Mosehle
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ van den Bergh
+    - 10.5:
+        non_striker: NJ van den Bergh
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Mosehle
+    - 10.6:
+        non_striker: NJ van den Bergh
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 11.1:
+        non_striker: M Mosehle
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ van den Bergh
+    - 11.2:
+        non_striker: NJ van den Bergh
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+        wicket:
+          player_out: M Mosehle
+          fielders:
+          - MQ Adams
+          kind: caught
+    - 11.3:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MK McGillivray
+        batsman: NJ van den Bergh
+    - 11.4:
+        non_striker: NJ van den Bergh
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK McGillivray
+    - 11.5:
+        non_striker: NJ van den Bergh
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK McGillivray
+    - 11.6:
+        non_striker: NJ van den Bergh
+        bowler: JA Morkel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MK McGillivray
+    - 12.1:
+        non_striker: NJ van den Bergh
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK McGillivray
+    - 12.2:
+        non_striker: NJ van den Bergh
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MK McGillivray
+    - 12.3:
+        non_striker: MK McGillivray
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NJ van den Bergh
+    - 12.4:
+        non_striker: MK McGillivray
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ van den Bergh
+        wicket:
+          player_out: NJ van den Bergh
+          fielders:
+          - F Behardien
+          kind: caught
+    - 12.5:
+        non_striker: GC Viljoen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MK McGillivray
+        wicket:
+          player_out: MK McGillivray
+          fielders:
+          - F Behardien
+          kind: caught
+    - 12.6:
+        non_striker: GC Viljoen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Phangiso
+    - 13.1:
+        non_striker: AM Phangiso
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 13.2:
+        non_striker: AM Phangiso
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 13.3:
+        non_striker: GC Viljoen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Phangiso
+    - 13.4:
+        non_striker: AM Phangiso
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 13.5:
+        non_striker: AM Phangiso
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 13.6:
+        non_striker: AM Phangiso
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 14.1:
+        non_striker: GC Viljoen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Phangiso
+    - 14.2:
+        non_striker: GC Viljoen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Phangiso
+    - 14.3:
+        non_striker: AM Phangiso
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 14.4:
+        non_striker: AM Phangiso
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 14.5:
+        non_striker: GC Viljoen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Phangiso
+    - 14.6:
+        non_striker: AM Phangiso
+        bowler: L Ngidi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GC Viljoen
+    - 15.1:
+        non_striker: AM Phangiso
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 15.2:
+        non_striker: GC Viljoen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Phangiso
+    - 15.3:
+        non_striker: GC Viljoen
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Phangiso
+    - 15.4:
+        non_striker: AM Phangiso
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 15.5:
+        non_striker: AM Phangiso
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GC Viljoen
+    - 15.6:
+        non_striker: AM Phangiso
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GC Viljoen
+    - 16.1:
+        non_striker: GC Viljoen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Phangiso
+    - 16.2:
+        non_striker: GC Viljoen
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Phangiso
+    - 16.3:
+        non_striker: AM Phangiso
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Viljoen
+    - 16.4:
+        non_striker: AM Phangiso
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Viljoen
+    - 16.5:
+        non_striker: AM Phangiso
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Viljoen
+    - 16.6:
+        non_striker: AM Phangiso
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 17.1:
+        non_striker: AM Phangiso
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 17.2:
+        non_striker: AM Phangiso
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 17.3:
+        non_striker: AM Phangiso
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 17.4:
+        non_striker: GC Viljoen
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Phangiso
+    - 17.5:
+        non_striker: GC Viljoen
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Phangiso
+    - 17.6:
+        non_striker: AM Phangiso
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GC Viljoen
+    - 18.1:
+        non_striker: GC Viljoen
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Phangiso
+        wicket:
+          player_out: AM Phangiso
+          kind: bowled
+    - 18.2:
+        non_striker: GC Viljoen
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Leie
+    - 18.3:
+        non_striker: GC Viljoen
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Leie
+    - 18.4:
+        non_striker: E Leie
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 18.5:
+        non_striker: E Leie
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 18.6:
+        non_striker: GC Viljoen
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Leie
+    - 19.1:
+        non_striker: E Leie
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Viljoen
+    - 19.2:
+        non_striker: E Leie
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 19.3:
+        non_striker: E Leie
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Viljoen
+    - 19.4:
+        non_striker: GC Viljoen
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Leie
+    - 19.5:
+        non_striker: GC Viljoen
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Leie
+    - 19.6:
+        non_striker: E Leie
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Viljoen

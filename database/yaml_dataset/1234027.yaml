@@ -1,0 +1,2186 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-02-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: Super Smash
+  dates:
+  - '2021-02-11'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Canterbury
+    by:
+      wickets: 4
+  overs: 20
+  players:
+    Central Districts:
+    - GH Worker
+    - D Cleaver
+    - WA Young
+    - LRPL Taylor
+    - TC Bruce
+    - JA Clarkson
+    - DAJ Bracewell
+    - JFA Field
+    - AY Patel
+    - BM Tickner
+    - JR Lennox
+    Canterbury:
+    - CJ Bowes
+    - KJ McClure
+    - DJ Mitchell
+    - CE McConchie
+    - LJ Carter
+    - CD Fletcher
+    - MJ Henry
+    - HB Shipley
+    - TD Astle
+    - WSA Williams
+    - EJ Nuttall
+  registry:
+    people:
+      A Mehrotra: f336ff13
+      AY Patel: fbd4f01f
+      BF Bowden: efc0a862
+      BM Tickner: 48ad3373
+      CD Fletcher: 4af9f5d4
+      CE McConchie: d285acaf
+      CJ Bowes: 45df0e72
+      D Cleaver: e3a949be
+      DAJ Bracewell: 2e9fdf9b
+      DJ Mitchell: eade4650
+      ED Sanders: 25c6d6af
+      EJ Nuttall: c9bb898a
+      GAV Baxter: cb4b3ab0
+      GH Worker: 51a36d3e
+      HB Shipley: 5426de63
+      JA Clarkson: bed90114
+      JFA Field: '0085a7ce'
+      JM Dempsey: 153c9f33
+      JR Lennox: '07793daf'
+      KJ McClure: 4c895bc1
+      LJ Carter: dfb51f40
+      LRPL Taylor: b61a3e1a
+      MJ Henry: e84ac20c
+      TC Bruce: f92c9151
+      TD Astle: 383dd431
+      WA Young: 8afe73e2
+      WSA Williams: 861eed37
+  teams:
+  - Central Districts
+  - Canterbury
+  toss:
+    decision: bat
+    winner: Central Districts
+  umpires:
+  - BF Bowden
+  - JM Dempsey
+  venue: Eden Park Outer Oval
+innings:
+- 1st innings:
+    team: Central Districts
+    deliveries:
+    - 0.1:
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Cleaver
+        batsman: GH Worker
+    - 0.2:
+        bowler: MJ Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: D Cleaver
+        batsman: GH Worker
+    - 0.3:
+        non_striker: GH Worker
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 0.4:
+        non_striker: GH Worker
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 0.5:
+        non_striker: GH Worker
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 0.6:
+        non_striker: GH Worker
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 1.1:
+        non_striker: GH Worker
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 1.2:
+        non_striker: GH Worker
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 1.3:
+        non_striker: D Cleaver
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.4:
+        non_striker: D Cleaver
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Worker
+    - 1.5:
+        non_striker: D Cleaver
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+        wicket:
+          player_out: GH Worker
+          fielders:
+          - CJ Bowes
+          kind: caught
+    - 1.6:
+        non_striker: D Cleaver
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 2.1:
+        non_striker: D Cleaver
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 2.2:
+        non_striker: WA Young
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Cleaver
+    - 2.3:
+        non_striker: WA Young
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Cleaver
+    - 2.4:
+        non_striker: WA Young
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 2.5:
+        non_striker: WA Young
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 2.6:
+        non_striker: D Cleaver
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 3.1:
+        non_striker: WA Young
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 3.2:
+        non_striker: WA Young
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 3.3:
+        non_striker: WA Young
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 3.4:
+        non_striker: WA Young
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 3.5:
+        non_striker: WA Young
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 3.6:
+        non_striker: WA Young
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 4.1:
+        non_striker: D Cleaver
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 4.2:
+        non_striker: D Cleaver
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 4.3:
+        non_striker: WA Young
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 4.4:
+        non_striker: D Cleaver
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 4.5:
+        non_striker: WA Young
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 4.6:
+        non_striker: WA Young
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 5.1:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+        wicket:
+          player_out: D Cleaver
+          fielders:
+          - KJ McClure
+          kind: caught
+    - 5.2:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+    - 5.3:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LRPL Taylor
+        wicket:
+          player_out: LRPL Taylor
+          fielders:
+          - CD Fletcher
+          kind: caught
+    - 5.4:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 5.5:
+        non_striker: TC Bruce
+        bowler: DJ Mitchell
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: WA Young
+    - 5.6:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce
+    - 5.7:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 6.1:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 6.2:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 6.3:
+        non_striker: TC Bruce
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 6.4:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 6.5:
+        non_striker: TC Bruce
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 6.6:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 7.1:
+        non_striker: WA Young
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 7.2:
+        non_striker: WA Young
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 7.3:
+        non_striker: TC Bruce
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 7.4:
+        non_striker: WA Young
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 7.5:
+        non_striker: WA Young
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 7.6:
+        non_striker: TC Bruce
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 8.1:
+        non_striker: TC Bruce
+        bowler: TD Astle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Young
+    - 8.2:
+        non_striker: TC Bruce
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 8.3:
+        non_striker: TC Bruce
+        bowler: TD Astle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Young
+    - 8.4:
+        non_striker: TC Bruce
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 8.5:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 8.6:
+        non_striker: TC Bruce
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 8.7:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 8.8:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 9.1:
+        non_striker: WA Young
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 9.2:
+        non_striker: TC Bruce
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 9.3:
+        non_striker: TC Bruce
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Young
+    - 9.4:
+        non_striker: TC Bruce
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 9.5:
+        non_striker: TC Bruce
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 9.6:
+        non_striker: WA Young
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 10.1:
+        non_striker: WA Young
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+        wicket:
+          player_out: TC Bruce
+          fielders:
+          - WSA Williams
+          kind: caught
+    - 10.2:
+        non_striker: WA Young
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 10.3:
+        non_striker: WA Young
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 10.4:
+        non_striker: JA Clarkson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 10.5:
+        non_striker: WA Young
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 10.6:
+        non_striker: JA Clarkson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 11.1:
+        non_striker: JA Clarkson
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 11.2:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 11.3:
+        non_striker: JA Clarkson
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 11.4:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 11.5:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 11.6:
+        non_striker: JA Clarkson
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Young
+    - 12.1:
+        non_striker: WA Young
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 12.2:
+        non_striker: WA Young
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 12.3:
+        non_striker: WA Young
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 12.4:
+        non_striker: JA Clarkson
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 12.5:
+        non_striker: JA Clarkson
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 12.6:
+        non_striker: WA Young
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 13.1:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+        wicket:
+          player_out: JA Clarkson
+          fielders:
+          - HB Shipley
+          kind: caught
+    - 13.2:
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DAJ Bracewell
+        batsman: WA Young
+    - 13.3:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+    - 13.4:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 13.5:
+        non_striker: DAJ Bracewell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 13.6:
+        non_striker: WA Young
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 14.1:
+        non_striker: WA Young
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 14.2:
+        non_striker: DAJ Bracewell
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 14.3:
+        non_striker: WA Young
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+    - 14.4:
+        non_striker: WA Young
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DAJ Bracewell
+    - 14.5:
+        non_striker: WA Young
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 14.6:
+        non_striker: DAJ Bracewell
+        bowler: WSA Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Young
+    - 14.7:
+        non_striker: DAJ Bracewell
+        bowler: WSA Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Young
+    - 14.8:
+        non_striker: DAJ Bracewell
+        bowler: WSA Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WA Young
+    - 14.9:
+        non_striker: DAJ Bracewell
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 15.1:
+        non_striker: DAJ Bracewell
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 15.2:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DAJ Bracewell
+    - 15.3:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 15.4:
+        non_striker: DAJ Bracewell
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 15.5:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DAJ Bracewell
+    - 15.6:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+    - 15.7:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DAJ Bracewell
+    - 15.8:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 15.9:
+        non_striker: DAJ Bracewell
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WA Young
+    - 16.1:
+        non_striker: WA Young
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DAJ Bracewell
+    - 16.2:
+        non_striker: WA Young
+        bowler: MJ Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DAJ Bracewell
+    - 16.3:
+        non_striker: WA Young
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DAJ Bracewell
+    - 16.4:
+        non_striker: DAJ Bracewell
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 16.5:
+        non_striker: DAJ Bracewell
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 16.6:
+        non_striker: DAJ Bracewell
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 16.7:
+        non_striker: WA Young
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAJ Bracewell
+        wicket:
+          player_out: DAJ Bracewell
+          fielders:
+          - WSA Williams
+          kind: caught
+    - 17.1:
+        non_striker: WA Young
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JFA Field
+    - 17.2:
+        non_striker: JFA Field
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 17.3:
+        non_striker: JFA Field
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 17.4:
+        non_striker: WA Young
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JFA Field
+    - 17.5:
+        non_striker: JFA Field
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 17.6:
+        non_striker: WA Young
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JFA Field
+    - 18.1:
+        non_striker: JFA Field
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 18.2:
+        non_striker: JFA Field
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 18.3:
+        non_striker: JFA Field
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 18.4:
+        non_striker: WA Young
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JFA Field
+    - 18.5:
+        non_striker: JFA Field
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WA Young
+    - 18.6:
+        non_striker: JFA Field
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 19.1:
+        non_striker: JFA Field
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 19.2:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JFA Field
+    - 19.3:
+        non_striker: JFA Field
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+    - 19.4:
+        non_striker: WA Young
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JFA Field
+    - 19.5:
+        non_striker: JFA Field
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WA Young
+    - 19.6:
+        non_striker: JFA Field
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WA Young
+        wicket:
+          player_out: WA Young
+          kind: run out
+- 2nd innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KJ McClure
+        batsman: CJ Bowes
+    - 0.2:
+        non_striker: CJ Bowes
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ McClure
+    - 0.3:
+        non_striker: KJ McClure
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 0.4:
+        non_striker: KJ McClure
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+        wicket:
+          player_out: CJ Bowes
+          kind: run out
+    - 0.5:
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJ Mitchell
+        batsman: KJ McClure
+    - 0.6:
+        non_striker: DJ Mitchell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ McClure
+    - 1.1:
+        non_striker: KJ McClure
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 1.2:
+        non_striker: KJ McClure
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 1.3:
+        non_striker: KJ McClure
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 1.4:
+        non_striker: DJ Mitchell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ McClure
+        wicket:
+          player_out: KJ McClure
+          fielders:
+          - JFA Field
+          kind: caught
+    - 1.5:
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CE McConchie
+        batsman: DJ Mitchell
+    - 1.6:
+        non_striker: DJ Mitchell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 2.1:
+        non_striker: CE McConchie
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 2.2:
+        non_striker: CE McConchie
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 2.3:
+        non_striker: CE McConchie
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 2.4:
+        non_striker: DJ Mitchell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 2.5:
+        non_striker: DJ Mitchell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 2.6:
+        non_striker: CE McConchie
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 3.1:
+        non_striker: CE McConchie
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 3.2:
+        non_striker: DJ Mitchell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 3.3:
+        non_striker: CE McConchie
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 3.4:
+        non_striker: CE McConchie
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 3.5:
+        non_striker: CE McConchie
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 3.6:
+        non_striker: CE McConchie
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 4.1:
+        non_striker: CE McConchie
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 4.2:
+        non_striker: CE McConchie
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 4.3:
+        non_striker: DJ Mitchell
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 4.4:
+        non_striker: CE McConchie
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 4.5:
+        non_striker: DJ Mitchell
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 4.6:
+        non_striker: DJ Mitchell
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+        wicket:
+          player_out: CE McConchie
+          fielders:
+          - TC Bruce
+          kind: caught
+    - 5.1:
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LJ Carter
+        batsman: DJ Mitchell
+    - 5.2:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Carter
+        wicket:
+          player_out: LJ Carter
+          fielders:
+          - BM Tickner
+          kind: caught
+    - 5.3:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 5.4:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 5.5:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 5.6:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Fletcher
+    - 6.1:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 6.2:
+        non_striker: DJ Mitchell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 6.3:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 6.4:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 6.5:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 6.6:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.1:
+        non_striker: CD Fletcher
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.2:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 7.3:
+        non_striker: CD Fletcher
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.4:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 7.5:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 7.6:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 8.1:
+        non_striker: DJ Mitchell
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 8.2:
+        non_striker: DJ Mitchell
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 8.3:
+        non_striker: CD Fletcher
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 8.4:
+        non_striker: CD Fletcher
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 8.5:
+        non_striker: CD Fletcher
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 8.6:
+        non_striker: DJ Mitchell
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 9.1:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.2:
+        non_striker: DJ Mitchell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 9.3:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Mitchell
+    - 9.4:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.5:
+        non_striker: DJ Mitchell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 9.6:
+        non_striker: DJ Mitchell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 9.7:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.1:
+        non_striker: CD Fletcher
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 10.2:
+        non_striker: DJ Mitchell
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 10.3:
+        non_striker: CD Fletcher
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 10.4:
+        non_striker: CD Fletcher
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 10.5:
+        non_striker: CD Fletcher
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 10.6:
+        non_striker: CD Fletcher
+        bowler: JA Clarkson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 11.1:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 11.2:
+        non_striker: CD Fletcher
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.3:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Fletcher
+    - 11.4:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 11.5:
+        non_striker: CD Fletcher
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.6:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 12.1:
+        non_striker: CD Fletcher
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 12.2:
+        non_striker: CD Fletcher
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 12.3:
+        non_striker: DJ Mitchell
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 12.4:
+        non_striker: DJ Mitchell
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 12.5:
+        non_striker: CD Fletcher
+        bowler: JFA Field
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Mitchell
+    - 12.6:
+        non_striker: DJ Mitchell
+        bowler: JFA Field
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 13.1:
+        non_striker: DJ Mitchell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Fletcher
+    - 13.2:
+        non_striker: DJ Mitchell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 13.3:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 13.4:
+        non_striker: DJ Mitchell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 13.5:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 13.6:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 14.1:
+        non_striker: CD Fletcher
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 14.2:
+        non_striker: DJ Mitchell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 14.3:
+        non_striker: CD Fletcher
+        bowler: BM Tickner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Mitchell
+    - 14.4:
+        non_striker: DJ Mitchell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 14.5:
+        non_striker: CD Fletcher
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 14.6:
+        non_striker: CD Fletcher
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 15.1:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 15.2:
+        non_striker: CD Fletcher
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 15.3:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CD Fletcher
+    - 15.4:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 15.5:
+        non_striker: DJ Mitchell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 15.6:
+        non_striker: CD Fletcher
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 16.1:
+        non_striker: CD Fletcher
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 16.2:
+        non_striker: DJ Mitchell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CD Fletcher
+    - 16.3:
+        non_striker: DJ Mitchell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Fletcher
+    - 16.4:
+        non_striker: DJ Mitchell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CD Fletcher
+    - 16.5:
+        non_striker: DJ Mitchell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 16.6:
+        non_striker: CD Fletcher
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 16.7:
+        non_striker: DJ Mitchell
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CD Fletcher
+    - 17.1:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 17.2:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 17.3:
+        non_striker: DJ Mitchell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 17.4:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 17.5:
+        non_striker: DJ Mitchell
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 17.6:
+        non_striker: CD Fletcher
+        bowler: JR Lennox
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 18.1:
+        non_striker: CD Fletcher
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 18.2:
+        non_striker: CD Fletcher
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 18.3:
+        non_striker: DJ Mitchell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CD Fletcher
+    - 18.4:
+        non_striker: DJ Mitchell
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 18.5:
+        non_striker: CD Fletcher
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          fielders:
+          - LRPL Taylor
+          kind: caught
+    - 18.6:
+        non_striker: MJ Henry
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CD Fletcher
+    - 19.1:
+        non_striker: CD Fletcher
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+    - 19.2:
+        non_striker: MJ Henry
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 19.3:
+        non_striker: CD Fletcher
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+        wicket:
+          player_out: CD Fletcher
+          kind: run out
+    - 19.4:
+        non_striker: MJ Henry
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 19.5:
+        non_striker: HB Shipley
+        bowler: DAJ Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry

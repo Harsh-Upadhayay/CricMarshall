@@ -1,0 +1,2143 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-02-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hamilton
+  competition: Super Smash
+  dates:
+  - '2018-12-22'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Northern Districts
+    by:
+      runs: 45
+  overs: 20
+  players:
+    Northern Districts:
+    - AP Devcich
+    - TL Seifert
+    - DG Brownlie
+    - BR Hampton
+    - DJ Mitchell
+    - MJ Santner
+    - DR Flynn
+    - PD Bocock
+    - SC Kuggeleijn
+    - IS Sodhi
+    - BG Randell
+    Wellington:
+    - MG Bracewell
+    - DP Conway
+    - AJ Hose
+    - JDS Neesham
+    - TA Blundell
+    - MA Pollard
+    - MJ Nofal
+    - LJ Woodcock
+    - OR Newton
+    - JS Patel
+    - HK Bennett
+  registry:
+    people:
+      A Mehrotra: f336ff13
+      AJ Hose: 104e88a4
+      AP Devcich: ed90abe4
+      BF Bowden: efc0a862
+      BG Randell: dbeb6733
+      BR Hampton: 93f25f4f
+      DG Brownlie: 22bd731a
+      DJ Mitchell: eade4650
+      DP Conway: df5a6881
+      DR Flynn: 9d710afe
+      Damian Morrow: 0fb1f503
+      HK Bennett: '94238673'
+      IS Sodhi: 641ac5ff
+      JDS Neesham: 9219eff0
+      JS Patel: f5821615
+      LJ Woodcock: 9ba59a3c
+      MA Pollard: d3b84c59
+      MG Bracewell: e38bce7a
+      MJ Nofal: ac762575
+      MJ Santner: e4a0deae
+      OR Newton: 4e520f6c
+      PD Bocock: 329b08c2
+      RA Dykes: e5c6f48b
+      SC Kuggeleijn: fef92afc
+      TA Blundell: 21e5f325
+      TL Seifert: 4663bd23
+      WR Knights: 63cbf8d8
+  teams:
+  - Northern Districts
+  - Wellington
+  toss:
+    decision: field
+    winner: Wellington
+  umpires:
+  - BF Bowden
+  - WR Knights
+  venue: Seddon Park
+innings:
+- 1st innings:
+    team: Northern Districts
+    deliveries:
+    - 0.1:
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TL Seifert
+        batsman: AP Devcich
+    - 0.2:
+        non_striker: TL Seifert
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Devcich
+        wicket:
+          player_out: AP Devcich
+          fielders:
+          - AJ Hose
+          kind: caught
+    - 0.3:
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Brownlie
+        batsman: TL Seifert
+    - 0.4:
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DG Brownlie
+        batsman: TL Seifert
+    - 0.5:
+        non_striker: TL Seifert
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 0.6:
+        non_striker: DG Brownlie
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 1.1:
+        non_striker: TL Seifert
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 1.2:
+        non_striker: DG Brownlie
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.3:
+        non_striker: DG Brownlie
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 1.4:
+        non_striker: DG Brownlie
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 1.5:
+        non_striker: DG Brownlie
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 1.6:
+        non_striker: TL Seifert
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Brownlie
+    - 2.1:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.2:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 2.3:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 2.4:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 2.5:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 2.6:
+        non_striker: TL Seifert
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DG Brownlie
+    - 3.1:
+        non_striker: DG Brownlie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.2:
+        non_striker: DG Brownlie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.3:
+        non_striker: DG Brownlie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 3.4:
+        non_striker: DG Brownlie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 3.5:
+        non_striker: DG Brownlie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 3.6:
+        non_striker: DG Brownlie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 4.1:
+        non_striker: TL Seifert
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Brownlie
+    - 4.2:
+        non_striker: TL Seifert
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Brownlie
+    - 4.3:
+        non_striker: TL Seifert
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Brownlie
+    - 4.4:
+        non_striker: TL Seifert
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Brownlie
+    - 4.5:
+        non_striker: TL Seifert
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 4.6:
+        non_striker: DG Brownlie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Seifert
+    - 5.1:
+        non_striker: TL Seifert
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Brownlie
+    - 5.2:
+        non_striker: TL Seifert
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 5.3:
+        non_striker: DG Brownlie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 5.4:
+        non_striker: DG Brownlie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 5.5:
+        non_striker: DG Brownlie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+    - 5.6:
+        non_striker: DG Brownlie
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TL Seifert
+    - 5.7:
+        non_striker: DG Brownlie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 6.1:
+        non_striker: TL Seifert
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DG Brownlie
+    - 6.2:
+        non_striker: TL Seifert
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 6.3:
+        non_striker: DG Brownlie
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 6.4:
+        non_striker: DG Brownlie
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Seifert
+    - 6.5:
+        non_striker: DG Brownlie
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TL Seifert
+    - 6.6:
+        non_striker: DG Brownlie
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Seifert
+    - 7.1:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Seifert
+        wicket:
+          player_out: TL Seifert
+          kind: caught and bowled
+    - 7.2:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 7.3:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 7.4:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 7.5:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 7.6:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 8.1:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 8.2:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BR Hampton
+    - 8.3:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: BR Hampton
+    - 8.4:
+        non_striker: BR Hampton
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 8.5:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Hampton
+    - 8.6:
+        non_striker: BR Hampton
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 8.7:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+    - 9.1:
+        non_striker: BR Hampton
+        bowler: JS Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DG Brownlie
+    - 9.2:
+        non_striker: BR Hampton
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 9.3:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Hampton
+        wicket:
+          player_out: BR Hampton
+          fielders:
+          - MG Bracewell
+          kind: caught
+    - 9.4:
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DJ Mitchell
+        batsman: DG Brownlie
+    - 9.5:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.6:
+        non_striker: DJ Mitchell
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Brownlie
+    - 9.7:
+        non_striker: DJ Mitchell
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 10.1:
+        non_striker: DJ Mitchell
+        bowler: MJ Nofal
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: DG Brownlie
+    - 10.2:
+        non_striker: DJ Mitchell
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DG Brownlie
+    - 10.3:
+        non_striker: DJ Mitchell
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Brownlie
+    - 10.4:
+        non_striker: DJ Mitchell
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Brownlie
+    - 10.5:
+        non_striker: DJ Mitchell
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DG Brownlie
+    - 10.6:
+        non_striker: DJ Mitchell
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DG Brownlie
+    - 11.1:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 11.2:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 11.3:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 11.4:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 11.5:
+        non_striker: DJ Mitchell
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 11.6:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 12.1:
+        non_striker: DG Brownlie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 12.2:
+        non_striker: DJ Mitchell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 12.3:
+        non_striker: DG Brownlie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 12.4:
+        non_striker: DJ Mitchell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 12.5:
+        non_striker: DG Brownlie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 12.6:
+        non_striker: DJ Mitchell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Brownlie
+    - 13.1:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 13.2:
+        non_striker: DJ Mitchell
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Brownlie
+    - 13.3:
+        non_striker: DJ Mitchell
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 13.4:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 13.5:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 13.6:
+        non_striker: DJ Mitchell
+        bowler: OR Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DG Brownlie
+    - 13.7:
+        non_striker: DJ Mitchell
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Brownlie
+    - 14.1:
+        non_striker: DG Brownlie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 14.2:
+        non_striker: DJ Mitchell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Brownlie
+    - 14.3:
+        non_striker: DJ Mitchell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Brownlie
+    - 14.4:
+        non_striker: DJ Mitchell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DG Brownlie
+    - 14.5:
+        non_striker: DG Brownlie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 14.6:
+        non_striker: DJ Mitchell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 15.1:
+        non_striker: DJ Mitchell
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Brownlie
+    - 15.2:
+        non_striker: DJ Mitchell
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 15.3:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 15.4:
+        non_striker: DG Brownlie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 15.5:
+        non_striker: DJ Mitchell
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DG Brownlie
+    - 15.6:
+        non_striker: DJ Mitchell
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DG Brownlie
+    - 16.1:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          fielders:
+          - AJ Hose
+          kind: caught
+    - 16.2:
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MJ Santner
+        batsman: DG Brownlie
+    - 16.3:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 16.4:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+    - 16.5:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 16.6:
+        non_striker: DG Brownlie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 17.1:
+        non_striker: DG Brownlie
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Santner
+    - 17.2:
+        non_striker: MJ Santner
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Brownlie
+    - 17.3:
+        non_striker: DG Brownlie
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 17.4:
+        non_striker: MJ Santner
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Brownlie
+    - 17.5:
+        non_striker: MJ Santner
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DG Brownlie
+    - 17.6:
+        non_striker: MJ Santner
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Brownlie
+    - 18.1:
+        non_striker: DG Brownlie
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Santner
+    - 18.2:
+        non_striker: MJ Santner
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DG Brownlie
+        wicket:
+          player_out: DG Brownlie
+          kind: bowled
+    - 18.3:
+        non_striker: MJ Santner
+        bowler: JDS Neesham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Flynn
+    - 18.4:
+        non_striker: MJ Santner
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Flynn
+    - 18.5:
+        non_striker: DR Flynn
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 18.6:
+        non_striker: DR Flynn
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Santner
+    - 18.7:
+        non_striker: DR Flynn
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Santner
+    - 19.1:
+        non_striker: MJ Santner
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Flynn
+        wicket:
+          player_out: DR Flynn
+          fielders:
+          - MJ Nofal
+          kind: caught
+    - 19.2:
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: PD Bocock
+        batsman: MJ Santner
+    - 19.3:
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PD Bocock
+        batsman: MJ Santner
+    - 19.4:
+        non_striker: MJ Santner
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Bocock
+    - 19.5:
+        non_striker: MJ Santner
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Bocock
+    - 19.6:
+        non_striker: PD Bocock
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Santner
+- 2nd innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DP Conway
+        batsman: MG Bracewell
+    - 0.2:
+        non_striker: MG Bracewell
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 0.3:
+        non_striker: MG Bracewell
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 0.4:
+        non_striker: MG Bracewell
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 0.5:
+        non_striker: MG Bracewell
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 0.6:
+        non_striker: MG Bracewell
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.1:
+        non_striker: DP Conway
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 1.2:
+        non_striker: MG Bracewell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 1.3:
+        non_striker: MG Bracewell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 1.4:
+        non_striker: MG Bracewell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.5:
+        non_striker: MG Bracewell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 1.6:
+        non_striker: MG Bracewell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 2.1:
+        non_striker: DP Conway
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 2.2:
+        non_striker: DP Conway
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 2.3:
+        non_striker: DP Conway
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+        wicket:
+          player_out: MG Bracewell
+          fielders:
+          - BR Hampton
+          kind: caught
+    - 2.4:
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AJ Hose
+        batsman: DP Conway
+    - 2.5:
+        non_striker: DP Conway
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 2.6:
+        non_striker: DP Conway
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 3.1:
+        non_striker: DP Conway
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 3.2:
+        non_striker: AJ Hose
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 3.3:
+        non_striker: DP Conway
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 3.4:
+        non_striker: DP Conway
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 3.5:
+        non_striker: AJ Hose
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 3.6:
+        non_striker: AJ Hose
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 4.1:
+        non_striker: DP Conway
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+    - 4.2:
+        non_striker: DP Conway
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Hose
+    - 4.3:
+        non_striker: DP Conway
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 4.4:
+        non_striker: AJ Hose
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 4.5:
+        non_striker: DP Conway
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 4.6:
+        non_striker: AJ Hose
+        bowler: BG Randell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 5.1:
+        non_striker: AJ Hose
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 5.2:
+        non_striker: AJ Hose
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 5.3:
+        non_striker: AJ Hose
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 5.4:
+        non_striker: AJ Hose
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 5.5:
+        non_striker: DP Conway
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 5.6:
+        non_striker: AJ Hose
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 6.1:
+        non_striker: DP Conway
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hose
+    - 6.2:
+        non_striker: DP Conway
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hose
+    - 6.3:
+        non_striker: DP Conway
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 6.4:
+        non_striker: AJ Hose
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 6.5:
+        non_striker: AJ Hose
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          kind: bowled
+    - 6.6:
+        non_striker: AJ Hose
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 7.1:
+        non_striker: JDS Neesham
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 7.2:
+        non_striker: AJ Hose
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 7.3:
+        non_striker: AJ Hose
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 7.4:
+        non_striker: AJ Hose
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 7.5:
+        non_striker: AJ Hose
+        bowler: MJ Santner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JDS Neesham
+    - 7.6:
+        non_striker: AJ Hose
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 7.7:
+        non_striker: JDS Neesham
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hose
+    - 8.1:
+        non_striker: AJ Hose
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 8.2:
+        non_striker: AJ Hose
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 8.3:
+        non_striker: AJ Hose
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 8.4:
+        non_striker: JDS Neesham
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 8.5:
+        non_striker: AJ Hose
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 8.6:
+        non_striker: AJ Hose
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 9.1:
+        non_striker: JDS Neesham
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hose
+    - 9.2:
+        non_striker: JDS Neesham
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Hose
+    - 9.3:
+        non_striker: JDS Neesham
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Hose
+    - 9.4:
+        non_striker: JDS Neesham
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Hose
+    - 9.5:
+        non_striker: JDS Neesham
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Hose
+    - 9.6:
+        non_striker: AJ Hose
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JDS Neesham
+    - 9.7:
+        non_striker: AJ Hose
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 9.8:
+        non_striker: JDS Neesham
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Hose
+    - 9.9:
+        non_striker: JDS Neesham
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hose
+        wicket:
+          player_out: AJ Hose
+          fielders:
+          - TL Seifert
+          kind: caught
+    - 10.1:
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TA Blundell
+        batsman: JDS Neesham
+    - 10.2:
+        non_striker: JDS Neesham
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 10.3:
+        non_striker: TA Blundell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+        wicket:
+          player_out: JDS Neesham
+          fielders:
+          - DG Brownlie
+          kind: caught
+    - 10.4:
+        non_striker: TA Blundell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 10.5:
+        non_striker: TA Blundell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 10.6:
+        non_striker: MA Pollard
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 11.1:
+        non_striker: MA Pollard
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 11.2:
+        non_striker: TA Blundell
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 11.3:
+        non_striker: TA Blundell
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 11.4:
+        non_striker: MA Pollard
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 11.5:
+        non_striker: TA Blundell
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 11.6:
+        non_striker: MA Pollard
+        bowler: MJ Santner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 12.1:
+        non_striker: MA Pollard
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 12.2:
+        non_striker: TA Blundell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 12.3:
+        non_striker: MA Pollard
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 12.4:
+        non_striker: TA Blundell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Pollard
+    - 12.5:
+        non_striker: TA Blundell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Pollard
+    - 12.6:
+        non_striker: TA Blundell
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Pollard
+    - 13.1:
+        non_striker: MA Pollard
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 13.2:
+        non_striker: TA Blundell
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 13.3:
+        non_striker: MA Pollard
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 13.4:
+        non_striker: TA Blundell
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 13.5:
+        non_striker: MA Pollard
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 13.6:
+        non_striker: TA Blundell
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 14.1:
+        non_striker: TA Blundell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Pollard
+    - 14.2:
+        non_striker: TA Blundell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 14.3:
+        non_striker: MA Pollard
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 14.4:
+        non_striker: MA Pollard
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: TA Blundell
+    - 14.5:
+        non_striker: MA Pollard
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 14.6:
+        non_striker: TA Blundell
+        bowler: SC Kuggeleijn
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MA Pollard
+    - 14.7:
+        non_striker: MA Pollard
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: DJ Mitchell
+            out: SC Kuggeleijn
+            reason: excluded - high full pitched balls
+            role: bowler
+        batsman: TA Blundell
+    - 14.8:
+        non_striker: TA Blundell
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 15.1:
+        non_striker: TA Blundell
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Pollard
+    - 15.2:
+        non_striker: TA Blundell
+        bowler: AP Devcich
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Pollard
+    - 15.3:
+        non_striker: TA Blundell
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 15.4:
+        non_striker: TA Blundell
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+        wicket:
+          player_out: MA Pollard
+          fielders:
+          - MJ Santner
+          kind: caught
+    - 15.5:
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MJ Nofal
+        batsman: TA Blundell
+    - 15.6:
+        non_striker: TA Blundell
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 15.7:
+        non_striker: MJ Nofal
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 16.1:
+        non_striker: MJ Nofal
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+        wicket:
+          player_out: TA Blundell
+          fielders:
+          - BR Hampton
+          kind: caught
+    - 16.2:
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LJ Woodcock
+        batsman: MJ Nofal
+    - 16.3:
+        non_striker: MJ Nofal
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Woodcock
+    - 16.4:
+        non_striker: LJ Woodcock
+        bowler: DJ Mitchell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Nofal
+    - 16.5:
+        non_striker: LJ Woodcock
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 16.6:
+        non_striker: LJ Woodcock
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Nofal
+    - 16.7:
+        non_striker: LJ Woodcock
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 17.1:
+        non_striker: MJ Nofal
+        bowler: AP Devcich
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LJ Woodcock
+    - 17.2:
+        non_striker: MJ Nofal
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Woodcock
+        wicket:
+          player_out: LJ Woodcock
+          kind: bowled
+    - 17.3:
+        non_striker: MJ Nofal
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OR Newton
+        wicket:
+          player_out: OR Newton
+          fielders:
+          - DJ Mitchell
+          kind: caught
+    - 17.4:
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JS Patel
+        batsman: MJ Nofal
+    - 17.5:
+        non_striker: MJ Nofal
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Patel
+        wicket:
+          player_out: JS Patel
+          fielders:
+          - DG Brownlie
+          kind: caught
+    - 17.6:
+        non_striker: MJ Nofal
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Bennett
+    - 17.7:
+        non_striker: HK Bennett
+        bowler: AP Devcich
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 18.1:
+        non_striker: HK Bennett
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+        wicket:
+          player_out: MJ Nofal
+          fielders:
+          - MJ Santner
+          kind: caught

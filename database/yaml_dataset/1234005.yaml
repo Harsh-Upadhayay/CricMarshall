@@ -1,0 +1,603 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-01-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: Super Smash
+  dates:
+  - '2021-01-03'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Canterbury
+    by:
+      wickets: 10
+  overs: 20
+  players:
+    Auckland:
+    - GD Phillips
+    - MS Chapman
+    - RR O'Donnell
+    - BJ Horne
+    - SM Solia
+    - WT O'Donnell
+    - WER Somerville
+    - RM ter Braak
+    - L Delport
+    - BG Lister
+    - DK Ferns
+    Canterbury:
+    - KJ McClure
+    - CJ Bowes
+    - CE McConchie
+    - LJ Carter
+    - CD Fletcher
+    - MW Hay
+    - SB Davey
+    - TD Astle
+    - WSA Williams
+    - EJ Nuttall
+    - FW Sheat
+  registry:
+    people:
+      A Mehrotra: f336ff13
+      BG Lister: 79f5bc26
+      BJ Horne: 5d99a16a
+      CD Fletcher: 4af9f5d4
+      CE McConchie: d285acaf
+      CJ Bowes: 45df0e72
+      DK Ferns: f28c7456
+      EJ Nuttall: c9bb898a
+      FW Sheat: 56d471f2
+      GD Phillips: 9a46c4e5
+      JAK Bromley: ccf7baaf
+      KJ McClure: 4c895bc1
+      L Delport: 2c1438ef
+      LJ Carter: dfb51f40
+      MS Chapman: 7fa12533
+      MW Hay: a11be10c
+      RE Hayward: 57689d0b
+      RM ter Braak: ac3e5a31
+      RR O'Donnell: 2742086d
+      SB Davey: f45cd5c8
+      SM Solia: fd9f43bb
+      TD Astle: 383dd431
+      WER Somerville: 74a1c1e3
+      WSA Williams: 861eed37
+      WT O'Donnell: 730b57de
+  teams:
+  - Auckland
+  - Canterbury
+  toss:
+    decision: field
+    winner: Canterbury
+  umpires:
+  - A Mehrotra
+  - JAK Bromley
+  venue: Eden Park Outer Oval
+innings:
+- 1st innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MS Chapman
+        batsman: GD Phillips
+    - 0.2:
+        non_striker: GD Phillips
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 0.3:
+        non_striker: GD Phillips
+        bowler: EJ Nuttall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 0.4:
+        non_striker: GD Phillips
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 0.5:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - LJ Carter
+          kind: caught
+    - 0.6:
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RR O'Donnell
+        batsman: MS Chapman
+    - 0.7:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 1.1:
+        non_striker: MS Chapman
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 1.2:
+        non_striker: MS Chapman
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 1.3:
+        non_striker: RR O'Donnell
+        bowler: SB Davey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 1.4:
+        non_striker: RR O'Donnell
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 1.5:
+        non_striker: RR O'Donnell
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 1.6:
+        non_striker: MS Chapman
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+        wicket:
+          player_out: RR O'Donnell
+          fielders:
+          - WSA Williams
+          kind: caught
+    - 1.7:
+        non_striker: BJ Horne
+        bowler: SB Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 2.1:
+        non_striker: BJ Horne
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 2.2:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Horne
+    - 2.3:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 2.4:
+        non_striker: BJ Horne
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 2.5:
+        non_striker: BJ Horne
+        bowler: TD Astle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 2.6:
+        non_striker: BJ Horne
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 2.7:
+        non_striker: BJ Horne
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 3.1:
+        non_striker: MS Chapman
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 3.2:
+        non_striker: BJ Horne
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 3.3:
+        non_striker: BJ Horne
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 3.4:
+        non_striker: BJ Horne
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - LJ Carter
+          kind: caught
+    - 3.5:
+        non_striker: BJ Horne
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 3.6:
+        non_striker: BJ Horne
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 4.1:
+        non_striker: SM Solia
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ Horne
+    - 4.2:
+        non_striker: SM Solia
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Horne
+    - 4.3:
+        non_striker: SM Solia
+        bowler: FW Sheat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ Horne
+    - 4.4:
+        non_striker: BJ Horne
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 4.5:
+        non_striker: SM Solia
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 4.6:
+        non_striker: BJ Horne
+        bowler: FW Sheat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          kind: bowled
+- 2nd innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CJ Bowes
+        batsman: KJ McClure
+    - 0.2:
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: CJ Bowes
+        batsman: KJ McClure
+    - 0.3:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CJ Bowes
+        batsman: KJ McClure
+    - 0.4:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CJ Bowes
+        batsman: KJ McClure
+    - 0.5:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CJ Bowes
+        batsman: KJ McClure
+    - 0.6:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CJ Bowes
+        batsman: KJ McClure
+    - 0.7:
+        non_striker: KJ McClure
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 1.1:
+        non_striker: CJ Bowes
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ McClure
+    - 1.2:
+        non_striker: CJ Bowes
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ McClure
+    - 1.3:
+        non_striker: KJ McClure
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 1.4:
+        non_striker: KJ McClure
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 1.5:
+        non_striker: KJ McClure
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 1.6:
+        non_striker: KJ McClure
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Bowes
+    - 2.1:
+        non_striker: CJ Bowes
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ McClure
+    - 2.2:
+        non_striker: CJ Bowes
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ McClure
+    - 2.3:
+        non_striker: KJ McClure
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 2.4:
+        non_striker: CJ Bowes
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ McClure
+    - 2.5:
+        non_striker: CJ Bowes
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ McClure
+    - 2.6:
+        non_striker: KJ McClure
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 3.1:
+        non_striker: KJ McClure
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Bowes
+    - 3.2:
+        non_striker: KJ McClure
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 3.3:
+        non_striker: CJ Bowes
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ McClure
+    - 3.4:
+        non_striker: KJ McClure
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Bowes
+    - 3.5:
+        non_striker: KJ McClure
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 3.6:
+        non_striker: KJ McClure
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 4.1:
+        non_striker: KJ McClure
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Bowes
+    - 4.2:
+        non_striker: KJ McClure
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 4.3:
+        non_striker: CJ Bowes
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ McClure

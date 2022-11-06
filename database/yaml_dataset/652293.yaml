@@ -1,0 +1,694 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-04-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: East London
+  competition: Ram Slam T20 Challenge
+  dates:
+  - '2014-01-24'
+  gender: male
+  match_type: T20
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Warriors:
+    - JT Smuts
+    - AG Prince
+    - CA Ingram
+    - DJ Jacobs
+    - C Jonker
+    - RT Bailey
+    - WD Parnell
+    - SR Harmer
+    - ACR Birch
+    - J Theron
+    - L Mbane
+    Titans:
+    - H Davids
+    - HG Kuhn
+    - F du Plessis
+    - F Behardien
+    - JA Morkel
+    - D Wiese
+    - M Mosehle
+    - RE van der Merwe
+    - M Morkel
+    - Saeed Ajmal
+    - NE Mbhalati
+  registry:
+    people:
+      ACR Birch: 9df3a2f4
+      AG Prince: 035cb925
+      BM White: 66c21d35
+      C Jonker: a81d6706
+      CA Ingram: c995d726
+      D Wiese: aa8d28ae
+      DJ Jacobs: a84468fe
+      F Behardien: dce2019b
+      F du Plessis: 3355b542
+      H Davids: 9c9f8dbc
+      HG Kuhn: ede05b97
+      IL Howell: c1cd91c3
+      J Theron: dec8e038
+      JA Morkel: c3d35165
+      JT Smuts: 42172c3c
+      KH Hurter: bda8cca8
+      L Mbane: ca322fd6
+      M Morkel: 5bb5a915
+      M Mosehle: 8836fcac
+      NE Mbhalati: 800b52dc
+      RE van der Merwe: 05c2ca46
+      RT Bailey: 93a751e8
+      SB Lambson: 4146063f
+      SR Harmer: '23638956'
+      Saeed Ajmal: 05d74535
+      WD Parnell: 3a60e0b5
+  teams:
+  - Warriors
+  - Titans
+  toss:
+    winner: Titans
+    decision: field
+  umpires:
+  - BM White
+  - KH Hurter
+  venue: Buffalo Park, East London
+innings:
+- 1st innings:
+    team: Warriors
+    deliveries:
+    - 0.1:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AG Prince
+        batsman: JT Smuts
+    - 0.2:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AG Prince
+        batsman: JT Smuts
+    - 0.3:
+        non_striker: JT Smuts
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Prince
+    - 0.4:
+        non_striker: AG Prince
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 0.5:
+        non_striker: AG Prince
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 0.6:
+        non_striker: AG Prince
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JT Smuts
+    - 1.1:
+        non_striker: AG Prince
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 1.2:
+        non_striker: AG Prince
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 1.3:
+        non_striker: AG Prince
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 1.4:
+        non_striker: AG Prince
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+        wicket:
+          player_out: JT Smuts
+          fielders:
+          - M Mosehle
+          kind: caught
+    - 1.5:
+        non_striker: AG Prince
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 1.6:
+        non_striker: AG Prince
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 2.1:
+        non_striker: CA Ingram
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AG Prince
+    - 2.2:
+        non_striker: CA Ingram
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Prince
+    - 2.3:
+        non_striker: AG Prince
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+        wicket:
+          player_out: CA Ingram
+          fielders:
+          - M Mosehle
+          kind: caught
+    - 2.4:
+        non_striker: AG Prince
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DJ Jacobs
+    - 2.5:
+        non_striker: DJ Jacobs
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Prince
+    - 2.6:
+        non_striker: AG Prince
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Jacobs
+    - 3.1:
+        non_striker: AG Prince
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Jacobs
+    - 3.2:
+        non_striker: DJ Jacobs
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Prince
+    - 3.3:
+        non_striker: DJ Jacobs
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Prince
+    - 3.4:
+        non_striker: DJ Jacobs
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Prince
+    - 3.5:
+        non_striker: AG Prince
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Jacobs
+    - 3.6:
+        non_striker: AG Prince
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Jacobs
+    - 4.1:
+        non_striker: AG Prince
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Jacobs
+    - 4.2:
+        non_striker: AG Prince
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Jacobs
+    - 4.3:
+        non_striker: DJ Jacobs
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AG Prince
+    - 4.4:
+        non_striker: DJ Jacobs
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Prince
+    - 4.5:
+        non_striker: AG Prince
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Jacobs
+    - 4.6:
+        non_striker: DJ Jacobs
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Prince
+    - 5.1:
+        non_striker: AG Prince
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Jacobs
+    - 5.2:
+        non_striker: DJ Jacobs
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Prince
+    - 5.3:
+        non_striker: AG Prince
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Jacobs
+        wicket:
+          player_out: DJ Jacobs
+          fielders:
+          - M Mosehle
+          kind: stumped
+    - 5.4:
+        non_striker: AG Prince
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 5.5:
+        non_striker: AG Prince
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 5.6:
+        non_striker: AG Prince
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 6.1:
+        non_striker: C Jonker
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Prince
+    - 6.2:
+        non_striker: AG Prince
+        bowler: RE van der Merwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Jonker
+    - 6.3:
+        non_striker: AG Prince
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 6.4:
+        non_striker: C Jonker
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Prince
+    - 6.5:
+        non_striker: AG Prince
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+        wicket:
+          player_out: C Jonker
+          fielders:
+          - HG Kuhn
+          kind: caught
+    - 6.6:
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RT Bailey
+        batsman: AG Prince
+    - 6.7:
+        non_striker: AG Prince
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Bailey
+    - 7.1:
+        non_striker: RT Bailey
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AG Prince
+    - 7.2:
+        non_striker: RT Bailey
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Prince
+    - 7.3:
+        non_striker: RT Bailey
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Prince
+    - 7.4:
+        non_striker: AG Prince
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 7.5:
+        non_striker: RT Bailey
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Prince
+    - 7.6:
+        non_striker: AG Prince
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 8.1:
+        non_striker: AG Prince
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Bailey
+    - 8.2:
+        non_striker: RT Bailey
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Prince
+    - 8.3:
+        non_striker: AG Prince
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Bailey
+        wicket:
+          player_out: RT Bailey
+          fielders:
+          - HG Kuhn
+          kind: caught
+    - 8.4:
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WD Parnell
+        batsman: AG Prince
+    - 8.5:
+        non_striker: AG Prince
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Parnell
+    - 8.6:
+        non_striker: WD Parnell
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AG Prince
+    - 9.1:
+        non_striker: WD Parnell
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AG Prince
+        wicket:
+          player_out: AG Prince
+          kind: bowled
+    - 9.2:
+        non_striker: WD Parnell
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Harmer
+    - 9.3:
+        non_striker: SR Harmer
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WD Parnell
+    - 9.4:
+        non_striker: WD Parnell
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Harmer
+    - 9.5:
+        non_striker: SR Harmer
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WD Parnell
+    - 9.6:
+        non_striker: SR Harmer
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+    - 10.1:
+        non_striker: WD Parnell
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Harmer
+    - 10.2:
+        non_striker: SR Harmer
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WD Parnell
+        wicket:
+          player_out: WD Parnell
+          fielders:
+          - HG Kuhn
+          kind: caught
+    - 10.3:
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ACR Birch
+        batsman: SR Harmer
+    - 10.4:
+        non_striker: SR Harmer
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ACR Birch
+    - 10.5:
+        non_striker: SR Harmer
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ACR Birch
+        wicket:
+          player_out: ACR Birch
+          kind: bowled
+    - 10.6:
+        non_striker: SR Harmer
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Theron
+    - 11.1:
+        non_striker: J Theron
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Harmer
+    - 11.2:
+        non_striker: J Theron
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Harmer
+    - 11.3:
+        non_striker: SR Harmer
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Theron
+    - 11.4:
+        non_striker: SR Harmer
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Theron
+        wicket:
+          player_out: J Theron
+          fielders:
+          - M Mosehle
+          kind: stumped

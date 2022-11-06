@@ -1,0 +1,2039 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-10-27'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Centurion
+  competition: Mzansi Super League
+  dates:
+  - '2018-12-05'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Tshwane Spartans
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - L Sipamla
+  players:
+    Paarl Rocks:
+    - AK Markram
+    - CS Delport
+    - F du Plessis
+    - VB van Jaarsveld
+    - DJ Bravo
+    - D Wiese
+    - M Mosehle
+    - BC Fortuin
+    - D Paterson
+    - TL Moreki
+    - T Shamsi
+    Tshwane Spartans:
+    - GL Cloete
+    - D Elgar
+    - AP Agathangelou
+    - AB de Villiers
+    - EJG Morgan
+    - T de Zorzi
+    - R Frylinck
+    - S von Berg
+    - BMAJ Mendis
+    - L Sipamla
+    - RK Kleinveldt
+  registry:
+    people:
+      AB de Villiers: c4487b84
+      AK Markram: 6a26221c
+      AP Agathangelou: b7539620
+      BC Fortuin: 9a2fc964
+      BMAJ Mendis: 9868bc75
+      BP Jele: 7bb1331e
+      CS Delport: afa78c3a
+      D Elgar: 33085ffb
+      D Paterson: 462d7c62
+      D Wiese: aa8d28ae
+      DJ Bravo: 87e562a9
+      EJG Morgan: d2a6c0e6
+      F du Plessis: 3355b542
+      GH Pienaar: 3516e46b
+      GL Cloete: 3bf40832
+      L Sipamla: f892fcf9
+      M Mosehle: 8836fcac
+      PJ Vosloo: 93a6d2d0
+      R Frylinck: 8b248d88
+      RK Kleinveldt: 7955eb15
+      S George: 6d9e5a54
+      S von Berg: ffd3fc37
+      Stephen Harris: fdcfd4aa
+      T Shamsi: a03bba42
+      T de Zorzi: d3a1c63d
+      TL Moreki: 36ea17c1
+      VB van Jaarsveld: 890b877d
+  teams:
+  - Paarl Rocks
+  - Tshwane Spartans
+  toss:
+    winner: Paarl Rocks
+    decision: bat
+  umpires:
+  - S George
+  - Stephen Harris
+  venue: SuperSport Park, Centurion
+innings:
+- 1st innings:
+    team: Paarl Rocks
+    deliveries:
+    - 0.1:
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CS Delport
+        batsman: AK Markram
+    - 0.2:
+        non_striker: AK Markram
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 0.3:
+        non_striker: AK Markram
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 0.4:
+        non_striker: AK Markram
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 0.5:
+        non_striker: AK Markram
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 0.6:
+        non_striker: CS Delport
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 1.1:
+        non_striker: CS Delport
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 1.2:
+        non_striker: CS Delport
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+        wicket:
+          player_out: AK Markram
+          fielders:
+          - GL Cloete
+          kind: caught
+    - 1.3:
+        non_striker: CS Delport
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 1.4:
+        non_striker: CS Delport
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.5:
+        non_striker: CS Delport
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.6:
+        non_striker: CS Delport
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 2.1:
+        non_striker: CS Delport
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.2:
+        non_striker: CS Delport
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 2.3:
+        non_striker: CS Delport
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: CS Delport
+          fielders:
+          - EJG Morgan
+          kind: run out
+    - 2.4:
+        non_striker: F du Plessis
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB van Jaarsveld
+    - 2.5:
+        non_striker: F du Plessis
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB van Jaarsveld
+    - 2.6:
+        non_striker: F du Plessis
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VB van Jaarsveld
+    - 3.1:
+        non_striker: F du Plessis
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VB van Jaarsveld
+    - 3.2:
+        non_striker: VB van Jaarsveld
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 3.3:
+        non_striker: VB van Jaarsveld
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 3.4:
+        non_striker: VB van Jaarsveld
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F du Plessis
+    - 3.5:
+        non_striker: VB van Jaarsveld
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 3.6:
+        non_striker: VB van Jaarsveld
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 4.1:
+        non_striker: VB van Jaarsveld
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 4.2:
+        non_striker: F du Plessis
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB van Jaarsveld
+    - 4.3:
+        non_striker: F du Plessis
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VB van Jaarsveld
+    - 4.4:
+        non_striker: F du Plessis
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VB van Jaarsveld
+    - 4.5:
+        non_striker: VB van Jaarsveld
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 4.6:
+        non_striker: VB van Jaarsveld
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 5.1:
+        non_striker: VB van Jaarsveld
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F du Plessis
+    - 5.2:
+        non_striker: VB van Jaarsveld
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 5.3:
+        non_striker: VB van Jaarsveld
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F du Plessis
+    - 5.4:
+        non_striker: VB van Jaarsveld
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          fielders:
+          - AB de Villiers
+          kind: caught
+    - 5.5:
+        non_striker: VB van Jaarsveld
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 5.6:
+        non_striker: VB van Jaarsveld
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 6.1:
+        non_striker: DJ Bravo
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB van Jaarsveld
+    - 6.2:
+        non_striker: DJ Bravo
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VB van Jaarsveld
+        wicket:
+          player_out: VB van Jaarsveld
+          fielders:
+          - AP Agathangelou
+          kind: caught
+    - 6.3:
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Wiese
+        batsman: DJ Bravo
+    - 6.4:
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: D Wiese
+        batsman: DJ Bravo
+    - 6.5:
+        non_striker: DJ Bravo
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 6.6:
+        non_striker: D Wiese
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 7.1:
+        non_striker: DJ Bravo
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 7.2:
+        non_striker: D Wiese
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Bravo
+    - 7.3:
+        non_striker: D Wiese
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Bravo
+    - 7.4:
+        non_striker: D Wiese
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 7.5:
+        non_striker: DJ Bravo
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Wiese
+    - 7.6:
+        non_striker: DJ Bravo
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 8.1:
+        non_striker: D Wiese
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Bravo
+    - 8.2:
+        non_striker: D Wiese
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 8.3:
+        non_striker: D Wiese
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Bravo
+    - 8.4:
+        non_striker: D Wiese
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 8.5:
+        non_striker: D Wiese
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 8.6:
+        non_striker: DJ Bravo
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 9.1:
+        non_striker: DJ Bravo
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 9.2:
+        non_striker: D Wiese
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+        wicket:
+          player_out: DJ Bravo
+          fielders:
+          - AB de Villiers
+          kind: caught
+    - 9.3:
+        bowler: L Sipamla
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        non_striker: M Mosehle
+        batsman: D Wiese
+    - 9.4:
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Mosehle
+        batsman: D Wiese
+    - 9.5:
+        non_striker: D Wiese
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 9.6:
+        non_striker: D Wiese
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 10.1:
+        non_striker: M Mosehle
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 10.2:
+        non_striker: D Wiese
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 10.3:
+        non_striker: D Wiese
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 10.4:
+        non_striker: D Wiese
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mosehle
+    - 10.5:
+        non_striker: D Wiese
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 10.6:
+        non_striker: D Wiese
+        bowler: RK Kleinveldt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 11.1:
+        non_striker: M Mosehle
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 11.2:
+        non_striker: D Wiese
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 11.3:
+        non_striker: D Wiese
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 11.4:
+        non_striker: D Wiese
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 11.5:
+        non_striker: M Mosehle
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 11.6:
+        non_striker: M Mosehle
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 12.1:
+        non_striker: M Mosehle
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wiese
+    - 12.2:
+        non_striker: M Mosehle
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 12.3:
+        non_striker: M Mosehle
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+        wicket:
+          player_out: D Wiese
+          fielders:
+          - GL Cloete
+          kind: caught
+    - 12.4:
+        non_striker: M Mosehle
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+    - 12.5:
+        non_striker: M Mosehle
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+    - 12.6:
+        non_striker: M Mosehle
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 13.1:
+        non_striker: M Mosehle
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 13.2:
+        non_striker: BC Fortuin
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 13.3:
+        non_striker: BC Fortuin
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+        wicket:
+          player_out: M Mosehle
+          fielders:
+          - L Sipamla
+          kind: caught
+    - 13.4:
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: D Paterson
+        batsman: BC Fortuin
+    - 13.5:
+        non_striker: D Paterson
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Fortuin
+        wicket:
+          player_out: BC Fortuin
+          fielders:
+          - RK Kleinveldt
+          kind: caught
+    - 13.6:
+        non_striker: D Paterson
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Moreki
+    - 14.1:
+        non_striker: TL Moreki
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Paterson
+    - 14.2:
+        non_striker: TL Moreki
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Paterson
+    - 14.3:
+        non_striker: TL Moreki
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Paterson
+    - 14.4:
+        non_striker: TL Moreki
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Paterson
+    - 14.5:
+        non_striker: D Paterson
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Moreki
+    - 14.6:
+        non_striker: TL Moreki
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Paterson
+    - 15.1:
+        non_striker: TL Moreki
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Paterson
+    - 15.2:
+        non_striker: D Paterson
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Moreki
+    - 15.3:
+        non_striker: D Paterson
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Moreki
+    - 15.4:
+        non_striker: TL Moreki
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Paterson
+    - 15.5:
+        non_striker: D Paterson
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Moreki
+    - 15.6:
+        non_striker: TL Moreki
+        bowler: S von Berg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Paterson
+    - 16.1:
+        non_striker: D Paterson
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Moreki
+    - 16.2:
+        non_striker: D Paterson
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Moreki
+    - 16.3:
+        non_striker: D Paterson
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Moreki
+    - 16.4:
+        non_striker: D Paterson
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Moreki
+    - 16.5:
+        non_striker: D Paterson
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Moreki
+    - 16.6:
+        non_striker: D Paterson
+        bowler: L Sipamla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Moreki
+    - 17.1:
+        non_striker: TL Moreki
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Paterson
+    - 17.2:
+        non_striker: D Paterson
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Moreki
+        wicket:
+          player_out: TL Moreki
+          fielders:
+          - GL Cloete
+          kind: caught
+    - 17.3:
+        non_striker: D Paterson
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Shamsi
+    - 17.4:
+        non_striker: T Shamsi
+        bowler: BMAJ Mendis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Paterson
+        wicket:
+          player_out: D Paterson
+          fielders:
+          - R Frylinck
+          kind: caught
+- 2nd innings:
+    team: Tshwane Spartans
+    deliveries:
+    - 0.1:
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Elgar
+        batsman: GL Cloete
+    - 0.2:
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Elgar
+        batsman: GL Cloete
+    - 0.3:
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Elgar
+        batsman: GL Cloete
+    - 0.4:
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Elgar
+        batsman: GL Cloete
+    - 0.5:
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Elgar
+        batsman: GL Cloete
+    - 0.6:
+        non_striker: D Elgar
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL Cloete
+    - 1.1:
+        non_striker: GL Cloete
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 1.2:
+        non_striker: GL Cloete
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 1.3:
+        non_striker: GL Cloete
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 1.4:
+        non_striker: GL Cloete
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 1.5:
+        non_striker: GL Cloete
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 1.6:
+        non_striker: GL Cloete
+        bowler: D Paterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Elgar
+    - 1.7:
+        non_striker: GL Cloete
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 2.1:
+        non_striker: D Elgar
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GL Cloete
+    - 2.2:
+        non_striker: D Elgar
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GL Cloete
+    - 2.3:
+        non_striker: D Elgar
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 2.4:
+        non_striker: GL Cloete
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 2.5:
+        non_striker: GL Cloete
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Elgar
+    - 2.6:
+        non_striker: GL Cloete
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 3.1:
+        non_striker: D Elgar
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 3.2:
+        non_striker: GL Cloete
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Elgar
+    - 3.3:
+        non_striker: D Elgar
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 3.4:
+        non_striker: GL Cloete
+        bowler: D Paterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Elgar
+    - 3.5:
+        non_striker: GL Cloete
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Elgar
+    - 3.6:
+        non_striker: D Elgar
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 3.7:
+        non_striker: GL Cloete
+        bowler: D Paterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Elgar
+    - 3.8:
+        non_striker: GL Cloete
+        bowler: D Paterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Elgar
+    - 4.1:
+        non_striker: GL Cloete
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+    - 4.2:
+        non_striker: GL Cloete
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Elgar
+    - 4.3:
+        non_striker: D Elgar
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 4.4:
+        non_striker: D Elgar
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 4.5:
+        non_striker: D Elgar
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 4.6:
+        non_striker: GL Cloete
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Elgar
+        wicket:
+          player_out: D Elgar
+          fielders:
+          - D Wiese
+          kind: run out
+    - 5.1:
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AP Agathangelou
+        batsman: GL Cloete
+    - 5.2:
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AP Agathangelou
+        batsman: GL Cloete
+    - 5.3:
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AP Agathangelou
+        batsman: GL Cloete
+    - 5.4:
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AP Agathangelou
+        batsman: GL Cloete
+    - 5.5:
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AP Agathangelou
+        batsman: GL Cloete
+    - 5.6:
+        non_striker: GL Cloete
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Agathangelou
+    - 6.1:
+        non_striker: AP Agathangelou
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 6.2:
+        non_striker: AP Agathangelou
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 6.3:
+        non_striker: AP Agathangelou
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 6.4:
+        non_striker: GL Cloete
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Agathangelou
+    - 6.5:
+        non_striker: GL Cloete
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Agathangelou
+    - 6.6:
+        non_striker: GL Cloete
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Agathangelou
+    - 7.1:
+        non_striker: GL Cloete
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Agathangelou
+    - 7.2:
+        non_striker: GL Cloete
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Agathangelou
+    - 7.3:
+        non_striker: GL Cloete
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Agathangelou
+    - 7.4:
+        non_striker: GL Cloete
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Agathangelou
+    - 7.5:
+        non_striker: GL Cloete
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Agathangelou
+    - 7.6:
+        non_striker: AP Agathangelou
+        bowler: TL Moreki
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 8.1:
+        non_striker: AP Agathangelou
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 8.2:
+        non_striker: GL Cloete
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Agathangelou
+    - 8.3:
+        non_striker: AP Agathangelou
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 8.4:
+        non_striker: AP Agathangelou
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 8.5:
+        non_striker: GL Cloete
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AP Agathangelou
+    - 8.6:
+        non_striker: GL Cloete
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Agathangelou
+    - 9.1:
+        non_striker: GL Cloete
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Agathangelou
+    - 9.2:
+        non_striker: AP Agathangelou
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 9.3:
+        non_striker: AP Agathangelou
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 9.4:
+        non_striker: GL Cloete
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Agathangelou
+        wicket:
+          player_out: AP Agathangelou
+          fielders:
+          - M Mosehle
+          kind: caught
+    - 9.5:
+        non_striker: GL Cloete
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 9.6:
+        non_striker: AB de Villiers
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 10.1:
+        non_striker: GL Cloete
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 10.2:
+        non_striker: AB de Villiers
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GL Cloete
+    - 10.3:
+        non_striker: GL Cloete
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AB de Villiers
+    - 10.4:
+        non_striker: GL Cloete
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 10.5:
+        non_striker: AB de Villiers
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 10.6:
+        non_striker: AB de Villiers
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+    - 11.1:
+        non_striker: GL Cloete
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AB de Villiers
+    - 11.2:
+        non_striker: AB de Villiers
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Cloete
+        wicket:
+          player_out: GL Cloete
+          fielders:
+          - D Paterson
+          kind: caught
+    - 11.3:
+        bowler: T Shamsi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: EJG Morgan
+        batsman: AB de Villiers
+    - 11.4:
+        non_striker: EJG Morgan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AB de Villiers
+        wicket:
+          player_out: AB de Villiers
+          kind: bowled
+    - 11.5:
+        non_striker: EJG Morgan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T de Zorzi
+    - 11.6:
+        non_striker: T de Zorzi
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 11.7:
+        non_striker: EJG Morgan
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T de Zorzi
+    - 12.1:
+        non_striker: T de Zorzi
+        bowler: BC Fortuin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EJG Morgan
+    - 12.2:
+        non_striker: T de Zorzi
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 12.3:
+        non_striker: EJG Morgan
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T de Zorzi
+    - 12.4:
+        non_striker: EJG Morgan
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T de Zorzi
+    - 12.5:
+        non_striker: T de Zorzi
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 12.6:
+        non_striker: EJG Morgan
+        bowler: BC Fortuin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: T de Zorzi
+    - 12.7:
+        non_striker: T de Zorzi
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+    - 12.8:
+        non_striker: T de Zorzi
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJG Morgan
+    - 13.1:
+        non_striker: T de Zorzi
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJG Morgan
+        wicket:
+          player_out: EJG Morgan
+          kind: lbw
+    - 13.2:
+        non_striker: T de Zorzi
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 13.3:
+        non_striker: T de Zorzi
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 13.4:
+        non_striker: R Frylinck
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T de Zorzi
+    - 13.5:
+        non_striker: T de Zorzi
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 13.6:
+        non_striker: T de Zorzi
+        bowler: T Shamsi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 14.1:
+        non_striker: R Frylinck
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T de Zorzi
+    - 14.2:
+        non_striker: R Frylinck
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T de Zorzi
+    - 14.3:
+        non_striker: T de Zorzi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 14.4:
+        non_striker: R Frylinck
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T de Zorzi
+    - 14.5:
+        non_striker: T de Zorzi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 14.6:
+        non_striker: R Frylinck
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T de Zorzi
+    - 15.1:
+        non_striker: R Frylinck
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T de Zorzi
+    - 15.2:
+        non_striker: R Frylinck
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T de Zorzi
+    - 15.3:
+        non_striker: R Frylinck
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T de Zorzi
+    - 15.4:
+        non_striker: R Frylinck
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T de Zorzi
+    - 15.5:
+        non_striker: T de Zorzi
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 15.6:
+        non_striker: R Frylinck
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T de Zorzi
+    - 16.1:
+        non_striker: T de Zorzi
+        bowler: D Paterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Frylinck
+    - 16.2:
+        non_striker: T de Zorzi
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 16.3:
+        non_striker: T de Zorzi
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 16.4:
+        non_striker: T de Zorzi
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 16.5:
+        non_striker: T de Zorzi
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 16.6:
+        non_striker: R Frylinck
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T de Zorzi
+    - 16.7:
+        non_striker: T de Zorzi
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 17.1:
+        non_striker: T de Zorzi
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 17.2:
+        non_striker: R Frylinck
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T de Zorzi
+    - 17.3:
+        non_striker: R Frylinck
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T de Zorzi
+    - 17.4:
+        non_striker: R Frylinck
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T de Zorzi
+    - 17.5:
+        non_striker: R Frylinck
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T de Zorzi
+    - 17.6:
+        non_striker: T de Zorzi
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 17.7:
+        non_striker: R Frylinck
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T de Zorzi
+    - 18.1:
+        non_striker: T de Zorzi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 18.2:
+        non_striker: R Frylinck
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T de Zorzi
+    - 18.3:
+        non_striker: T de Zorzi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 18.4:
+        non_striker: T de Zorzi
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 18.5:
+        non_striker: R Frylinck
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T de Zorzi
+        wicket:
+          player_out: T de Zorzi
+          fielders:
+          - D Wiese
+          kind: caught
+    - 18.6:
+        non_striker: S von Berg
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 19.1:
+        non_striker: S von Berg
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Frylinck
+    - 19.2:
+        non_striker: S von Berg
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Frylinck
+    - 19.3:
+        non_striker: S von Berg
+        bowler: D Paterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck

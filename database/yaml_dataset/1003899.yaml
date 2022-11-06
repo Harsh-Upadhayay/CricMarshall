@@ -1,0 +1,630 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-04-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: East London
+  competition: CSA T20 Challenge
+  dates:
+  - '2016-12-11'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Titans
+    by:
+      runs: 6
+  overs: 20
+  player_of_match:
+  - F Behardien
+  - D Wiese
+  players:
+    Titans:
+    - JD Vandiar
+    - HG Kuhn
+    - H Klaasen
+    - F Behardien
+    - JA Morkel
+    - D Wiese
+    - AK Markram
+    - T Shamsi
+    - L Ngidi
+    - MP Siboto
+    - CJ Dala
+    Warriors:
+    - JT Smuts
+    - CA Ingram
+    - C Jonker
+    - MQ Adams
+    - C Fortuin
+    - SSB Magala
+    - KJ Abbott
+    - LC Ngoepe
+    - SSN Nqweni
+    - ACR Birch
+    - BD Walters
+  registry:
+    people:
+      ACR Birch: 9df3a2f4
+      AK Markram: 6a26221c
+      BD Walters: 1e182ae2
+      BP Jele: 7bb1331e
+      C Fortuin: f25cebec
+      C Jonker: a81d6706
+      CA Ingram: c995d726
+      CJ Dala: 1cb14aa4
+      D Govindjee: 8b4c4069
+      D Wiese: aa8d28ae
+      F Behardien: dce2019b
+      H Klaasen: 235c2bb6
+      HG Kuhn: ede05b97
+      JA Morkel: c3d35165
+      JD Vandiar: a833f99c
+      JT Smuts: 42172c3c
+      KJ Abbott: a9da7784
+      L Ngidi: f834dcfc
+      LB Gcuma: 02ba88e3
+      LC Ngoepe: 51355a30
+      LJ Willemse: bec17912
+      MP Siboto: 9d50c7e1
+      MQ Adams: 59a7fc89
+      S George: 6d9e5a54
+      SSB Magala: 8361e524
+      SSN Nqweni: 179bea21
+      T Shamsi: a03bba42
+  teams:
+  - Titans
+  - Warriors
+  toss:
+    winner: Warriors
+    decision: field
+  umpires:
+  - BP Jele
+  - LB Gcuma
+  venue: Buffalo Park, East London
+innings:
+- 1st innings:
+    team: Titans
+    deliveries:
+    - 0.1:
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HG Kuhn
+        batsman: JD Vandiar
+    - 0.2:
+        non_striker: JD Vandiar
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+        wicket:
+          player_out: JD Vandiar
+          fielders:
+          - ACR Birch
+          kind: run out
+    - 0.3:
+        non_striker: HG Kuhn
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 0.4:
+        non_striker: H Klaasen
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 0.5:
+        non_striker: H Klaasen
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 0.6:
+        non_striker: H Klaasen
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 1.1:
+        non_striker: H Klaasen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+        wicket:
+          player_out: HG Kuhn
+          kind: bowled
+    - 1.2:
+        non_striker: H Klaasen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 1.3:
+        non_striker: F Behardien
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 1.4:
+        non_striker: H Klaasen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 1.5:
+        non_striker: F Behardien
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 1.6:
+        non_striker: F Behardien
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 2.1:
+        non_striker: F Behardien
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 2.2:
+        non_striker: H Klaasen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Behardien
+    - 2.3:
+        non_striker: H Klaasen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Behardien
+    - 2.4:
+        non_striker: H Klaasen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 2.5:
+        non_striker: F Behardien
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 2.6:
+        non_striker: F Behardien
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 3.1:
+        non_striker: H Klaasen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 3.2:
+        non_striker: H Klaasen
+        bowler: SSB Magala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Behardien
+    - 3.3:
+        non_striker: H Klaasen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 3.4:
+        non_striker: H Klaasen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Behardien
+    - 3.5:
+        non_striker: H Klaasen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Behardien
+    - 3.6:
+        non_striker: H Klaasen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: F Behardien
+    - 3.7:
+        non_striker: F Behardien
+        bowler: SSB Magala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 3.8:
+        non_striker: F Behardien
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 4.1:
+        non_striker: H Klaasen
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 4.2:
+        non_striker: H Klaasen
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 4.3:
+        non_striker: F Behardien
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 4.4:
+        non_striker: H Klaasen
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 4.5:
+        non_striker: H Klaasen
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Behardien
+    - 4.6:
+        non_striker: H Klaasen
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Behardien
+- 2nd innings:
+    team: Warriors
+    deliveries:
+    - 0.1:
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: CA Ingram
+        batsman: JT Smuts
+    - 0.2:
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: CA Ingram
+        batsman: JT Smuts
+    - 0.3:
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CA Ingram
+        batsman: JT Smuts
+    - 0.4:
+        non_striker: JT Smuts
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Ingram
+    - 0.5:
+        non_striker: JT Smuts
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 0.6:
+        non_striker: JT Smuts
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 1.1:
+        non_striker: CA Ingram
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 1.2:
+        non_striker: CA Ingram
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+    - 1.3:
+        non_striker: CA Ingram
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JT Smuts
+    - 1.4:
+        non_striker: CA Ingram
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JT Smuts
+    - 1.5:
+        non_striker: CA Ingram
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+        wicket:
+          player_out: JT Smuts
+          fielders:
+          - F Behardien
+          kind: caught
+    - 1.6:
+        non_striker: C Jonker
+        bowler: CJ Dala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 2.1:
+        non_striker: CA Ingram
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 2.2:
+        non_striker: C Jonker
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 2.3:
+        non_striker: C Jonker
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 2.4:
+        non_striker: CA Ingram
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Jonker
+    - 2.5:
+        non_striker: CA Ingram
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Jonker
+    - 2.6:
+        non_striker: CA Ingram
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Jonker
+    - 3.1:
+        non_striker: C Jonker
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 3.2:
+        non_striker: C Jonker
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Ingram
+    - 3.3:
+        non_striker: C Jonker
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+        wicket:
+          player_out: CA Ingram
+          fielders:
+          - F Behardien
+          kind: caught
+    - 3.4:
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MQ Adams
+        batsman: C Jonker
+    - 3.5:
+        non_striker: C Jonker
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MQ Adams
+    - 3.6:
+        non_striker: MQ Adams
+        bowler: D Wiese
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Jonker
+    - 3.7:
+        non_striker: MQ Adams
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 3.8:
+        non_striker: C Jonker
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MQ Adams
+    - 4.1:
+        non_striker: C Jonker
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MQ Adams
+    - 4.2:
+        non_striker: C Jonker
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MQ Adams
+    - 4.3:
+        non_striker: MQ Adams
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Jonker
+    - 4.4:
+        non_striker: C Jonker
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MQ Adams
+    - 4.5:
+        non_striker: MQ Adams
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Jonker
+    - 4.6:
+        non_striker: MQ Adams
+        bowler: MP Siboto
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Jonker

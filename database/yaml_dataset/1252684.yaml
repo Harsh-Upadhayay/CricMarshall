@@ -1,0 +1,689 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-08-06'
+  revision: 1
+info:
+  balls_per_over: 5
+  city: Manchester
+  competition: The Hundred Men's Competition
+  dates:
+  - '2021-08-05'
+  gender: male
+  match_type: T20
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Manchester Originals:
+    - PD Salt
+    - JM Clarke
+    - C Munro
+    - CN Ackermann
+    - SR Hain
+    - CR Brathwaite
+    - TA Lammonby
+    - CG Harrison
+    - TW Hartley
+    - LH Ferguson
+    - ST Finn
+    Southern Brave:
+    - JM Vince
+    - Q de Kock
+    - AL Davies
+    - PR Stirling
+    - GHS Garton
+    - RA Whiteley
+    - C de Grandhomme
+    - LA Dawson
+    - CJ Jordan
+    - TS Mills
+    - JB Lintott
+  registry:
+    people:
+      AG Wharf: 2e0fcc58
+      AL Davies: 29ede60b
+      C Munro: af2c687b
+      C de Grandhomme: 94d7f855
+      CG Harrison: f655d740
+      CJ Jordan: ffe699c0
+      CN Ackermann: e734d090
+      CR Brathwaite: e342e5fb
+      GHS Garton: be869ccf
+      JB Lintott: e5218454
+      JM Clarke: 2eca67f5
+      JM Vince: a15618fe
+      LA Dawson: 4a461c24
+      LH Ferguson: 2f9d0389
+      NJ Llong: 573fb985
+      PD Salt: 3d284ca3
+      PR Stirling: cf494ffe
+      Q de Kock: 372455c4
+      RA Whiteley: d346d939
+      RT Robinson: b143c87d
+      S Cummings: d7eea52f
+      SJ O'Shaughnessy: 4d4fdf4a
+      SR Hain: 67b9536c
+      ST Finn: ccdd8308
+      TA Lammonby: 73f1f6b0
+      TS Mills: 245c97cb
+      TW Hartley: 22b98d7c
+  teams:
+  - Manchester Originals
+  - Southern Brave
+  toss:
+    decision: field
+    winner: Southern Brave
+  umpires:
+  - SJ O'Shaughnessy
+  - RT Robinson
+  venue: Old Trafford, Manchester
+innings:
+- 1st innings:
+    team: Manchester Originals
+    deliveries:
+    - 0.1:
+        non_striker: JM Clarke
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 0.2:
+        non_striker: JM Clarke
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 0.3:
+        non_striker: PD Salt
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Clarke
+    - 0.4:
+        non_striker: JM Clarke
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 0.5:
+        non_striker: JM Clarke
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 1.1:
+        non_striker: JM Clarke
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 1.2:
+        non_striker: JM Clarke
+        bowler: GHS Garton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PD Salt
+    - 1.3:
+        non_striker: PD Salt
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Clarke
+    - 1.4:
+        non_striker: PD Salt
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: JM Clarke
+    - 1.5:
+        non_striker: JM Clarke
+        bowler: GHS Garton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PD Salt
+    - 2.1:
+        non_striker: JM Clarke
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+    - 2.2:
+        non_striker: JM Clarke
+        bowler: LA Dawson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 2.3:
+        non_striker: PD Salt
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: PR Stirling
+            out: LA Dawson
+            reason: injury
+            role: bowler
+        batsman: JM Clarke
+    - 2.4:
+        non_striker: PD Salt
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 2.5:
+        non_striker: PD Salt
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+    - 3.1:
+        non_striker: PD Salt
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Clarke
+        wicket:
+          player_out: JM Clarke
+          kind: bowled
+    - 3.2:
+        non_striker: PD Salt
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 3.3:
+        non_striker: PD Salt
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 3.4:
+        non_striker: C Munro
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Salt
+    - 3.5:
+        non_striker: PD Salt
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 4.1:
+        non_striker: C Munro
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 4.2:
+        non_striker: C Munro
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 4.3:
+        non_striker: C Munro
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Salt
+    - 4.4:
+        non_striker: C Munro
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Salt
+        wicket:
+          player_out: PD Salt
+          fielders:
+          - Q de Kock
+          kind: caught
+    - 4.5:
+        non_striker: C Munro
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 5.1:
+        non_striker: C Munro
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 5.2:
+        non_striker: CN Ackermann
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.3:
+        non_striker: CN Ackermann
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 5.4:
+        non_striker: CN Ackermann
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 5.5:
+        non_striker: C Munro
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 6.1:
+        non_striker: C Munro
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 6.2:
+        non_striker: C Munro
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 6.3:
+        non_striker: CN Ackermann
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 6.4:
+        non_striker: CN Ackermann
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 6.5:
+        non_striker: CN Ackermann
+        bowler: PR Stirling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 7.1:
+        non_striker: CN Ackermann
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 7.2:
+        non_striker: C Munro
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 7.3:
+        non_striker: C Munro
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Ackermann
+    - 7.4:
+        non_striker: C Munro
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Ackermann
+    - 7.5:
+        non_striker: C Munro
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 8.1:
+        non_striker: CN Ackermann
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 8.2:
+        non_striker: C Munro
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+        wicket:
+          player_out: CN Ackermann
+          fielders:
+          - CJ Jordan
+          kind: caught
+    - 8.3:
+        non_striker: C Munro
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 8.4:
+        non_striker: SR Hain
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 8.5:
+        non_striker: SR Hain
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 9.1:
+        non_striker: C Munro
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 9.2:
+        non_striker: SR Hain
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 9.3:
+        non_striker: SR Hain
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 9.4:
+        non_striker: SR Hain
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 9.5:
+        non_striker: C Munro
+        bowler: JB Lintott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 10.1:
+        non_striker: C Munro
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+    - 10.2:
+        non_striker: C Munro
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Hain
+    - 10.3:
+        non_striker: C Munro
+        bowler: TS Mills
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR Hain
+    - 10.4:
+        non_striker: SR Hain
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 10.5:
+        non_striker: C Munro
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 11.1:
+        non_striker: SR Hain
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Munro
+    - 11.2:
+        non_striker: SR Hain
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 11.3:
+        non_striker: C Munro
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR Hain
+    - 11.4:
+        non_striker: SR Hain
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 11.5:
+        non_striker: SR Hain
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Munro
+    - 12.1:
+        non_striker: C Munro
+        bowler: GHS Garton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Hain
+    - 12.2:
+        non_striker: C Munro
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Hain
+    - 12.3:
+        non_striker: C Munro
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 12.4:
+        non_striker: SR Hain
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 12.5:
+        non_striker: SR Hain
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 12.6:
+        non_striker: SR Hain
+        bowler: GHS Garton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 13.1:
+        non_striker: SR Hain
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 13.2:
+        non_striker: C Munro
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Hain
+    - 13.3:
+        non_striker: C Munro
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Hain
+    - 13.4:
+        non_striker: SR Hain
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Munro
+    - 13.5:
+        non_striker: SR Hain
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro
+    - 14.1:
+        non_striker: SR Hain
+        bowler: TS Mills
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Munro

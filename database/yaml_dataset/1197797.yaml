@@ -1,0 +1,1766 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-01-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Wellington
+  competition: New Zealand Cricket Women's Twenty20
+  dates:
+  - '2020-01-09'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      wickets: 8
+  overs: 20
+  players:
+    Canterbury:
+    - KFG Nation
+    - NB Cox
+    - JL Savage
+    - AC Mace-Cochrane
+    - LMM Tahuhu
+    - LEV Hughes
+    - MJ Banks
+    - FL Mackay
+    - GES Sullivan
+    - JA Simmons
+    - SR Asmussen
+    Wellington:
+    - RM Burns
+    - RH Priest
+    - LM Kasperek
+    - TMM Newton
+    - EC Perry
+    - AC Kerr
+    - ML Green
+    - JM Kerr
+    - XA Jetly
+    - DM Doughty
+    - CR King
+  registry:
+    people:
+      AC Kerr: 7673c908
+      AC Mace-Cochrane: d58ef4b7
+      C Black: 75b42f71
+      CR King: dd639a8c
+      DM Doughty: ebe092a8
+      EC Perry: 0de3060f
+      FL Mackay: 7391f160
+      GA Stirrat: 6c46022b
+      GES Sullivan: 165b9097
+      Glen Walklin: 0070ed27
+      JA Simmons: 33360da1
+      JL Savage: 7938c793
+      JM Kerr: 9af58032
+      JT McFadyen: 7072542f
+      KFG Nation: 6ed21f30
+      LEV Hughes: 5b43fe48
+      LM Kasperek: 9b73d523
+      LMM Tahuhu: '60471339'
+      MJ Banks: 1e17a238
+      ML Green: 865eae1f
+      NB Cox: 219f1323
+      RH Priest: e6f0408a
+      RM Burns: 94fe4708
+      SR Asmussen: '31972229'
+      TMM Newton: 93fe473e
+      XA Jetly: 57a49987
+  teams:
+  - Canterbury
+  - Wellington
+  toss:
+    decision: bat
+    winner: Canterbury
+  umpires:
+  - C Black
+  - Glen Walklin
+  venue: Basin Reserve
+innings:
+- 1st innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: JM Kerr
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        non_striker: NB Cox
+        batsman: KFG Nation
+    - 0.2:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NB Cox
+        batsman: KFG Nation
+    - 0.3:
+        non_striker: KFG Nation
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 0.4:
+        non_striker: KFG Nation
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+    - 0.5:
+        non_striker: KFG Nation
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NB Cox
+    - 0.6:
+        non_striker: NB Cox
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KFG Nation
+    - 1.1:
+        non_striker: KFG Nation
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NB Cox
+        wicket:
+          player_out: NB Cox
+          fielders:
+          - RH Priest
+          kind: stumped
+    - 1.2:
+        non_striker: KFG Nation
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Savage
+    - 1.3:
+        non_striker: KFG Nation
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Savage
+    - 1.4:
+        non_striker: KFG Nation
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Savage
+    - 1.5:
+        non_striker: KFG Nation
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Savage
+    - 1.6:
+        non_striker: KFG Nation
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JL Savage
+    - 2.1:
+        non_striker: JL Savage
+        bowler: JM Kerr
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: KFG Nation
+    - 2.2:
+        non_striker: JL Savage
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KFG Nation
+    - 2.3:
+        non_striker: JL Savage
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KFG Nation
+    - 2.4:
+        non_striker: JL Savage
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KFG Nation
+    - 2.5:
+        non_striker: JL Savage
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KFG Nation
+    - 2.6:
+        non_striker: JL Savage
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KFG Nation
+    - 3.1:
+        non_striker: KFG Nation
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Savage
+    - 3.2:
+        non_striker: KFG Nation
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Savage
+    - 3.3:
+        non_striker: KFG Nation
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JL Savage
+        wicket:
+          player_out: JL Savage
+          fielders:
+          - TMM Newton
+          kind: caught
+    - 3.4:
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Mace-Cochrane
+        batsman: KFG Nation
+    - 3.5:
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AC Mace-Cochrane
+        batsman: KFG Nation
+    - 3.6:
+        non_striker: AC Mace-Cochrane
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KFG Nation
+    - 4.1:
+        non_striker: KFG Nation
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Mace-Cochrane
+    - 4.2:
+        non_striker: AC Mace-Cochrane
+        bowler: AC Kerr
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: KFG Nation
+    - 4.3:
+        non_striker: AC Mace-Cochrane
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KFG Nation
+    - 4.4:
+        non_striker: AC Mace-Cochrane
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KFG Nation
+    - 4.5:
+        non_striker: AC Mace-Cochrane
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KFG Nation
+    - 4.6:
+        non_striker: KFG Nation
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Mace-Cochrane
+    - 4.7:
+        non_striker: KFG Nation
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Mace-Cochrane
+        wicket:
+          player_out: AC Mace-Cochrane
+          kind: bowled
+    - 5.1:
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LMM Tahuhu
+        batsman: KFG Nation
+    - 5.2:
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LMM Tahuhu
+        batsman: KFG Nation
+    - 5.3:
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LMM Tahuhu
+        batsman: KFG Nation
+    - 5.4:
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LMM Tahuhu
+        batsman: KFG Nation
+    - 5.5:
+        non_striker: KFG Nation
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMM Tahuhu
+    - 5.6:
+        non_striker: KFG Nation
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+        wicket:
+          player_out: LMM Tahuhu
+          fielders:
+          - JT McFadyen (sub)
+          kind: caught
+    - 6.1:
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LEV Hughes
+        batsman: KFG Nation
+    - 6.2:
+        non_striker: KFG Nation
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 6.3:
+        non_striker: LEV Hughes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KFG Nation
+        wicket:
+          player_out: KFG Nation
+          kind: bowled
+    - 6.4:
+        non_striker: LEV Hughes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Banks
+    - 6.5:
+        non_striker: LEV Hughes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+    - 6.6:
+        non_striker: LEV Hughes
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+    - 7.1:
+        non_striker: MJ Banks
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 7.2:
+        non_striker: MJ Banks
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 7.3:
+        non_striker: LEV Hughes
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Banks
+        wicket:
+          player_out: MJ Banks
+          fielders:
+          - ML Green
+          kind: caught
+    - 7.4:
+        non_striker: LEV Hughes
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 7.5:
+        non_striker: LEV Hughes
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 7.6:
+        non_striker: LEV Hughes
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 8.1:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LEV Hughes
+    - 8.2:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 8.3:
+        non_striker: LEV Hughes
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 8.4:
+        non_striker: LEV Hughes
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FL Mackay
+    - 8.5:
+        non_striker: LEV Hughes
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 8.6:
+        non_striker: LEV Hughes
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 8.7:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 9.1:
+        non_striker: LEV Hughes
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 9.2:
+        non_striker: LEV Hughes
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 9.3:
+        non_striker: LEV Hughes
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 9.4:
+        non_striker: FL Mackay
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 9.5:
+        non_striker: FL Mackay
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LEV Hughes
+    - 9.6:
+        non_striker: FL Mackay
+        bowler: DM Doughty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 10.1:
+        non_striker: LEV Hughes
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 10.2:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 10.3:
+        non_striker: LEV Hughes
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 10.4:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 10.5:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 10.6:
+        non_striker: LEV Hughes
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 11.1:
+        non_striker: FL Mackay
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+    - 11.2:
+        non_striker: FL Mackay
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 11.3:
+        non_striker: LEV Hughes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 11.4:
+        non_striker: LEV Hughes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 11.5:
+        non_striker: FL Mackay
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LEV Hughes
+    - 11.6:
+        non_striker: LEV Hughes
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 12.1:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LEV Hughes
+        wicket:
+          player_out: LEV Hughes
+          kind: lbw
+    - 12.2:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GES Sullivan
+    - 12.3:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GES Sullivan
+    - 12.4:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GES Sullivan
+    - 12.5:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GES Sullivan
+    - 12.6:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GES Sullivan
+    - 13.1:
+        non_striker: FL Mackay
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GES Sullivan
+    - 13.2:
+        non_striker: FL Mackay
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GES Sullivan
+    - 13.3:
+        non_striker: GES Sullivan
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 13.4:
+        non_striker: GES Sullivan
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 13.5:
+        non_striker: GES Sullivan
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 13.6:
+        non_striker: GES Sullivan
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 14.1:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GES Sullivan
+    - 14.2:
+        non_striker: GES Sullivan
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 14.3:
+        non_striker: GES Sullivan
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 14.4:
+        non_striker: GES Sullivan
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 14.5:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GES Sullivan
+    - 14.6:
+        non_striker: FL Mackay
+        bowler: XA Jetly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GES Sullivan
+    - 15.1:
+        non_striker: FL Mackay
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GES Sullivan
+        wicket:
+          player_out: GES Sullivan
+          kind: bowled
+    - 15.2:
+        non_striker: FL Mackay
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Simmons
+    - 15.3:
+        non_striker: FL Mackay
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simmons
+    - 15.4:
+        non_striker: FL Mackay
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simmons
+    - 15.5:
+        non_striker: FL Mackay
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simmons
+    - 15.6:
+        non_striker: FL Mackay
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simmons
+    - 15.7:
+        non_striker: FL Mackay
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Simmons
+        wicket:
+          player_out: JA Simmons
+          kind: bowled
+    - 16.1:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SR Asmussen
+        batsman: FL Mackay
+    - 16.2:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SR Asmussen
+        batsman: FL Mackay
+    - 16.3:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SR Asmussen
+        batsman: FL Mackay
+    - 16.4:
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SR Asmussen
+        batsman: FL Mackay
+    - 16.5:
+        non_striker: FL Mackay
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Asmussen
+    - 16.6:
+        non_striker: FL Mackay
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Asmussen
+    - 17.1:
+        non_striker: SR Asmussen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 17.2:
+        non_striker: SR Asmussen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 17.3:
+        non_striker: SR Asmussen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 17.4:
+        non_striker: SR Asmussen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FL Mackay
+    - 17.5:
+        non_striker: SR Asmussen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 17.6:
+        non_striker: FL Mackay
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Asmussen
+    - 18.1:
+        non_striker: SR Asmussen
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 18.2:
+        non_striker: SR Asmussen
+        bowler: JM Kerr
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: FL Mackay
+    - 18.3:
+        non_striker: SR Asmussen
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 18.4:
+        non_striker: SR Asmussen
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FL Mackay
+    - 18.5:
+        non_striker: SR Asmussen
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+    - 18.6:
+        non_striker: FL Mackay
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Asmussen
+    - 19.1:
+        non_striker: SR Asmussen
+        bowler: LM Kasperek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FL Mackay
+        wicket:
+          player_out: SR Asmussen
+          kind: run out
+- 2nd innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RH Priest
+        batsman: RM Burns
+    - 0.2:
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RH Priest
+        batsman: RM Burns
+    - 0.3:
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RH Priest
+        batsman: RM Burns
+    - 0.4:
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RH Priest
+        batsman: RM Burns
+    - 0.5:
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: RH Priest
+        batsman: RM Burns
+    - 0.6:
+        non_striker: RH Priest
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 1.1:
+        non_striker: RM Burns
+        bowler: JL Savage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RH Priest
+    - 1.2:
+        non_striker: RM Burns
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RH Priest
+    - 1.3:
+        non_striker: RM Burns
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RH Priest
+    - 1.4:
+        non_striker: RM Burns
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RH Priest
+    - 1.5:
+        non_striker: RM Burns
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RH Priest
+    - 1.6:
+        non_striker: RM Burns
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RH Priest
+    - 1.7:
+        non_striker: RH Priest
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 2.1:
+        non_striker: RM Burns
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RH Priest
+    - 2.2:
+        non_striker: RM Burns
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RH Priest
+    - 2.3:
+        non_striker: RM Burns
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RH Priest
+    - 2.4:
+        non_striker: RH Priest
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 2.5:
+        non_striker: RH Priest
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 2.6:
+        non_striker: RH Priest
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 3.1:
+        non_striker: RM Burns
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RH Priest
+    - 3.2:
+        non_striker: RM Burns
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RH Priest
+    - 3.3:
+        non_striker: RH Priest
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 3.4:
+        non_striker: RH Priest
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 3.5:
+        non_striker: RH Priest
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 3.6:
+        non_striker: RH Priest
+        bowler: JL Savage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 4.1:
+        non_striker: RM Burns
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RH Priest
+    - 4.2:
+        non_striker: RM Burns
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RH Priest
+    - 4.3:
+        non_striker: RM Burns
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RH Priest
+    - 4.4:
+        non_striker: RM Burns
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RH Priest
+    - 4.5:
+        non_striker: RM Burns
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RH Priest
+    - 4.6:
+        non_striker: RH Priest
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 5.1:
+        non_striker: RH Priest
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.2:
+        non_striker: RH Priest
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 5.3:
+        non_striker: RH Priest
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 5.4:
+        non_striker: RH Priest
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 5.5:
+        non_striker: RH Priest
+        bowler: GES Sullivan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: RM Burns
+    - 5.6:
+        non_striker: RH Priest
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 6.1:
+        non_striker: RM Burns
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RH Priest
+    - 6.2:
+        non_striker: RM Burns
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RH Priest
+    - 6.3:
+        non_striker: RH Priest
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 6.4:
+        non_striker: RM Burns
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RH Priest
+    - 6.5:
+        non_striker: RM Burns
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RH Priest
+    - 6.6:
+        non_striker: RH Priest
+        bowler: SR Asmussen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 7.1:
+        non_striker: RH Priest
+        bowler: MJ Banks
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: RM Burns
+    - 7.2:
+        non_striker: RH Priest
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 7.3:
+        non_striker: RM Burns
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RH Priest
+    - 7.4:
+        non_striker: RM Burns
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RH Priest
+    - 7.5:
+        non_striker: RH Priest
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 7.6:
+        non_striker: RM Burns
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RH Priest
+        wicket:
+          player_out: RH Priest
+          fielders:
+          - JL Savage
+          kind: caught
+    - 7.7:
+        non_striker: LM Kasperek
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 8.1:
+        non_striker: LM Kasperek
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 8.2:
+        non_striker: LM Kasperek
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 8.3:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 8.4:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 8.5:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 8.6:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LM Kasperek
+    - 8.7:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 9.1:
+        non_striker: LM Kasperek
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 9.2:
+        non_striker: RM Burns
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 9.3:
+        non_striker: LM Kasperek
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns
+    - 9.4:
+        non_striker: LM Kasperek
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Burns
+    - 9.5:
+        non_striker: LM Kasperek
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 9.6:
+        non_striker: RM Burns
+        bowler: GES Sullivan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Kasperek
+    - 10.1:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 10.2:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+    - 10.3:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Kasperek
+        wicket:
+          player_out: LM Kasperek
+          fielders:
+          - LEV Hughes
+          kind: caught
+    - 10.4:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 10.5:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 10.6:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 11.1:
+        non_striker: TMM Newton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 11.2:
+        non_striker: TMM Newton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Burns
+    - 11.3:
+        non_striker: TMM Newton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Burns
+    - 11.4:
+        non_striker: TMM Newton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Burns
+    - 11.5:
+        non_striker: RM Burns
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 11.6:
+        non_striker: RM Burns
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 12.1:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TMM Newton
+    - 12.2:
+        non_striker: TMM Newton
+        bowler: JA Simmons
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: RM Burns
+    - 12.3:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TMM Newton
+    - 12.4:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 12.5:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 12.6:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 12.7:
+        non_striker: RM Burns
+        bowler: JA Simmons
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TMM Newton
+    - 13.1:
+        non_striker: TMM Newton
+        bowler: MJ Banks
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Burns

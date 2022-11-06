@@ -1,0 +1,635 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-02-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dunedin
+  competition: Super Smash
+  dates:
+  - '2019-01-13'
+  gender: male
+  match_type: T20
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Auckland:
+    - C Munro
+    - MJ Guptill
+    - GD Phillips
+    - MS Chapman
+    - Craig Cachopa
+    - RR O'Donnell
+    - DJ Grobbelaar
+    - RM Hira
+    - WER Somerville
+    - MJ McClenaghan
+    - MR Quinn
+    Otago:
+    - HD Rutherford
+    - S Hicks
+    - AK Kitchen
+    - BA Raine
+    - OB Cox
+    - JL Finnie
+    - MJG Rippon
+    - BS Wilson
+    - NG Smith
+    - JA Duffy
+    - JS Hunter
+  registry:
+    people:
+      AK Kitchen: 63a1874a
+      BA Raine: 4c0f3806
+      BS Wilson: ac3e14ed
+      C Munro: af2c687b
+      Craig Cachopa: af294a6c
+      DJ Grobbelaar: 52d11798
+      GD Phillips: 9a46c4e5
+      HD Rutherford: 0605de92
+      JA Duffy: dadbdb68
+      JL Finnie: 1ccf9e7e
+      JM Dempsey: 153c9f33
+      JS Hunter: afb3ab47
+      MJ Guptill: 2be41edb
+      MJ McClenaghan: 51a3c5ef
+      MJG Rippon: b03db6fa
+      MR Quinn: b082d112
+      MS Chapman: 7fa12533
+      NG Smith: 05b1aef8
+      OB Cox: 324a6ee1
+      RA Dykes: e5c6f48b
+      RM Hira: 2e966563
+      RR O'Donnell: 2742086d
+      S Hicks: 168b4c4f
+      SB Haig: 811655b3
+      WER Somerville: 74a1c1e3
+  teams:
+  - Auckland
+  - Otago
+  toss:
+    decision: field
+    winner: Otago
+  umpires:
+  - JM Dempsey
+  - SB Haig
+  venue: University Oval
+innings:
+- 1st innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: JL Finnie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MJ Guptill
+        batsman: C Munro
+    - 0.2:
+        bowler: JL Finnie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MJ Guptill
+        batsman: C Munro
+    - 0.3:
+        bowler: JL Finnie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MJ Guptill
+        batsman: C Munro
+    - 0.4:
+        bowler: JL Finnie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MJ Guptill
+        batsman: C Munro
+    - 0.5:
+        non_striker: C Munro
+        bowler: JL Finnie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 0.6:
+        non_striker: C Munro
+        bowler: JL Finnie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Guptill
+    - 0.7:
+        non_striker: C Munro
+        bowler: JL Finnie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 1.1:
+        non_striker: MJ Guptill
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+    - 1.2:
+        non_striker: MJ Guptill
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Munro
+        wicket:
+          player_out: C Munro
+          kind: bowled
+    - 1.3:
+        non_striker: MJ Guptill
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 1.4:
+        non_striker: GD Phillips
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 1.5:
+        non_striker: MJ Guptill
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Phillips
+    - 1.6:
+        non_striker: MJ Guptill
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 2.1:
+        non_striker: GD Phillips
+        bowler: JL Finnie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 2.2:
+        non_striker: GD Phillips
+        bowler: JL Finnie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 2.3:
+        non_striker: GD Phillips
+        bowler: JL Finnie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 2.4:
+        non_striker: GD Phillips
+        bowler: JL Finnie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 2.5:
+        non_striker: MJ Guptill
+        bowler: JL Finnie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 2.6:
+        non_striker: GD Phillips
+        bowler: JL Finnie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 3.1:
+        non_striker: GD Phillips
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.2:
+        non_striker: GD Phillips
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 3.3:
+        non_striker: GD Phillips
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 3.4:
+        non_striker: MJ Guptill
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 3.5:
+        non_striker: GD Phillips
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 3.6:
+        non_striker: MJ Guptill
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 4.1:
+        non_striker: GD Phillips
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 4.2:
+        non_striker: GD Phillips
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 4.3:
+        non_striker: GD Phillips
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 4.4:
+        non_striker: MJ Guptill
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 4.5:
+        non_striker: MJ Guptill
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 4.6:
+        non_striker: GD Phillips
+        bowler: NG Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Guptill
+    - 5.1:
+        non_striker: GD Phillips
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 5.2:
+        non_striker: MJ Guptill
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 5.3:
+        non_striker: MJ Guptill
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 5.4:
+        non_striker: GD Phillips
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 5.5:
+        non_striker: GD Phillips
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 5.6:
+        non_striker: GD Phillips
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 6.1:
+        non_striker: MJ Guptill
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 6.2:
+        non_striker: GD Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.3:
+        non_striker: MJ Guptill
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 6.4:
+        non_striker: GD Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 6.5:
+        non_striker: MJ Guptill
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 6.6:
+        non_striker: GD Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 7.1:
+        non_striker: MJ Guptill
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 7.2:
+        non_striker: GD Phillips
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 7.3:
+        non_striker: GD Phillips
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 7.4:
+        non_striker: MJ Guptill
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 7.5:
+        non_striker: MJ Guptill
+        bowler: NG Smith
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Phillips
+    - 7.6:
+        non_striker: MJ Guptill
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 7.7:
+        non_striker: GD Phillips
+        bowler: NG Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 8.1:
+        non_striker: GD Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 8.2:
+        non_striker: GD Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 8.3:
+        non_striker: MJ Guptill
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 8.4:
+        non_striker: GD Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 8.5:
+        non_striker: GD Phillips
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 8.6:
+        non_striker: MJ Guptill
+        bowler: MJG Rippon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 9.1:
+        non_striker: GD Phillips
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Guptill
+    - 9.2:
+        non_striker: GD Phillips
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 9.3:
+        non_striker: GD Phillips
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Guptill
+    - 9.4:
+        non_striker: GD Phillips
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 9.5:
+        non_striker: MJ Guptill
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 9.6:
+        non_striker: GD Phillips
+        bowler: BA Raine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Guptill
+    - 10.1:
+        non_striker: MJ Guptill
+        bowler: JS Hunter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 10.2:
+        non_striker: MJ Guptill
+        bowler: JS Hunter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 10.3:
+        non_striker: GD Phillips
+        bowler: JS Hunter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 10.4:
+        non_striker: MJ Guptill
+        bowler: JS Hunter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 10.5:
+        non_striker: GD Phillips
+        bowler: JS Hunter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Guptill
+    - 10.6:
+        non_striker: MJ Guptill
+        bowler: JS Hunter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips

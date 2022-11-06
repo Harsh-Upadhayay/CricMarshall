@@ -1,0 +1,2030 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-04'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dhaka
+  competition: Bangladesh Premier League
+  dates:
+  - '2013-02-19'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Dhaka Gladiators
+    by:
+      runs: 43
+  overs: 20
+  player_of_match:
+  - Mosharraf Hossain
+  players:
+    Dhaka Gladiators:
+    - Mohammad Ashraful
+    - TM Dilshan
+    - Anamul Haque
+    - Shakib Al Hasan
+    - KA Pollard
+    - DI Stevens
+    - JJ Cobb
+    - Mashrafe Mortaza
+    - AC Thomas
+    - Mosharraf Hossain
+    - Saqlain Sajib
+    Chittagong Kings:
+    - JJ Roy
+    - GSNFG Jayasuriya
+    - Nurul Hasan
+    - RS Bopara
+    - RN ten Doeschate
+    - Mahmudullah
+    - Ariful Haque
+    - LHD Dilhara
+    - Rubel Hossain
+    - Taskin Ahmed
+    - Enamul Haque jnr
+  registry:
+    people:
+      AC Thomas: b552a935
+      Anamul Haque: 72b245dd
+      Ariful Haque: ad1730bc
+      DI Stevens: bca21d18
+      Enamul Haque: 2ae9be7f
+      Enamul Haque jnr: '0480aba6'
+      GSNFG Jayasuriya: b58b7db6
+      Gazi Sohel: f0df3ed7
+      JJ Cobb: 58c481c6
+      JJ Roy: d1c36f5c
+      KA Pollard: a757b0d8
+      LHD Dilhara: 30b60511
+      MJ Procter: 32e65048
+      Mahmudullah: bf1d7d3e
+      Mashrafe Mortaza: e186f49c
+      Masudur Rahman: 9581ac6b
+      Mohammad Ashraful: 2bb09eb2
+      Mosharraf Hossain: 8eb611d0
+      Nurul Hasan: d365d463
+      RK Illingworth: '20672246'
+      RN ten Doeschate: 4ec07775
+      RS Bopara: 7ca5e05d
+      Raqibul Hasan: 17efdeb8
+      Rubel Hossain: f56cd097
+      Saqlain Sajib: f3c150bb
+      Shakib Al Hasan: 7dc35884
+      TM Dilshan: 5bdcdb72
+      Taskin Ahmed: ef18b66e
+  teams:
+  - Dhaka Gladiators
+  - Chittagong Kings
+  toss:
+    winner: Chittagong Kings
+    decision: field
+  umpires:
+  - Enamul Haque
+  - RK Illingworth
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Dhaka Gladiators
+    deliveries:
+    - 0.1:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TM Dilshan
+        batsman: Mohammad Ashraful
+    - 0.2:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: TM Dilshan
+        batsman: Mohammad Ashraful
+    - 0.3:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TM Dilshan
+        batsman: Mohammad Ashraful
+    - 0.4:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TM Dilshan
+        batsman: Mohammad Ashraful
+    - 0.5:
+        non_striker: Mohammad Ashraful
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Dilshan
+    - 0.6:
+        non_striker: Mohammad Ashraful
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+        wicket:
+          player_out: TM Dilshan
+          kind: bowled
+    - 1.1:
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Anamul Haque
+        batsman: Mohammad Ashraful
+    - 1.2:
+        non_striker: Mohammad Ashraful
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 1.3:
+        non_striker: Mohammad Ashraful
+        bowler: LHD Dilhara
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Anamul Haque
+    - 1.4:
+        non_striker: Anamul Haque
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ashraful
+    - 1.5:
+        non_striker: Mohammad Ashraful
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 1.6:
+        non_striker: Mohammad Ashraful
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 1.7:
+        non_striker: Mohammad Ashraful
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anamul Haque
+    - 2.1:
+        non_striker: Anamul Haque
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Ashraful
+    - 2.2:
+        non_striker: Anamul Haque
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 2.3:
+        non_striker: Anamul Haque
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Ashraful
+    - 2.4:
+        non_striker: Anamul Haque
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mohammad Ashraful
+    - 2.5:
+        non_striker: Anamul Haque
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ashraful
+    - 2.6:
+        non_striker: Mohammad Ashraful
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 2.7:
+        non_striker: Anamul Haque
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 3.1:
+        non_striker: Mohammad Ashraful
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 3.2:
+        non_striker: Anamul Haque
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ashraful
+    - 3.3:
+        non_striker: Mohammad Ashraful
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 3.4:
+        non_striker: Mohammad Ashraful
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 3.5:
+        non_striker: Mohammad Ashraful
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 3.6:
+        non_striker: Mohammad Ashraful
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 4.1:
+        non_striker: Mohammad Ashraful
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 4.2:
+        non_striker: Anamul Haque
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Ashraful
+    - 4.3:
+        non_striker: Anamul Haque
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ashraful
+    - 4.4:
+        non_striker: Mohammad Ashraful
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 4.5:
+        non_striker: Mohammad Ashraful
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anamul Haque
+    - 4.6:
+        non_striker: Mohammad Ashraful
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 5.1:
+        non_striker: Anamul Haque
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Ashraful
+    - 5.2:
+        non_striker: Anamul Haque
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+        wicket:
+          player_out: Mohammad Ashraful
+          fielders:
+          - GSNFG Jayasuriya
+          kind: caught
+    - 5.3:
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Shakib Al Hasan
+        batsman: Anamul Haque
+    - 5.4:
+        non_striker: Anamul Haque
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 5.5:
+        non_striker: Shakib Al Hasan
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 5.6:
+        non_striker: Shakib Al Hasan
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 6.1:
+        non_striker: Anamul Haque
+        bowler: Enamul Haque jnr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 6.2:
+        non_striker: Shakib Al Hasan
+        bowler: Enamul Haque jnr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 6.3:
+        non_striker: Shakib Al Hasan
+        bowler: Enamul Haque jnr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 6.4:
+        non_striker: Shakib Al Hasan
+        bowler: Enamul Haque jnr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 6.5:
+        non_striker: Anamul Haque
+        bowler: Enamul Haque jnr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 6.6:
+        non_striker: Shakib Al Hasan
+        bowler: Enamul Haque jnr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 7.1:
+        non_striker: Shakib Al Hasan
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 7.2:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 7.3:
+        non_striker: Shakib Al Hasan
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 7.4:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 7.5:
+        non_striker: Shakib Al Hasan
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 7.6:
+        non_striker: Shakib Al Hasan
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 8.1:
+        non_striker: Shakib Al Hasan
+        bowler: Enamul Haque jnr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 8.2:
+        non_striker: Anamul Haque
+        bowler: Enamul Haque jnr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.3:
+        non_striker: Shakib Al Hasan
+        bowler: Enamul Haque jnr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 8.4:
+        non_striker: Anamul Haque
+        bowler: Enamul Haque jnr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 8.5:
+        non_striker: Shakib Al Hasan
+        bowler: Enamul Haque jnr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 8.6:
+        non_striker: Anamul Haque
+        bowler: Enamul Haque jnr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 9.1:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shakib Al Hasan
+    - 9.2:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 9.3:
+        non_striker: Shakib Al Hasan
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anamul Haque
+    - 9.4:
+        non_striker: Shakib Al Hasan
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anamul Haque
+    - 9.5:
+        non_striker: Shakib Al Hasan
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 9.6:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 9.7:
+        non_striker: Shakib Al Hasan
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 10.1:
+        non_striker: Shakib Al Hasan
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anamul Haque
+    - 10.2:
+        non_striker: Shakib Al Hasan
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 10.3:
+        non_striker: Shakib Al Hasan
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+        wicket:
+          player_out: Anamul Haque
+          kind: bowled
+    - 10.4:
+        non_striker: Shakib Al Hasan
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 10.5:
+        non_striker: Shakib Al Hasan
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 10.6:
+        non_striker: Shakib Al Hasan
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Pollard
+    - 11.1:
+        non_striker: KA Pollard
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 11.2:
+        non_striker: Shakib Al Hasan
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 11.3:
+        non_striker: KA Pollard
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 11.4:
+        non_striker: Shakib Al Hasan
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 11.5:
+        non_striker: KA Pollard
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 11.6:
+        non_striker: Shakib Al Hasan
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 12.1:
+        non_striker: Shakib Al Hasan
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+    - 12.2:
+        non_striker: Shakib Al Hasan
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 12.3:
+        non_striker: KA Pollard
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 12.4:
+        non_striker: KA Pollard
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 12.5:
+        non_striker: KA Pollard
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shakib Al Hasan
+    - 12.6:
+        non_striker: KA Pollard
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 13.1:
+        non_striker: KA Pollard
+        bowler: RS Bopara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shakib Al Hasan
+    - 13.2:
+        non_striker: KA Pollard
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 13.3:
+        non_striker: Shakib Al Hasan
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Pollard
+    - 13.4:
+        non_striker: KA Pollard
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 13.5:
+        non_striker: Shakib Al Hasan
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Pollard
+        wicket:
+          player_out: KA Pollard
+          kind: bowled
+    - 13.6:
+        non_striker: Shakib Al Hasan
+        bowler: RS Bopara
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: DI Stevens
+    - 13.7:
+        non_striker: Shakib Al Hasan
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DI Stevens
+    - 13.8:
+        non_striker: DI Stevens
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 14.1:
+        non_striker: DI Stevens
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 14.2:
+        non_striker: DI Stevens
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 14.3:
+        non_striker: DI Stevens
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 14.4:
+        non_striker: Shakib Al Hasan
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DI Stevens
+    - 14.5:
+        non_striker: DI Stevens
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 14.6:
+        non_striker: Shakib Al Hasan
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DI Stevens
+    - 15.1:
+        non_striker: Shakib Al Hasan
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DI Stevens
+    - 15.2:
+        non_striker: Shakib Al Hasan
+        bowler: RS Bopara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DI Stevens
+    - 15.3:
+        non_striker: DI Stevens
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 15.4:
+        non_striker: Shakib Al Hasan
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DI Stevens
+    - 15.5:
+        non_striker: Shakib Al Hasan
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DI Stevens
+    - 15.6:
+        non_striker: DI Stevens
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shakib Al Hasan
+    - 16.1:
+        non_striker: Shakib Al Hasan
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DI Stevens
+    - 16.2:
+        non_striker: DI Stevens
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shakib Al Hasan
+    - 16.3:
+        non_striker: DI Stevens
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 16.4:
+        non_striker: Shakib Al Hasan
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DI Stevens
+    - 16.5:
+        non_striker: DI Stevens
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+        wicket:
+          player_out: Shakib Al Hasan
+          fielders:
+          - RS Bopara
+          kind: caught
+    - 16.6:
+        non_striker: DI Stevens
+        bowler: LHD Dilhara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Cobb
+    - 17.1:
+        non_striker: DI Stevens
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Cobb
+    - 17.2:
+        non_striker: JJ Cobb
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DI Stevens
+    - 17.3:
+        non_striker: JJ Cobb
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DI Stevens
+    - 17.4:
+        non_striker: DI Stevens
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Cobb
+    - 17.5:
+        non_striker: DI Stevens
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Cobb
+    - 17.6:
+        non_striker: DI Stevens
+        bowler: RS Bopara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Cobb
+    - 18.1:
+        non_striker: DI Stevens
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Cobb
+        wicket:
+          player_out: JJ Cobb
+          fielders:
+          - Ariful Haque
+          kind: caught
+    - 18.2:
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mashrafe Mortaza
+        batsman: DI Stevens
+    - 18.3:
+        non_striker: Mashrafe Mortaza
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DI Stevens
+        wicket:
+          player_out: DI Stevens
+          fielders:
+          - RN ten Doeschate
+          kind: caught
+    - 18.4:
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AC Thomas
+        batsman: Mashrafe Mortaza
+    - 18.5:
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AC Thomas
+        batsman: Mashrafe Mortaza
+    - 18.6:
+        non_striker: AC Thomas
+        bowler: Rubel Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mashrafe Mortaza
+        wicket:
+          player_out: Mashrafe Mortaza
+          fielders:
+          - Mahmudullah
+          kind: caught
+    - 19.1:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Mosharraf Hossain
+        batsman: AC Thomas
+    - 19.2:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mosharraf Hossain
+        batsman: AC Thomas
+    - 19.3:
+        non_striker: AC Thomas
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Mosharraf Hossain
+    - 19.4:
+        non_striker: Mosharraf Hossain
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Thomas
+    - 19.5:
+        non_striker: Mosharraf Hossain
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Thomas
+    - 19.6:
+        non_striker: Mosharraf Hossain
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Thomas
+    - 19.7:
+        non_striker: AC Thomas
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mosharraf Hossain
+    - 19.8:
+        non_striker: Mosharraf Hossain
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+        wicket:
+          player_out: AC Thomas
+          kind: bowled
+- 2nd innings:
+    team: Chittagong Kings
+    deliveries:
+    - 0.1:
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GSNFG Jayasuriya
+        batsman: JJ Roy
+    - 0.2:
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: GSNFG Jayasuriya
+        batsman: JJ Roy
+    - 0.3:
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GSNFG Jayasuriya
+        batsman: JJ Roy
+    - 0.4:
+        non_striker: JJ Roy
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 0.5:
+        non_striker: JJ Roy
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 0.6:
+        non_striker: JJ Roy
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 0.7:
+        non_striker: GSNFG Jayasuriya
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 1.1:
+        non_striker: GSNFG Jayasuriya
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 1.2:
+        non_striker: JJ Roy
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+    - 1.3:
+        non_striker: JJ Roy
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GSNFG Jayasuriya
+    - 1.4:
+        non_striker: GSNFG Jayasuriya
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 1.5:
+        non_striker: GSNFG Jayasuriya
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 1.6:
+        non_striker: GSNFG Jayasuriya
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 2.1:
+        non_striker: JJ Roy
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GSNFG Jayasuriya
+    - 2.2:
+        non_striker: GSNFG Jayasuriya
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 2.3:
+        non_striker: GSNFG Jayasuriya
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 2.4:
+        non_striker: GSNFG Jayasuriya
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 2.5:
+        non_striker: JJ Roy
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GSNFG Jayasuriya
+        wicket:
+          player_out: GSNFG Jayasuriya
+          fielders:
+          - KA Pollard
+          kind: caught
+    - 2.6:
+        non_striker: Nurul Hasan
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 3.1:
+        non_striker: Nurul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 3.2:
+        non_striker: Nurul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 3.3:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 3.4:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 3.5:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nurul Hasan
+    - 3.6:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 4.1:
+        non_striker: Nurul Hasan
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 4.2:
+        non_striker: JJ Roy
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 4.3:
+        non_striker: Nurul Hasan
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 4.4:
+        non_striker: Nurul Hasan
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 4.5:
+        non_striker: JJ Roy
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nurul Hasan
+    - 4.6:
+        non_striker: JJ Roy
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nurul Hasan
+    - 5.1:
+        non_striker: Nurul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 5.2:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nurul Hasan
+    - 5.3:
+        non_striker: Nurul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 5.4:
+        non_striker: Nurul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 5.5:
+        non_striker: Nurul Hasan
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 5.6:
+        non_striker: JJ Roy
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+    - 6.1:
+        non_striker: Nurul Hasan
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 6.2:
+        non_striker: JJ Roy
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nurul Hasan
+        wicket:
+          player_out: Nurul Hasan
+          fielders:
+          - Raqibul Hasan (sub)
+          kind: caught
+    - 6.3:
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RS Bopara
+        batsman: JJ Roy
+    - 6.4:
+        non_striker: JJ Roy
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 6.5:
+        non_striker: RS Bopara
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 6.6:
+        non_striker: JJ Roy
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+    - 7.1:
+        non_striker: RS Bopara
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 7.2:
+        non_striker: JJ Roy
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Bopara
+    - 7.3:
+        non_striker: RS Bopara
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 7.4:
+        non_striker: RS Bopara
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 7.5:
+        non_striker: JJ Roy
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Bopara
+        wicket:
+          player_out: RS Bopara
+          kind: lbw
+    - 7.6:
+        non_striker: JJ Roy
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 8.1:
+        non_striker: JJ Roy
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RN ten Doeschate
+    - 8.2:
+        non_striker: RN ten Doeschate
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 8.3:
+        non_striker: JJ Roy
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RN ten Doeschate
+        wicket:
+          player_out: RN ten Doeschate
+          fielders:
+          - TM Dilshan
+          kind: caught
+    - 8.4:
+        non_striker: JJ Roy
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 8.5:
+        non_striker: Mahmudullah
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+        wicket:
+          player_out: JJ Roy
+          kind: bowled
+    - 8.6:
+        non_striker: Mahmudullah
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 9.1:
+        non_striker: Mahmudullah
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 9.2:
+        non_striker: Ariful Haque
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 9.3:
+        non_striker: Ariful Haque
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 9.4:
+        non_striker: Ariful Haque
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 9.5:
+        non_striker: Ariful Haque
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 9.6:
+        non_striker: Mahmudullah
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ariful Haque
+    - 10.1:
+        non_striker: Ariful Haque
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 10.2:
+        non_striker: Mahmudullah
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+    - 10.3:
+        non_striker: Mahmudullah
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 10.4:
+        non_striker: Ariful Haque
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mahmudullah
+    - 10.5:
+        non_striker: Ariful Haque
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 10.6:
+        non_striker: Ariful Haque
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 11.1:
+        non_striker: Mahmudullah
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 11.2:
+        non_striker: Ariful Haque
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 11.3:
+        non_striker: Mahmudullah
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 11.4:
+        non_striker: Ariful Haque
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Mahmudullah
+    - 11.5:
+        non_striker: Ariful Haque
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 11.6:
+        non_striker: Ariful Haque
+        bowler: Mashrafe Mortaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 12.1:
+        non_striker: Ariful Haque
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 12.2:
+        non_striker: Mahmudullah
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ariful Haque
+    - 12.3:
+        non_striker: Mahmudullah
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 12.4:
+        non_striker: Ariful Haque
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 12.5:
+        non_striker: Mahmudullah
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 12.6:
+        non_striker: Ariful Haque
+        bowler: Mosharraf Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 13.1:
+        non_striker: Mahmudullah
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 13.2:
+        non_striker: Ariful Haque
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 13.3:
+        non_striker: Mahmudullah
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+        wicket:
+          player_out: Ariful Haque
+          fielders:
+          - Anamul Haque
+          kind: caught
+    - 13.4:
+        non_striker: Mahmudullah
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LHD Dilhara
+    - 13.5:
+        non_striker: Mahmudullah
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LHD Dilhara
+    - 13.6:
+        non_striker: LHD Dilhara
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 14.1:
+        non_striker: Mahmudullah
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LHD Dilhara
+    - 14.2:
+        non_striker: LHD Dilhara
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 14.3:
+        non_striker: LHD Dilhara
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mahmudullah
+    - 14.4:
+        non_striker: LHD Dilhara
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 14.5:
+        non_striker: LHD Dilhara
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+        wicket:
+          player_out: LHD Dilhara
+          fielders:
+          - Shakib Al Hasan
+          kind: run out
+    - 14.6:
+        non_striker: Mahmudullah
+        bowler: Saqlain Sajib
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rubel Hossain
+    - 15.1:
+        non_striker: Rubel Hossain
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 15.2:
+        non_striker: Rubel Hossain
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 15.3:
+        non_striker: Rubel Hossain
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 15.4:
+        non_striker: Mahmudullah
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rubel Hossain
+    - 15.5:
+        non_striker: Rubel Hossain
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mahmudullah
+    - 15.6:
+        non_striker: Rubel Hossain
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 16.1:
+        non_striker: Rubel Hossain
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+        wicket:
+          player_out: Mahmudullah
+          fielders:
+          - Saqlain Sajib
+          kind: caught
+    - 16.2:
+        non_striker: Rubel Hossain
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+        wicket:
+          player_out: Taskin Ahmed
+          kind: bowled
+    - 16.3:
+        non_striker: Rubel Hossain
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Enamul Haque jnr
+    - 16.4:
+        non_striker: Rubel Hossain
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Enamul Haque jnr
+    - 16.5:
+        non_striker: Rubel Hossain
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Enamul Haque jnr
+        wicket:
+          player_out: Enamul Haque jnr
+          fielders:
+          - DI Stevens
+          - AC Thomas
+          kind: run out

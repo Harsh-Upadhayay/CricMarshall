@@ -1,0 +1,2135 @@
+---
+meta:
+  data_version: 0.92
+  created: '2021-11-01'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Dhaka
+  competition: Bangladesh Premier League
+  dates:
+  - '2017-11-17'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Khulna Titans
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - RR Rossouw
+  players:
+    Khulna Titans:
+    - M Klinger
+    - RR Rossouw
+    - Dhiman Ghosh
+    - Mahmudullah
+    - Nazmul Hossain Shanto
+    - Ariful Haque
+    - CR Brathwaite
+    - S Prasanna
+    - KJ Abbott
+    - Shafiul Islam
+    - Abu Jayed
+    Chittagong Vikings:
+    - L Ronchi
+    - Soumya Sarkar
+    - Anamul Haque
+    - Najibullah Zadran
+    - Sikandar Raza
+    - S van Zyl
+    - CJ Jordan
+    - Tanbir Hayder
+    - Sunzamul Islam
+    - Al-Amin
+    - Taskin Ahmed
+  registry:
+    people:
+      Abu Jayed: 1bb0993e
+      Al-Amin: ec72efc5
+      Anamul Haque: 72b245dd
+      Ariful Haque: ad1730bc
+      CJ Jordan: ffe699c0
+      CR Brathwaite: e342e5fb
+      Dhiman Ghosh: 1494a583
+      KJ Abbott: a9da7784
+      L Ronchi: 0fa5042b
+      M Klinger: b970a03f
+      Mahmudullah: bf1d7d3e
+      Moniruzzaman: 075e9f9c
+      Mozahiduzzaman: a149de90
+      Nadir Shah: 3515389d
+      Najibullah Zadran: 1212cbec
+      Nazmul Hossain Shanto: 1274d7ab
+      RR Rossouw: cad00a4d
+      Riazuddin: '08f088e3'
+      S Prasanna: f78e7113
+      S van Zyl: f4dfcbb4
+      Selim Shahid: b478bce3
+      Shafiul Islam: 1a8eebbe
+      Sikandar Raza: 26d041c4
+      Soumya Sarkar: 4d9f9686
+      Sunzamul Islam: 0f348f58
+      Tanbir Hayder: 24104e5c
+      Taskin Ahmed: ef18b66e
+  teams:
+  - Chittagong Vikings
+  - Khulna Titans
+  toss:
+    winner: Khulna Titans
+    decision: field
+  umpires:
+  - Nadir Shah
+  - Riazuddin
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Chittagong Vikings
+    deliveries:
+    - 0.1:
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Soumya Sarkar
+        batsman: L Ronchi
+    - 0.2:
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Soumya Sarkar
+        batsman: L Ronchi
+    - 0.3:
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Soumya Sarkar
+        batsman: L Ronchi
+    - 0.4:
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Soumya Sarkar
+        batsman: L Ronchi
+    - 0.5:
+        non_striker: L Ronchi
+        bowler: Abu Jayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Soumya Sarkar
+    - 0.6:
+        non_striker: L Ronchi
+        bowler: Abu Jayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Soumya Sarkar
+    - 0.7:
+        non_striker: L Ronchi
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 0.8:
+        non_striker: Soumya Sarkar
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Ronchi
+        wicket:
+          player_out: L Ronchi
+          fielders:
+          - Mahmudullah
+          kind: caught
+    - 1.1:
+        non_striker: Soumya Sarkar
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 1.2:
+        non_striker: Anamul Haque
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 1.3:
+        non_striker: Anamul Haque
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 1.4:
+        non_striker: Anamul Haque
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 1.5:
+        non_striker: Soumya Sarkar
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 1.6:
+        non_striker: Soumya Sarkar
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 2.1:
+        non_striker: Anamul Haque
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Soumya Sarkar
+    - 2.2:
+        non_striker: Anamul Haque
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 2.3:
+        non_striker: Soumya Sarkar
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 2.4:
+        non_striker: Soumya Sarkar
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anamul Haque
+    - 2.5:
+        non_striker: Soumya Sarkar
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 2.6:
+        non_striker: Soumya Sarkar
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 3.1:
+        non_striker: Anamul Haque
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Soumya Sarkar
+    - 3.2:
+        non_striker: Anamul Haque
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 3.3:
+        non_striker: Anamul Haque
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 3.4:
+        non_striker: Soumya Sarkar
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 3.5:
+        non_striker: Soumya Sarkar
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 3.6:
+        non_striker: Anamul Haque
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Soumya Sarkar
+    - 4.1:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anamul Haque
+    - 4.2:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anamul Haque
+    - 4.3:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 4.4:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 4.5:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 4.6:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 5.1:
+        non_striker: Anamul Haque
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Soumya Sarkar
+    - 5.2:
+        non_striker: Anamul Haque
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 5.3:
+        non_striker: Soumya Sarkar
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 5.4:
+        non_striker: Anamul Haque
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 5.5:
+        non_striker: Soumya Sarkar
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 5.6:
+        non_striker: Anamul Haque
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 5.7:
+        non_striker: Soumya Sarkar
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 6.1:
+        non_striker: Anamul Haque
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 6.2:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 6.3:
+        non_striker: Anamul Haque
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 6.4:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 6.5:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anamul Haque
+    - 6.6:
+        non_striker: Soumya Sarkar
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 7.1:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 7.2:
+        non_striker: Soumya Sarkar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 7.3:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 7.4:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 7.5:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 7.6:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 8.1:
+        non_striker: Soumya Sarkar
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anamul Haque
+    - 8.2:
+        non_striker: Soumya Sarkar
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 8.3:
+        non_striker: Anamul Haque
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 8.4:
+        non_striker: Soumya Sarkar
+        bowler: CR Brathwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anamul Haque
+    - 8.5:
+        non_striker: Anamul Haque
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 8.6:
+        non_striker: Soumya Sarkar
+        bowler: CR Brathwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 9.1:
+        non_striker: Soumya Sarkar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 9.2:
+        non_striker: Soumya Sarkar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 9.3:
+        non_striker: Soumya Sarkar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 9.4:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Soumya Sarkar
+    - 9.5:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Soumya Sarkar
+    - 9.6:
+        non_striker: Soumya Sarkar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 10.1:
+        non_striker: Soumya Sarkar
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 10.2:
+        non_striker: Anamul Haque
+        bowler: S Prasanna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Soumya Sarkar
+    - 10.3:
+        non_striker: Soumya Sarkar
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 10.4:
+        non_striker: Anamul Haque
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Soumya Sarkar
+    - 10.5:
+        non_striker: Anamul Haque
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 10.6:
+        non_striker: Anamul Haque
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Soumya Sarkar
+    - 11.1:
+        non_striker: Soumya Sarkar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 11.2:
+        non_striker: Soumya Sarkar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 11.3:
+        non_striker: Soumya Sarkar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 11.4:
+        non_striker: Soumya Sarkar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 11.5:
+        non_striker: Soumya Sarkar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anamul Haque
+    - 11.6:
+        non_striker: Soumya Sarkar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 12.1:
+        non_striker: Soumya Sarkar
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anamul Haque
+    - 12.2:
+        non_striker: Soumya Sarkar
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 12.3:
+        non_striker: Anamul Haque
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 12.4:
+        non_striker: Soumya Sarkar
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 12.5:
+        non_striker: Soumya Sarkar
+        bowler: S Prasanna
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Anamul Haque
+    - 12.6:
+        non_striker: Anamul Haque
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 12.7:
+        non_striker: Anamul Haque
+        bowler: S Prasanna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 13.1:
+        non_striker: Soumya Sarkar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 13.2:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 13.3:
+        non_striker: Soumya Sarkar
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anamul Haque
+    - 13.4:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 13.5:
+        non_striker: Anamul Haque
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+        wicket:
+          player_out: Soumya Sarkar
+          fielders:
+          - CR Brathwaite
+          kind: caught
+    - 13.6:
+        non_striker: Najibullah Zadran
+        bowler: Mahmudullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+    - 14.1:
+        non_striker: Anamul Haque
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 14.2:
+        non_striker: Najibullah Zadran
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anamul Haque
+    - 14.3:
+        non_striker: Najibullah Zadran
+        bowler: Abu Jayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anamul Haque
+    - 14.4:
+        non_striker: Najibullah Zadran
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anamul Haque
+        wicket:
+          player_out: Anamul Haque
+          fielders:
+          - Dhiman Ghosh
+          kind: caught
+    - 14.5:
+        non_striker: Najibullah Zadran
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 14.6:
+        non_striker: Najibullah Zadran
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - Ariful Haque
+          kind: caught
+    - 14.7:
+        non_striker: Najibullah Zadran
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 15.1:
+        non_striker: Najibullah Zadran
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 15.2:
+        non_striker: S van Zyl
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 15.3:
+        non_striker: S van Zyl
+        bowler: KJ Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najibullah Zadran
+    - 15.4:
+        non_striker: S van Zyl
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 15.5:
+        non_striker: Najibullah Zadran
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 15.6:
+        non_striker: Najibullah Zadran
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 15.7:
+        non_striker: S van Zyl
+        bowler: KJ Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najibullah Zadran
+    - 15.8:
+        non_striker: S van Zyl
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 16.1:
+        non_striker: S van Zyl
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 16.2:
+        non_striker: S van Zyl
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najibullah Zadran
+    - 16.3:
+        non_striker: S van Zyl
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 16.4:
+        non_striker: Najibullah Zadran
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S van Zyl
+    - 16.5:
+        non_striker: Najibullah Zadran
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S van Zyl
+    - 16.6:
+        non_striker: Najibullah Zadran
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 17.1:
+        non_striker: S van Zyl
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 17.2:
+        non_striker: Najibullah Zadran
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 17.3:
+        non_striker: Najibullah Zadran
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 17.4:
+        non_striker: Najibullah Zadran
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 17.5:
+        non_striker: S van Zyl
+        bowler: Abu Jayed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Najibullah Zadran
+    - 17.6:
+        non_striker: Najibullah Zadran
+        bowler: Abu Jayed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S van Zyl
+    - 18.1:
+        non_striker: S van Zyl
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+    - 18.2:
+        non_striker: S van Zyl
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 18.3:
+        non_striker: Najibullah Zadran
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 18.4:
+        non_striker: S van Zyl
+        bowler: Shafiul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Najibullah Zadran
+    - 18.5:
+        non_striker: S van Zyl
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran
+    - 18.6:
+        non_striker: S van Zyl
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 18.7:
+        non_striker: Najibullah Zadran
+        bowler: Shafiul Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S van Zyl
+    - 18.8:
+        non_striker: Najibullah Zadran
+        bowler: Shafiul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S van Zyl
+    - 19.1:
+        non_striker: S van Zyl
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najibullah Zadran
+    - 19.2:
+        non_striker: Najibullah Zadran
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S van Zyl
+    - 19.3:
+        non_striker: S van Zyl
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Najibullah Zadran
+    - 19.4:
+        non_striker: S van Zyl
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najibullah Zadran
+        wicket:
+          player_out: Najibullah Zadran
+          fielders:
+          - Mahmudullah
+          kind: run out
+    - 19.5:
+        bowler: KJ Abbott
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        non_striker: CJ Jordan
+        batsman: S van Zyl
+    - 19.6:
+        non_striker: S van Zyl
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Jordan
+    - 19.7:
+        non_striker: S van Zyl
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Jordan
+- 2nd innings:
+    team: Khulna Titans
+    deliveries:
+    - 0.1:
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RR Rossouw
+        batsman: M Klinger
+    - 0.2:
+        non_striker: M Klinger
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 0.3:
+        non_striker: M Klinger
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Rossouw
+    - 0.4:
+        non_striker: M Klinger
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 0.5:
+        non_striker: RR Rossouw
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klinger
+    - 0.6:
+        non_striker: RR Rossouw
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klinger
+    - 1.1:
+        non_striker: M Klinger
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 1.2:
+        non_striker: M Klinger
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 1.3:
+        non_striker: M Klinger
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 1.4:
+        non_striker: M Klinger
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 1.5:
+        non_striker: RR Rossouw
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klinger
+    - 1.6:
+        non_striker: RR Rossouw
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klinger
+        wicket:
+          player_out: M Klinger
+          fielders:
+          - S van Zyl
+          kind: caught
+    - 2.1:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Dhiman Ghosh
+        batsman: RR Rossouw
+    - 2.2:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Dhiman Ghosh
+        batsman: RR Rossouw
+    - 2.3:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Dhiman Ghosh
+        batsman: RR Rossouw
+    - 2.4:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Dhiman Ghosh
+        batsman: RR Rossouw
+    - 2.5:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Dhiman Ghosh
+        batsman: RR Rossouw
+    - 2.6:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Dhiman Ghosh
+        batsman: RR Rossouw
+    - 2.7:
+        non_striker: Dhiman Ghosh
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 3.1:
+        non_striker: RR Rossouw
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhiman Ghosh
+    - 3.2:
+        non_striker: Dhiman Ghosh
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 3.3:
+        non_striker: Dhiman Ghosh
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 3.4:
+        non_striker: Dhiman Ghosh
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 3.5:
+        non_striker: Dhiman Ghosh
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 3.6:
+        non_striker: Dhiman Ghosh
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Rossouw
+    - 4.1:
+        non_striker: RR Rossouw
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhiman Ghosh
+    - 4.2:
+        non_striker: Dhiman Ghosh
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Rossouw
+    - 4.3:
+        non_striker: Dhiman Ghosh
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 4.4:
+        non_striker: RR Rossouw
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhiman Ghosh
+    - 4.5:
+        non_striker: Dhiman Ghosh
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 4.6:
+        non_striker: RR Rossouw
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhiman Ghosh
+    - 5.1:
+        non_striker: Dhiman Ghosh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 5.2:
+        non_striker: RR Rossouw
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhiman Ghosh
+    - 5.3:
+        non_striker: RR Rossouw
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhiman Ghosh
+    - 5.4:
+        non_striker: Dhiman Ghosh
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 5.5:
+        non_striker: RR Rossouw
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhiman Ghosh
+        wicket:
+          player_out: Dhiman Ghosh
+          kind: bowled
+    - 5.6:
+        non_striker: RR Rossouw
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 6.1:
+        non_striker: Mahmudullah
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+    - 6.2:
+        non_striker: Mahmudullah
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Rossouw
+    - 6.3:
+        non_striker: RR Rossouw
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 6.4:
+        non_striker: RR Rossouw
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 6.5:
+        non_striker: Mahmudullah
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Rossouw
+        wicket:
+          player_out: RR Rossouw
+          kind: bowled
+    - 6.6:
+        non_striker: Mahmudullah
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 7.1:
+        non_striker: Mahmudullah
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 7.2:
+        non_striker: Mahmudullah
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 7.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 7.4:
+        non_striker: Mahmudullah
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 7.5:
+        non_striker: Mahmudullah
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 7.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 8.1:
+        non_striker: Mahmudullah
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 8.2:
+        non_striker: Mahmudullah
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 8.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 8.4:
+        non_striker: Mahmudullah
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 8.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mahmudullah
+    - 8.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: Al-Amin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 9.1:
+        non_striker: Mahmudullah
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 9.2:
+        non_striker: Mahmudullah
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 9.3:
+        non_striker: Mahmudullah
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+        wicket:
+          player_out: Nazmul Hossain Shanto
+          kind: caught and bowled
+    - 9.4:
+        non_striker: Mahmudullah
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 9.5:
+        non_striker: Ariful Haque
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 9.6:
+        non_striker: Mahmudullah
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 10.1:
+        non_striker: Mahmudullah
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 10.2:
+        non_striker: Ariful Haque
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 10.3:
+        non_striker: Mahmudullah
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+    - 10.4:
+        non_striker: Mahmudullah
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ariful Haque
+    - 10.5:
+        non_striker: Mahmudullah
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 10.6:
+        non_striker: Ariful Haque
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 11.1:
+        non_striker: Ariful Haque
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 11.2:
+        non_striker: Ariful Haque
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 11.3:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 11.4:
+        non_striker: Ariful Haque
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 11.5:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ariful Haque
+    - 11.6:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 11.7:
+        non_striker: Ariful Haque
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 12.1:
+        non_striker: Ariful Haque
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 12.2:
+        non_striker: Ariful Haque
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 12.3:
+        non_striker: Mahmudullah
+        bowler: Tanbir Hayder
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Ariful Haque
+    - 12.4:
+        non_striker: Mahmudullah
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+    - 12.5:
+        non_striker: Mahmudullah
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 12.6:
+        non_striker: Ariful Haque
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 12.7:
+        non_striker: Mahmudullah
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+    - 13.1:
+        non_striker: Ariful Haque
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 13.2:
+        non_striker: Ariful Haque
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 13.3:
+        non_striker: Ariful Haque
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 13.4:
+        non_striker: Mahmudullah
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 13.5:
+        non_striker: Ariful Haque
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 13.6:
+        non_striker: Ariful Haque
+        bowler: Sunzamul Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 14.1:
+        non_striker: Ariful Haque
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahmudullah
+    - 14.2:
+        non_striker: Ariful Haque
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 14.3:
+        non_striker: Ariful Haque
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 14.4:
+        non_striker: Mahmudullah
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 14.5:
+        non_striker: Ariful Haque
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 14.6:
+        non_striker: Mahmudullah
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 14.7:
+        non_striker: Ariful Haque
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 15.1:
+        non_striker: Ariful Haque
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 15.2:
+        non_striker: Mahmudullah
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+    - 15.3:
+        non_striker: Mahmudullah
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ariful Haque
+    - 15.4:
+        non_striker: Mahmudullah
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ariful Haque
+    - 15.5:
+        non_striker: Mahmudullah
+        bowler: Tanbir Hayder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 15.6:
+        non_striker: Ariful Haque
+        bowler: Tanbir Hayder
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Mahmudullah
+    - 16.1:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ariful Haque
+    - 16.2:
+        non_striker: Ariful Haque
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 16.3:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+    - 16.4:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+    - 16.5:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ariful Haque
+    - 16.6:
+        non_striker: Mahmudullah
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ariful Haque
+    - 17.1:
+        non_striker: Ariful Haque
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 17.2:
+        non_striker: Ariful Haque
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 17.3:
+        non_striker: Mahmudullah
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ariful Haque
+    - 17.4:
+        non_striker: Mahmudullah
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ariful Haque
+        wicket:
+          player_out: Ariful Haque
+          fielders:
+          - CJ Jordan
+          kind: caught
+    - 17.5:
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CR Brathwaite
+        batsman: Mahmudullah
+    - 17.6:
+        non_striker: Mahmudullah
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Brathwaite
+    - 17.7:
+        non_striker: Mahmudullah
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CR Brathwaite
+    - 18.1:
+        non_striker: CR Brathwaite
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 18.2:
+        non_striker: CR Brathwaite
+        bowler: CJ Jordan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah

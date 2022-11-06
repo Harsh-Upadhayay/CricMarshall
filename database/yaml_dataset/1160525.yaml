@@ -1,0 +1,1969 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-02-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Christchurch
+  competition: Super Smash
+  dates:
+  - '2019-02-09'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Canterbury
+    by:
+      wickets: 7
+  overs: 20
+  players:
+    Wellington:
+    - MG Bracewell
+    - DP Conway
+    - TA Blundell
+    - MJ Nofal
+    - LJ Woodcock
+    - LR Johns
+    - R Ravindra
+    - LV van Beek
+    - OR Newton
+    - JS Patel
+    - HK Bennett
+    Canterbury:
+    - CJ Bowes
+    - SJ Murdoch
+    - CE McConchie
+    - AM Ellis
+    - CD Fletcher
+    - KA Jamieson
+    - JTA Benton
+    - TD Astle
+    - WSA Williams
+    - EJ Nuttall
+    - LJ Carter
+  registry:
+    people:
+      AM Ellis: f987245c
+      CD Fletcher: 4af9f5d4
+      CE McConchie: d285acaf
+      CJ Bowes: 45df0e72
+      DJ Walker: d4aea8ac
+      DP Conway: df5a6881
+      EJ Nuttall: c9bb898a
+      HK Bennett: '94238673'
+      JAK Bromley: ccf7baaf
+      JS Patel: f5821615
+      JTA Benton: 05d4c10d
+      KA Jamieson: 68c56d09
+      LJ Carter: dfb51f40
+      LJ Woodcock: 9ba59a3c
+      LR Johns: 8ba20313
+      LV van Beek: 782fb776
+      MG Bracewell: e38bce7a
+      MJ Nofal: ac762575
+      OR Newton: 4e520f6c
+      R Ravindra: ba5e1069
+      SJ Murdoch: 2415a225
+      TA Blundell: 21e5f325
+      TD Astle: 383dd431
+      WSA Williams: 861eed37
+  teams:
+  - Wellington
+  - Canterbury
+  toss:
+    decision: bat
+    winner: Wellington
+  umpires:
+  - DJ Walker
+  - JAK Bromley
+  venue: Hagley Oval
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DP Conway
+        batsman: MG Bracewell
+    - 0.2:
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Conway
+        batsman: MG Bracewell
+    - 0.3:
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Conway
+        batsman: MG Bracewell
+    - 0.4:
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Conway
+        batsman: MG Bracewell
+    - 0.5:
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: DP Conway
+        batsman: MG Bracewell
+    - 0.6:
+        non_striker: DP Conway
+        bowler: CE McConchie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Bracewell
+        wicket:
+          player_out: MG Bracewell
+          fielders:
+          - CD Fletcher
+          kind: stumped
+    - 0.7:
+        non_striker: DP Conway
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 1.1:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.2:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 1.3:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 1.4:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 1.5:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.6:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 2.1:
+        non_striker: DP Conway
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 2.2:
+        non_striker: DP Conway
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 2.3:
+        non_striker: DP Conway
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 2.4:
+        non_striker: TA Blundell
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 2.5:
+        non_striker: TA Blundell
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.6:
+        non_striker: TA Blundell
+        bowler: EJ Nuttall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DP Conway
+    - 3.1:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 3.2:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          kind: caught and bowled
+    - 3.3:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 3.4:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Nofal
+    - 3.5:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Nofal
+    - 3.6:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 4.1:
+        non_striker: MJ Nofal
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 4.2:
+        non_striker: MJ Nofal
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 4.3:
+        non_striker: TA Blundell
+        bowler: EJ Nuttall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Nofal
+    - 4.4:
+        non_striker: TA Blundell
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 4.5:
+        non_striker: MJ Nofal
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 4.6:
+        non_striker: MJ Nofal
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 4.7:
+        non_striker: MJ Nofal
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 5.1:
+        non_striker: TA Blundell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Nofal
+    - 5.2:
+        non_striker: TA Blundell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 5.3:
+        non_striker: TA Blundell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 5.4:
+        non_striker: TA Blundell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Nofal
+    - 5.5:
+        non_striker: TA Blundell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 5.6:
+        non_striker: MJ Nofal
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 6.1:
+        non_striker: TA Blundell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 6.2:
+        non_striker: MJ Nofal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 6.3:
+        non_striker: MJ Nofal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 6.4:
+        non_striker: MJ Nofal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 6.5:
+        non_striker: TA Blundell
+        bowler: TD Astle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Nofal
+    - 6.6:
+        non_striker: MJ Nofal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 7.1:
+        non_striker: MJ Nofal
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 7.2:
+        non_striker: MJ Nofal
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+        wicket:
+          player_out: TA Blundell
+          kind: bowled
+    - 7.3:
+        non_striker: MJ Nofal
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Woodcock
+    - 7.4:
+        non_striker: MJ Nofal
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Woodcock
+    - 7.5:
+        non_striker: LJ Woodcock
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 7.6:
+        non_striker: LJ Woodcock
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 8.1:
+        non_striker: LJ Woodcock
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Nofal
+    - 8.2:
+        non_striker: LJ Woodcock
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 8.3:
+        non_striker: MJ Nofal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Woodcock
+    - 8.4:
+        non_striker: MJ Nofal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Woodcock
+    - 8.5:
+        non_striker: MJ Nofal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Woodcock
+    - 8.6:
+        non_striker: LJ Woodcock
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 9.1:
+        non_striker: MJ Nofal
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Woodcock
+    - 9.2:
+        non_striker: MJ Nofal
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Woodcock
+    - 9.3:
+        non_striker: MJ Nofal
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Woodcock
+    - 9.4:
+        non_striker: MJ Nofal
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Woodcock
+        wicket:
+          player_out: LJ Woodcock
+          fielders:
+          - CD Fletcher
+          kind: stumped
+    - 9.5:
+        non_striker: MJ Nofal
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Johns
+    - 9.6:
+        non_striker: LR Johns
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 10.1:
+        non_striker: LR Johns
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 10.2:
+        non_striker: LR Johns
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 10.3:
+        non_striker: LR Johns
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 10.4:
+        non_striker: MJ Nofal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Johns
+    - 10.5:
+        non_striker: LR Johns
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 10.6:
+        non_striker: MJ Nofal
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Johns
+    - 11.1:
+        non_striker: MJ Nofal
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Johns
+    - 11.2:
+        non_striker: LR Johns
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 11.3:
+        non_striker: MJ Nofal
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Johns
+    - 11.4:
+        non_striker: LR Johns
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 11.5:
+        non_striker: MJ Nofal
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Johns
+    - 11.6:
+        non_striker: LR Johns
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 12.1:
+        non_striker: LR Johns
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 12.2:
+        non_striker: MJ Nofal
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Johns
+    - 12.3:
+        non_striker: LR Johns
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 12.4:
+        non_striker: LR Johns
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 12.5:
+        non_striker: LR Johns
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+        wicket:
+          player_out: MJ Nofal
+          fielders:
+          - TD Astle
+          kind: caught
+    - 12.6:
+        non_striker: R Ravindra
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Johns
+    - 13.1:
+        non_striker: LR Johns
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 13.2:
+        non_striker: LR Johns
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 13.3:
+        non_striker: R Ravindra
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Johns
+    - 13.4:
+        non_striker: LR Johns
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 13.5:
+        non_striker: R Ravindra
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Johns
+    - 13.6:
+        non_striker: R Ravindra
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Johns
+    - 14.1:
+        non_striker: R Ravindra
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Johns
+    - 14.2:
+        non_striker: R Ravindra
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LR Johns
+    - 14.3:
+        non_striker: R Ravindra
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LR Johns
+    - 14.4:
+        non_striker: R Ravindra
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Johns
+    - 14.5:
+        non_striker: LR Johns
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 14.6:
+        non_striker: R Ravindra
+        bowler: JTA Benton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LR Johns
+    - 14.7:
+        non_striker: R Ravindra
+        bowler: JTA Benton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Johns
+    - 15.1:
+        non_striker: LR Johns
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 15.2:
+        non_striker: LR Johns
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 15.3:
+        non_striker: R Ravindra
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Johns
+    - 15.4:
+        non_striker: R Ravindra
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Johns
+    - 15.5:
+        non_striker: LR Johns
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 15.6:
+        non_striker: R Ravindra
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Johns
+        wicket:
+          player_out: LR Johns
+          fielders:
+          - EJ Nuttall
+          kind: caught
+    - 16.1:
+        non_striker: R Ravindra
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 16.2:
+        non_striker: R Ravindra
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 16.3:
+        non_striker: R Ravindra
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 16.4:
+        non_striker: LV van Beek
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 16.5:
+        non_striker: R Ravindra
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV van Beek
+    - 16.6:
+        non_striker: R Ravindra
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 17.1:
+        non_striker: LV van Beek
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+        wicket:
+          player_out: R Ravindra
+          fielders:
+          - SJ Murdoch
+          kind: caught
+    - 17.2:
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: OR Newton
+        batsman: LV van Beek
+    - 17.3:
+        non_striker: LV van Beek
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OR Newton
+    - 17.4:
+        non_striker: LV van Beek
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OR Newton
+    - 17.5:
+        non_striker: LV van Beek
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OR Newton
+    - 17.6:
+        non_striker: OR Newton
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 18.1:
+        non_striker: OR Newton
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LV van Beek
+    - 18.2:
+        non_striker: OR Newton
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 18.3:
+        non_striker: LV van Beek
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OR Newton
+    - 18.4:
+        non_striker: OR Newton
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 18.5:
+        non_striker: LV van Beek
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OR Newton
+    - 18.6:
+        non_striker: LV van Beek
+        bowler: WSA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OR Newton
+        wicket:
+          player_out: OR Newton
+          fielders:
+          - LJ Carter
+          kind: caught
+    - 19.1:
+        non_striker: LV van Beek
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JS Patel
+    - 19.2:
+        non_striker: LV van Beek
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Patel
+    - 19.3:
+        non_striker: JS Patel
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 19.4:
+        non_striker: LV van Beek
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JS Patel
+    - 19.5:
+        non_striker: LV van Beek
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Patel
+    - 19.6:
+        non_striker: JS Patel
+        bowler: AM Ellis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV van Beek
+- 2nd innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SJ Murdoch
+        batsman: CJ Bowes
+    - 0.2:
+        non_striker: CJ Bowes
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Murdoch
+    - 0.3:
+        non_striker: SJ Murdoch
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 0.4:
+        non_striker: SJ Murdoch
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 0.5:
+        non_striker: SJ Murdoch
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 0.6:
+        non_striker: CJ Bowes
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Murdoch
+    - 1.1:
+        non_striker: SJ Murdoch
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 1.2:
+        non_striker: SJ Murdoch
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 1.3:
+        non_striker: CJ Bowes
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Murdoch
+    - 1.4:
+        non_striker: SJ Murdoch
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 1.5:
+        non_striker: SJ Murdoch
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 1.6:
+        non_striker: SJ Murdoch
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 2.1:
+        non_striker: SJ Murdoch
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CJ Bowes
+    - 2.2:
+        non_striker: CJ Bowes
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+    - 2.3:
+        non_striker: CJ Bowes
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+    - 2.4:
+        non_striker: CJ Bowes
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Murdoch
+    - 2.5:
+        non_striker: CJ Bowes
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Murdoch
+    - 2.6:
+        non_striker: SJ Murdoch
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 3.1:
+        non_striker: SJ Murdoch
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 3.2:
+        non_striker: SJ Murdoch
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 3.3:
+        non_striker: CJ Bowes
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+    - 3.4:
+        non_striker: CJ Bowes
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Murdoch
+    - 3.5:
+        non_striker: CJ Bowes
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+    - 3.6:
+        non_striker: CJ Bowes
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+    - 4.1:
+        non_striker: SJ Murdoch
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 4.2:
+        non_striker: SJ Murdoch
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 4.3:
+        non_striker: SJ Murdoch
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Bowes
+    - 4.4:
+        non_striker: SJ Murdoch
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 4.5:
+        non_striker: SJ Murdoch
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 4.6:
+        non_striker: SJ Murdoch
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 5.1:
+        non_striker: SJ Murdoch
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 5.2:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+    - 5.3:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Murdoch
+    - 5.4:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+    - 5.5:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+    - 5.6:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Murdoch
+    - 6.1:
+        non_striker: CJ Bowes
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Murdoch
+    - 6.2:
+        non_striker: SJ Murdoch
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 6.3:
+        non_striker: CJ Bowes
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Murdoch
+    - 6.4:
+        non_striker: CJ Bowes
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Murdoch
+    - 6.5:
+        non_striker: SJ Murdoch
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 6.6:
+        non_striker: CJ Bowes
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+    - 7.1:
+        non_striker: SJ Murdoch
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 7.2:
+        non_striker: SJ Murdoch
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 7.3:
+        non_striker: CJ Bowes
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Murdoch
+    - 7.4:
+        non_striker: SJ Murdoch
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 7.5:
+        non_striker: CJ Bowes
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+    - 7.6:
+        non_striker: CJ Bowes
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Murdoch
+    - 8.1:
+        non_striker: CJ Bowes
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Murdoch
+        wicket:
+          player_out: SJ Murdoch
+          fielders:
+          - MJ Nofal
+          kind: caught
+    - 8.2:
+        non_striker: CJ Bowes
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 8.3:
+        non_striker: CJ Bowes
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CE McConchie
+    - 8.4:
+        non_striker: CE McConchie
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 8.5:
+        non_striker: CE McConchie
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 8.6:
+        non_striker: CE McConchie
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CJ Bowes
+    - 8.7:
+        non_striker: CE McConchie
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 9.1:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 9.2:
+        non_striker: CE McConchie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 9.3:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 9.4:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 9.5:
+        non_striker: CE McConchie
+        bowler: JS Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CJ Bowes
+    - 9.6:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 10.1:
+        non_striker: CJ Bowes
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 10.2:
+        non_striker: CE McConchie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 10.3:
+        non_striker: CE McConchie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 10.4:
+        non_striker: CE McConchie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 10.5:
+        non_striker: CE McConchie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 10.6:
+        non_striker: CE McConchie
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CJ Bowes
+    - 11.1:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 11.2:
+        non_striker: CE McConchie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 11.3:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE McConchie
+    - 11.4:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 11.5:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 11.6:
+        non_striker: CE McConchie
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 12.1:
+        non_striker: CE McConchie
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 12.2:
+        non_striker: CJ Bowes
+        bowler: R Ravindra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CE McConchie
+    - 12.3:
+        non_striker: CJ Bowes
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 12.4:
+        non_striker: CJ Bowes
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+        wicket:
+          player_out: CE McConchie
+          fielders:
+          - JS Patel
+          kind: caught
+    - 12.5:
+        non_striker: CJ Bowes
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Ellis
+    - 12.6:
+        non_striker: CJ Bowes
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+    - 12.7:
+        non_striker: CJ Bowes
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+    - 13.1:
+        non_striker: AM Ellis
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 13.2:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Ellis
+    - 13.3:
+        non_striker: AM Ellis
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 13.4:
+        non_striker: AM Ellis
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 13.5:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+    - 13.6:
+        non_striker: CJ Bowes
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+    - 14.1:
+        non_striker: AM Ellis
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Bowes
+    - 14.2:
+        non_striker: CJ Bowes
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Ellis
+    - 14.3:
+        non_striker: CJ Bowes
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+    - 14.4:
+        non_striker: CJ Bowes
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Ellis
+    - 14.5:
+        non_striker: CJ Bowes
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Ellis
+    - 14.6:
+        non_striker: CJ Bowes
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+    - 15.1:
+        non_striker: AM Ellis
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+        wicket:
+          player_out: CJ Bowes
+          kind: caught and bowled
+    - 15.2:
+        non_striker: AM Ellis
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 15.3:
+        non_striker: AM Ellis
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 15.4:
+        non_striker: CD Fletcher
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+    - 15.5:
+        non_striker: CD Fletcher
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Ellis
+    - 15.6:
+        non_striker: AM Ellis
+        bowler: LJ Woodcock
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 16.1:
+        non_striker: CD Fletcher
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Ellis
+    - 16.2:
+        non_striker: CD Fletcher
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Ellis
+    - 16.3:
+        non_striker: AM Ellis
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 16.4:
+        non_striker: AM Ellis
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 16.5:
+        non_striker: AM Ellis
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 16.6:
+        non_striker: CD Fletcher
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Ellis

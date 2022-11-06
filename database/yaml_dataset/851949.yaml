@@ -1,0 +1,2150 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-04-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Port Elizabeth
+  competition: Ram Slam T20 Challenge
+  dates:
+  - '2015-11-13'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Warriors
+    by:
+      runs: 25
+  overs: 20
+  player_of_match:
+  - CN Ackermann
+  - SSB Magala
+  players:
+    Warriors:
+    - JT Smuts
+    - CN Ackermann
+    - CA Ingram
+    - MY Vallie
+    - C Jonker
+    - C Fortuin
+    - MJ Nqolo
+    - L Mbane
+    - ACR Birch
+    - SSB Magala
+    - BD Walters
+    Lions:
+    - HE van der Dussen
+    - DP Conway
+    - GC Viljoen
+    - AN Petersen
+    - AJ Malan
+    - TL Tsolekile
+    - S Pillay
+    - D Pretorius
+    - AM Phangiso
+    - BC Fortuin
+    - E Leie
+  registry:
+    people:
+      ACR Birch: 9df3a2f4
+      AJ Malan: 6a315fb5
+      AM Phangiso: 7f8ecc51
+      AN Petersen: e01aafc1
+      AT Holdstock: 6fa3258c
+      BC Fortuin: 9a2fc964
+      BD Walters: 1e182ae2
+      C Fortuin: f25cebec
+      C Jonker: a81d6706
+      CA Ingram: c995d726
+      CN Ackermann: e734d090
+      D Govindjee: 8b4c4069
+      D Pretorius: 11614d87
+      DP Conway: df5a6881
+      E Leie: a7bc76a0
+      GC Viljoen: a316d663
+      HE van der Dussen: 9948e262
+      JT Smuts: 42172c3c
+      L Mbane: ca322fd6
+      MJ Nqolo: af917dde
+      MW Brown: d83d7796
+      MY Vallie: 9fa54c94
+      S Pillay: '09497f5a'
+      SSB Magala: 8361e524
+      Stephen Harris: fdcfd4aa
+      TL Tsolekile: 3b94297b
+  teams:
+  - Warriors
+  - Lions
+  toss:
+    winner: Lions
+    decision: field
+  umpires:
+  - AT Holdstock
+  - MW Brown
+  venue: St George's Park, Port Elizabeth
+innings:
+- 1st innings:
+    team: Warriors
+    deliveries:
+    - 0.1:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Smuts
+        wicket:
+          player_out: JT Smuts
+          fielders:
+          - TL Tsolekile
+          kind: caught
+    - 0.2:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: CA Ingram
+    - 0.3:
+        non_striker: CA Ingram
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 0.4:
+        non_striker: CA Ingram
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 0.5:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 0.6:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 0.7:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 1.1:
+        non_striker: CA Ingram
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 1.2:
+        non_striker: CA Ingram
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 1.3:
+        non_striker: CN Ackermann
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 1.4:
+        non_striker: CN Ackermann
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 1.5:
+        non_striker: CN Ackermann
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 1.6:
+        non_striker: CN Ackermann
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 2.1:
+        non_striker: CA Ingram
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 2.2:
+        non_striker: CA Ingram
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 2.3:
+        non_striker: CN Ackermann
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 2.4:
+        non_striker: CN Ackermann
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Ingram
+    - 2.5:
+        non_striker: CN Ackermann
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 2.6:
+        non_striker: CA Ingram
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 3.1:
+        non_striker: CA Ingram
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 3.2:
+        non_striker: CA Ingram
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 3.3:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 3.4:
+        non_striker: CA Ingram
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 3.5:
+        non_striker: CA Ingram
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 3.6:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Ingram
+    - 4.1:
+        non_striker: CA Ingram
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 4.2:
+        non_striker: CA Ingram
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 4.3:
+        non_striker: CA Ingram
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 4.4:
+        non_striker: CA Ingram
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 4.5:
+        non_striker: CA Ingram
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 4.6:
+        non_striker: CA Ingram
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 5.1:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 5.2:
+        non_striker: CA Ingram
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 5.3:
+        non_striker: CA Ingram
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 5.4:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 5.5:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CA Ingram
+    - 5.6:
+        non_striker: CA Ingram
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 6.1:
+        non_striker: CN Ackermann
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 6.2:
+        non_striker: CA Ingram
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 6.3:
+        non_striker: CN Ackermann
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 6.4:
+        non_striker: CA Ingram
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 6.5:
+        non_striker: CN Ackermann
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 6.6:
+        non_striker: CN Ackermann
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 7.1:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 7.2:
+        non_striker: CA Ingram
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 7.3:
+        non_striker: CA Ingram
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 7.4:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 7.5:
+        non_striker: CA Ingram
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 7.6:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 8.1:
+        non_striker: CA Ingram
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 8.2:
+        non_striker: CN Ackermann
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 8.3:
+        non_striker: CA Ingram
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 8.4:
+        non_striker: CN Ackermann
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 8.5:
+        non_striker: CN Ackermann
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Ingram
+    - 8.6:
+        non_striker: CN Ackermann
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 9.1:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 9.2:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 9.3:
+        non_striker: CA Ingram
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CN Ackermann
+    - 9.4:
+        non_striker: CA Ingram
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 9.5:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 9.6:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 10.1:
+        non_striker: CN Ackermann
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 10.2:
+        non_striker: CA Ingram
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 10.3:
+        non_striker: CA Ingram
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 10.4:
+        non_striker: CN Ackermann
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 10.5:
+        non_striker: CN Ackermann
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 10.6:
+        non_striker: CN Ackermann
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 11.1:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 11.2:
+        non_striker: CA Ingram
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 11.3:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+        wicket:
+          player_out: CA Ingram
+          fielders:
+          - AJ Malan
+          kind: caught
+    - 11.4:
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MY Vallie
+        batsman: CN Ackermann
+    - 11.5:
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MY Vallie
+        batsman: CN Ackermann
+    - 11.6:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MY Vallie
+    - 12.1:
+        non_striker: MY Vallie
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 12.2:
+        non_striker: CN Ackermann
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MY Vallie
+    - 12.3:
+        non_striker: MY Vallie
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Ackermann
+    - 12.4:
+        non_striker: MY Vallie
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Ackermann
+    - 12.5:
+        non_striker: MY Vallie
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 12.6:
+        non_striker: CN Ackermann
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MY Vallie
+        wicket:
+          player_out: MY Vallie
+          kind: bowled
+    - 13.1:
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Jonker
+        batsman: CN Ackermann
+    - 13.2:
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Jonker
+        batsman: CN Ackermann
+    - 13.3:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Jonker
+    - 13.4:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 13.5:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 13.6:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 13.7:
+        non_striker: CN Ackermann
+        bowler: E Leie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+    - 14.1:
+        non_striker: C Jonker
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Ackermann
+    - 14.2:
+        non_striker: C Jonker
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 14.3:
+        non_striker: CN Ackermann
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Jonker
+        wicket:
+          player_out: C Jonker
+          fielders:
+          - TL Tsolekile
+          kind: stumped
+    - 14.4:
+        non_striker: CN Ackermann
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 14.5:
+        non_striker: C Fortuin
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 14.6:
+        non_striker: CN Ackermann
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 15.1:
+        non_striker: CN Ackermann
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 15.2:
+        non_striker: C Fortuin
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 15.3:
+        non_striker: CN Ackermann
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Fortuin
+    - 15.4:
+        non_striker: CN Ackermann
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 15.5:
+        non_striker: C Fortuin
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Ackermann
+    - 15.6:
+        non_striker: C Fortuin
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 15.7:
+        non_striker: CN Ackermann
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Fortuin
+    - 15.8:
+        non_striker: CN Ackermann
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 16.1:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 16.2:
+        non_striker: C Fortuin
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 16.3:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Fortuin
+    - 16.4:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 16.5:
+        non_striker: C Fortuin
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 16.6:
+        non_striker: CN Ackermann
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 17.1:
+        non_striker: C Fortuin
+        bowler: S Pillay
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 17.2:
+        non_striker: C Fortuin
+        bowler: S Pillay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 17.3:
+        non_striker: C Fortuin
+        bowler: S Pillay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 17.4:
+        non_striker: CN Ackermann
+        bowler: S Pillay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 17.5:
+        non_striker: C Fortuin
+        bowler: S Pillay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 17.6:
+        non_striker: C Fortuin
+        bowler: S Pillay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 18.1:
+        non_striker: CN Ackermann
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Fortuin
+    - 18.2:
+        non_striker: CN Ackermann
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 18.3:
+        non_striker: C Fortuin
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 18.4:
+        non_striker: C Fortuin
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 18.5:
+        non_striker: CN Ackermann
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 18.6:
+        non_striker: C Fortuin
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 19.1:
+        non_striker: C Fortuin
+        bowler: S Pillay
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Ackermann
+    - 19.2:
+        non_striker: C Fortuin
+        bowler: S Pillay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 19.3:
+        non_striker: CN Ackermann
+        bowler: S Pillay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+    - 19.4:
+        non_striker: C Fortuin
+        bowler: S Pillay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 19.5:
+        non_striker: CN Ackermann
+        bowler: S Pillay
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Fortuin
+    - 19.6:
+        non_striker: CN Ackermann
+        bowler: S Pillay
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Fortuin
+- 2nd innings:
+    team: Lions
+    deliveries:
+    - 0.1:
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Conway
+        batsman: HE van der Dussen
+    - 0.2:
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Conway
+        batsman: HE van der Dussen
+    - 0.3:
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Conway
+        batsman: HE van der Dussen
+    - 0.4:
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Conway
+        batsman: HE van der Dussen
+    - 0.5:
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DP Conway
+        batsman: HE van der Dussen
+    - 0.6:
+        non_striker: DP Conway
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 1.1:
+        non_striker: HE van der Dussen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.2:
+        non_striker: HE van der Dussen
+        bowler: BD Walters
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 1.3:
+        non_striker: HE van der Dussen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.4:
+        non_striker: HE van der Dussen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.5:
+        non_striker: HE van der Dussen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 1.6:
+        non_striker: HE van der Dussen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.7:
+        non_striker: HE van der Dussen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 2.1:
+        non_striker: DP Conway
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 2.2:
+        non_striker: DP Conway
+        bowler: ACR Birch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: HE van der Dussen
+    - 2.3:
+        non_striker: HE van der Dussen
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 2.4:
+        non_striker: HE van der Dussen
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.5:
+        non_striker: HE van der Dussen
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.6:
+        non_striker: HE van der Dussen
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 3.1:
+        non_striker: HE van der Dussen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 3.2:
+        non_striker: DP Conway
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 3.3:
+        non_striker: DP Conway
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HE van der Dussen
+    - 3.4:
+        non_striker: HE van der Dussen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 3.5:
+        non_striker: HE van der Dussen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 3.6:
+        non_striker: HE van der Dussen
+        bowler: BD Walters
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 4.1:
+        non_striker: HE van der Dussen
+        bowler: L Mbane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 4.2:
+        non_striker: HE van der Dussen
+        bowler: L Mbane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 4.3:
+        non_striker: DP Conway
+        bowler: L Mbane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 4.4:
+        non_striker: DP Conway
+        bowler: L Mbane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 4.5:
+        non_striker: HE van der Dussen
+        bowler: L Mbane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 4.6:
+        non_striker: DP Conway
+        bowler: L Mbane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 5.1:
+        non_striker: DP Conway
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 5.2:
+        non_striker: DP Conway
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HE van der Dussen
+    - 5.3:
+        non_striker: HE van der Dussen
+        bowler: SSB Magala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 5.4:
+        non_striker: HE van der Dussen
+        bowler: SSB Magala
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 5.5:
+        non_striker: HE van der Dussen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          kind: bowled
+    - 5.6:
+        non_striker: HE van der Dussen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+    - 5.7:
+        non_striker: HE van der Dussen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Viljoen
+        wicket:
+          player_out: GC Viljoen
+          fielders:
+          - CN Ackermann
+          kind: caught
+    - 5.8:
+        non_striker: AN Petersen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 6.1:
+        non_striker: AN Petersen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 6.2:
+        non_striker: HE van der Dussen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Petersen
+        wicket:
+          player_out: AN Petersen
+          kind: bowled
+    - 6.3:
+        non_striker: HE van der Dussen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Malan
+    - 6.4:
+        non_striker: HE van der Dussen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Malan
+    - 6.5:
+        non_striker: HE van der Dussen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Malan
+    - 6.6:
+        non_striker: AJ Malan
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.1:
+        non_striker: AJ Malan
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 7.2:
+        non_striker: AJ Malan
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 7.3:
+        non_striker: AJ Malan
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.4:
+        non_striker: HE van der Dussen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Malan
+    - 7.5:
+        non_striker: HE van der Dussen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Malan
+        wicket:
+          player_out: AJ Malan
+          fielders:
+          - JT Smuts
+          kind: caught
+    - 7.6:
+        non_striker: HE van der Dussen
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Tsolekile
+    - 8.1:
+        non_striker: TL Tsolekile
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 8.2:
+        non_striker: TL Tsolekile
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 8.3:
+        non_striker: TL Tsolekile
+        bowler: JT Smuts
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HE van der Dussen
+    - 8.4:
+        non_striker: HE van der Dussen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Tsolekile
+    - 8.5:
+        non_striker: TL Tsolekile
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 8.6:
+        non_striker: TL Tsolekile
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 8.7:
+        non_striker: TL Tsolekile
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 9.1:
+        non_striker: HE van der Dussen
+        bowler: L Mbane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Tsolekile
+    - 9.2:
+        non_striker: TL Tsolekile
+        bowler: L Mbane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 9.3:
+        non_striker: TL Tsolekile
+        bowler: L Mbane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 9.4:
+        non_striker: HE van der Dussen
+        bowler: L Mbane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Tsolekile
+    - 9.5:
+        non_striker: HE van der Dussen
+        bowler: L Mbane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Tsolekile
+    - 9.6:
+        non_striker: TL Tsolekile
+        bowler: L Mbane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.1:
+        non_striker: TL Tsolekile
+        bowler: MY Vallie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 10.2:
+        non_striker: TL Tsolekile
+        bowler: MY Vallie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 10.3:
+        non_striker: TL Tsolekile
+        bowler: MY Vallie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 10.4:
+        non_striker: TL Tsolekile
+        bowler: MY Vallie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.5:
+        non_striker: HE van der Dussen
+        bowler: MY Vallie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Tsolekile
+    - 10.6:
+        non_striker: TL Tsolekile
+        bowler: MY Vallie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 11.1:
+        non_striker: HE van der Dussen
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Tsolekile
+    - 11.2:
+        non_striker: TL Tsolekile
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 11.3:
+        non_striker: HE van der Dussen
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Tsolekile
+    - 11.4:
+        non_striker: TL Tsolekile
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 11.5:
+        non_striker: HE van der Dussen
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Tsolekile
+    - 11.6:
+        non_striker: TL Tsolekile
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 12.1:
+        non_striker: TL Tsolekile
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 12.2:
+        non_striker: HE van der Dussen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Tsolekile
+    - 12.3:
+        non_striker: HE van der Dussen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Tsolekile
+    - 12.4:
+        non_striker: TL Tsolekile
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 12.5:
+        non_striker: HE van der Dussen
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Tsolekile
+    - 12.6:
+        non_striker: TL Tsolekile
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 13.1:
+        non_striker: HE van der Dussen
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Tsolekile
+    - 13.2:
+        non_striker: TL Tsolekile
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 13.3:
+        non_striker: HE van der Dussen
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Tsolekile
+    - 13.4:
+        non_striker: HE van der Dussen
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Tsolekile
+    - 13.5:
+        non_striker: HE van der Dussen
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Tsolekile
+    - 13.6:
+        non_striker: HE van der Dussen
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Tsolekile
+    - 14.1:
+        non_striker: HE van der Dussen
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TL Tsolekile
+    - 14.2:
+        non_striker: HE van der Dussen
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TL Tsolekile
+    - 14.3:
+        non_striker: HE van der Dussen
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Tsolekile
+    - 14.4:
+        non_striker: TL Tsolekile
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 14.5:
+        non_striker: HE van der Dussen
+        bowler: ACR Birch
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TL Tsolekile
+    - 14.6:
+        non_striker: TL Tsolekile
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 15.1:
+        non_striker: TL Tsolekile
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+        wicket:
+          player_out: HE van der Dussen
+          fielders:
+          - MY Vallie
+          kind: caught
+    - 15.2:
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Pillay
+        batsman: TL Tsolekile
+    - 15.3:
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Pillay
+        batsman: TL Tsolekile
+    - 15.4:
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Pillay
+        batsman: TL Tsolekile
+    - 15.5:
+        non_striker: TL Tsolekile
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pillay
+    - 15.6:
+        non_striker: S Pillay
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Tsolekile
+    - 16.1:
+        non_striker: TL Tsolekile
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillay
+    - 16.2:
+        non_striker: TL Tsolekile
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pillay
+    - 16.3:
+        non_striker: S Pillay
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Tsolekile
+    - 16.4:
+        non_striker: S Pillay
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TL Tsolekile
+    - 16.5:
+        non_striker: TL Tsolekile
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillay
+    - 16.6:
+        non_striker: TL Tsolekile
+        bowler: JT Smuts
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillay
+        wicket:
+          player_out: S Pillay
+          kind: bowled
+    - 17.1:
+        non_striker: D Pretorius
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TL Tsolekile
+        wicket:
+          player_out: TL Tsolekile
+          kind: bowled
+    - 17.2:
+        non_striker: D Pretorius
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Phangiso
+    - 17.3:
+        non_striker: D Pretorius
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Phangiso
+    - 17.4:
+        non_striker: AM Phangiso
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 17.5:
+        non_striker: AM Phangiso
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Pretorius
+    - 17.6:
+        non_striker: AM Phangiso
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Pretorius
+    - 18.1:
+        non_striker: D Pretorius
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Phangiso
+    - 18.2:
+        non_striker: D Pretorius
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Phangiso
+    - 18.3:
+        non_striker: AM Phangiso
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 18.4:
+        non_striker: AM Phangiso
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 18.5:
+        non_striker: AM Phangiso
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+    - 18.6:
+        non_striker: D Pretorius
+        bowler: ACR Birch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Phangiso
+    - 19.1:
+        non_striker: AM Phangiso
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+    - 19.2:
+        non_striker: AM Phangiso
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Pretorius
+        wicket:
+          player_out: D Pretorius
+          fielders:
+          - BD Walters
+          kind: caught
+    - 19.3:
+        non_striker: AM Phangiso
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Fortuin
+    - 19.4:
+        non_striker: BC Fortuin
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Phangiso
+        wicket:
+          player_out: AM Phangiso
+          fielders:
+          - MY Vallie
+          kind: run out
+    - 19.5:
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: E Leie
+        batsman: BC Fortuin
+    - 19.6:
+        non_striker: BC Fortuin
+        bowler: SSB Magala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Leie

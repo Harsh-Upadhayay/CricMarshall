@@ -1,0 +1,4848 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: London
+  competition: Royal London One-Day Cup
+  dates:
+  - '2014-08-20'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Surrey
+    by:
+      runs: 7
+    method: D/L
+  overs: 50
+  players:
+    Surrey:
+    - JJ Roy
+    - SM Davies
+    - VS Solanki
+    - RJ Burns
+    - GC Wilson
+    - A Kapil
+    - ZS Ansari
+    - RJ Peterson
+    - GA Edwards
+    - TE Linley
+    - JW Dernbach
+    Somerset:
+    - NRD Compton
+    - ME Trescothick
+    - PD Trego
+    - JC Hildreth
+    - JG Myburgh
+    - AWR Barrow
+    - L Gregory
+    - C Overton
+    - TD Groenewald
+    - AC Thomas
+    - MJ Leach
+  registry:
+    people:
+      A Kapil: 90255fab
+      AC Thomas: b552a935
+      AWR Barrow: 47190c4a
+      C Overton: e9987a94
+      DJ Millns: 46ecfe40
+      GA Edwards: '45966141'
+      GC Wilson: 05de1a5a
+      JC Hildreth: 782c0568
+      JG Myburgh: 47b4ad09
+      JJ Roy: d1c36f5c
+      JW Dernbach: 7be8a0ed
+      L Gregory: 06c2de82
+      MA Gough: 76752ac8
+      ME Trescothick: ea42ddb9
+      MJ Leach: 3987e390
+      NRD Compton: e5437a99
+      PD Trego: 93e06301
+      RJ Burns: 29e8a62e
+      RJ Peterson: 26ff4c29
+      SM Davies: 8fc65c2b
+      TD Groenewald: dddc811c
+      TE Linley: 1a88bdd3
+      VS Solanki: 7ee2ce62
+      ZS Ansari: 7b1e20ea
+  teams:
+  - Surrey
+  - Somerset
+  toss:
+    winner: Somerset
+    decision: field
+  umpires:
+  - DJ Millns
+  - MA Gough
+  venue: Kennington Oval, London
+innings:
+- 1st innings:
+    team: Surrey
+    deliveries:
+    - 0.1:
+        non_striker: SM Davies
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 0.2:
+        non_striker: SM Davies
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 0.3:
+        non_striker: SM Davies
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 0.4:
+        non_striker: JJ Roy
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 0.5:
+        non_striker: JJ Roy
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 0.6:
+        non_striker: JJ Roy
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 1.1:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+    - 1.2:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Roy
+    - 1.3:
+        non_striker: JJ Roy
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 1.4:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Roy
+    - 1.5:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Roy
+        wicket:
+          player_out: JJ Roy
+          kind: lbw
+    - 1.6:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 2.1:
+        non_striker: VS Solanki
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 2.2:
+        non_striker: VS Solanki
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 2.3:
+        non_striker: VS Solanki
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 2.4:
+        non_striker: VS Solanki
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 2.5:
+        non_striker: VS Solanki
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Davies
+    - 2.6:
+        non_striker: VS Solanki
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 3.1:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: VS Solanki
+    - 3.2:
+        non_striker: VS Solanki
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 3.3:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 3.4:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 3.5:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 3.6:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 3.7:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 4.1:
+        non_striker: SM Davies
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 4.2:
+        non_striker: SM Davies
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 4.3:
+        non_striker: SM Davies
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 4.4:
+        non_striker: SM Davies
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 4.5:
+        non_striker: SM Davies
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 4.6:
+        non_striker: SM Davies
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 5.1:
+        non_striker: VS Solanki
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 5.2:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: VS Solanki
+    - 5.3:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VS Solanki
+    - 5.4:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 5.5:
+        non_striker: VS Solanki
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Davies
+    - 5.6:
+        non_striker: VS Solanki
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 5.7:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 6.1:
+        non_striker: SM Davies
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 6.2:
+        non_striker: SM Davies
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 6.3:
+        non_striker: VS Solanki
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 6.4:
+        non_striker: VS Solanki
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Davies
+    - 6.5:
+        non_striker: VS Solanki
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 6.6:
+        non_striker: VS Solanki
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 7.1:
+        non_striker: VS Solanki
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 7.2:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VS Solanki
+    - 7.3:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 7.4:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 7.5:
+        non_striker: SM Davies
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 7.6:
+        non_striker: VS Solanki
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Davies
+    - 8.1:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 8.2:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 8.3:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 8.4:
+        non_striker: VS Solanki
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 8.5:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 8.6:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 9.1:
+        non_striker: VS Solanki
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 9.2:
+        non_striker: SM Davies
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 9.3:
+        non_striker: SM Davies
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+        wicket:
+          player_out: VS Solanki
+          kind: bowled
+    - 9.4:
+        non_striker: SM Davies
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 9.5:
+        non_striker: SM Davies
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 9.6:
+        non_striker: SM Davies
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 10.1:
+        non_striker: RJ Burns
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 10.2:
+        non_striker: RJ Burns
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 10.3:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 10.4:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJ Burns
+    - 10.5:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 10.6:
+        non_striker: RJ Burns
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 11.1:
+        non_striker: RJ Burns
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 11.2:
+        non_striker: RJ Burns
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 11.3:
+        non_striker: RJ Burns
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 11.4:
+        non_striker: SM Davies
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 11.5:
+        non_striker: SM Davies
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Burns
+    - 11.6:
+        non_striker: SM Davies
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 12.1:
+        non_striker: RJ Burns
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 12.2:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 12.3:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 12.4:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 12.5:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 12.6:
+        non_striker: RJ Burns
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Davies
+    - 13.1:
+        non_striker: SM Davies
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 13.2:
+        non_striker: SM Davies
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 13.3:
+        non_striker: RJ Burns
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 13.4:
+        non_striker: RJ Burns
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 13.5:
+        non_striker: SM Davies
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Burns
+    - 13.6:
+        non_striker: SM Davies
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 14.1:
+        non_striker: RJ Burns
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Davies
+    - 14.2:
+        non_striker: RJ Burns
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 14.3:
+        non_striker: RJ Burns
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 14.4:
+        non_striker: RJ Burns
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 14.5:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 14.6:
+        non_striker: SM Davies
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 15.1:
+        non_striker: RJ Burns
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Davies
+    - 15.2:
+        non_striker: RJ Burns
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 15.3:
+        non_striker: RJ Burns
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Davies
+    - 15.4:
+        non_striker: RJ Burns
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Davies
+    - 15.5:
+        non_striker: RJ Burns
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 15.6:
+        non_striker: RJ Burns
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 16.1:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+    - 16.2:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 16.3:
+        non_striker: SM Davies
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 16.4:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 16.5:
+        non_striker: SM Davies
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 16.6:
+        non_striker: SM Davies
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Burns
+    - 17.1:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 17.2:
+        non_striker: SM Davies
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 17.3:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 17.4:
+        non_striker: SM Davies
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 17.5:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Davies
+    - 17.6:
+        non_striker: SM Davies
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 18.1:
+        non_striker: SM Davies
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJ Burns
+    - 18.2:
+        non_striker: SM Davies
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 18.3:
+        non_striker: SM Davies
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 18.4:
+        non_striker: SM Davies
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 18.5:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Davies
+        wicket:
+          player_out: SM Davies
+          kind: lbw
+    - 18.6:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 19.1:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 19.2:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Burns
+    - 19.3:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 19.4:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 19.5:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 19.6:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 20.1:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 20.2:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 20.3:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 20.4:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 20.5:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 20.6:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Wilson
+    - 21.1:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 21.2:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 21.3:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Wilson
+    - 21.4:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 21.5:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 21.6:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 22.1:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 22.2:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 22.3:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 22.4:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 22.5:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 22.6:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 23.1:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 23.2:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 23.3:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 23.4:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 23.5:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: GC Wilson
+    - 23.6:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 24.1:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 24.2:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 24.3:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 24.4:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 24.5:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 24.6:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+    - 25.1:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 25.2:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 25.3:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Wilson
+    - 25.4:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 25.5:
+        non_striker: RJ Burns
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 25.6:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 26.1:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Burns
+    - 26.2:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 26.3:
+        non_striker: RJ Burns
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 26.4:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Burns
+        wicket:
+          player_out: RJ Burns
+          fielders:
+          - JG Myburgh
+          kind: caught
+    - 26.5:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 26.6:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 27.1:
+        non_striker: A Kapil
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 27.2:
+        non_striker: A Kapil
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 27.3:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 27.4:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 27.5:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 27.6:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 28.1:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 28.2:
+        non_striker: A Kapil
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 28.3:
+        non_striker: A Kapil
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 28.4:
+        non_striker: A Kapil
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 28.5:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 28.6:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 29.1:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 29.2:
+        non_striker: A Kapil
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 29.3:
+        non_striker: A Kapil
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 29.4:
+        non_striker: A Kapil
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 29.5:
+        non_striker: A Kapil
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 29.6:
+        non_striker: A Kapil
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 30.1:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 30.2:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 30.3:
+        non_striker: A Kapil
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 30.4:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kapil
+    - 30.5:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 30.6:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Kapil
+    - 31.1:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 31.2:
+        non_striker: A Kapil
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 31.3:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 31.4:
+        non_striker: GC Wilson
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 31.5:
+        non_striker: A Kapil
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Wilson
+    - 31.6:
+        non_striker: A Kapil
+        bowler: JG Myburgh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 32.1:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 32.2:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 32.3:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 32.4:
+        non_striker: A Kapil
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 32.5:
+        non_striker: A Kapil
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Wilson
+    - 32.6:
+        non_striker: A Kapil
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Wilson
+    - 33.1:
+        non_striker: GC Wilson
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 33.2:
+        non_striker: GC Wilson
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 33.3:
+        non_striker: GC Wilson
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 33.4:
+        non_striker: GC Wilson
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kapil
+    - 33.5:
+        non_striker: GC Wilson
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 33.6:
+        non_striker: A Kapil
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 34.1:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 34.2:
+        non_striker: A Kapil
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 34.3:
+        non_striker: A Kapil
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 34.4:
+        non_striker: A Kapil
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GC Wilson
+    - 34.5:
+        non_striker: A Kapil
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 34.6:
+        non_striker: GC Wilson
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 35.1:
+        non_striker: GC Wilson
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 35.2:
+        non_striker: GC Wilson
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 35.3:
+        non_striker: GC Wilson
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 35.4:
+        non_striker: A Kapil
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 35.5:
+        non_striker: GC Wilson
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kapil
+    - 35.6:
+        non_striker: GC Wilson
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kapil
+    - 36.1:
+        non_striker: A Kapil
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 36.2:
+        non_striker: A Kapil
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 36.3:
+        non_striker: GC Wilson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 36.4:
+        non_striker: GC Wilson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 36.5:
+        non_striker: GC Wilson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 36.6:
+        non_striker: GC Wilson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 37.1:
+        non_striker: A Kapil
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 37.2:
+        non_striker: A Kapil
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 37.3:
+        non_striker: A Kapil
+        bowler: AC Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GC Wilson
+    - 37.4:
+        non_striker: GC Wilson
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Kapil
+    - 37.5:
+        non_striker: GC Wilson
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kapil
+    - 37.6:
+        non_striker: GC Wilson
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 38.1:
+        non_striker: A Kapil
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 38.2:
+        non_striker: GC Wilson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 38.3:
+        non_striker: GC Wilson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 38.4:
+        non_striker: A Kapil
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 38.5:
+        non_striker: GC Wilson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kapil
+    - 38.6:
+        non_striker: GC Wilson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 39.1:
+        non_striker: GC Wilson
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kapil
+    - 39.2:
+        non_striker: GC Wilson
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 39.3:
+        non_striker: A Kapil
+        bowler: AC Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GC Wilson
+    - 39.4:
+        non_striker: GC Wilson
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+        wicket:
+          player_out: GC Wilson
+          fielders:
+          - C Overton
+          kind: run out
+    - 39.5:
+        non_striker: ZS Ansari
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 39.6:
+        non_striker: A Kapil
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 40.1:
+        non_striker: A Kapil
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZS Ansari
+    - 40.2:
+        non_striker: A Kapil
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZS Ansari
+    - 40.3:
+        non_striker: A Kapil
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 40.4:
+        non_striker: ZS Ansari
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kapil
+    - 40.5:
+        non_striker: ZS Ansari
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 40.6:
+        non_striker: ZS Ansari
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 41.1:
+        non_striker: ZS Ansari
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 41.2:
+        non_striker: A Kapil
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZS Ansari
+    - 41.3:
+        non_striker: A Kapil
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZS Ansari
+    - 41.4:
+        non_striker: A Kapil
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 41.5:
+        non_striker: ZS Ansari
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kapil
+    - 41.6:
+        non_striker: ZS Ansari
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 42.1:
+        non_striker: ZS Ansari
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 42.2:
+        non_striker: A Kapil
+        bowler: PD Trego
+        runs:
+          extras: 2
+          total: 6
+          batsman: 4
+        extras:
+          noballs: 2
+        batsman: ZS Ansari
+    - 42.3:
+        non_striker: A Kapil
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZS Ansari
+    - 42.4:
+        non_striker: A Kapil
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZS Ansari
+    - 42.5:
+        non_striker: A Kapil
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 42.6:
+        non_striker: ZS Ansari
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kapil
+    - 42.7:
+        non_striker: A Kapil
+        bowler: PD Trego
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 43.1:
+        non_striker: A Kapil
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZS Ansari
+    - 43.2:
+        non_striker: A Kapil
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 43.3:
+        non_striker: ZS Ansari
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+    - 43.4:
+        non_striker: ZS Ansari
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kapil
+    - 43.5:
+        non_striker: ZS Ansari
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kapil
+        wicket:
+          player_out: A Kapil
+          fielders:
+          - JG Myburgh
+          kind: caught
+    - 43.6:
+        non_striker: RJ Peterson
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 44.1:
+        non_striker: RJ Peterson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 44.2:
+        non_striker: ZS Ansari
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Peterson
+    - 44.3:
+        non_striker: ZS Ansari
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Peterson
+    - 44.4:
+        non_striker: RJ Peterson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 44.5:
+        non_striker: ZS Ansari
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Peterson
+    - 44.6:
+        non_striker: RJ Peterson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZS Ansari
+    - 45.1:
+        non_striker: ZS Ansari
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Peterson
+    - 45.2:
+        non_striker: ZS Ansari
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Peterson
+    - 45.3:
+        non_striker: RJ Peterson
+        bowler: AC Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZS Ansari
+    - 45.4:
+        non_striker: RJ Peterson
+        bowler: AC Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ZS Ansari
+    - 45.5:
+        non_striker: ZS Ansari
+        bowler: AC Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RJ Peterson
+    - 45.6:
+        non_striker: ZS Ansari
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Peterson
+    - 45.7:
+        non_striker: ZS Ansari
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RJ Peterson
+    - 45.8:
+        non_striker: ZS Ansari
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Peterson
+    - 46.1:
+        non_striker: RJ Peterson
+        bowler: L Gregory
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: ZS Ansari
+    - 46.2:
+        non_striker: RJ Peterson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZS Ansari
+    - 46.3:
+        non_striker: RJ Peterson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 46.4:
+        non_striker: ZS Ansari
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Peterson
+    - 46.5:
+        non_striker: RJ Peterson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 46.6:
+        non_striker: ZS Ansari
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Peterson
+    - 46.7:
+        non_striker: RJ Peterson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZS Ansari
+    - 47.1:
+        non_striker: ZS Ansari
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Peterson
+    - 47.2:
+        non_striker: ZS Ansari
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Peterson
+    - 47.3:
+        non_striker: RJ Peterson
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 47.4:
+        non_striker: ZS Ansari
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Peterson
+    - 47.5:
+        non_striker: ZS Ansari
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ Peterson
+    - 47.6:
+        non_striker: RJ Peterson
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 48.1:
+        non_striker: RJ Peterson
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 48.2:
+        non_striker: ZS Ansari
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ Peterson
+    - 48.3:
+        non_striker: ZS Ansari
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Peterson
+    - 48.4:
+        non_striker: ZS Ansari
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ Peterson
+        wicket:
+          player_out: RJ Peterson
+          kind: caught and bowled
+    - 48.5:
+        non_striker: GA Edwards
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZS Ansari
+    - 48.6:
+        non_striker: GA Edwards
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 49.1:
+        non_striker: GA Edwards
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZS Ansari
+    - 49.2:
+        non_striker: GA Edwards
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZS Ansari
+    - 49.3:
+        non_striker: GA Edwards
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZS Ansari
+    - 49.4:
+        non_striker: ZS Ansari
+        bowler: AC Thomas
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: GA Edwards
+    - 49.5:
+        non_striker: GA Edwards
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZS Ansari
+        wicket:
+          player_out: ZS Ansari
+          fielders:
+          - NRD Compton
+          kind: caught
+    - 49.6:
+        non_striker: TE Linley
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Edwards
+    - 49.7:
+        non_striker: GA Edwards
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TE Linley
+        wicket:
+          player_out: TE Linley
+          fielders:
+          - L Gregory
+          kind: caught
+- 2nd innings:
+    team: Somerset
+    deliveries:
+    - 0.1:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 0.2:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 0.3:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 0.4:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 0.5:
+        non_striker: NRD Compton
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 0.6:
+        non_striker: NRD Compton
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.1:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 1.2:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 1.3:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 1.4:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 1.5:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NRD Compton
+    - 1.6:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NRD Compton
+    - 2.1:
+        non_striker: NRD Compton
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 2.2:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 2.3:
+        non_striker: NRD Compton
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 2.4:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 2.5:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 2.6:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 3.1:
+        non_striker: NRD Compton
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 3.2:
+        non_striker: NRD Compton
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 3.3:
+        non_striker: NRD Compton
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 3.4:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 3.5:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NRD Compton
+    - 3.6:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 4.1:
+        non_striker: NRD Compton
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 4.2:
+        non_striker: NRD Compton
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 4.3:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 4.4:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 4.5:
+        non_striker: NRD Compton
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 4.6:
+        non_striker: NRD Compton
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 5.1:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 5.2:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 5.3:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 5.4:
+        non_striker: NRD Compton
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 5.5:
+        non_striker: NRD Compton
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 5.6:
+        non_striker: NRD Compton
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 6.1:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NRD Compton
+    - 6.2:
+        non_striker: NRD Compton
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 6.3:
+        non_striker: NRD Compton
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 6.4:
+        non_striker: NRD Compton
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Trescothick
+    - 6.5:
+        non_striker: NRD Compton
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 6.6:
+        non_striker: NRD Compton
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 7.1:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 7.2:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 7.3:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NRD Compton
+    - 7.4:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 7.5:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 7.6:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 8.1:
+        non_striker: NRD Compton
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 8.2:
+        non_striker: NRD Compton
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Trescothick
+    - 8.3:
+        non_striker: NRD Compton
+        bowler: TE Linley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Trescothick
+    - 8.4:
+        non_striker: NRD Compton
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ME Trescothick
+    - 8.5:
+        non_striker: NRD Compton
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 8.6:
+        non_striker: NRD Compton
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 8.7:
+        non_striker: NRD Compton
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 9.1:
+        non_striker: ME Trescothick
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 9.2:
+        non_striker: NRD Compton
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ME Trescothick
+    - 9.3:
+        non_striker: NRD Compton
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Trescothick
+    - 9.4:
+        non_striker: NRD Compton
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 9.5:
+        non_striker: NRD Compton
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 9.6:
+        non_striker: NRD Compton
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ME Trescothick
+    - 10.1:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NRD Compton
+    - 10.2:
+        non_striker: NRD Compton
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 10.3:
+        non_striker: NRD Compton
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 10.4:
+        non_striker: NRD Compton
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 10.5:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 10.6:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 11.1:
+        non_striker: NRD Compton
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 11.2:
+        non_striker: NRD Compton
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 11.3:
+        non_striker: NRD Compton
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 11.4:
+        non_striker: NRD Compton
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 11.5:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 11.6:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 12.1:
+        non_striker: NRD Compton
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 12.2:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 12.3:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 12.4:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 12.5:
+        non_striker: NRD Compton
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 12.6:
+        non_striker: NRD Compton
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 13.1:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 13.2:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NRD Compton
+    - 13.3:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+        wicket:
+          player_out: NRD Compton
+          kind: lbw
+    - 13.4:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Trego
+    - 13.5:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Trego
+    - 13.6:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Trego
+    - 14.1:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Trego
+    - 14.2:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Trego
+    - 14.3:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Trego
+    - 14.4:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Trego
+    - 14.5:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Trego
+        wicket:
+          player_out: PD Trego
+          kind: lbw
+    - 14.6:
+        non_striker: ME Trescothick
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Hildreth
+    - 15.1:
+        non_striker: JC Hildreth
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 15.2:
+        non_striker: JC Hildreth
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 15.3:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 15.4:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Hildreth
+    - 15.5:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 15.6:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 16.1:
+        non_striker: JC Hildreth
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 16.2:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 16.3:
+        non_striker: JC Hildreth
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 16.4:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Hildreth
+    - 16.5:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 16.6:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 17.1:
+        non_striker: JC Hildreth
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 17.2:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 17.3:
+        non_striker: ME Trescothick
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 17.4:
+        non_striker: JC Hildreth
+        bowler: RJ Peterson
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: ME Trescothick
+    - 17.5:
+        non_striker: JC Hildreth
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ME Trescothick
+    - 17.6:
+        non_striker: JC Hildreth
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 18.1:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 18.2:
+        non_striker: ME Trescothick
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Hildreth
+    - 18.3:
+        non_striker: ME Trescothick
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 18.4:
+        non_striker: ME Trescothick
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Hildreth
+    - 18.5:
+        non_striker: ME Trescothick
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 18.6:
+        non_striker: ME Trescothick
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 19.1:
+        non_striker: JC Hildreth
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 19.2:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 19.3:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JC Hildreth
+    - 19.4:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Hildreth
+    - 19.5:
+        non_striker: ME Trescothick
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 19.6:
+        non_striker: JC Hildreth
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 19.7:
+        non_striker: JC Hildreth
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 20.1:
+        non_striker: ME Trescothick
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 20.2:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 20.3:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+        wicket:
+          player_out: ME Trescothick
+          kind: lbw
+    - 20.4:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Myburgh
+    - 20.5:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JG Myburgh
+    - 20.6:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Myburgh
+    - 21.1:
+        non_striker: JG Myburgh
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 21.2:
+        non_striker: JG Myburgh
+        bowler: RJ Peterson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JC Hildreth
+    - 21.3:
+        non_striker: JC Hildreth
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Myburgh
+    - 21.4:
+        non_striker: JG Myburgh
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 21.5:
+        non_striker: JG Myburgh
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 21.6:
+        non_striker: JG Myburgh
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 22.1:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Myburgh
+    - 22.2:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Myburgh
+    - 22.3:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Myburgh
+    - 22.4:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Myburgh
+        wicket:
+          player_out: JG Myburgh
+          kind: lbw
+    - 22.5:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWR Barrow
+    - 22.6:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWR Barrow
+    - 23.1:
+        non_striker: AWR Barrow
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 23.2:
+        non_striker: JC Hildreth
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AWR Barrow
+    - 23.3:
+        non_striker: AWR Barrow
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 23.4:
+        non_striker: JC Hildreth
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AWR Barrow
+    - 23.5:
+        non_striker: AWR Barrow
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 23.6:
+        non_striker: AWR Barrow
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Hildreth
+    - 24.1:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AWR Barrow
+    - 24.2:
+        non_striker: AWR Barrow
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Hildreth
+    - 24.3:
+        non_striker: AWR Barrow
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 24.4:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AWR Barrow
+    - 24.5:
+        non_striker: AWR Barrow
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Hildreth
+    - 24.6:
+        non_striker: AWR Barrow
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 25.1:
+        non_striker: AWR Barrow
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 25.2:
+        non_striker: JC Hildreth
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AWR Barrow
+    - 25.3:
+        non_striker: AWR Barrow
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 25.4:
+        non_striker: JC Hildreth
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWR Barrow
+    - 25.5:
+        non_striker: JC Hildreth
+        bowler: GA Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AWR Barrow
+    - 25.6:
+        non_striker: AWR Barrow
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 26.1:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AWR Barrow
+    - 26.2:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AWR Barrow
+    - 26.3:
+        non_striker: AWR Barrow
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 26.4:
+        non_striker: AWR Barrow
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 26.5:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWR Barrow
+    - 26.6:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWR Barrow
+    - 27.1:
+        non_striker: AWR Barrow
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Hildreth
+    - 27.2:
+        non_striker: AWR Barrow
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Hildreth
+    - 27.3:
+        non_striker: AWR Barrow
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Hildreth
+    - 27.4:
+        non_striker: AWR Barrow
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Hildreth
+    - 27.5:
+        non_striker: AWR Barrow
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 27.6:
+        non_striker: JC Hildreth
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWR Barrow
+    - 28.1:
+        non_striker: AWR Barrow
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Hildreth
+    - 28.2:
+        non_striker: AWR Barrow
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 28.3:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWR Barrow
+    - 28.4:
+        non_striker: JC Hildreth
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AWR Barrow
+    - 28.5:
+        non_striker: AWR Barrow
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+        wicket:
+          player_out: JC Hildreth
+          fielders:
+          - VS Solanki
+          kind: caught
+    - 28.6:
+        non_striker: AWR Barrow
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 29.1:
+        non_striker: AWR Barrow
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 29.2:
+        non_striker: AWR Barrow
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 29.3:
+        non_striker: L Gregory
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AWR Barrow
+    - 29.4:
+        non_striker: AWR Barrow
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 29.5:
+        non_striker: L Gregory
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWR Barrow
+    - 29.6:
+        non_striker: L Gregory
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWR Barrow
+        wicket:
+          player_out: AWR Barrow
+          fielders:
+          - GC Wilson
+          kind: stumped
+    - 30.1:
+        non_striker: C Overton
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 30.2:
+        non_striker: L Gregory
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Overton
+    - 30.3:
+        non_striker: L Gregory
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Overton
+    - 30.4:
+        non_striker: L Gregory
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Overton
+        wicket:
+          player_out: C Overton
+          fielders:
+          - ZS Ansari
+          kind: caught
+    - 30.5:
+        non_striker: TD Groenewald
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Gregory
+    - 30.6:
+        non_striker: TD Groenewald
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 31.1:
+        non_striker: TD Groenewald
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 31.2:
+        non_striker: L Gregory
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TD Groenewald
+    - 31.3:
+        non_striker: TD Groenewald
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 31.4:
+        non_striker: TD Groenewald
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Gregory
+    - 31.5:
+        non_striker: TD Groenewald
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 31.6:
+        non_striker: L Gregory
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TD Groenewald
+    - 32.1:
+        non_striker: TD Groenewald
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 32.2:
+        non_striker: TD Groenewald
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 32.3:
+        non_striker: TD Groenewald
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Gregory
+    - 32.4:
+        non_striker: TD Groenewald
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Gregory
+    - 32.5:
+        non_striker: TD Groenewald
+        bowler: JW Dernbach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Gregory
+    - 32.6:
+        non_striker: TD Groenewald
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 32.7:
+        non_striker: L Gregory
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TD Groenewald
+    - 33.1:
+        non_striker: L Gregory
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TD Groenewald
+    - 33.2:
+        non_striker: L Gregory
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TD Groenewald
+    - 33.3:
+        non_striker: L Gregory
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TD Groenewald
+        wicket:
+          player_out: TD Groenewald
+          fielders:
+          - GC Wilson
+          kind: caught
+    - 33.4:
+        non_striker: L Gregory
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Thomas
+    - 33.5:
+        non_striker: L Gregory
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Thomas
+    - 33.6:
+        non_striker: AC Thomas
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 34.1:
+        non_striker: AC Thomas
+        bowler: JW Dernbach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Gregory
+    - 34.2:
+        non_striker: L Gregory
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Thomas
+    - 34.3:
+        non_striker: L Gregory
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 34.4:
+        non_striker: L Gregory
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 34.5:
+        non_striker: L Gregory
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 34.6:
+        non_striker: L Gregory
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Thomas
+    - 35.1:
+        non_striker: L Gregory
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Thomas
+    - 35.2:
+        non_striker: AC Thomas
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+        wicket:
+          player_out: L Gregory
+          kind: lbw
+    - 35.3:
+        non_striker: AC Thomas
+        bowler: TE Linley
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MJ Leach
+    - 35.4:
+        non_striker: MJ Leach
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 35.5:
+        non_striker: MJ Leach
+        bowler: TE Linley
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: AC Thomas
+    - 35.6:
+        non_striker: MJ Leach
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Thomas
+    - 36.1:
+        non_striker: MJ Leach
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 36.2:
+        non_striker: MJ Leach
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Thomas
+    - 36.3:
+        non_striker: MJ Leach
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 36.4:
+        non_striker: MJ Leach
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 36.5:
+        non_striker: MJ Leach
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 36.6:
+        non_striker: MJ Leach
+        bowler: JW Dernbach
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Thomas
+    - 36.7:
+        non_striker: MJ Leach
+        bowler: JW Dernbach
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: AC Thomas
+    - 36.8:
+        non_striker: MJ Leach
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 37.1:
+        non_striker: AC Thomas
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 37.2:
+        non_striker: AC Thomas
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Leach
+    - 37.3:
+        non_striker: MJ Leach
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 37.4:
+        non_striker: MJ Leach
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 37.5:
+        non_striker: MJ Leach
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 37.6:
+        non_striker: MJ Leach
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 38.1:
+        non_striker: AC Thomas
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 38.2:
+        non_striker: AC Thomas
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 38.3:
+        non_striker: AC Thomas
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Leach
+    - 38.4:
+        non_striker: AC Thomas
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 38.5:
+        non_striker: AC Thomas
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 38.6:
+        non_striker: AC Thomas
+        bowler: JW Dernbach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 39.1:
+        non_striker: MJ Leach
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Thomas
+    - 39.2:
+        non_striker: AC Thomas
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 39.3:
+        non_striker: AC Thomas
+        bowler: ZS Ansari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Leach
+    - 39.4:
+        non_striker: AC Thomas
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 39.5:
+        non_striker: AC Thomas
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Leach
+    - 39.6:
+        non_striker: AC Thomas
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 39.7:
+        non_striker: AC Thomas
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Leach
+    - 40.1:
+        non_striker: AC Thomas
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Leach
+    - 40.2:
+        non_striker: MJ Leach
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Thomas
+    - 40.3:
+        non_striker: AC Thomas
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 40.4:
+        non_striker: AC Thomas
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 40.5:
+        non_striker: AC Thomas
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Leach
+    - 40.6:
+        non_striker: MJ Leach
+        bowler: RJ Peterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Thomas
+    - 41.1:
+        non_striker: AC Thomas
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 41.2:
+        non_striker: AC Thomas
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 41.3:
+        non_striker: AC Thomas
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 41.4:
+        non_striker: AC Thomas
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Leach
+    - 41.5:
+        non_striker: MJ Leach
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 41.6:
+        non_striker: MJ Leach
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 42.1:
+        non_striker: AC Thomas
+        bowler: GA Edwards
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MJ Leach
+    - 42.2:
+        non_striker: AC Thomas
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 42.3:
+        non_striker: AC Thomas
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Leach
+    - 42.4:
+        non_striker: AC Thomas
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Leach
+    - 42.5:
+        non_striker: MJ Leach
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Thomas
+    - 42.6:
+        non_striker: AC Thomas
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Leach
+    - 42.7:
+        non_striker: MJ Leach
+        bowler: GA Edwards
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 43.1:
+        non_striker: AC Thomas
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 43.2:
+        non_striker: AC Thomas
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+    - 43.3:
+        non_striker: AC Thomas
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Leach
+    - 43.4:
+        non_striker: MJ Leach
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 43.5:
+        non_striker: MJ Leach
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 43.6:
+        non_striker: MJ Leach
+        bowler: ZS Ansari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Thomas
+    - 44.1:
+        non_striker: AC Thomas
+        bowler: TE Linley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Leach
+        wicket:
+          player_out: MJ Leach
+          fielders:
+          - A Kapil
+          kind: run out

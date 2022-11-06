@@ -1,0 +1,2177 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-18'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Blackpool
+  competition: Women's Cricket Super League
+  dates:
+  - '2016-08-05'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Southern Vipers
+    by:
+      runs: 11
+  overs: 20
+  players:
+    Southern Vipers:
+    - SW Bates
+    - GL Adams
+    - IV Collis
+    - SJ McGlashan
+    - LS Greenway
+    - A Brindle
+    - MJG Nielsen
+    - NE Farrant
+    - KL George
+    - CE Rudd
+    - LCN Smith
+    Lancashire Thunder:
+    - HK Matthews
+    - EL Lamb
+    - AE Satterthwaite
+    - DJS Dottin
+    - DN Wyatt
+    - LK Newton
+    - L Marshall
+    - KL Cross
+    - E Threlkeld
+    - N Brown
+    - S Ecclestone
+  registry:
+    people:
+      A Brindle: 053dc208
+      AE Satterthwaite: 72b7ed1e
+      CE Rudd: 290af2b3
+      DJS Dottin: 53bee17f
+      DN Wyatt: a139c379
+      E Threlkeld: c66c73f9
+      EL Lamb: '02181d9a'
+      GL Adams: 7b1f2542
+      HK Matthews: d32cf49a
+      IV Collis: cfb2141b
+      KL Cross: 1ade138e
+      KL George: e69dbbef
+      L Marshall: 04e5a38a
+      LCN Smith: 340202b0
+      LK Newton: 01fcf20f
+      LS Greenway: 923b0e02
+      MJG Nielsen: e2410b5e
+      N Brown: d900e56e
+      NE Farrant: 15f609ed
+      PR Pollard: 85d884bb
+      S Ecclestone: cdb82f1c
+      SJ McGlashan: af71535d
+      SW Bates: 89bbc67a
+      Tom Lungley: 75169b8c
+  teams:
+  - Southern Vipers
+  - Lancashire Thunder
+  toss:
+    winner: Southern Vipers
+    decision: bat
+  umpires:
+  - PR Pollard
+  - Tom Lungley
+  venue: Stanley Park, Blackpool
+innings:
+- 1st innings:
+    team: Southern Vipers
+    deliveries:
+    - 0.1:
+        non_striker: GL Adams
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.2:
+        non_striker: GL Adams
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.3:
+        non_striker: GL Adams
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 0.4:
+        non_striker: SW Bates
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Adams
+    - 0.5:
+        non_striker: SW Bates
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Adams
+    - 0.6:
+        non_striker: SW Bates
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GL Adams
+        wicket:
+          player_out: GL Adams
+          kind: bowled
+    - 1.1:
+        non_striker: IV Collis
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.2:
+        non_striker: IV Collis
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.3:
+        non_striker: IV Collis
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.4:
+        non_striker: IV Collis
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 1.5:
+        non_striker: IV Collis
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.6:
+        non_striker: IV Collis
+        bowler: KL Cross
+        runs:
+          extras: 2
+          total: 4
+          batsman: 2
+        extras:
+          noballs: 2
+        batsman: SW Bates
+    - 1.7:
+        non_striker: IV Collis
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 2.1:
+        non_striker: SW Bates
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IV Collis
+    - 2.2:
+        non_striker: SW Bates
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IV Collis
+    - 2.3:
+        non_striker: SW Bates
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IV Collis
+    - 2.4:
+        non_striker: SW Bates
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IV Collis
+    - 2.5:
+        non_striker: SW Bates
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: IV Collis
+    - 2.6:
+        non_striker: IV Collis
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 3.1:
+        non_striker: SW Bates
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IV Collis
+    - 3.2:
+        non_striker: SW Bates
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IV Collis
+    - 3.3:
+        non_striker: IV Collis
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.4:
+        non_striker: IV Collis
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          fielders:
+          - N Brown
+          kind: caught
+    - 3.5:
+        non_striker: IV Collis
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 3.6:
+        non_striker: SJ McGlashan
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IV Collis
+    - 3.7:
+        non_striker: SJ McGlashan
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IV Collis
+    - 4.1:
+        non_striker: IV Collis
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 4.2:
+        non_striker: IV Collis
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 4.3:
+        non_striker: IV Collis
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ McGlashan
+    - 4.4:
+        non_striker: IV Collis
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 4.5:
+        non_striker: IV Collis
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 4.6:
+        non_striker: IV Collis
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 5.1:
+        non_striker: IV Collis
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 5.2:
+        non_striker: IV Collis
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 5.3:
+        non_striker: IV Collis
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 5.4:
+        non_striker: SJ McGlashan
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IV Collis
+    - 5.5:
+        non_striker: SJ McGlashan
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IV Collis
+    - 5.6:
+        non_striker: SJ McGlashan
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IV Collis
+    - 5.7:
+        non_striker: IV Collis
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 5.8:
+        non_striker: IV Collis
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 6.1:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IV Collis
+        wicket:
+          player_out: IV Collis
+          fielders:
+          - E Threlkeld
+          kind: caught
+    - 6.2:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Greenway
+    - 6.3:
+        non_striker: LS Greenway
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 6.4:
+        non_striker: LS Greenway
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 6.5:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Greenway
+    - 6.6:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Greenway
+    - 7.1:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Greenway
+    - 7.2:
+        non_striker: LS Greenway
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 7.3:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Greenway
+    - 7.4:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: LS Greenway
+    - 7.5:
+        non_striker: LS Greenway
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 7.6:
+        non_striker: LS Greenway
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 8.1:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LS Greenway
+    - 8.2:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Greenway
+    - 8.3:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Greenway
+    - 8.4:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Greenway
+    - 8.5:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LS Greenway
+    - 8.6:
+        non_striker: LS Greenway
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ McGlashan
+    - 8.7:
+        non_striker: LS Greenway
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 9.1:
+        non_striker: LS Greenway
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 9.2:
+        non_striker: LS Greenway
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 9.3:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Greenway
+    - 9.4:
+        non_striker: LS Greenway
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 9.5:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Greenway
+    - 9.6:
+        non_striker: LS Greenway
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 10.1:
+        non_striker: LS Greenway
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ McGlashan
+    - 10.2:
+        non_striker: LS Greenway
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 10.3:
+        non_striker: LS Greenway
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 10.4:
+        non_striker: SJ McGlashan
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Greenway
+    - 10.5:
+        non_striker: SJ McGlashan
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Greenway
+    - 10.6:
+        non_striker: SJ McGlashan
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LS Greenway
+    - 11.1:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LS Greenway
+        wicket:
+          player_out: LS Greenway
+          fielders:
+          - DJS Dottin
+          kind: caught
+    - 11.2:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 11.3:
+        non_striker: A Brindle
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 11.4:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 11.5:
+        non_striker: A Brindle
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 11.6:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 12.1:
+        non_striker: SJ McGlashan
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Brindle
+    - 12.2:
+        non_striker: SJ McGlashan
+        bowler: DN Wyatt
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: A Brindle
+    - 12.3:
+        non_striker: SJ McGlashan
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 12.4:
+        non_striker: A Brindle
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 12.5:
+        non_striker: SJ McGlashan
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 12.6:
+        non_striker: A Brindle
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ McGlashan
+    - 12.7:
+        non_striker: A Brindle
+        bowler: DN Wyatt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 13.1:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Brindle
+    - 13.2:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 13.3:
+        non_striker: A Brindle
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 13.4:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Brindle
+    - 13.5:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Brindle
+    - 13.6:
+        non_striker: SJ McGlashan
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 13.7:
+        non_striker: A Brindle
+        bowler: AE Satterthwaite
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 14.1:
+        non_striker: A Brindle
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 14.2:
+        non_striker: A Brindle
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SJ McGlashan
+    - 14.3:
+        non_striker: A Brindle
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 14.4:
+        non_striker: SJ McGlashan
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Brindle
+    - 14.5:
+        non_striker: SJ McGlashan
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 14.6:
+        non_striker: A Brindle
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ McGlashan
+    - 15.1:
+        non_striker: SJ McGlashan
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Brindle
+    - 15.2:
+        non_striker: SJ McGlashan
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Brindle
+    - 15.3:
+        non_striker: SJ McGlashan
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Brindle
+    - 15.4:
+        non_striker: SJ McGlashan
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Brindle
+    - 15.5:
+        non_striker: SJ McGlashan
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 15.6:
+        non_striker: A Brindle
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 16.1:
+        non_striker: A Brindle
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 16.2:
+        non_striker: SJ McGlashan
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 16.3:
+        non_striker: A Brindle
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ McGlashan
+    - 16.4:
+        non_striker: A Brindle
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 16.5:
+        non_striker: SJ McGlashan
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Brindle
+    - 16.6:
+        non_striker: A Brindle
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 17.1:
+        non_striker: A Brindle
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 17.2:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Brindle
+    - 17.3:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Brindle
+    - 17.4:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 17.5:
+        non_striker: A Brindle
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 17.6:
+        non_striker: A Brindle
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 18.1:
+        non_striker: SJ McGlashan
+        bowler: S Ecclestone
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: A Brindle
+    - 18.2:
+        non_striker: SJ McGlashan
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Brindle
+    - 18.3:
+        non_striker: SJ McGlashan
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 18.4:
+        non_striker: A Brindle
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 18.5:
+        non_striker: A Brindle
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ McGlashan
+    - 18.6:
+        non_striker: A Brindle
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ McGlashan
+    - 19.1:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 19.2:
+        non_striker: A Brindle
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ McGlashan
+    - 19.3:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Brindle
+    - 19.4:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Brindle
+    - 19.5:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Brindle
+    - 19.6:
+        non_striker: SJ McGlashan
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Brindle
+    - 19.7:
+        non_striker: A Brindle
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ McGlashan
+- 2nd innings:
+    team: Lancashire Thunder
+    deliveries:
+    - 0.1:
+        non_striker: EL Lamb
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.2:
+        non_striker: EL Lamb
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.3:
+        non_striker: EL Lamb
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.4:
+        non_striker: EL Lamb
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          fielders:
+          - A Brindle
+          kind: caught
+    - 0.5:
+        non_striker: EL Lamb
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 0.6:
+        non_striker: EL Lamb
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 1.1:
+        non_striker: EL Lamb
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 1.2:
+        non_striker: AE Satterthwaite
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 1.3:
+        non_striker: AE Satterthwaite
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 1.4:
+        non_striker: AE Satterthwaite
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 1.5:
+        non_striker: EL Lamb
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 1.6:
+        non_striker: EL Lamb
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 2.1:
+        non_striker: AE Satterthwaite
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 2.2:
+        non_striker: AE Satterthwaite
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 2.3:
+        non_striker: EL Lamb
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 2.4:
+        non_striker: AE Satterthwaite
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 2.5:
+        non_striker: AE Satterthwaite
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 2.6:
+        non_striker: AE Satterthwaite
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 3.1:
+        non_striker: EL Lamb
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 3.2:
+        non_striker: EL Lamb
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 3.3:
+        non_striker: EL Lamb
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 3.4:
+        non_striker: EL Lamb
+        bowler: NE Farrant
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AE Satterthwaite
+    - 3.5:
+        non_striker: AE Satterthwaite
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 3.6:
+        non_striker: EL Lamb
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 4.1:
+        non_striker: AE Satterthwaite
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 4.2:
+        non_striker: AE Satterthwaite
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 4.3:
+        non_striker: AE Satterthwaite
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 4.4:
+        non_striker: AE Satterthwaite
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 4.5:
+        non_striker: AE Satterthwaite
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 4.6:
+        non_striker: AE Satterthwaite
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 5.1:
+        non_striker: EL Lamb
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 5.2:
+        non_striker: EL Lamb
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 5.3:
+        non_striker: EL Lamb
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 5.4:
+        non_striker: EL Lamb
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 5.5:
+        non_striker: AE Satterthwaite
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 5.6:
+        non_striker: AE Satterthwaite
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 6.1:
+        non_striker: EL Lamb
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 6.2:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 6.3:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 6.4:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 6.5:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 6.6:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 7.1:
+        non_striker: AE Satterthwaite
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 7.2:
+        non_striker: EL Lamb
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 7.3:
+        non_striker: EL Lamb
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 7.4:
+        non_striker: AE Satterthwaite
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 7.5:
+        non_striker: EL Lamb
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Satterthwaite
+    - 7.6:
+        non_striker: EL Lamb
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 8.1:
+        non_striker: EL Lamb
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 8.2:
+        non_striker: EL Lamb
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 8.3:
+        non_striker: EL Lamb
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 8.4:
+        non_striker: AE Satterthwaite
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 8.5:
+        non_striker: EL Lamb
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 8.6:
+        non_striker: EL Lamb
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 9.1:
+        non_striker: AE Satterthwaite
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 9.2:
+        non_striker: AE Satterthwaite
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Lamb
+    - 9.3:
+        non_striker: AE Satterthwaite
+        bowler: A Brindle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EL Lamb
+    - 9.4:
+        non_striker: EL Lamb
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Satterthwaite
+    - 9.5:
+        non_striker: EL Lamb
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 9.6:
+        non_striker: EL Lamb
+        bowler: A Brindle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AE Satterthwaite
+    - 9.7:
+        non_striker: EL Lamb
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Satterthwaite
+    - 10.1:
+        non_striker: EL Lamb
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+    - 10.2:
+        non_striker: EL Lamb
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Satterthwaite
+        wicket:
+          player_out: AE Satterthwaite
+          fielders:
+          - SJ McGlashan
+          kind: caught
+    - 10.3:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 10.4:
+        non_striker: EL Lamb
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 10.5:
+        non_striker: EL Lamb
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 10.6:
+        non_striker: EL Lamb
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 11.1:
+        non_striker: DJS Dottin
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 11.2:
+        non_striker: EL Lamb
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 11.3:
+        non_striker: DJS Dottin
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Lamb
+    - 11.4:
+        non_striker: EL Lamb
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 11.5:
+        non_striker: EL Lamb
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 11.6:
+        non_striker: DJS Dottin
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 12.1:
+        non_striker: EL Lamb
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 12.2:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+    - 12.3:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EL Lamb
+    - 12.4:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Lamb
+        wicket:
+          player_out: EL Lamb
+          fielders:
+          - MJG Nielsen
+          kind: run out
+    - 12.5:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 12.6:
+        non_striker: DJS Dottin
+        bowler: LCN Smith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 13.1:
+        non_striker: DJS Dottin
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 13.2:
+        non_striker: DJS Dottin
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 13.3:
+        non_striker: DJS Dottin
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 13.4:
+        non_striker: DN Wyatt
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 13.5:
+        non_striker: DJS Dottin
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 13.6:
+        non_striker: DN Wyatt
+        bowler: KL George
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJS Dottin
+    - 13.7:
+        non_striker: DN Wyatt
+        bowler: KL George
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 14.1:
+        non_striker: DN Wyatt
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 14.2:
+        non_striker: DN Wyatt
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+        wicket:
+          player_out: DJS Dottin
+          fielders:
+          - LCN Smith
+          kind: caught
+    - 14.3:
+        non_striker: LK Newton
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 14.4:
+        non_striker: LK Newton
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 14.5:
+        non_striker: LK Newton
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 14.6:
+        non_striker: DN Wyatt
+        bowler: MJG Nielsen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LK Newton
+    - 15.1:
+        non_striker: LK Newton
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 15.2:
+        non_striker: LK Newton
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 15.3:
+        non_striker: LK Newton
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 15.4:
+        non_striker: DN Wyatt
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LK Newton
+    - 15.5:
+        non_striker: DN Wyatt
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LK Newton
+    - 15.6:
+        non_striker: DN Wyatt
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LK Newton
+    - 16.1:
+        non_striker: LK Newton
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 16.2:
+        non_striker: LK Newton
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 16.3:
+        non_striker: LK Newton
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 16.4:
+        non_striker: DN Wyatt
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LK Newton
+    - 16.5:
+        non_striker: DN Wyatt
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LK Newton
+    - 16.6:
+        non_striker: LK Newton
+        bowler: A Brindle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 17.1:
+        non_striker: LK Newton
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 17.2:
+        non_striker: DN Wyatt
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LK Newton
+    - 17.3:
+        non_striker: DN Wyatt
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LK Newton
+    - 17.4:
+        non_striker: DN Wyatt
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LK Newton
+    - 17.5:
+        non_striker: LK Newton
+        bowler: SW Bates
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DN Wyatt
+    - 17.6:
+        non_striker: LK Newton
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DN Wyatt
+    - 17.7:
+        non_striker: DN Wyatt
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LK Newton
+    - 18.1:
+        non_striker: LK Newton
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DN Wyatt
+    - 18.2:
+        non_striker: LK Newton
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DN Wyatt
+    - 18.3:
+        non_striker: LK Newton
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+    - 18.4:
+        non_striker: LK Newton
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DN Wyatt
+        wicket:
+          player_out: DN Wyatt
+          kind: bowled
+    - 18.5:
+        non_striker: LK Newton
+        bowler: NE Farrant
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Marshall
+    - 18.6:
+        non_striker: L Marshall
+        bowler: NE Farrant
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LK Newton
+    - 19.1:
+        non_striker: LK Newton
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Marshall
+    - 19.2:
+        non_striker: L Marshall
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LK Newton
+    - 19.3:
+        non_striker: L Marshall
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LK Newton
+    - 19.4:
+        non_striker: L Marshall
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LK Newton
+        wicket:
+          player_out: LK Newton
+          fielders:
+          - LS Greenway
+          kind: caught
+    - 19.5:
+        non_striker: KL Cross
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Marshall
+    - 19.6:
+        non_striker: L Marshall
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Cross
+        wicket:
+          player_out: KL Cross
+          fielders:
+          - CE Rudd
+          kind: stumped

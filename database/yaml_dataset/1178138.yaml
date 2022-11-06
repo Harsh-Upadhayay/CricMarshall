@@ -1,0 +1,1628 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dublin
+  competition: Cricket Ireland Inter-Provincial Twenty20 Trophy
+  dates:
+  - '2019-06-22'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Northern Knights
+    by:
+      wickets: 7
+  overs: 20
+  players:
+    Northern Knights:
+    - SC Getkate
+    - JA McCollum
+    - NA Rock
+    - GC Wilson
+    - HT Tector
+    - MR Adair
+    - M Commins
+    - GJ Thompson
+    - GJ McCarter
+    - J Mulder
+    - J Cameron-Dow
+    North-West Warriors:
+    - SR Thompson
+    - DA Rankin
+    - AP Gillespie
+    - AR McBrine
+    - A McDaid
+    - G Kennedy
+    - Ross Allen
+    - CA Young
+    - WB Rankin
+    - KW Magee
+    - VC Chopra
+  registry:
+    people:
+      A McDaid: 660a64d3
+      AJ Neill: 7ffe0ce3
+      AP Gillespie: 8b054bba
+      AR McBrine: e957b38f
+      CA Young: bd0a4a7d
+      DA Rankin: ab859427
+      G Kennedy: 574b4c01
+      GC Wilson: 05de1a5a
+      GJ McCarter: 6232e1ed
+      GJ Thompson: 91f0792f
+      HT Tector: 59ea70a4
+      J Cameron-Dow: b9a2c483
+      J Mulder: 6b64e7a3
+      JA McCollum: c7105dab
+      JL Laubret: 81c6caa3
+      KW Magee: a57800ba
+      M Commins: c537cf4d
+      MR Adair: fc55ec67
+      NA Rock: 43f4087c
+      R Allen: 415e5c01
+      S Wood: fe38aa0b
+      SC Getkate: c8065f31
+      SR Thompson: 7f3ad1ed
+      V Chopra: 11e8e25f
+      WB Rankin: 29b89ae8
+  teams:
+  - North-West Warriors
+  - Northern Knights
+  toss:
+    winner: North-West Warriors
+    decision: bat
+  umpires:
+  - AJ Neill
+  - S Wood
+  venue: Pembroke Cricket Club, Sandymount, Dublin
+innings:
+- 1st innings:
+    team: North-West Warriors
+    deliveries:
+    - 0.1:
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Rankin
+        batsman: SR Thompson
+    - 0.2:
+        bowler: GJ McCarter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: DA Rankin
+        batsman: SR Thompson
+    - 0.3:
+        non_striker: SR Thompson
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 0.4:
+        non_striker: DA Rankin
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 0.5:
+        non_striker: DA Rankin
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Thompson
+    - 0.6:
+        non_striker: SR Thompson
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 1.1:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 1.2:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 1.3:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 1.4:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Thompson
+    - 1.5:
+        non_striker: SR Thompson
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 1.6:
+        non_striker: SR Thompson
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 2.1:
+        non_striker: DA Rankin
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Thompson
+    - 2.2:
+        non_striker: DA Rankin
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 2.3:
+        non_striker: DA Rankin
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Thompson
+    - 2.4:
+        non_striker: DA Rankin
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 2.5:
+        non_striker: DA Rankin
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 2.6:
+        non_striker: DA Rankin
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 3.1:
+        non_striker: SR Thompson
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 3.2:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 3.3:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Thompson
+    - 3.4:
+        non_striker: SR Thompson
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 3.5:
+        non_striker: SR Thompson
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 3.6:
+        non_striker: DA Rankin
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+    - 4.1:
+        non_striker: SR Thompson
+        bowler: GJ McCarter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DA Rankin
+    - 4.2:
+        non_striker: DA Rankin
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thompson
+        wicket:
+          player_out: SR Thompson
+          fielders:
+          - MR Adair
+          kind: caught
+    - 4.3:
+        non_striker: DA Rankin
+        bowler: GJ McCarter
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: AP Gillespie
+    - 4.4:
+        non_striker: DA Rankin
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 4.5:
+        non_striker: DA Rankin
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 4.6:
+        non_striker: DA Rankin
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+    - 5.1:
+        non_striker: AP Gillespie
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 5.2:
+        non_striker: AP Gillespie
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 5.3:
+        non_striker: DA Rankin
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Gillespie
+    - 5.4:
+        non_striker: DA Rankin
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AP Gillespie
+    - 5.5:
+        non_striker: DA Rankin
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Gillespie
+    - 5.6:
+        non_striker: AP Gillespie
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 6.1:
+        non_striker: DA Rankin
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Gillespie
+        wicket:
+          player_out: AP Gillespie
+          fielders:
+          - JA McCollum
+          kind: caught
+    - 6.2:
+        non_striker: DA Rankin
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 6.3:
+        non_striker: DA Rankin
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 6.4:
+        non_striker: DA Rankin
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 6.5:
+        non_striker: DA Rankin
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 6.6:
+        non_striker: AR McBrine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 7.1:
+        non_striker: DA Rankin
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 7.2:
+        non_striker: AR McBrine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 7.3:
+        non_striker: DA Rankin
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+    - 7.4:
+        non_striker: DA Rankin
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR McBrine
+    - 7.5:
+        non_striker: DA Rankin
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 7.6:
+        non_striker: AR McBrine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 8.1:
+        non_striker: AR McBrine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 8.2:
+        non_striker: DA Rankin
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR McBrine
+    - 8.3:
+        non_striker: AR McBrine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 8.4:
+        non_striker: AR McBrine
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 8.5:
+        non_striker: DA Rankin
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR McBrine
+    - 8.6:
+        non_striker: DA Rankin
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR McBrine
+        wicket:
+          player_out: AR McBrine
+          fielders:
+          - J Cameron-Dow
+          kind: caught
+    - 9.1:
+        non_striker: DA Rankin
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McDaid
+    - 9.2:
+        non_striker: DA Rankin
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McDaid
+    - 9.3:
+        non_striker: A McDaid
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 9.4:
+        non_striker: DA Rankin
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McDaid
+    - 9.5:
+        non_striker: A McDaid
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 9.6:
+        non_striker: DA Rankin
+        bowler: J Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McDaid
+    - 10.1:
+        non_striker: A McDaid
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+    - 10.2:
+        non_striker: A McDaid
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Rankin
+    - 10.3:
+        non_striker: DA Rankin
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McDaid
+    - 10.4:
+        non_striker: DA Rankin
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McDaid
+    - 10.5:
+        non_striker: A McDaid
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Rankin
+    - 10.6:
+        non_striker: A McDaid
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Rankin
+        wicket:
+          player_out: DA Rankin
+          kind: bowled
+    - 11.1:
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: G Kennedy
+        batsman: A McDaid
+    - 11.2:
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: G Kennedy
+        batsman: A McDaid
+    - 11.3:
+        non_striker: A McDaid
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kennedy
+        wicket:
+          player_out: G Kennedy
+          fielders:
+          - J Cameron-Dow
+          kind: run out
+    - 11.4:
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ross Allen
+        batsman: A McDaid
+    - 11.5:
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Ross Allen
+        batsman: A McDaid
+    - 11.6:
+        non_striker: Ross Allen
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McDaid
+    - 12.1:
+        non_striker: A McDaid
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ross Allen
+    - 12.2:
+        non_striker: A McDaid
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ross Allen
+    - 12.3:
+        non_striker: A McDaid
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ross Allen
+    - 12.4:
+        non_striker: A McDaid
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ross Allen
+    - 12.5:
+        non_striker: A McDaid
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ross Allen
+    - 12.6:
+        non_striker: Ross Allen
+        bowler: GJ McCarter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A McDaid
+    - 13.1:
+        non_striker: A McDaid
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ross Allen
+    - 13.2:
+        non_striker: A McDaid
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ross Allen
+    - 13.3:
+        non_striker: A McDaid
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ross Allen
+    - 13.4:
+        non_striker: Ross Allen
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McDaid
+    - 13.5:
+        non_striker: Ross Allen
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McDaid
+    - 13.6:
+        non_striker: A McDaid
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ross Allen
+    - 14.1:
+        non_striker: A McDaid
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ross Allen
+    - 14.2:
+        non_striker: A McDaid
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ross Allen
+        wicket:
+          player_out: Ross Allen
+          fielders:
+          - MR Adair
+          kind: caught
+    - 14.3:
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CA Young
+        batsman: A McDaid
+    - 14.4:
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CA Young
+        batsman: A McDaid
+    - 14.5:
+        non_striker: A McDaid
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 14.6:
+        non_striker: A McDaid
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 15.1:
+        non_striker: CA Young
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McDaid
+    - 15.2:
+        non_striker: A McDaid
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Young
+    - 15.3:
+        non_striker: A McDaid
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+    - 15.4:
+        non_striker: A McDaid
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Young
+    - 15.5:
+        non_striker: CA Young
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McDaid
+    - 15.6:
+        non_striker: A McDaid
+        bowler: J Cameron-Dow
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Young
+    - 16.1:
+        non_striker: A McDaid
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Young
+    - 16.2:
+        non_striker: CA Young
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McDaid
+    - 16.3:
+        non_striker: A McDaid
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Young
+    - 16.4:
+        non_striker: CA Young
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A McDaid
+    - 16.5:
+        non_striker: CA Young
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McDaid
+    - 16.6:
+        non_striker: A McDaid
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Young
+        wicket:
+          player_out: CA Young
+          fielders:
+          - SC Getkate
+          kind: caught
+    - 17.1:
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WB Rankin
+        batsman: A McDaid
+    - 17.2:
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WB Rankin
+        batsman: A McDaid
+    - 17.3:
+        non_striker: A McDaid
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WB Rankin
+    - 17.4:
+        non_striker: WB Rankin
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McDaid
+    - 17.5:
+        non_striker: A McDaid
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WB Rankin
+        wicket:
+          player_out: WB Rankin
+          fielders:
+          - GC Wilson
+          kind: stumped
+    - 17.6:
+        non_striker: A McDaid
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KW Magee
+    - 18.1:
+        non_striker: A McDaid
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KW Magee
+    - 18.2:
+        non_striker: A McDaid
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KW Magee
+    - 18.3:
+        non_striker: A McDaid
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KW Magee
+    - 18.4:
+        non_striker: KW Magee
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McDaid
+    - 18.5:
+        non_striker: A McDaid
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KW Magee
+    - 18.6:
+        non_striker: KW Magee
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McDaid
+    - 19.1:
+        non_striker: A McDaid
+        bowler: SC Getkate
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KW Magee
+    - 19.2:
+        non_striker: A McDaid
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KW Magee
+        wicket:
+          player_out: KW Magee
+          kind: lbw
+    - 19.3:
+        non_striker: A McDaid
+        bowler: SC Getkate
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Chopra
+        wicket:
+          player_out: VC Chopra
+          fielders:
+          - GC Wilson
+          kind: caught
+- 2nd innings:
+    team: Northern Knights
+    deliveries:
+    - 0.1:
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: JA McCollum
+        batsman: SC Getkate
+    - 0.2:
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JA McCollum
+        batsman: SC Getkate
+    - 0.3:
+        non_striker: SC Getkate
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA McCollum
+    - 0.4:
+        non_striker: SC Getkate
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 0.5:
+        non_striker: SC Getkate
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 0.6:
+        non_striker: JA McCollum
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 1.1:
+        non_striker: SC Getkate
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 1.2:
+        non_striker: SC Getkate
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA McCollum
+    - 1.3:
+        non_striker: SC Getkate
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 1.4:
+        non_striker: SC Getkate
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 1.5:
+        non_striker: SC Getkate
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 1.6:
+        non_striker: SC Getkate
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 1.7:
+        non_striker: JA McCollum
+        bowler: CA Young
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC Getkate
+    - 1.8:
+        non_striker: JA McCollum
+        bowler: CA Young
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Getkate
+    - 2.1:
+        non_striker: SC Getkate
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 2.2:
+        non_striker: JA McCollum
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 2.3:
+        non_striker: JA McCollum
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Getkate
+    - 2.4:
+        non_striker: JA McCollum
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 2.5:
+        non_striker: JA McCollum
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 2.6:
+        non_striker: SC Getkate
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 3.1:
+        non_striker: JA McCollum
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Getkate
+    - 3.2:
+        non_striker: JA McCollum
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Getkate
+    - 3.3:
+        non_striker: JA McCollum
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 3.4:
+        non_striker: JA McCollum
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+    - 3.5:
+        non_striker: JA McCollum
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Getkate
+    - 3.6:
+        non_striker: SC Getkate
+        bowler: G Kennedy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 4.1:
+        non_striker: JA McCollum
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Getkate
+    - 4.2:
+        non_striker: JA McCollum
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Getkate
+        wicket:
+          player_out: SC Getkate
+          fielders:
+          - DA Rankin
+          kind: caught
+    - 4.3:
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NA Rock
+        batsman: JA McCollum
+    - 4.4:
+        non_striker: JA McCollum
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Rock
+        wicket:
+          player_out: NA Rock
+          fielders:
+          - DA Rankin
+          kind: caught
+    - 4.5:
+        non_striker: JA McCollum
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 4.6:
+        non_striker: JA McCollum
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 5.1:
+        non_striker: GC Wilson
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA McCollum
+    - 5.2:
+        non_striker: GC Wilson
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 5.3:
+        non_striker: GC Wilson
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 5.4:
+        non_striker: GC Wilson
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 5.5:
+        non_striker: GC Wilson
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 5.6:
+        non_striker: JA McCollum
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 6.1:
+        non_striker: GC Wilson
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 6.2:
+        non_striker: GC Wilson
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 6.3:
+        non_striker: GC Wilson
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 6.4:
+        non_striker: GC Wilson
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 6.5:
+        non_striker: GC Wilson
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 6.6:
+        non_striker: JA McCollum
+        bowler: WB Rankin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 7.1:
+        non_striker: GC Wilson
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 7.2:
+        non_striker: JA McCollum
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 7.3:
+        non_striker: JA McCollum
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 7.4:
+        non_striker: JA McCollum
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+    - 7.5:
+        non_striker: JA McCollum
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Wilson
+    - 7.6:
+        non_striker: GC Wilson
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum
+    - 8.1:
+        non_striker: JA McCollum
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Wilson
+        wicket:
+          player_out: GC Wilson
+          fielders:
+          - DA Rankin
+          kind: stumped
+    - 8.2:
+        non_striker: JA McCollum
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 8.3:
+        non_striker: HT Tector
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 8.4:
+        non_striker: JA McCollum
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 8.5:
+        non_striker: JA McCollum
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 8.6:
+        non_striker: JA McCollum
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 9.1:
+        non_striker: HT Tector
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 9.2:
+        non_striker: HT Tector
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 9.3:
+        non_striker: HT Tector
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA McCollum
+    - 9.4:
+        non_striker: JA McCollum
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 9.5:
+        non_striker: HT Tector
+        bowler: SR Thompson
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: JA McCollum
+    - 9.6:
+        non_striker: JA McCollum
+        bowler: SR Thompson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 9.7:
+        non_striker: JA McCollum
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 9.8:
+        non_striker: JA McCollum
+        bowler: SR Thompson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 10.1:
+        non_striker: HT Tector
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA McCollum
+    - 10.2:
+        non_striker: HT Tector
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA McCollum

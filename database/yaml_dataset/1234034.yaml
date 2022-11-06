@@ -1,0 +1,2177 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-01-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: New Plymouth
+  competition: New Zealand Cricket Women's Twenty20
+  dates:
+  - '2020-12-31'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Auckland
+    by:
+      runs: 8
+  overs: 20
+  players:
+    Auckland:
+    - LR Down
+    - AM Peterson
+    - KT Perkins
+    - BG Armstrong
+    - S Shahri
+    - HR Huddleston
+    - RSM Lili'i
+    - AN Kelly
+    - JEI Prasad
+    - SJ Carnachan
+    - MM Penfold
+    Central Districts:
+    - JM Watkin
+    - EG Cunningham
+    - NC Dodd
+    - A van Deventer
+    - HM Rowe
+    - MJ Greig
+    - RA Mair
+    - KA Tomlinson
+    - GK Atkinson
+    - MJ Hansen
+    - CL Green
+  registry:
+    people:
+      A Mehrotra: f336ff13
+      A Stanley: 5a72b592
+      A van Deventer: c4493034
+      AM Peterson: ae2c396f
+      AN Kelly: 397369e0
+      BG Armstrong: eca08a1d
+      CL Green: 0160b1d9
+      EG Cunningham: ede7bb67
+      GK Atkinson: add6bd03
+      HM Rowe: 8ca1f93a
+      HR Huddleston: 8d6b36e3
+      JEI Prasad: ec666142
+      JM Dempsey: 153c9f33
+      JM Watkin: 7239a365
+      KA Tomlinson: 83d6e306
+      KT Perkins: 78ad3258
+      Kim Cotton: 67a7c2ee
+      LR Down: 19147fe0
+      MJ Greig: 84c422e3
+      MJ Hansen: 256b70b1
+      MM Penfold: 645b2a2f
+      NC Dodd: 7260e1e9
+      PA Horne: '095976d7'
+      RA Mair: d5eb8b84
+      RSM Lili'i: ba3a1359
+      S Shahri: c28355cd
+      SJ Carnachan: 3b67e117
+  teams:
+  - Auckland
+  - Central Districts
+  toss:
+    decision: bat
+    winner: Auckland
+  umpires:
+  - A Stanley
+  - Kim Cotton
+  venue: Pukekura Park
+innings:
+- 1st innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AM Peterson
+        batsman: LR Down
+    - 0.2:
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AM Peterson
+        batsman: LR Down
+    - 0.3:
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AM Peterson
+        batsman: LR Down
+    - 0.4:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Peterson
+    - 0.5:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 0.6:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Peterson
+    - 1.1:
+        non_striker: AM Peterson
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 1.2:
+        non_striker: LR Down
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Peterson
+    - 1.3:
+        non_striker: AM Peterson
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 1.4:
+        non_striker: AM Peterson
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 1.5:
+        non_striker: AM Peterson
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 1.6:
+        non_striker: AM Peterson
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 2.1:
+        non_striker: AM Peterson
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LR Down
+    - 2.2:
+        non_striker: AM Peterson
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 2.3:
+        non_striker: AM Peterson
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 2.4:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 2.5:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Peterson
+    - 2.6:
+        non_striker: AM Peterson
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 3.1:
+        non_striker: LR Down
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Peterson
+    - 3.2:
+        non_striker: LR Down
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Peterson
+    - 3.3:
+        non_striker: AM Peterson
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 3.4:
+        non_striker: LR Down
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Peterson
+    - 3.5:
+        non_striker: AM Peterson
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 3.6:
+        non_striker: AM Peterson
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 4.1:
+        non_striker: AM Peterson
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 4.2:
+        non_striker: AM Peterson
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 4.3:
+        non_striker: AM Peterson
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 4.4:
+        non_striker: AM Peterson
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 4.5:
+        non_striker: LR Down
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Peterson
+    - 4.6:
+        non_striker: LR Down
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 5.1:
+        non_striker: AM Peterson
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 5.2:
+        non_striker: AM Peterson
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 5.3:
+        non_striker: AM Peterson
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 5.4:
+        non_striker: AM Peterson
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 5.5:
+        non_striker: AM Peterson
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 5.6:
+        non_striker: AM Peterson
+        bowler: MJ Hansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LR Down
+    - 5.7:
+        non_striker: AM Peterson
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 6.1:
+        non_striker: LR Down
+        bowler: HM Rowe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Peterson
+    - 6.2:
+        non_striker: LR Down
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Peterson
+    - 6.3:
+        non_striker: AM Peterson
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 6.4:
+        non_striker: AM Peterson
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LR Down
+    - 6.5:
+        non_striker: AM Peterson
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 6.6:
+        non_striker: LR Down
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Peterson
+    - 6.7:
+        non_striker: LR Down
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 7.1:
+        non_striker: AM Peterson
+        bowler: MJ Hansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LR Down
+    - 7.2:
+        non_striker: LR Down
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Peterson
+    - 7.3:
+        non_striker: LR Down
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Peterson
+    - 7.4:
+        non_striker: LR Down
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Peterson
+    - 7.5:
+        non_striker: AM Peterson
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 7.6:
+        non_striker: AM Peterson
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 8.1:
+        non_striker: AM Peterson
+        bowler: MJ Greig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LR Down
+    - 8.2:
+        non_striker: AM Peterson
+        bowler: MJ Greig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 8.3:
+        non_striker: LR Down
+        bowler: MJ Greig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 8.4:
+        non_striker: LR Down
+        bowler: MJ Greig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Peterson
+    - 8.5:
+        non_striker: AM Peterson
+        bowler: MJ Greig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 8.6:
+        non_striker: LR Down
+        bowler: MJ Greig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Peterson
+    - 9.1:
+        non_striker: AM Peterson
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LR Down
+    - 9.2:
+        non_striker: AM Peterson
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 9.3:
+        non_striker: LR Down
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Peterson
+    - 9.4:
+        non_striker: LR Down
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+        wicket:
+          player_out: AM Peterson
+          fielders:
+          - HM Rowe
+          kind: caught
+    - 9.5:
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: KT Perkins
+        batsman: LR Down
+    - 9.6:
+        non_striker: KT Perkins
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 10.1:
+        non_striker: LR Down
+        bowler: GK Atkinson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KT Perkins
+    - 10.2:
+        non_striker: LR Down
+        bowler: GK Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 10.3:
+        non_striker: KT Perkins
+        bowler: GK Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 10.4:
+        non_striker: LR Down
+        bowler: GK Atkinson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 10.5:
+        non_striker: KT Perkins
+        bowler: GK Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 10.6:
+        non_striker: KT Perkins
+        bowler: GK Atkinson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 11.1:
+        non_striker: LR Down
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 11.2:
+        non_striker: KT Perkins
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 11.3:
+        non_striker: LR Down
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 11.4:
+        non_striker: LR Down
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KT Perkins
+    - 11.5:
+        non_striker: LR Down
+        bowler: CL Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KT Perkins
+    - 11.6:
+        non_striker: LR Down
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KT Perkins
+    - 11.7:
+        non_striker: KT Perkins
+        bowler: CL Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 12.1:
+        non_striker: LR Down
+        bowler: MJ Greig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KT Perkins
+    - 12.2:
+        non_striker: LR Down
+        bowler: MJ Greig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 12.3:
+        non_striker: KT Perkins
+        bowler: MJ Greig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 12.4:
+        non_striker: LR Down
+        bowler: MJ Greig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KT Perkins
+    - 12.5:
+        non_striker: LR Down
+        bowler: MJ Greig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 12.6:
+        non_striker: KT Perkins
+        bowler: MJ Greig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 13.1:
+        non_striker: KT Perkins
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LR Down
+    - 13.2:
+        non_striker: KT Perkins
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 13.3:
+        non_striker: LR Down
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+        wicket:
+          player_out: KT Perkins
+          fielders:
+          - MJ Greig
+          kind: caught
+    - 13.4:
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BG Armstrong
+        batsman: LR Down
+    - 13.5:
+        non_striker: LR Down
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 13.6:
+        non_striker: LR Down
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 14.1:
+        non_striker: BG Armstrong
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 14.2:
+        non_striker: BG Armstrong
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 14.3:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BG Armstrong
+    - 14.4:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 14.5:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 14.6:
+        non_striker: BG Armstrong
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 14.7:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 15.1:
+        non_striker: LR Down
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 15.2:
+        non_striker: BG Armstrong
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 15.3:
+        non_striker: LR Down
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 15.4:
+        non_striker: BG Armstrong
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 15.5:
+        non_striker: BG Armstrong
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 15.6:
+        non_striker: LR Down
+        bowler: MJ Hansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Armstrong
+    - 16.1:
+        non_striker: BG Armstrong
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 16.2:
+        non_striker: BG Armstrong
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 16.3:
+        non_striker: LR Down
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BG Armstrong
+    - 16.4:
+        non_striker: LR Down
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Armstrong
+    - 16.5:
+        non_striker: LR Down
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 16.6:
+        non_striker: BG Armstrong
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 17.1:
+        non_striker: BG Armstrong
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 17.2:
+        non_striker: BG Armstrong
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 17.3:
+        non_striker: BG Armstrong
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 17.4:
+        non_striker: LR Down
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 17.5:
+        non_striker: BG Armstrong
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 17.6:
+        non_striker: LR Down
+        bowler: JM Watkin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 18.1:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BG Armstrong
+    - 18.2:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 18.3:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BG Armstrong
+    - 18.4:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Armstrong
+    - 18.5:
+        non_striker: LR Down
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 18.6:
+        non_striker: BG Armstrong
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 19.1:
+        non_striker: BG Armstrong
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 19.2:
+        non_striker: LR Down
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 19.3:
+        non_striker: LR Down
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 19.4:
+        non_striker: BG Armstrong
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 19.5:
+        non_striker: LR Down
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 19.6:
+        non_striker: LR Down
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BG Armstrong
+- 2nd innings:
+    team: Central Districts
+    deliveries:
+    - 0.1:
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: EG Cunningham
+        batsman: JM Watkin
+    - 0.2:
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: EG Cunningham
+        batsman: JM Watkin
+    - 0.3:
+        non_striker: JM Watkin
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Cunningham
+    - 0.4:
+        non_striker: JM Watkin
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EG Cunningham
+    - 0.5:
+        non_striker: JM Watkin
+        bowler: AN Kelly
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: EG Cunningham
+    - 0.6:
+        non_striker: JM Watkin
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EG Cunningham
+    - 0.7:
+        non_striker: JM Watkin
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Cunningham
+    - 0.8:
+        non_striker: JM Watkin
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Cunningham
+    - 1.1:
+        non_striker: EG Cunningham
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Watkin
+    - 1.2:
+        non_striker: JM Watkin
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Cunningham
+    - 1.3:
+        non_striker: EG Cunningham
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Watkin
+    - 1.4:
+        non_striker: JM Watkin
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Cunningham
+    - 1.5:
+        non_striker: JM Watkin
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Cunningham
+    - 1.6:
+        non_striker: JM Watkin
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EG Cunningham
+    - 2.1:
+        non_striker: EG Cunningham
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Watkin
+    - 2.2:
+        non_striker: EG Cunningham
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Watkin
+    - 2.3:
+        non_striker: JM Watkin
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EG Cunningham
+    - 2.4:
+        non_striker: EG Cunningham
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Watkin
+    - 2.5:
+        non_striker: EG Cunningham
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Watkin
+        wicket:
+          player_out: JM Watkin
+          fielders:
+          - KT Perkins
+          kind: caught
+    - 2.6:
+        non_striker: EG Cunningham
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 3.1:
+        non_striker: EG Cunningham
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NC Dodd
+    - 3.2:
+        non_striker: EG Cunningham
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 3.3:
+        non_striker: NC Dodd
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EG Cunningham
+    - 3.4:
+        non_striker: NC Dodd
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EG Cunningham
+    - 3.5:
+        non_striker: EG Cunningham
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 3.6:
+        non_striker: NC Dodd
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EG Cunningham
+        wicket:
+          player_out: EG Cunningham
+          kind: bowled
+    - 4.1:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A van Deventer
+        batsman: NC Dodd
+    - 4.2:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A van Deventer
+        batsman: NC Dodd
+    - 4.3:
+        non_striker: NC Dodd
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A van Deventer
+    - 4.4:
+        non_striker: NC Dodd
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A van Deventer
+    - 4.5:
+        non_striker: NC Dodd
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A van Deventer
+        wicket:
+          player_out: A van Deventer
+          kind: lbw
+    - 4.6:
+        non_striker: NC Dodd
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 5.1:
+        non_striker: HM Rowe
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 5.2:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 5.3:
+        non_striker: HM Rowe
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 5.4:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 5.5:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Rowe
+    - 5.6:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 6.1:
+        non_striker: NC Dodd
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 6.2:
+        non_striker: NC Dodd
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 6.3:
+        non_striker: HM Rowe
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 6.4:
+        non_striker: NC Dodd
+        bowler: BG Armstrong
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HM Rowe
+    - 6.5:
+        non_striker: NC Dodd
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 6.6:
+        non_striker: HM Rowe
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 6.7:
+        non_striker: NC Dodd
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 7.1:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 7.2:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 7.3:
+        non_striker: HM Rowe
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Dodd
+    - 7.4:
+        non_striker: HM Rowe
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 7.5:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 7.6:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 8.1:
+        non_striker: HM Rowe
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 8.2:
+        non_striker: NC Dodd
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Rowe
+    - 8.3:
+        non_striker: NC Dodd
+        bowler: BG Armstrong
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: HM Rowe
+    - 8.4:
+        non_striker: NC Dodd
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 8.5:
+        non_striker: HM Rowe
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Dodd
+    - 8.6:
+        non_striker: HM Rowe
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Dodd
+    - 8.7:
+        non_striker: HM Rowe
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 9.1:
+        non_striker: HM Rowe
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 9.2:
+        non_striker: NC Dodd
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 9.3:
+        non_striker: NC Dodd
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 9.4:
+        non_striker: HM Rowe
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NC Dodd
+    - 9.5:
+        non_striker: HM Rowe
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NC Dodd
+    - 9.6:
+        non_striker: HM Rowe
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 9.7:
+        non_striker: NC Dodd
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Rowe
+    - 10.1:
+        non_striker: HM Rowe
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 10.2:
+        non_striker: NC Dodd
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 10.3:
+        non_striker: HM Rowe
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 10.4:
+        non_striker: NC Dodd
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Rowe
+    - 10.5:
+        non_striker: NC Dodd
+        bowler: JEI Prasad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HM Rowe
+    - 10.6:
+        non_striker: NC Dodd
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 10.7:
+        non_striker: NC Dodd
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 11.1:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 11.2:
+        non_striker: HM Rowe
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 11.3:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 11.4:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 11.5:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Rowe
+    - 11.6:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 12.1:
+        non_striker: NC Dodd
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 12.2:
+        non_striker: HM Rowe
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Dodd
+    - 12.3:
+        non_striker: HM Rowe
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 12.4:
+        non_striker: NC Dodd
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 12.5:
+        non_striker: NC Dodd
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 12.6:
+        non_striker: HM Rowe
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NC Dodd
+    - 13.1:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 13.2:
+        non_striker: HM Rowe
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NC Dodd
+    - 13.3:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 13.4:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 13.5:
+        non_striker: NC Dodd
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 13.6:
+        non_striker: HM Rowe
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Dodd
+    - 14.1:
+        non_striker: NC Dodd
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 14.2:
+        non_striker: NC Dodd
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 14.3:
+        non_striker: NC Dodd
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Rowe
+    - 14.4:
+        non_striker: NC Dodd
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 14.5:
+        non_striker: HM Rowe
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NC Dodd
+        wicket:
+          player_out: NC Dodd
+          fielders:
+          - SJ Carnachan
+          kind: stumped
+    - 14.6:
+        non_striker: HM Rowe
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Greig
+    - 15.1:
+        non_striker: HM Rowe
+        bowler: BG Armstrong
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MJ Greig
+    - 15.2:
+        non_striker: HM Rowe
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Greig
+    - 15.3:
+        non_striker: MJ Greig
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 15.4:
+        non_striker: HM Rowe
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Greig
+    - 15.5:
+        non_striker: MJ Greig
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Rowe
+    - 15.6:
+        non_striker: MJ Greig
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 15.7:
+        non_striker: HM Rowe
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Greig
+    - 16.1:
+        non_striker: MJ Greig
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 16.2:
+        non_striker: HM Rowe
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Greig
+    - 16.3:
+        non_striker: HM Rowe
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Greig
+    - 16.4:
+        non_striker: MJ Greig
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Rowe
+    - 16.5:
+        non_striker: MJ Greig
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 16.6:
+        non_striker: MJ Greig
+        bowler: JEI Prasad
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: HM Rowe
+    - 16.7:
+        non_striker: HM Rowe
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Greig
+    - 17.1:
+        non_striker: HM Rowe
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Greig
+    - 17.2:
+        non_striker: HM Rowe
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Greig
+    - 17.3:
+        non_striker: MJ Greig
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 17.4:
+        non_striker: HM Rowe
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Greig
+        wicket:
+          player_out: HM Rowe
+          kind: run out
+    - 17.5:
+        non_striker: MJ Greig
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Mair
+    - 17.6:
+        non_striker: MJ Greig
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mair
+    - 18.1:
+        non_striker: MJ Greig
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Mair
+    - 18.2:
+        non_striker: RA Mair
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Greig
+    - 18.3:
+        non_striker: RA Mair
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Greig
+    - 18.4:
+        non_striker: RA Mair
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Greig
+    - 18.5:
+        non_striker: RA Mair
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Greig
+        wicket:
+          player_out: MJ Greig
+          fielders:
+          - S Shahri
+          kind: caught
+    - 18.6:
+        non_striker: KA Tomlinson
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Mair
+        wicket:
+          player_out: RA Mair
+          fielders:
+          - HR Huddleston
+          kind: caught
+    - 19.1:
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: GK Atkinson
+        batsman: KA Tomlinson
+    - 19.2:
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GK Atkinson
+        batsman: KA Tomlinson
+    - 19.3:
+        non_striker: KA Tomlinson
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Atkinson
+    - 19.4:
+        non_striker: KA Tomlinson
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GK Atkinson
+    - 19.5:
+        non_striker: KA Tomlinson
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Atkinson
+    - 19.6:
+        non_striker: KA Tomlinson
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GK Atkinson
+        wicket:
+          player_out: GK Atkinson
+          kind: bowled

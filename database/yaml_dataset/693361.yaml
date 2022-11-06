@@ -1,0 +1,3234 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Taunton
+  competition: Royal London One-Day Cup
+  dates:
+  - '2014-08-10'
+  gender: male
+  match_type: ODM
+  outcome:
+    winner: Sussex
+    by:
+      wickets: 7
+    method: D/L
+  overs: 50
+  players:
+    Somerset:
+    - ME Trescothick
+    - NRD Compton
+    - PD Trego
+    - CA Ingram
+    - JC Hildreth
+    - AWR Barrow
+    - L Gregory
+    - TD Groenewald
+    - CAJ Meschede
+    - AC Thomas
+    - MJ Leach
+    Sussex:
+    - CD Nash
+    - LJ Wright
+    - Craig Cachopa
+    - EC Joyce
+    - MW Machan
+    - BC Brown
+    - Yasir Arafat
+    - SA Piolet
+    - WAT Beer
+    - CJ Liddle
+    - LJ Hatchett
+  registry:
+    people:
+      AC Thomas: b552a935
+      AWR Barrow: 47190c4a
+      BC Brown: 8af86756
+      CA Ingram: c995d726
+      CAJ Meschede: eddf25bd
+      CD Nash: 6f049d41
+      CJ Liddle: 5b3acc53
+      Craig Cachopa: af294a6c
+      EC Joyce: a48fc79d
+      JC Hildreth: 782c0568
+      L Gregory: 06c2de82
+      LJ Hatchett: fea7a34c
+      LJ Wright: cca50cd6
+      ME Trescothick: ea42ddb9
+      MJ Leach: 3987e390
+      MR Benson: 790e14d3
+      MW Machan: 8c7d6cbe
+      NGB Cook: 772fe461
+      NRD Compton: e5437a99
+      PD Trego: 93e06301
+      SA Piolet: c6a9148d
+      TD Groenewald: dddc811c
+      WAT Beer: 98eacfe5
+      Yasir Arafat: 3cf5ae43
+  teams:
+  - Somerset
+  - Sussex
+  toss:
+    winner: Sussex
+    decision: field
+  umpires:
+  - MR Benson
+  - NGB Cook
+  venue: County Ground, Taunton
+innings:
+- 1st innings:
+    team: Somerset
+    deliveries:
+    - 0.1:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Trescothick
+    - 0.2:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 0.3:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 0.4:
+        non_striker: ME Trescothick
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 0.5:
+        non_striker: ME Trescothick
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 0.6:
+        non_striker: ME Trescothick
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 1.1:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+        wicket:
+          player_out: ME Trescothick
+          kind: bowled
+    - 1.2:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Trego
+        wicket:
+          player_out: PD Trego
+          fielders:
+          - BC Brown
+          kind: caught
+    - 1.3:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Ingram
+    - 1.4:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 1.5:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 1.6:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 1.7:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 2.1:
+        non_striker: CA Ingram
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 2.2:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 2.3:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 2.4:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 2.5:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 2.6:
+        non_striker: CA Ingram
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 3.1:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NRD Compton
+    - 3.2:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 3.3:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 3.4:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 3.5:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 3.6:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 4.1:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 4.2:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 4.3:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 4.4:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 4.5:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 4.6:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 5.1:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 5.2:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 5.3:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 5.4:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 5.5:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 5.6:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 6.1:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Ingram
+    - 6.2:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 6.3:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 6.4:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 6.5:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 6.6:
+        non_striker: CA Ingram
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 7.1:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CA Ingram
+    - 7.2:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 7.3:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 7.4:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NRD Compton
+    - 7.5:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 7.6:
+        non_striker: NRD Compton
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 8.1:
+        non_striker: CA Ingram
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 8.2:
+        non_striker: CA Ingram
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 8.3:
+        non_striker: CA Ingram
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 8.4:
+        non_striker: CA Ingram
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 8.5:
+        non_striker: NRD Compton
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 8.6:
+        non_striker: CA Ingram
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 9.1:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 9.2:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 9.3:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 9.4:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 9.5:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NRD Compton
+    - 9.6:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 10.1:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NRD Compton
+    - 10.2:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 10.3:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 10.4:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 10.5:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 10.6:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 10.7:
+        non_striker: NRD Compton
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 11.1:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 11.2:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 11.3:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 11.4:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 11.5:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 11.6:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NRD Compton
+    - 12.1:
+        non_striker: NRD Compton
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 12.2:
+        non_striker: NRD Compton
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 12.3:
+        non_striker: NRD Compton
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 12.4:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NRD Compton
+    - 12.5:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 12.6:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NRD Compton
+    - 13.1:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Ingram
+    - 13.2:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 13.3:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 13.4:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NRD Compton
+    - 13.5:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 13.6:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 14.1:
+        non_striker: NRD Compton
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 14.2:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 14.3:
+        non_striker: NRD Compton
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 14.4:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 14.5:
+        non_striker: NRD Compton
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 14.6:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 15.1:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 15.2:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 15.3:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 15.4:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 15.5:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 15.6:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 16.1:
+        non_striker: NRD Compton
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 16.2:
+        non_striker: NRD Compton
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 16.3:
+        non_striker: NRD Compton
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 16.4:
+        non_striker: NRD Compton
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 16.5:
+        non_striker: NRD Compton
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 16.6:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 17.1:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 17.2:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 17.3:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Ingram
+    - 17.4:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 17.5:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 17.6:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NRD Compton
+    - 17.7:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NRD Compton
+    - 18.1:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+    - 18.2:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 18.3:
+        non_striker: NRD Compton
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 18.4:
+        non_striker: NRD Compton
+        bowler: WAT Beer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CA Ingram
+    - 18.5:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NRD Compton
+    - 18.6:
+        non_striker: NRD Compton
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 19.1:
+        non_striker: NRD Compton
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 19.2:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NRD Compton
+        wicket:
+          player_out: NRD Compton
+          kind: lbw
+    - 19.3:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Hildreth
+    - 19.4:
+        non_striker: CA Ingram
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 19.5:
+        non_striker: JC Hildreth
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 19.6:
+        non_striker: JC Hildreth
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 20.1:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 20.2:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 20.3:
+        non_striker: JC Hildreth
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 20.4:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 20.5:
+        non_striker: JC Hildreth
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 20.6:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 21.1:
+        non_striker: JC Hildreth
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 21.2:
+        non_striker: JC Hildreth
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 21.3:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 21.4:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Hildreth
+    - 21.5:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 21.6:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 22.1:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: JC Hildreth
+    - 22.2:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 22.3:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 22.4:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 22.5:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 22.6:
+        non_striker: JC Hildreth
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 23.1:
+        non_striker: JC Hildreth
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Ingram
+    - 23.2:
+        non_striker: JC Hildreth
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 23.3:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 23.4:
+        non_striker: JC Hildreth
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 23.5:
+        non_striker: JC Hildreth
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 23.6:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 24.1:
+        non_striker: JC Hildreth
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 24.2:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 24.3:
+        non_striker: JC Hildreth
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 24.4:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 24.5:
+        non_striker: JC Hildreth
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 24.6:
+        non_striker: CA Ingram
+        bowler: WAT Beer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 25.1:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 25.2:
+        non_striker: JC Hildreth
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 25.3:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 25.4:
+        non_striker: JC Hildreth
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 25.5:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 25.6:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: JC Hildreth
+    - 25.7:
+        non_striker: CA Ingram
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 26.1:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Hildreth
+    - 26.2:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Hildreth
+    - 26.3:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 26.4:
+        non_striker: JC Hildreth
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 26.5:
+        non_striker: CA Ingram
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 26.6:
+        non_striker: JC Hildreth
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+        wicket:
+          player_out: CA Ingram
+          fielders:
+          - CJ Liddle
+          kind: run out
+    - 27.1:
+        non_striker: AWR Barrow
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 27.2:
+        non_striker: JC Hildreth
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AWR Barrow
+        wicket:
+          player_out: AWR Barrow
+          kind: bowled
+    - 27.3:
+        non_striker: JC Hildreth
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 27.4:
+        non_striker: JC Hildreth
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 27.5:
+        non_striker: L Gregory
+        bowler: SA Piolet
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JC Hildreth
+    - 27.6:
+        non_striker: JC Hildreth
+        bowler: SA Piolet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 28.1:
+        non_striker: JC Hildreth
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 28.2:
+        non_striker: L Gregory
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 28.3:
+        non_striker: JC Hildreth
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+    - 28.4:
+        non_striker: JC Hildreth
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 28.5:
+        non_striker: L Gregory
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 28.6:
+        non_striker: JC Hildreth
+        bowler: CJ Liddle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 29.1:
+        non_striker: JC Hildreth
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 29.2:
+        non_striker: L Gregory
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 29.3:
+        non_striker: JC Hildreth
+        bowler: LJ Hatchett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Gregory
+    - 29.4:
+        non_striker: JC Hildreth
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: L Gregory
+    - 29.5:
+        non_striker: JC Hildreth
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 29.6:
+        non_striker: L Gregory
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 29.7:
+        non_striker: JC Hildreth
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 30.1:
+        non_striker: JC Hildreth
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 30.2:
+        non_striker: L Gregory
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Hildreth
+    - 30.3:
+        non_striker: L Gregory
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 30.4:
+        non_striker: JC Hildreth
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 30.5:
+        non_striker: L Gregory
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Hildreth
+    - 30.6:
+        non_striker: L Gregory
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 31.1:
+        non_striker: L Gregory
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Hildreth
+    - 31.2:
+        non_striker: L Gregory
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 31.3:
+        non_striker: JC Hildreth
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 31.4:
+        non_striker: L Gregory
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 31.5:
+        non_striker: JC Hildreth
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Gregory
+    - 31.6:
+        non_striker: L Gregory
+        bowler: LJ Hatchett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Hildreth
+    - 32.1:
+        non_striker: JC Hildreth
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Gregory
+        wicket:
+          player_out: L Gregory
+          fielders:
+          - BC Brown
+          kind: caught
+    - 32.2:
+        non_striker: JC Hildreth
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TD Groenewald
+        wicket:
+          player_out: TD Groenewald
+          fielders:
+          - MW Machan
+          kind: caught
+    - 32.3:
+        non_striker: CAJ Meschede
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Hildreth
+    - 32.4:
+        non_striker: JC Hildreth
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAJ Meschede
+    - 32.5:
+        non_striker: JC Hildreth
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAJ Meschede
+    - 32.6:
+        non_striker: JC Hildreth
+        bowler: Yasir Arafat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAJ Meschede
+        wicket:
+          player_out: CAJ Meschede
+          kind: bowled
+- 2nd innings:
+    team: Sussex
+    deliveries:
+    - 0.1:
+        non_striker: LJ Wright
+        bowler: L Gregory
+        runs:
+          extras: 2
+          total: 3
+          batsman: 1
+        extras:
+          noballs: 2
+        batsman: CD Nash
+    - 0.2:
+        non_striker: CD Nash
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 0.3:
+        non_striker: LJ Wright
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 0.4:
+        non_striker: LJ Wright
+        bowler: L Gregory
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CD Nash
+    - 0.5:
+        non_striker: CD Nash
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 0.6:
+        non_striker: LJ Wright
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 0.7:
+        non_striker: LJ Wright
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Nash
+    - 1.1:
+        non_striker: LJ Wright
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 1.2:
+        non_striker: LJ Wright
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 1.3:
+        non_striker: LJ Wright
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 1.4:
+        non_striker: LJ Wright
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 1.5:
+        non_striker: LJ Wright
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 1.6:
+        non_striker: LJ Wright
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Nash
+    - 2.1:
+        non_striker: CD Nash
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 2.2:
+        non_striker: CD Nash
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 2.3:
+        non_striker: LJ Wright
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 2.4:
+        non_striker: LJ Wright
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 2.5:
+        non_striker: LJ Wright
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Nash
+    - 2.6:
+        non_striker: CD Nash
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 3.1:
+        non_striker: LJ Wright
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 3.2:
+        non_striker: LJ Wright
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 3.3:
+        non_striker: LJ Wright
+        bowler: AC Thomas
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: CD Nash
+    - 3.4:
+        non_striker: LJ Wright
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CD Nash
+    - 3.5:
+        non_striker: LJ Wright
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 3.6:
+        non_striker: LJ Wright
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Nash
+    - 3.7:
+        non_striker: CD Nash
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 4.1:
+        non_striker: LJ Wright
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 4.2:
+        non_striker: LJ Wright
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Nash
+    - 4.3:
+        non_striker: LJ Wright
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Nash
+    - 4.4:
+        non_striker: LJ Wright
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Nash
+    - 4.5:
+        non_striker: CD Nash
+        bowler: L Gregory
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LJ Wright
+    - 4.6:
+        non_striker: CD Nash
+        bowler: L Gregory
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: LJ Wright
+    - 4.7:
+        non_striker: CD Nash
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 4.8:
+        non_striker: LJ Wright
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 5.1:
+        non_striker: CD Nash
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 5.2:
+        non_striker: CD Nash
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LJ Wright
+    - 5.3:
+        non_striker: CD Nash
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 5.4:
+        non_striker: CD Nash
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 5.5:
+        non_striker: CD Nash
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 5.6:
+        non_striker: LJ Wright
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 6.1:
+        non_striker: CD Nash
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 6.2:
+        non_striker: CD Nash
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 6.3:
+        non_striker: CD Nash
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 6.4:
+        non_striker: LJ Wright
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 6.5:
+        non_striker: LJ Wright
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 6.6:
+        non_striker: LJ Wright
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Nash
+    - 7.1:
+        non_striker: CD Nash
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 7.2:
+        non_striker: CD Nash
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 7.3:
+        non_striker: LJ Wright
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Nash
+    - 7.4:
+        non_striker: CD Nash
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 7.5:
+        non_striker: CD Nash
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LJ Wright
+    - 7.6:
+        non_striker: CD Nash
+        bowler: TD Groenewald
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LJ Wright
+    - 7.7:
+        non_striker: CD Nash
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 8.1:
+        non_striker: LJ Wright
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 8.2:
+        non_striker: LJ Wright
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+    - 8.3:
+        non_striker: LJ Wright
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Nash
+    - 8.4:
+        non_striker: CD Nash
+        bowler: MJ Leach
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: LJ Wright
+    - 8.5:
+        non_striker: CD Nash
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 8.6:
+        non_striker: CD Nash
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 9.1:
+        non_striker: CD Nash
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 9.2:
+        non_striker: CD Nash
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 9.3:
+        non_striker: CD Nash
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 9.4:
+        non_striker: LJ Wright
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Nash
+    - 9.5:
+        non_striker: CD Nash
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Wright
+    - 9.6:
+        non_striker: LJ Wright
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Nash
+        wicket:
+          player_out: CD Nash
+          fielders:
+          - AWR Barrow
+          kind: run out
+    - 10.1:
+        non_striker: Craig Cachopa
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LJ Wright
+    - 10.2:
+        non_striker: Craig Cachopa
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 10.3:
+        non_striker: Craig Cachopa
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+    - 10.4:
+        non_striker: Craig Cachopa
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Wright
+        wicket:
+          player_out: LJ Wright
+          kind: caught and bowled
+    - 10.5:
+        non_striker: Craig Cachopa
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 10.6:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 11.1:
+        non_striker: Craig Cachopa
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 11.2:
+        non_striker: Craig Cachopa
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 11.3:
+        non_striker: EC Joyce
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 11.4:
+        non_striker: EC Joyce
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 11.5:
+        non_striker: EC Joyce
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Craig Cachopa
+    - 11.6:
+        non_striker: EC Joyce
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Craig Cachopa
+    - 12.1:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 12.2:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 12.3:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+    - 12.4:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Craig Cachopa
+        wicket:
+          player_out: Craig Cachopa
+          fielders:
+          - L Gregory
+          kind: caught
+    - 12.5:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 12.6:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 13.1:
+        non_striker: MW Machan
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 13.2:
+        non_striker: MW Machan
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 13.3:
+        non_striker: EC Joyce
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 13.4:
+        non_striker: MW Machan
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 13.5:
+        non_striker: MW Machan
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 13.6:
+        non_striker: MW Machan
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 14.1:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 14.2:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 14.3:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Machan
+    - 14.4:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MW Machan
+    - 14.5:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 14.6:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 15.1:
+        non_striker: MW Machan
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 15.2:
+        non_striker: EC Joyce
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 15.3:
+        non_striker: EC Joyce
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 15.4:
+        non_striker: MW Machan
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 15.5:
+        non_striker: EC Joyce
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 15.6:
+        non_striker: EC Joyce
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 16.1:
+        non_striker: MW Machan
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EC Joyce
+    - 16.2:
+        non_striker: MW Machan
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 16.3:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 16.4:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 16.5:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 16.6:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 17.1:
+        non_striker: EC Joyce
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 17.2:
+        non_striker: MW Machan
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EC Joyce
+    - 17.3:
+        non_striker: MW Machan
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 17.4:
+        non_striker: EC Joyce
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 17.5:
+        non_striker: MW Machan
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 17.6:
+        non_striker: EC Joyce
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 18.1:
+        non_striker: MW Machan
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 18.2:
+        non_striker: MW Machan
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 18.3:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 18.4:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 18.5:
+        non_striker: MW Machan
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 18.6:
+        non_striker: MW Machan
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 19.1:
+        non_striker: EC Joyce
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Machan
+    - 19.2:
+        non_striker: EC Joyce
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 19.3:
+        non_striker: EC Joyce
+        bowler: TD Groenewald
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MW Machan
+    - 19.4:
+        non_striker: MW Machan
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 19.5:
+        non_striker: MW Machan
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 19.6:
+        non_striker: EC Joyce
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 20.1:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 20.2:
+        non_striker: MW Machan
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 20.3:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 20.4:
+        non_striker: MW Machan
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 20.5:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 20.6:
+        non_striker: EC Joyce
+        bowler: MJ Leach
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 21.1:
+        non_striker: MW Machan
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 21.2:
+        non_striker: EC Joyce
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 21.3:
+        non_striker: EC Joyce
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 21.4:
+        non_striker: MW Machan
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 21.5:
+        non_striker: EC Joyce
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 21.6:
+        non_striker: MW Machan
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 22.1:
+        non_striker: EC Joyce
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 22.2:
+        non_striker: EC Joyce
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 22.3:
+        non_striker: EC Joyce
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 22.4:
+        non_striker: EC Joyce
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 22.5:
+        non_striker: MW Machan
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 22.6:
+        non_striker: EC Joyce
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 23.1:
+        non_striker: MW Machan
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 23.2:
+        non_striker: MW Machan
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EC Joyce
+    - 23.3:
+        non_striker: MW Machan
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 23.4:
+        non_striker: MW Machan
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 23.5:
+        non_striker: MW Machan
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 23.6:
+        non_striker: EC Joyce
+        bowler: TD Groenewald
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Machan
+    - 24.1:
+        non_striker: MW Machan
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 24.2:
+        non_striker: MW Machan
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 24.3:
+        non_striker: EC Joyce
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 24.4:
+        non_striker: EC Joyce
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 24.5:
+        non_striker: MW Machan
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 24.6:
+        non_striker: MW Machan
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 25.1:
+        non_striker: EC Joyce
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 25.2:
+        non_striker: MW Machan
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EC Joyce
+    - 25.3:
+        non_striker: MW Machan
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 25.4:
+        non_striker: MW Machan
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EC Joyce
+    - 25.5:
+        non_striker: MW Machan
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 25.6:
+        non_striker: MW Machan
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 26.1:
+        non_striker: EC Joyce
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 26.2:
+        non_striker: EC Joyce
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 26.3:
+        non_striker: EC Joyce
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Machan
+    - 26.4:
+        non_striker: EC Joyce
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MW Machan
+    - 26.5:
+        non_striker: EC Joyce
+        bowler: AC Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 26.6:
+        non_striker: MW Machan
+        bowler: AC Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EC Joyce
+    - 27.1:
+        non_striker: MW Machan
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EC Joyce
+    - 27.2:
+        non_striker: MW Machan
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 27.3:
+        non_striker: EC Joyce
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Machan
+    - 27.4:
+        non_striker: EC Joyce
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 27.5:
+        non_striker: MW Machan
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 27.6:
+        non_striker: EC Joyce
+        bowler: L Gregory
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Machan
+    - 28.1:
+        non_striker: MW Machan
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EC Joyce
+    - 28.2:
+        non_striker: EC Joyce
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MW Machan
+    - 28.3:
+        non_striker: EC Joyce
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MW Machan
+    - 28.4:
+        non_striker: MW Machan
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EC Joyce
+    - 28.5:
+        non_striker: MW Machan
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EC Joyce
+    - 28.6:
+        non_striker: MW Machan
+        bowler: CAJ Meschede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EC Joyce
+    - 29.1:
+        non_striker: EC Joyce
+        bowler: TD Groenewald
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MW Machan

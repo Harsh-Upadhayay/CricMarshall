@@ -1,0 +1,2176 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-03-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Potchefstroom
+  competition: Ram Slam T20 Challenge
+  dates:
+  - '2017-11-19'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Lions
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - RR Hendricks
+  - AL Phehlukwayo
+  players:
+    Dolphins:
+    - SJ Erwee
+    - MN van Wyk
+    - DJ Vilas
+    - K Zondo
+    - BS Makhanya
+    - AL Phehlukwayo
+    - R Frylinck
+    - KA Maharaj
+    - P Subrayen
+    - Imran Tahir
+    - M Shezi
+    Lions:
+    - HE van der Dussen
+    - RR Hendricks
+    - M Mosehle
+    - NJ van den Bergh
+    - D Pretorius
+    - PWA Mulder
+    - K Rabada
+    - AM Phangiso
+    - GC Viljoen
+    - OA Ramela
+    - BC Fortuin
+  registry:
+    people:
+      AL Phehlukwayo: ab6b1c45
+      AM Phangiso: 7f8ecc51
+      BC Fortuin: 9a2fc964
+      BS Makhanya: 1b42a100
+      CD Isaacs: c0215bbd
+      D Pretorius: 11614d87
+      DJ Vilas: '087210b1'
+      GC Viljoen: a316d663
+      HE van der Dussen: 9948e262
+      Imran Tahir: acee4cc4
+      JD Cloete: b0419f8c
+      K Rabada: e62dd25d
+      K Zondo: 4aad78d3
+      KA Maharaj: 0b60eb09
+      M Mosehle: 8836fcac
+      M Shezi: 016e5101
+      MN van Wyk: 710dd98c
+      MW Brown: d83d7796
+      NJ van den Bergh: 055e8d7b
+      OA Ramela: 04a5b56e
+      P Subrayen: 7ec9711d
+      PWA Mulder: c96f6ac5
+      R Frylinck: 8b248d88
+      RR Hendricks: b8cc58c9
+      SB Lambson: 4146063f
+      SJ Erwee: a3ce3d1d
+  teams:
+  - Dolphins
+  - Lions
+  toss:
+    winner: Dolphins
+    decision: bat
+  umpires:
+  - CD Isaacs
+  - JD Cloete
+  venue: Senwes Park, Potchefstroom
+innings:
+- 1st innings:
+    team: Dolphins
+    deliveries:
+    - 0.1:
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MN van Wyk
+        batsman: SJ Erwee
+    - 0.2:
+        non_striker: SJ Erwee
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 0.3:
+        non_striker: SJ Erwee
+        bowler: BC Fortuin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MN van Wyk
+    - 0.4:
+        non_striker: MN van Wyk
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Erwee
+    - 0.5:
+        non_striker: SJ Erwee
+        bowler: BC Fortuin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: MN van Wyk
+    - 0.6:
+        non_striker: MN van Wyk
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Erwee
+        wicket:
+          player_out: SJ Erwee
+          kind: lbw
+    - 1.1:
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJ Vilas
+        batsman: MN van Wyk
+    - 1.2:
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DJ Vilas
+        batsman: MN van Wyk
+    - 1.3:
+        non_striker: MN van Wyk
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 1.4:
+        non_striker: MN van Wyk
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 1.5:
+        non_striker: MN van Wyk
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 1.6:
+        non_striker: DJ Vilas
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 2.1:
+        non_striker: MN van Wyk
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 2.2:
+        non_striker: DJ Vilas
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 2.3:
+        non_striker: MN van Wyk
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Vilas
+    - 2.4:
+        non_striker: DJ Vilas
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 2.5:
+        non_striker: DJ Vilas
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 2.6:
+        non_striker: MN van Wyk
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Vilas
+    - 3.1:
+        non_striker: DJ Vilas
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 3.2:
+        non_striker: MN van Wyk
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Vilas
+    - 3.3:
+        non_striker: MN van Wyk
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+    - 3.4:
+        non_striker: MN van Wyk
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Vilas
+        wicket:
+          player_out: DJ Vilas
+          fielders:
+          - M Mosehle
+          kind: caught
+    - 3.5:
+        non_striker: MN van Wyk
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 3.6:
+        non_striker: K Zondo
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 4.1:
+        non_striker: MN van Wyk
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 4.2:
+        non_striker: K Zondo
+        bowler: BC Fortuin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MN van Wyk
+    - 4.3:
+        non_striker: MN van Wyk
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 4.4:
+        non_striker: K Zondo
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MN van Wyk
+    - 4.5:
+        non_striker: K Zondo
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MN van Wyk
+    - 4.6:
+        non_striker: K Zondo
+        bowler: BC Fortuin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 5.1:
+        non_striker: MN van Wyk
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Zondo
+    - 5.2:
+        non_striker: MN van Wyk
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 5.3:
+        non_striker: K Zondo
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 5.4:
+        non_striker: K Zondo
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 5.5:
+        non_striker: MN van Wyk
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 5.6:
+        non_striker: MN van Wyk
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 6.1:
+        non_striker: K Zondo
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 6.2:
+        non_striker: MN van Wyk
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 6.3:
+        non_striker: K Zondo
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 6.4:
+        non_striker: MN van Wyk
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 6.5:
+        non_striker: K Zondo
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 6.6:
+        non_striker: K Zondo
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 7.1:
+        non_striker: K Zondo
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 7.2:
+        non_striker: MN van Wyk
+        bowler: AM Phangiso
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: K Zondo
+    - 7.3:
+        non_striker: K Zondo
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 7.4:
+        non_striker: MN van Wyk
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+        wicket:
+          player_out: K Zondo
+          kind: bowled
+    - 7.5:
+        non_striker: MN van Wyk
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 7.6:
+        non_striker: MN van Wyk
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 7.7:
+        non_striker: BS Makhanya
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 8.1:
+        non_striker: BS Makhanya
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 8.2:
+        non_striker: MN van Wyk
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 8.3:
+        non_striker: MN van Wyk
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 8.4:
+        non_striker: MN van Wyk
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BS Makhanya
+    - 8.5:
+        non_striker: MN van Wyk
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 8.6:
+        non_striker: BS Makhanya
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 9.1:
+        non_striker: BS Makhanya
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 9.2:
+        non_striker: BS Makhanya
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 9.3:
+        non_striker: BS Makhanya
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 9.4:
+        non_striker: MN van Wyk
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 9.5:
+        non_striker: BS Makhanya
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+        wicket:
+          player_out: MN van Wyk
+          fielders:
+          - M Mosehle
+          kind: stumped
+    - 9.6:
+        non_striker: BS Makhanya
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 10.1:
+        non_striker: BS Makhanya
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+    - 10.2:
+        non_striker: BS Makhanya
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 10.3:
+        non_striker: AL Phehlukwayo
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 10.4:
+        non_striker: BS Makhanya
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+    - 10.5:
+        non_striker: BS Makhanya
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+    - 10.6:
+        non_striker: BS Makhanya
+        bowler: D Pretorius
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 11.1:
+        non_striker: BS Makhanya
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AL Phehlukwayo
+    - 11.2:
+        non_striker: AL Phehlukwayo
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 11.3:
+        non_striker: BS Makhanya
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AL Phehlukwayo
+    - 11.4:
+        non_striker: BS Makhanya
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+    - 11.5:
+        non_striker: BS Makhanya
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AL Phehlukwayo
+        wicket:
+          player_out: AL Phehlukwayo
+          kind: bowled
+    - 11.6:
+        non_striker: BS Makhanya
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 12.1:
+        non_striker: BS Makhanya
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 12.2:
+        non_striker: R Frylinck
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 12.3:
+        non_striker: BS Makhanya
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 12.4:
+        non_striker: R Frylinck
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 12.5:
+        non_striker: BS Makhanya
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 12.6:
+        non_striker: R Frylinck
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 13.1:
+        non_striker: R Frylinck
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 13.2:
+        non_striker: BS Makhanya
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Frylinck
+    - 13.3:
+        non_striker: BS Makhanya
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 13.4:
+        non_striker: R Frylinck
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 13.5:
+        non_striker: BS Makhanya
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Frylinck
+    - 13.6:
+        non_striker: BS Makhanya
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 14.1:
+        non_striker: BS Makhanya
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 14.2:
+        non_striker: R Frylinck
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 14.3:
+        non_striker: BS Makhanya
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 14.4:
+        non_striker: R Frylinck
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 14.5:
+        non_striker: R Frylinck
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 14.6:
+        non_striker: R Frylinck
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 15.1:
+        non_striker: R Frylinck
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 15.2:
+        non_striker: BS Makhanya
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 15.3:
+        non_striker: BS Makhanya
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 15.4:
+        non_striker: R Frylinck
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 15.5:
+        non_striker: R Frylinck
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 15.6:
+        non_striker: BS Makhanya
+        bowler: AM Phangiso
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 16.1:
+        non_striker: BS Makhanya
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Frylinck
+    - 16.2:
+        non_striker: BS Makhanya
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 16.3:
+        non_striker: BS Makhanya
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+    - 16.4:
+        non_striker: BS Makhanya
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Frylinck
+    - 16.5:
+        non_striker: BS Makhanya
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+        wicket:
+          player_out: R Frylinck
+          fielders:
+          - RR Hendricks
+          kind: caught
+    - 16.6:
+        non_striker: KA Maharaj
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 17.1:
+        non_striker: KA Maharaj
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BS Makhanya
+    - 17.2:
+        non_striker: KA Maharaj
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 17.3:
+        non_striker: BS Makhanya
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 17.4:
+        non_striker: KA Maharaj
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 17.5:
+        non_striker: BS Makhanya
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 17.6:
+        non_striker: KA Maharaj
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Makhanya
+    - 17.7:
+        non_striker: KA Maharaj
+        bowler: GC Viljoen
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: BS Makhanya
+    - 17.8:
+        non_striker: KA Maharaj
+        bowler: GC Viljoen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BS Makhanya
+    - 18.1:
+        non_striker: KA Maharaj
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BS Makhanya
+    - 18.2:
+        non_striker: KA Maharaj
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Makhanya
+    - 18.3:
+        non_striker: KA Maharaj
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BS Makhanya
+    - 18.4:
+        non_striker: KA Maharaj
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BS Makhanya
+    - 18.5:
+        non_striker: KA Maharaj
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BS Makhanya
+    - 18.6:
+        non_striker: KA Maharaj
+        bowler: PWA Mulder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BS Makhanya
+    - 18.7:
+        non_striker: KA Maharaj
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BS Makhanya
+    - 18.8:
+        non_striker: KA Maharaj
+        bowler: PWA Mulder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BS Makhanya
+    - 19.1:
+        non_striker: BS Makhanya
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Maharaj
+    - 19.2:
+        non_striker: BS Makhanya
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 19.3:
+        non_striker: BS Makhanya
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KA Maharaj
+    - 19.4:
+        non_striker: KA Maharaj
+        bowler: K Rabada
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: BS Makhanya
+    - 19.5:
+        non_striker: BS Makhanya
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: KA Maharaj
+    - 19.6:
+        non_striker: BS Makhanya
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Maharaj
+    - 19.7:
+        non_striker: BS Makhanya
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Maharaj
+    - 19.8:
+        non_striker: BS Makhanya
+        bowler: K Rabada
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: KA Maharaj
+- 2nd innings:
+    team: Lions
+    deliveries:
+    - 0.1:
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: RR Hendricks
+        batsman: HE van der Dussen
+    - 0.2:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 0.3:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 0.4:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 0.5:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 0.6:
+        non_striker: HE van der Dussen
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 1.1:
+        non_striker: RR Hendricks
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 1.2:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.3:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.4:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 1.5:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 1.6:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 2.1:
+        non_striker: HE van der Dussen
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 2.2:
+        non_striker: HE van der Dussen
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 2.3:
+        non_striker: HE van der Dussen
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 2.4:
+        non_striker: HE van der Dussen
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 2.5:
+        non_striker: RR Hendricks
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 2.6:
+        non_striker: RR Hendricks
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 3.1:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 3.2:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 3.3:
+        non_striker: RR Hendricks
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 3.4:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 3.5:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 3.6:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 4.1:
+        non_striker: RR Hendricks
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 4.2:
+        non_striker: RR Hendricks
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 4.3:
+        non_striker: HE van der Dussen
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 4.4:
+        non_striker: RR Hendricks
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 4.5:
+        non_striker: HE van der Dussen
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 4.6:
+        non_striker: RR Hendricks
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 5.1:
+        non_striker: RR Hendricks
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 5.2:
+        non_striker: RR Hendricks
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 5.3:
+        non_striker: RR Hendricks
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 5.4:
+        non_striker: HE van der Dussen
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 5.5:
+        non_striker: HE van der Dussen
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 5.6:
+        non_striker: HE van der Dussen
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.1:
+        non_striker: HE van der Dussen
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.2:
+        non_striker: RR Hendricks
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 6.3:
+        non_striker: RR Hendricks
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 6.4:
+        non_striker: RR Hendricks
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 6.5:
+        non_striker: HE van der Dussen
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 6.6:
+        non_striker: RR Hendricks
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.1:
+        non_striker: RR Hendricks
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.2:
+        non_striker: HE van der Dussen
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 7.3:
+        non_striker: RR Hendricks
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 7.4:
+        non_striker: RR Hendricks
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 7.5:
+        non_striker: HE van der Dussen
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 7.6:
+        non_striker: HE van der Dussen
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 8.1:
+        non_striker: RR Hendricks
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 8.2:
+        non_striker: HE van der Dussen
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 8.3:
+        non_striker: HE van der Dussen
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 8.4:
+        non_striker: HE van der Dussen
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 8.5:
+        non_striker: RR Hendricks
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 8.6:
+        non_striker: HE van der Dussen
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 9.1:
+        non_striker: RR Hendricks
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 9.2:
+        non_striker: HE van der Dussen
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 9.3:
+        non_striker: HE van der Dussen
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 9.4:
+        non_striker: RR Hendricks
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 9.5:
+        non_striker: HE van der Dussen
+        bowler: Imran Tahir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Hendricks
+    - 9.6:
+        non_striker: HE van der Dussen
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 9.7:
+        non_striker: HE van der Dussen
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 10.1:
+        non_striker: HE van der Dussen
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 10.2:
+        non_striker: HE van der Dussen
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 10.3:
+        non_striker: RR Hendricks
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 10.4:
+        non_striker: RR Hendricks
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 10.5:
+        non_striker: HE van der Dussen
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 10.6:
+        non_striker: RR Hendricks
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 11.1:
+        non_striker: RR Hendricks
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HE van der Dussen
+    - 11.2:
+        non_striker: RR Hendricks
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 11.3:
+        non_striker: RR Hendricks
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 11.4:
+        non_striker: HE van der Dussen
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 11.5:
+        non_striker: HE van der Dussen
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 11.6:
+        non_striker: HE van der Dussen
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 12.1:
+        non_striker: HE van der Dussen
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 12.2:
+        non_striker: RR Hendricks
+        bowler: BS Makhanya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HE van der Dussen
+    - 12.3:
+        non_striker: RR Hendricks
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 12.4:
+        non_striker: RR Hendricks
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 12.5:
+        non_striker: HE van der Dussen
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 12.6:
+        non_striker: HE van der Dussen
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 12.7:
+        non_striker: HE van der Dussen
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 13.1:
+        non_striker: HE van der Dussen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Hendricks
+    - 13.2:
+        non_striker: HE van der Dussen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 13.3:
+        non_striker: HE van der Dussen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 13.4:
+        non_striker: HE van der Dussen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 13.5:
+        non_striker: RR Hendricks
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 13.6:
+        non_striker: HE van der Dussen
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 14.1:
+        non_striker: HE van der Dussen
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 14.2:
+        non_striker: HE van der Dussen
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 14.3:
+        non_striker: HE van der Dussen
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 14.4:
+        non_striker: HE van der Dussen
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 14.5:
+        non_striker: RR Hendricks
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 14.6:
+        non_striker: HE van der Dussen
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 15.1:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 15.2:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 15.3:
+        non_striker: RR Hendricks
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 15.4:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 15.5:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 15.6:
+        non_striker: HE van der Dussen
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 16.1:
+        non_striker: HE van der Dussen
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 16.2:
+        non_striker: HE van der Dussen
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Hendricks
+    - 16.3:
+        non_striker: HE van der Dussen
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 16.4:
+        non_striker: HE van der Dussen
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Hendricks
+    - 16.5:
+        non_striker: HE van der Dussen
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Hendricks
+    - 16.6:
+        non_striker: HE van der Dussen
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 16.7:
+        non_striker: RR Hendricks
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+    - 16.8:
+        non_striker: RR Hendricks
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HE van der Dussen
+    - 17.1:
+        non_striker: RR Hendricks
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 17.2:
+        non_striker: HE van der Dussen
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 17.3:
+        non_striker: RR Hendricks
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 17.4:
+        non_striker: HE van der Dussen
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 17.5:
+        non_striker: RR Hendricks
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HE van der Dussen
+    - 17.6:
+        non_striker: RR Hendricks
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HE van der Dussen
+    - 18.1:
+        non_striker: RR Hendricks
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HE van der Dussen
+    - 18.2:
+        non_striker: RR Hendricks
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HE van der Dussen
+        wicket:
+          player_out: HE van der Dussen
+          fielders:
+          - DJ Vilas
+          kind: stumped
+    - 18.3:
+        non_striker: RR Hendricks
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+        wicket:
+          player_out: M Mosehle
+          fielders:
+          - DJ Vilas
+          kind: caught
+    - 18.4:
+        non_striker: RR Hendricks
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ van den Bergh
+    - 18.5:
+        non_striker: RR Hendricks
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NJ van den Bergh
+    - 18.6:
+        non_striker: NJ van den Bergh
+        bowler: AL Phehlukwayo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 19.1:
+        non_striker: NJ van den Bergh
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 19.2:
+        non_striker: NJ van den Bergh
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Hendricks
+    - 19.3:
+        non_striker: NJ van den Bergh
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Hendricks
+    - 19.4:
+        non_striker: RR Hendricks
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NJ van den Bergh
+        wicket:
+          player_out: NJ van den Bergh
+          kind: lbw
+    - 19.5:
+        non_striker: RR Hendricks
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Pretorius
+        wicket:
+          player_out: D Pretorius
+          fielders:
+          - DJ Vilas
+          - KA Maharaj
+          kind: run out
+    - 19.6:
+        non_striker: RR Hendricks
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWA Mulder

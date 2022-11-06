@@ -1,0 +1,2162 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-01-29'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Wellington
+  competition: Super Smash
+  dates:
+  - '2019-12-18'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Central Districts
+    by:
+      runs: 24
+  overs: 20
+  players:
+    Central Districts:
+    - GH Worker
+    - D Cleaver
+    - CK Leopard
+    - TC Bruce
+    - K Noema-Barnett
+    - JA Clarkson
+    - WC Ludick
+    - BM Wheeler
+    - BM Tickner
+    - AY Patel
+    - SHA Rance
+    Wellington:
+    - DP Conway
+    - MA Pollard
+    - R Ravindra
+    - MG Bracewell
+    - JDS Neesham
+    - MJ Nofal
+    - JD Gibson
+    - LV van Beek
+    - JS Patel
+    - OR Newton
+    - HK Bennett
+  registry:
+    people:
+      AY Patel: fbd4f01f
+      BM Tickner: 48ad3373
+      BM Wheeler: 397f4d3a
+      CK Leopard: 46966c2b
+      D Cleaver: e3a949be
+      DP Conway: df5a6881
+      GA Stirrat: 6c46022b
+      GH Worker: 51a36d3e
+      HK Bennett: '94238673'
+      JA Clarkson: bed90114
+      JD Gibson: 57f520ee
+      JDS Neesham: 9219eff0
+      JM Dempsey: 153c9f33
+      JS Patel: f5821615
+      K Noema-Barnett: 1ad0b441
+      K Pulley: 644bf4ad
+      LV van Beek: 782fb776
+      MA Pollard: d3b84c59
+      MG Bracewell: e38bce7a
+      MJ Nofal: ac762575
+      OR Newton: 4e520f6c
+      R Ravindra: ba5e1069
+      SHA Rance: 69c994e4
+      TC Bruce: f92c9151
+      WC Ludick: 2a802bfd
+  teams:
+  - Central Districts
+  - Wellington
+  toss:
+    decision: bat
+    winner: Central Districts
+  umpires:
+  - GA Stirrat
+  - JM Dempsey
+  venue: Basin Reserve
+innings:
+- 1st innings:
+    team: Central Districts
+    deliveries:
+    - 0.1:
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Cleaver
+        batsman: GH Worker
+    - 0.2:
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Cleaver
+        batsman: GH Worker
+    - 0.3:
+        non_striker: GH Worker
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 0.4:
+        non_striker: GH Worker
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 0.5:
+        non_striker: D Cleaver
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 0.6:
+        non_striker: D Cleaver
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Worker
+    - 1.1:
+        non_striker: GH Worker
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 1.2:
+        non_striker: GH Worker
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Cleaver
+    - 1.3:
+        non_striker: GH Worker
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 1.4:
+        non_striker: GH Worker
+        bowler: OR Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Cleaver
+    - 1.5:
+        non_striker: GH Worker
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 1.6:
+        non_striker: GH Worker
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 1.7:
+        non_striker: GH Worker
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 2.1:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Worker
+    - 2.2:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 2.3:
+        non_striker: GH Worker
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 2.4:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+        wicket:
+          player_out: GH Worker
+          fielders:
+          - MA Pollard
+          kind: caught
+    - 2.5:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Leopard
+    - 2.6:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Leopard
+    - 2.7:
+        non_striker: CK Leopard
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 3.1:
+        non_striker: D Cleaver
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Leopard
+    - 3.2:
+        non_striker: D Cleaver
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Leopard
+    - 3.3:
+        non_striker: D Cleaver
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Leopard
+    - 3.4:
+        non_striker: CK Leopard
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 3.5:
+        non_striker: D Cleaver
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Leopard
+    - 3.6:
+        non_striker: D Cleaver
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Leopard
+    - 4.1:
+        non_striker: D Cleaver
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CK Leopard
+    - 4.2:
+        non_striker: D Cleaver
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CK Leopard
+    - 4.3:
+        non_striker: D Cleaver
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Leopard
+    - 4.4:
+        non_striker: D Cleaver
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Leopard
+    - 4.5:
+        non_striker: CK Leopard
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 4.6:
+        non_striker: CK Leopard
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 5.1:
+        non_striker: D Cleaver
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CK Leopard
+    - 5.2:
+        non_striker: CK Leopard
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Cleaver
+    - 5.3:
+        non_striker: CK Leopard
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 5.4:
+        non_striker: CK Leopard
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 5.5:
+        non_striker: CK Leopard
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 5.6:
+        non_striker: CK Leopard
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Cleaver
+    - 6.1:
+        non_striker: D Cleaver
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Leopard
+    - 6.2:
+        non_striker: D Cleaver
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CK Leopard
+    - 6.3:
+        non_striker: D Cleaver
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Leopard
+    - 6.4:
+        non_striker: CK Leopard
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 6.5:
+        non_striker: D Cleaver
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CK Leopard
+    - 6.6:
+        non_striker: D Cleaver
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Leopard
+    - 7.1:
+        non_striker: D Cleaver
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Leopard
+    - 7.2:
+        non_striker: CK Leopard
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Cleaver
+    - 7.3:
+        non_striker: CK Leopard
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Cleaver
+    - 7.4:
+        non_striker: CK Leopard
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Cleaver
+    - 7.5:
+        non_striker: CK Leopard
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 7.6:
+        non_striker: D Cleaver
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Leopard
+    - 8.1:
+        non_striker: D Cleaver
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Leopard
+    - 8.2:
+        non_striker: D Cleaver
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Leopard
+    - 8.3:
+        non_striker: CK Leopard
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Cleaver
+    - 8.4:
+        non_striker: CK Leopard
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 8.5:
+        non_striker: D Cleaver
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Leopard
+        wicket:
+          player_out: CK Leopard
+          kind: bowled
+    - 8.6:
+        non_striker: D Cleaver
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 9.1:
+        non_striker: D Cleaver
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 9.2:
+        non_striker: TC Bruce
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 9.3:
+        non_striker: D Cleaver
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 9.4:
+        non_striker: D Cleaver
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 9.5:
+        non_striker: D Cleaver
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 9.6:
+        non_striker: D Cleaver
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 10.1:
+        non_striker: TC Bruce
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 10.2:
+        non_striker: D Cleaver
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 10.3:
+        non_striker: D Cleaver
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 10.4:
+        non_striker: D Cleaver
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 10.5:
+        non_striker: TC Bruce
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 10.6:
+        non_striker: D Cleaver
+        bowler: MJ Nofal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 11.1:
+        non_striker: D Cleaver
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 11.2:
+        non_striker: TC Bruce
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Cleaver
+    - 11.3:
+        non_striker: D Cleaver
+        bowler: OR Newton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TC Bruce
+    - 11.4:
+        non_striker: D Cleaver
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 11.5:
+        non_striker: D Cleaver
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 11.6:
+        non_striker: TC Bruce
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Cleaver
+    - 11.7:
+        non_striker: TC Bruce
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Cleaver
+    - 12.1:
+        non_striker: D Cleaver
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce
+    - 12.2:
+        non_striker: D Cleaver
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+        wicket:
+          player_out: D Cleaver
+          kind: run out
+    - 12.3:
+        non_striker: TC Bruce
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Noema-Barnett
+    - 12.4:
+        non_striker: TC Bruce
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Noema-Barnett
+    - 12.5:
+        non_striker: K Noema-Barnett
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 12.6:
+        non_striker: TC Bruce
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Noema-Barnett
+    - 13.1:
+        non_striker: K Noema-Barnett
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 13.2:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Noema-Barnett
+    - 13.3:
+        non_striker: K Noema-Barnett
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 13.4:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Noema-Barnett
+    - 13.5:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Noema-Barnett
+    - 13.6:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Noema-Barnett
+    - 14.1:
+        non_striker: K Noema-Barnett
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 14.2:
+        non_striker: TC Bruce
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Noema-Barnett
+    - 14.3:
+        non_striker: K Noema-Barnett
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 14.4:
+        non_striker: TC Bruce
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Noema-Barnett
+    - 14.5:
+        non_striker: TC Bruce
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Noema-Barnett
+        wicket:
+          player_out: K Noema-Barnett
+          kind: bowled
+    - 14.6:
+        non_striker: TC Bruce
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 15.1:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 15.2:
+        non_striker: JA Clarkson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 15.3:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 15.4:
+        non_striker: JA Clarkson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 15.5:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+    - 15.6:
+        non_striker: TC Bruce
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 16.1:
+        non_striker: TC Bruce
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Clarkson
+    - 16.2:
+        non_striker: JA Clarkson
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 16.3:
+        non_striker: TC Bruce
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Clarkson
+    - 16.4:
+        non_striker: TC Bruce
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Clarkson
+        wicket:
+          player_out: JA Clarkson
+          fielders:
+          - R Ravindra
+          kind: caught
+    - 16.5:
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: WC Ludick
+        batsman: TC Bruce
+    - 16.6:
+        non_striker: TC Bruce
+        bowler: JS Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WC Ludick
+    - 17.1:
+        non_striker: WC Ludick
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 17.2:
+        non_striker: TC Bruce
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WC Ludick
+    - 17.3:
+        non_striker: WC Ludick
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce
+    - 17.4:
+        non_striker: WC Ludick
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 17.5:
+        non_striker: WC Ludick
+        bowler: JDS Neesham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TC Bruce
+    - 17.6:
+        non_striker: WC Ludick
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 17.7:
+        non_striker: WC Ludick
+        bowler: JDS Neesham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TC Bruce
+    - 17.8:
+        non_striker: WC Ludick
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TC Bruce
+    - 18.1:
+        non_striker: TC Bruce
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WC Ludick
+    - 18.2:
+        non_striker: WC Ludick
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 18.3:
+        non_striker: WC Ludick
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 18.4:
+        non_striker: TC Bruce
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WC Ludick
+    - 18.5:
+        non_striker: TC Bruce
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WC Ludick
+    - 18.6:
+        non_striker: WC Ludick
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce
+    - 18.7:
+        non_striker: WC Ludick
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TC Bruce
+    - 19.1:
+        non_striker: WC Ludick
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+        wicket:
+          player_out: TC Bruce
+          fielders:
+          - LV van Beek
+          kind: caught
+    - 19.2:
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: BM Wheeler
+        batsman: WC Ludick
+    - 19.3:
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BM Wheeler
+        batsman: WC Ludick
+    - 19.4:
+        non_striker: WC Ludick
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Wheeler
+    - 19.5:
+        non_striker: WC Ludick
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Wheeler
+    - 19.6:
+        non_striker: WC Ludick
+        bowler: OR Newton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Wheeler
+- 2nd innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: SHA Rance
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        non_striker: MA Pollard
+        batsman: DP Conway
+    - 0.2:
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MA Pollard
+        batsman: DP Conway
+    - 0.3:
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MA Pollard
+        batsman: DP Conway
+    - 0.4:
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MA Pollard
+        batsman: DP Conway
+    - 0.5:
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MA Pollard
+        batsman: DP Conway
+    - 0.6:
+        non_striker: DP Conway
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Pollard
+    - 1.1:
+        non_striker: MA Pollard
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 1.2:
+        non_striker: MA Pollard
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 1.3:
+        non_striker: DP Conway
+        bowler: BM Wheeler
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: MA Pollard
+    - 1.4:
+        non_striker: DP Conway
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Pollard
+    - 1.5:
+        non_striker: DP Conway
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 1.6:
+        non_striker: DP Conway
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 2.1:
+        non_striker: MA Pollard
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.2:
+        non_striker: MA Pollard
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 2.3:
+        non_striker: MA Pollard
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          fielders:
+          - D Cleaver
+          kind: caught
+    - 2.4:
+        non_striker: MA Pollard
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 2.5:
+        non_striker: R Ravindra
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Pollard
+    - 2.6:
+        non_striker: R Ravindra
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 3.1:
+        non_striker: MA Pollard
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 3.2:
+        non_striker: R Ravindra
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 3.3:
+        non_striker: MA Pollard
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Ravindra
+    - 3.4:
+        non_striker: MA Pollard
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 3.5:
+        non_striker: R Ravindra
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 3.6:
+        non_striker: MA Pollard
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ravindra
+    - 4.1:
+        non_striker: R Ravindra
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Pollard
+    - 4.2:
+        non_striker: R Ravindra
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 4.3:
+        non_striker: R Ravindra
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MA Pollard
+    - 4.4:
+        non_striker: R Ravindra
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 4.5:
+        non_striker: R Ravindra
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 4.6:
+        non_striker: MA Pollard
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 5.1:
+        non_striker: R Ravindra
+        bowler: AY Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Pollard
+    - 5.2:
+        non_striker: R Ravindra
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 5.3:
+        non_striker: R Ravindra
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 5.4:
+        non_striker: MA Pollard
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+        wicket:
+          player_out: R Ravindra
+          fielders:
+          - TC Bruce
+          kind: caught
+    - 5.5:
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MG Bracewell
+        batsman: MA Pollard
+    - 5.6:
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MG Bracewell
+        batsman: MA Pollard
+    - 5.7:
+        non_striker: MG Bracewell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 6.1:
+        non_striker: MG Bracewell
+        bowler: WC Ludick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+    - 6.2:
+        non_striker: MG Bracewell
+        bowler: WC Ludick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 6.3:
+        non_striker: MA Pollard
+        bowler: WC Ludick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 6.4:
+        non_striker: MA Pollard
+        bowler: WC Ludick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 6.5:
+        non_striker: MG Bracewell
+        bowler: WC Ludick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 6.6:
+        non_striker: MA Pollard
+        bowler: WC Ludick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 7.1:
+        non_striker: MA Pollard
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 7.2:
+        non_striker: MA Pollard
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bracewell
+    - 7.3:
+        non_striker: MA Pollard
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 7.4:
+        non_striker: MG Bracewell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 7.5:
+        non_striker: MA Pollard
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 7.6:
+        non_striker: MG Bracewell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 8.1:
+        non_striker: MG Bracewell
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Pollard
+    - 8.2:
+        non_striker: MA Pollard
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bracewell
+    - 8.3:
+        non_striker: MA Pollard
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+    - 8.4:
+        non_striker: MA Pollard
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bracewell
+    - 8.5:
+        non_striker: MG Bracewell
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Pollard
+        wicket:
+          player_out: MA Pollard
+          kind: bowled
+    - 8.6:
+        non_striker: MG Bracewell
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 9.1:
+        non_striker: MG Bracewell
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 9.2:
+        non_striker: JDS Neesham
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bracewell
+        wicket:
+          player_out: MG Bracewell
+          fielders:
+          - WC Ludick
+          kind: caught
+    - 9.3:
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MJ Nofal
+        batsman: JDS Neesham
+    - 9.4:
+        non_striker: JDS Neesham
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 9.5:
+        non_striker: MJ Nofal
+        bowler: AY Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JDS Neesham
+    - 9.6:
+        non_striker: JDS Neesham
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MJ Nofal
+    - 10.1:
+        non_striker: MJ Nofal
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 10.2:
+        non_striker: MJ Nofal
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 10.3:
+        non_striker: MJ Nofal
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 10.4:
+        non_striker: MJ Nofal
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 10.5:
+        non_striker: MJ Nofal
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 10.6:
+        non_striker: JDS Neesham
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 11.1:
+        non_striker: MJ Nofal
+        bowler: K Noema-Barnett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JDS Neesham
+    - 11.2:
+        non_striker: MJ Nofal
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDS Neesham
+    - 11.3:
+        non_striker: MJ Nofal
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 11.4:
+        non_striker: JDS Neesham
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 11.5:
+        non_striker: JDS Neesham
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 11.6:
+        non_striker: MJ Nofal
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 11.7:
+        non_striker: JDS Neesham
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Nofal
+    - 12.1:
+        non_striker: MJ Nofal
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 12.2:
+        non_striker: MJ Nofal
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 12.3:
+        non_striker: JDS Neesham
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 12.4:
+        non_striker: MJ Nofal
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 12.5:
+        non_striker: MJ Nofal
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 12.6:
+        non_striker: MJ Nofal
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JDS Neesham
+    - 13.1:
+        non_striker: JDS Neesham
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Nofal
+    - 13.2:
+        non_striker: MJ Nofal
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 13.3:
+        non_striker: JDS Neesham
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+    - 13.4:
+        non_striker: JDS Neesham
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Nofal
+        wicket:
+          player_out: MJ Nofal
+          fielders:
+          - WC Ludick
+          kind: caught
+    - 13.5:
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JD Gibson
+        batsman: JDS Neesham
+    - 13.6:
+        non_striker: JDS Neesham
+        bowler: K Noema-Barnett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Gibson
+    - 14.1:
+        non_striker: JDS Neesham
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Gibson
+    - 14.2:
+        non_striker: JDS Neesham
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Gibson
+    - 14.3:
+        non_striker: JD Gibson
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+        wicket:
+          player_out: JDS Neesham
+          fielders:
+          - WC Ludick
+          kind: caught
+    - 14.4:
+        non_striker: JD Gibson
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 14.5:
+        non_striker: LV van Beek
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Gibson
+    - 14.6:
+        non_striker: LV van Beek
+        bowler: BM Tickner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Gibson
+    - 15.1:
+        non_striker: LV van Beek
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Gibson
+    - 15.2:
+        non_striker: LV van Beek
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Gibson
+    - 15.3:
+        non_striker: JD Gibson
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 15.4:
+        non_striker: JD Gibson
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+        wicket:
+          player_out: LV van Beek
+          kind: bowled
+    - 15.5:
+        non_striker: JD Gibson
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Patel
+    - 15.6:
+        non_striker: JS Patel
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JD Gibson
+    - 16.1:
+        non_striker: JD Gibson
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Patel
+    - 16.2:
+        non_striker: JD Gibson
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Patel
+    - 16.3:
+        non_striker: JS Patel
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JD Gibson
+    - 16.4:
+        non_striker: JS Patel
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JD Gibson
+    - 16.5:
+        non_striker: JD Gibson
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Patel
+        wicket:
+          player_out: JS Patel
+          fielders:
+          - WC Ludick
+          kind: caught
+    - 16.6:
+        non_striker: OR Newton
+        bowler: AY Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Gibson
+    - 17.1:
+        non_striker: JD Gibson
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OR Newton
+    - 17.2:
+        non_striker: JD Gibson
+        bowler: BM Wheeler
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: OR Newton
+    - 17.3:
+        non_striker: OR Newton
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JD Gibson
+    - 17.4:
+        non_striker: OR Newton
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JD Gibson
+        wicket:
+          player_out: JD Gibson
+          kind: caught and bowled
+    - 17.5:
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HK Bennett
+        batsman: OR Newton
+    - 17.6:
+        non_striker: OR Newton
+        bowler: BM Wheeler
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Bennett
+    - 18.1:
+        non_striker: HK Bennett
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OR Newton
+    - 18.2:
+        non_striker: OR Newton
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Bennett
+    - 18.3:
+        non_striker: OR Newton
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Bennett
+    - 18.4:
+        non_striker: HK Bennett
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OR Newton
+    - 18.5:
+        non_striker: OR Newton
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Bennett
+    - 18.6:
+        non_striker: HK Bennett
+        bowler: SHA Rance
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OR Newton
+    - 19.1:
+        non_striker: OR Newton
+        bowler: WC Ludick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Bennett
+    - 19.2:
+        non_striker: OR Newton
+        bowler: WC Ludick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Bennett
+    - 19.3:
+        non_striker: OR Newton
+        bowler: WC Ludick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Bennett
+    - 19.4:
+        non_striker: HK Bennett
+        bowler: WC Ludick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OR Newton
+    - 19.5:
+        non_striker: OR Newton
+        bowler: WC Ludick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Bennett
+    - 19.6:
+        non_striker: HK Bennett
+        bowler: WC Ludick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: OR Newton

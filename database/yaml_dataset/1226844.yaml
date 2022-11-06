@@ -1,0 +1,2182 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-01-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hobart
+  competition: Big Bash League
+  dates:
+  - '2021-01-02'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Hobart Hurricanes
+    by:
+      runs: 21
+  overs: 20
+  player_of_match:
+  - SM Boland
+  players:
+    Hobart Hurricanes:
+    - BR McDermott
+    - DJM Short
+    - DJ Malan
+    - NT Ellis
+    - CA Ingram
+    - TH David
+    - PSP Handscomb
+    - J Botha
+    - SM Boland
+    - RP Meredith
+    - S Lamichhane
+    Melbourne Stars:
+    - NJ Maddinson
+    - ADS Fletcher
+    - MP Stoinis
+    - HWR Cartwright
+    - GJ Maxwell
+    - N Pooran
+    - BR Dunk
+    - SL Rainbird
+    - LC Hatcher
+    - LR Morris
+    - B Stanlake
+    - Zahir Khan
+  registry:
+    people:
+      ADS Fletcher: 1bae756b
+      B Stanlake: 6834d1f2
+      BR Dunk: 272d796e
+      BR McDermott: c41043e6
+      CA Ingram: c995d726
+      DJ Malan: ad9c32a2
+      DJM Short: 1a156c88
+      David Johnston: 92cef862
+      GA Abood: a4af5528
+      GJ Maxwell: b681e71e
+      HWR Cartwright: ab965cad
+      J Botha: 7c503806
+      LC Hatcher: 8f3fde65
+      LR Morris: b08e58e2
+      MP Stoinis: d9273ee7
+      N Pooran: 3241e3fd
+      NJ Maddinson: 44afbf2d
+      NR Johnstone: ce274b6a
+      NT Ellis: 9eb1455b
+      PSP Handscomb: ada15e88
+      RP Meredith: '64775749'
+      S Lamichhane: b410bd3d
+      SL Rainbird: e7dd5eca
+      SM Boland: d167edd3
+      TH David: f1f99156
+      TJ Matibiri: 4a3132b1
+      Zahir Khan: 786b7fe8
+  supersubs:
+    Melbourne Stars: LR Morris
+  teams:
+  - Hobart Hurricanes
+  - Melbourne Stars
+  toss:
+    decision: field
+    winner: Melbourne Stars
+  umpires:
+  - GA Abood
+  - NR Johnstone
+  venue: Bellerive Oval
+innings:
+- 1st innings:
+    team: Hobart Hurricanes
+    deliveries:
+    - 0.1:
+        non_striker: DJM Short
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 0.2:
+        non_striker: BR McDermott
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJM Short
+    - 0.3:
+        non_striker: BR McDermott
+        bowler: SL Rainbird
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJM Short
+    - 0.4:
+        non_striker: BR McDermott
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJM Short
+    - 0.5:
+        non_striker: BR McDermott
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJM Short
+    - 0.6:
+        non_striker: BR McDermott
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJM Short
+    - 0.7:
+        non_striker: DJM Short
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 1.1:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJM Short
+    - 1.2:
+        non_striker: DJM Short
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 1.3:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+    - 1.4:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJM Short
+        wicket:
+          player_out: DJM Short
+          kind: bowled
+    - 1.5:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 1.6:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 2.1:
+        non_striker: DJ Malan
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 2.2:
+        non_striker: DJ Malan
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 2.3:
+        non_striker: DJ Malan
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 2.4:
+        non_striker: DJ Malan
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 2.5:
+        non_striker: BR McDermott
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 2.6:
+        non_striker: BR McDermott
+        bowler: SL Rainbird
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 2.7:
+        non_striker: BR McDermott
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 3.1:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 3.2:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 3.3:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BR McDermott
+    - 3.4:
+        non_striker: BR McDermott
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 3.5:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 3.6:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BR McDermott
+    - 4.1:
+        non_striker: BR McDermott
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 4.2:
+        non_striker: DJ Malan
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 4.3:
+        non_striker: DJ Malan
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BR McDermott
+    - 4.4:
+        non_striker: DJ Malan
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 4.5:
+        non_striker: DJ Malan
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 4.6:
+        non_striker: BR McDermott
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 5.1:
+        non_striker: BR McDermott
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 5.2:
+        non_striker: BR McDermott
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 5.3:
+        non_striker: DJ Malan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 5.4:
+        non_striker: BR McDermott
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 5.5:
+        non_striker: BR McDermott
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 5.6:
+        non_striker: BR McDermott
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 6.1:
+        non_striker: DJ Malan
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 6.2:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 6.3:
+        non_striker: DJ Malan
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 6.4:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 6.5:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 6.6:
+        non_striker: BR McDermott
+        bowler: GJ Maxwell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 7.1:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 7.2:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 7.3:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BR McDermott
+    - 7.4:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 7.5:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 7.6:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+    - 8.1:
+        non_striker: BR McDermott
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 8.2:
+        non_striker: DJ Malan
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 8.3:
+        non_striker: BR McDermott
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 8.4:
+        non_striker: BR McDermott
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 8.5:
+        non_striker: DJ Malan
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 8.6:
+        non_striker: BR McDermott
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 9.1:
+        non_striker: DJ Malan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 9.2:
+        non_striker: BR McDermott
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 9.3:
+        non_striker: DJ Malan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 9.4:
+        non_striker: BR McDermott
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 9.5:
+        non_striker: BR McDermott
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 9.6:
+        non_striker: BR McDermott
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 10.1:
+        non_striker: BR McDermott
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: LR Morris
+            out: NJ Maddinson
+            team: Melbourne Stars
+            reason: supersub
+        batsman: DJ Malan
+    - 10.2:
+        non_striker: DJ Malan
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 10.3:
+        non_striker: BR McDermott
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 10.4:
+        non_striker: DJ Malan
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 10.5:
+        non_striker: BR McDermott
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 10.6:
+        non_striker: BR McDermott
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 11.1:
+        non_striker: BR McDermott
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Malan
+    - 11.2:
+        non_striker: BR McDermott
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Malan
+    - 11.3:
+        non_striker: BR McDermott
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 11.4:
+        non_striker: DJ Malan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 11.5:
+        non_striker: BR McDermott
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 11.6:
+        non_striker: DJ Malan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 12.1:
+        non_striker: DJ Malan
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR McDermott
+    - 12.2:
+        non_striker: BR McDermott
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 12.3:
+        non_striker: BR McDermott
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 12.4:
+        non_striker: BR McDermott
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 12.5:
+        non_striker: BR McDermott
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 12.6:
+        non_striker: BR McDermott
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 13.1:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR McDermott
+        wicket:
+          player_out: BR McDermott
+          kind: bowled
+    - 13.2:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NT Ellis
+        wicket:
+          player_out: NT Ellis
+          fielders:
+          - GJ Maxwell
+          kind: caught
+    - 13.3:
+        non_striker: CA Ingram
+        bowler: B Stanlake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Malan
+    - 13.4:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 13.5:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 13.6:
+        non_striker: CA Ingram
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 14.1:
+        non_striker: DJ Malan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 14.2:
+        non_striker: DJ Malan
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 14.3:
+        non_striker: CA Ingram
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 14.4:
+        non_striker: CA Ingram
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 14.5:
+        non_striker: DJ Malan
+        bowler: Zahir Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CA Ingram
+    - 14.6:
+        non_striker: CA Ingram
+        bowler: Zahir Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 15.1:
+        non_striker: CA Ingram
+        bowler: LR Morris
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: DJ Malan
+    - 15.2:
+        non_striker: DJ Malan
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Ingram
+    - 15.3:
+        non_striker: DJ Malan
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 15.4:
+        non_striker: CA Ingram
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 15.5:
+        non_striker: CA Ingram
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Malan
+    - 15.6:
+        non_striker: CA Ingram
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 15.7:
+        non_striker: DJ Malan
+        bowler: LR Morris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+    - 16.1:
+        non_striker: CA Ingram
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 16.2:
+        non_striker: CA Ingram
+        bowler: SL Rainbird
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Malan
+    - 16.3:
+        non_striker: CA Ingram
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 16.4:
+        non_striker: DJ Malan
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Ingram
+    - 16.5:
+        non_striker: CA Ingram
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 16.6:
+        non_striker: DJ Malan
+        bowler: SL Rainbird
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Ingram
+    - 16.7:
+        non_striker: DJ Malan
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 16.8:
+        non_striker: DJ Malan
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Ingram
+    - 17.1:
+        non_striker: CA Ingram
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Malan
+    - 17.2:
+        non_striker: CA Ingram
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 17.3:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Ingram
+    - 17.4:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Ingram
+        wicket:
+          player_out: CA Ingram
+          fielders:
+          - HWR Cartwright
+          kind: caught
+    - 17.5:
+        non_striker: TH David
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+    - 17.6:
+        non_striker: TH David
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 17.7:
+        non_striker: DJ Malan
+        bowler: B Stanlake
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 18.1:
+        non_striker: DJ Malan
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 18.2:
+        non_striker: TH David
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Malan
+    - 18.3:
+        non_striker: DJ Malan
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 18.4:
+        non_striker: TH David
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Malan
+    - 18.5:
+        non_striker: TH David
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Malan
+        wicket:
+          player_out: DJ Malan
+          fielders:
+          - GJ Maxwell
+          kind: caught
+    - 18.6:
+        non_striker: TH David
+        bowler: SL Rainbird
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 19.1:
+        non_striker: TH David
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 19.2:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 19.3:
+        non_striker: TH David
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PSP Handscomb
+    - 19.4:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 19.5:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TH David
+    - 19.6:
+        non_striker: PSP Handscomb
+        bowler: LC Hatcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TH David
+- 2nd innings:
+    team: Melbourne Stars
+    deliveries:
+    - 0.1:
+        non_striker: MP Stoinis
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.2:
+        non_striker: MP Stoinis
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.3:
+        non_striker: MP Stoinis
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 0.4:
+        non_striker: MP Stoinis
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 0.5:
+        non_striker: MP Stoinis
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.6:
+        non_striker: MP Stoinis
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 1.1:
+        non_striker: ADS Fletcher
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 1.2:
+        non_striker: ADS Fletcher
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 1.3:
+        non_striker: ADS Fletcher
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Stoinis
+    - 1.4:
+        non_striker: ADS Fletcher
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 1.5:
+        non_striker: ADS Fletcher
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 1.6:
+        non_striker: ADS Fletcher
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 2.1:
+        non_striker: ADS Fletcher
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 2.2:
+        non_striker: ADS Fletcher
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Stoinis
+    - 2.3:
+        non_striker: ADS Fletcher
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+    - 2.4:
+        non_striker: ADS Fletcher
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          fielders:
+          - PSP Handscomb
+          kind: caught
+    - 2.5:
+        non_striker: HWR Cartwright
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.6:
+        non_striker: HWR Cartwright
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+        wicket:
+          player_out: ADS Fletcher
+          kind: run out
+    - 3.1:
+        non_striker: HWR Cartwright
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 3.2:
+        non_striker: HWR Cartwright
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 3.3:
+        non_striker: HWR Cartwright
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 3.4:
+        non_striker: HWR Cartwright
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 3.5:
+        non_striker: GJ Maxwell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+    - 3.6:
+        non_striker: GJ Maxwell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HWR Cartwright
+    - 4.1:
+        non_striker: GJ Maxwell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HWR Cartwright
+    - 4.2:
+        non_striker: GJ Maxwell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 4.3:
+        non_striker: HWR Cartwright
+        bowler: SM Boland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GJ Maxwell
+    - 4.4:
+        non_striker: GJ Maxwell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 4.5:
+        non_striker: HWR Cartwright
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 4.6:
+        non_striker: HWR Cartwright
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 5.1:
+        non_striker: GJ Maxwell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HWR Cartwright
+    - 5.2:
+        non_striker: HWR Cartwright
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 5.3:
+        non_striker: HWR Cartwright
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 5.4:
+        non_striker: GJ Maxwell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HWR Cartwright
+        wicket:
+          player_out: HWR Cartwright
+          kind: bowled
+    - 5.5:
+        non_striker: GJ Maxwell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 5.6:
+        non_striker: N Pooran
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 6.1:
+        non_striker: GJ Maxwell
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 6.2:
+        non_striker: GJ Maxwell
+        bowler: NT Ellis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Pooran
+    - 6.3:
+        non_striker: GJ Maxwell
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 6.4:
+        non_striker: GJ Maxwell
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 6.5:
+        non_striker: N Pooran
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 6.6:
+        non_striker: N Pooran
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 6.7:
+        non_striker: N Pooran
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 7.1:
+        non_striker: N Pooran
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 7.2:
+        non_striker: N Pooran
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 7.3:
+        non_striker: N Pooran
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 7.4:
+        non_striker: N Pooran
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 7.5:
+        non_striker: GJ Maxwell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 7.6:
+        non_striker: N Pooran
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 8.1:
+        non_striker: GJ Maxwell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 8.2:
+        non_striker: N Pooran
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 8.3:
+        non_striker: N Pooran
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GJ Maxwell
+    - 8.4:
+        non_striker: N Pooran
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 8.5:
+        non_striker: GJ Maxwell
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 8.6:
+        non_striker: N Pooran
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 9.1:
+        non_striker: N Pooran
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 9.2:
+        non_striker: GJ Maxwell
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 9.3:
+        non_striker: N Pooran
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 9.4:
+        non_striker: GJ Maxwell
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 9.5:
+        non_striker: N Pooran
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 9.6:
+        non_striker: N Pooran
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 10.1:
+        non_striker: N Pooran
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 10.2:
+        non_striker: N Pooran
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 10.3:
+        non_striker: N Pooran
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 10.4:
+        non_striker: GJ Maxwell
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 10.5:
+        non_striker: N Pooran
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GJ Maxwell
+    - 10.6:
+        non_striker: N Pooran
+        bowler: DJM Short
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 11.1:
+        non_striker: N Pooran
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 11.2:
+        non_striker: GJ Maxwell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 11.3:
+        non_striker: GJ Maxwell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Pooran
+    - 11.4:
+        non_striker: GJ Maxwell
+        bowler: S Lamichhane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Pooran
+    - 11.5:
+        non_striker: N Pooran
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 11.6:
+        non_striker: GJ Maxwell
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 12.1:
+        non_striker: N Pooran
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Maxwell
+    - 12.2:
+        non_striker: N Pooran
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+    - 12.3:
+        non_striker: N Pooran
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Maxwell
+    - 12.4:
+        non_striker: GJ Maxwell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          fielders:
+          - BR McDermott
+          kind: caught
+    - 12.5:
+        non_striker: GJ Maxwell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 12.6:
+        non_striker: GJ Maxwell
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 13.1:
+        non_striker: BR Dunk
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Maxwell
+        wicket:
+          player_out: GJ Maxwell
+          fielders:
+          - DJM Short
+          kind: caught
+    - 13.2:
+        non_striker: SL Rainbird
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 13.3:
+        non_striker: BR Dunk
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Rainbird
+    - 13.4:
+        non_striker: SL Rainbird
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+    - 13.5:
+        non_striker: SL Rainbird
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BR Dunk
+    - 13.6:
+        non_striker: BR Dunk
+        bowler: J Botha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Rainbird
+    - 14.1:
+        non_striker: BR Dunk
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Rainbird
+    - 14.2:
+        non_striker: BR Dunk
+        bowler: S Lamichhane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Rainbird
+    - 14.3:
+        non_striker: BR Dunk
+        bowler: S Lamichhane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SL Rainbird
+    - 14.4:
+        non_striker: BR Dunk
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Rainbird
+    - 14.5:
+        non_striker: SL Rainbird
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BR Dunk
+        wicket:
+          player_out: BR Dunk
+          fielders:
+          - BR McDermott
+          kind: caught
+    - 14.6:
+        non_striker: SL Rainbird
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LC Hatcher
+    - 14.7:
+        non_striker: LC Hatcher
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SL Rainbird
+    - 14.8:
+        non_striker: SL Rainbird
+        bowler: S Lamichhane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LC Hatcher
+    - 15.1:
+        non_striker: LC Hatcher
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SL Rainbird
+    - 15.2:
+        non_striker: SL Rainbird
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Hatcher
+    - 15.3:
+        non_striker: SL Rainbird
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Hatcher
+    - 15.4:
+        non_striker: SL Rainbird
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Hatcher
+    - 15.5:
+        non_striker: SL Rainbird
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Hatcher
+    - 15.6:
+        non_striker: SL Rainbird
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Hatcher
+    - 16.1:
+        non_striker: LC Hatcher
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Rainbird
+    - 16.2:
+        non_striker: LC Hatcher
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Rainbird
+    - 16.3:
+        non_striker: LC Hatcher
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SL Rainbird
+    - 16.4:
+        non_striker: LC Hatcher
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SL Rainbird
+    - 16.5:
+        non_striker: LC Hatcher
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SL Rainbird
+        wicket:
+          player_out: SL Rainbird
+          fielders:
+          - NT Ellis
+          kind: caught
+    - 16.6:
+        non_striker: LC Hatcher
+        bowler: SM Boland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Morris
+    - 17.1:
+        non_striker: LC Hatcher
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Morris
+    - 17.2:
+        non_striker: LC Hatcher
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Morris
+    - 17.3:
+        non_striker: LC Hatcher
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Morris
+    - 17.4:
+        non_striker: LR Morris
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LC Hatcher
+        wicket:
+          player_out: LC Hatcher
+          fielders:
+          - PSP Handscomb
+          kind: caught
+    - 17.5:
+        non_striker: B Stanlake
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Morris
+    - 17.6:
+        non_striker: B Stanlake
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Morris
+        wicket:
+          player_out: LR Morris
+          kind: bowled
+    - 18.1:
+        non_striker: Zahir Khan
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Stanlake
+    - 18.2:
+        non_striker: Zahir Khan
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Stanlake
+    - 18.3:
+        non_striker: Zahir Khan
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Stanlake
+    - 18.4:
+        non_striker: Zahir Khan
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Stanlake
+    - 18.5:
+        non_striker: Zahir Khan
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Stanlake
+    - 18.6:
+        non_striker: B Stanlake
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Khan
+    - 19.1:
+        non_striker: B Stanlake
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Khan
+    - 19.2:
+        non_striker: B Stanlake
+        bowler: NT Ellis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Zahir Khan
+    - 19.3:
+        non_striker: Zahir Khan
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Stanlake
+    - 19.4:
+        non_striker: B Stanlake
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Khan
+    - 19.5:
+        non_striker: Zahir Khan
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Stanlake
+    - 19.6:
+        non_striker: Zahir Khan
+        bowler: NT Ellis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Stanlake

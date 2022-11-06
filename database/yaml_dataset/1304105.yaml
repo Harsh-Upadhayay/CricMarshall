@@ -1,0 +1,1770 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-05-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Mumbai
+  competition: IPL
+  dates:
+  - '2022-05-12'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Mumbai Indians
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - DR Sams
+  players:
+    Chennai Super Kings:
+    - RD Gaikwad
+    - DP Conway
+    - MM Ali
+    - RV Uthappa
+    - AT Rayudu
+    - MS Dhoni
+    - S Dube
+    - DJ Bravo
+    - Simarjeet Singh
+    - M Theekshana
+    - Mukesh Choudhary
+    Mumbai Indians:
+    - Ishan Kishan
+    - RG Sharma
+    - DR Sams
+    - Tilak Varma
+    - T Stubbs
+    - HR Shokeen
+    - TH David
+    - Ramandeep Singh
+    - JJ Bumrah
+    - RP Meredith
+    - K Kartikeya
+  registry:
+    people:
+      A Totre: b1d7d7bc
+      AT Rayudu: 70d205c9
+      CB Gaffaney: d5ac41d8
+      Chirra Ravikanthreddy: 8b680f55
+      DJ Bravo: 87e562a9
+      DP Conway: df5a6881
+      DR Sams: caf69bf7
+      HR Shokeen: 0c9652b0
+      Ishan Kishan: 752f7486
+      JJ Bumrah: 462411b3
+      K Kartikeya: f6d8a7ab
+      M Theekshana: f24c6701
+      MM Ali: bb351c23
+      MS Dhoni: 4a8a2e3b
+      Mukesh Choudhary: 765a4731
+      Nitin Menon: e1d41d9e
+      RD Gaikwad: 45a43fe2
+      RG Sharma: 740742ef
+      RP Meredith: '64775749'
+      RV Uthappa: 1c17e270
+      Ramandeep Singh: be24ead0
+      S Dube: a4e37e47
+      Shakti Singh: eb90d319
+      Simarjeet Singh: 30df8c66
+      T Stubbs: 85b3fab2
+      TH David: f1f99156
+      Tilak Varma: b0482a1d
+  teams:
+  - Chennai Super Kings
+  - Mumbai Indians
+  toss:
+    winner: Mumbai Indians
+    decision: field
+  umpires:
+  - Chirra Ravikanthreddy
+  - CB Gaffaney
+  venue: Wankhede Stadium, Mumbai
+innings:
+- 1st innings:
+    team: Chennai Super Kings
+    deliveries:
+    - 0.1:
+        non_striker: DP Conway
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 0.2:
+        non_striker: RD Gaikwad
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+        wicket:
+          player_out: DP Conway
+          kind: lbw
+    - 0.3:
+        non_striker: RD Gaikwad
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+    - 0.4:
+        non_striker: RD Gaikwad
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MM Ali
+    - 0.5:
+        non_striker: RD Gaikwad
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Ali
+        wicket:
+          player_out: MM Ali
+          fielders:
+          - HR Shokeen
+          kind: caught
+    - 0.6:
+        non_striker: RD Gaikwad
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RV Uthappa
+    - 0.7:
+        non_striker: RD Gaikwad
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RV Uthappa
+    - 0.8:
+        non_striker: RD Gaikwad
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 0.9:
+        non_striker: RD Gaikwad
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RV Uthappa
+    - 1.1:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 1.2:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 1.3:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+    - 1.4:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RV Uthappa
+        wicket:
+          player_out: RV Uthappa
+          kind: lbw
+    - 1.5:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 1.6:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 2.1:
+        non_striker: AT Rayudu
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 2.2:
+        non_striker: RD Gaikwad
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 2.3:
+        non_striker: RD Gaikwad
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 2.4:
+        non_striker: RD Gaikwad
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 2.5:
+        non_striker: RD Gaikwad
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 2.6:
+        non_striker: RD Gaikwad
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 3.1:
+        non_striker: AT Rayudu
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 3.2:
+        non_striker: AT Rayudu
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 3.3:
+        non_striker: AT Rayudu
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 3.4:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 3.5:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 3.6:
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AT Rayudu
+    - 4.1:
+        non_striker: AT Rayudu
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+        wicket:
+          player_out: RD Gaikwad
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 4.2:
+        non_striker: AT Rayudu
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Dhoni
+    - 4.3:
+        non_striker: AT Rayudu
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 4.4:
+        non_striker: AT Rayudu
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 4.5:
+        non_striker: AT Rayudu
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Dhoni
+    - 4.6:
+        non_striker: AT Rayudu
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Dhoni
+    - 4.7:
+        non_striker: AT Rayudu
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Dhoni
+    - 4.8:
+        non_striker: AT Rayudu
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 5.1:
+        non_striker: MS Dhoni
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 5.2:
+        non_striker: MS Dhoni
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+    - 5.3:
+        non_striker: MS Dhoni
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AT Rayudu
+    - 5.4:
+        non_striker: MS Dhoni
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AT Rayudu
+        wicket:
+          player_out: AT Rayudu
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 5.5:
+        non_striker: MS Dhoni
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dube
+    - 5.6:
+        non_striker: MS Dhoni
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 6.1:
+        non_striker: MS Dhoni
+        bowler: HR Shokeen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Dube
+    - 6.2:
+        non_striker: MS Dhoni
+        bowler: HR Shokeen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 6.3:
+        non_striker: MS Dhoni
+        bowler: HR Shokeen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 6.4:
+        non_striker: MS Dhoni
+        bowler: HR Shokeen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 6.5:
+        non_striker: S Dube
+        bowler: HR Shokeen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 6.6:
+        non_striker: S Dube
+        bowler: HR Shokeen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 7.1:
+        non_striker: MS Dhoni
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 7.2:
+        non_striker: MS Dhoni
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Dube
+    - 7.3:
+        non_striker: MS Dhoni
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+        wicket:
+          player_out: S Dube
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 7.4:
+        non_striker: MS Dhoni
+        bowler: RP Meredith
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: DJ Bravo
+    - 7.5:
+        non_striker: MS Dhoni
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 7.6:
+        non_striker: MS Dhoni
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 7.7:
+        non_striker: MS Dhoni
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 8.1:
+        non_striker: MS Dhoni
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 8.2:
+        non_striker: MS Dhoni
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 8.3:
+        non_striker: DJ Bravo
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 8.4:
+        non_striker: DJ Bravo
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 8.5:
+        non_striker: DJ Bravo
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Dhoni
+    - 8.6:
+        non_striker: DJ Bravo
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Dhoni
+    - 9.1:
+        non_striker: MS Dhoni
+        bowler: HR Shokeen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 9.2:
+        non_striker: DJ Bravo
+        bowler: HR Shokeen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Dhoni
+    - 9.3:
+        non_striker: DJ Bravo
+        bowler: HR Shokeen
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: MS Dhoni
+    - 9.4:
+        non_striker: DJ Bravo
+        bowler: HR Shokeen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 9.5:
+        non_striker: DJ Bravo
+        bowler: HR Shokeen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Dhoni
+    - 9.6:
+        non_striker: DJ Bravo
+        bowler: HR Shokeen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 9.7:
+        non_striker: DJ Bravo
+        bowler: HR Shokeen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 10.1:
+        non_striker: DJ Bravo
+        bowler: K Kartikeya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MS Dhoni
+    - 10.2:
+        non_striker: MS Dhoni
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 10.3:
+        non_striker: DJ Bravo
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 10.4:
+        non_striker: DJ Bravo
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 10.5:
+        non_striker: MS Dhoni
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 10.6:
+        non_striker: DJ Bravo
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Dhoni
+    - 11.1:
+        non_striker: MS Dhoni
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 11.2:
+        non_striker: MS Dhoni
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 11.3:
+        non_striker: MS Dhoni
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 11.4:
+        non_striker: MS Dhoni
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+    - 11.5:
+        non_striker: MS Dhoni
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Bravo
+    - 11.6:
+        non_striker: DJ Bravo
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 12.1:
+        non_striker: MS Dhoni
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Bravo
+    - 12.2:
+        non_striker: MS Dhoni
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Bravo
+        wicket:
+          player_out: DJ Bravo
+          fielders:
+          - Tilak Varma
+          kind: caught
+    - 12.3:
+        non_striker: MS Dhoni
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simarjeet Singh
+    - 12.4:
+        non_striker: MS Dhoni
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Simarjeet Singh
+    - 12.5:
+        non_striker: MS Dhoni
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Simarjeet Singh
+        wicket:
+          player_out: Simarjeet Singh
+          kind: lbw
+    - 12.6:
+        non_striker: MS Dhoni
+        bowler: K Kartikeya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 13.1:
+        non_striker: M Theekshana
+        bowler: Ramandeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 13.2:
+        non_striker: MS Dhoni
+        bowler: Ramandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 13.3:
+        non_striker: MS Dhoni
+        bowler: Ramandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+        wicket:
+          player_out: M Theekshana
+          fielders:
+          - RG Sharma
+          kind: caught
+    - 13.4:
+        non_striker: MS Dhoni
+        bowler: Ramandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukesh Choudhary
+    - 13.5:
+        non_striker: MS Dhoni
+        bowler: Ramandeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukesh Choudhary
+    - 13.6:
+        non_striker: MS Dhoni
+        bowler: Ramandeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mukesh Choudhary
+    - 14.1:
+        non_striker: Mukesh Choudhary
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 14.2:
+        non_striker: Mukesh Choudhary
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 14.3:
+        non_striker: Mukesh Choudhary
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 14.4:
+        non_striker: Mukesh Choudhary
+        bowler: DR Sams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Dhoni
+    - 14.5:
+        non_striker: Mukesh Choudhary
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 14.6:
+        non_striker: Mukesh Choudhary
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Dhoni
+    - 14.7:
+        non_striker: MS Dhoni
+        bowler: DR Sams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukesh Choudhary
+    - 15.1:
+        non_striker: Mukesh Choudhary
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Dhoni
+    - 15.2:
+        non_striker: Mukesh Choudhary
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 15.3:
+        non_striker: Mukesh Choudhary
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 15.4:
+        non_striker: Mukesh Choudhary
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Dhoni
+    - 15.5:
+        non_striker: Mukesh Choudhary
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+    - 15.6:
+        non_striker: Mukesh Choudhary
+        bowler: RP Meredith
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Dhoni
+        wicket:
+          player_out: Mukesh Choudhary
+          fielders:
+          - Ishan Kishan
+          kind: run out
+- 2nd innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        non_striker: RG Sharma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.2:
+        non_striker: RG Sharma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 0.3:
+        non_striker: RG Sharma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 0.4:
+        non_striker: RG Sharma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.5:
+        non_striker: RG Sharma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          fielders:
+          - MS Dhoni
+          kind: caught
+    - 0.6:
+        non_striker: RG Sharma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+    - 1.1:
+        non_striker: DR Sams
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.2:
+        non_striker: DR Sams
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.3:
+        non_striker: DR Sams
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 1.4:
+        non_striker: DR Sams
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 1.5:
+        non_striker: DR Sams
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 1.6:
+        non_striker: RG Sharma
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+    - 2.1:
+        non_striker: DR Sams
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.2:
+        non_striker: DR Sams
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 2.3:
+        non_striker: DR Sams
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.4:
+        non_striker: DR Sams
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 2.5:
+        non_striker: DR Sams
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 2.6:
+        non_striker: DR Sams
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RG Sharma
+    - 2.7:
+        non_striker: DR Sams
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 3.1:
+        non_striker: DR Sams
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 3.2:
+        non_striker: DR Sams
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 3.3:
+        non_striker: DR Sams
+        bowler: Simarjeet Singh
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: RG Sharma
+    - 3.4:
+        non_striker: DR Sams
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+        wicket:
+          player_out: RG Sharma
+          fielders:
+          - MS Dhoni
+          kind: caught
+    - 3.5:
+        non_striker: DR Sams
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 3.6:
+        non_striker: Tilak Varma
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Sams
+    - 3.7:
+        non_striker: DR Sams
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 4.1:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Sams
+    - 4.2:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+    - 4.3:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+    - 4.4:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Sams
+        wicket:
+          player_out: DR Sams
+          kind: lbw
+    - 4.5:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 4.6:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+        wicket:
+          player_out: T Stubbs
+          kind: lbw
+    - 4.7:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HR Shokeen
+    - 5.1:
+        non_striker: Tilak Varma
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Shokeen
+    - 5.2:
+        non_striker: Tilak Varma
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Shokeen
+    - 5.3:
+        non_striker: Tilak Varma
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Shokeen
+    - 5.4:
+        non_striker: Tilak Varma
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Shokeen
+    - 5.5:
+        non_striker: HR Shokeen
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 5.6:
+        non_striker: HR Shokeen
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 6.1:
+        non_striker: HR Shokeen
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 6.2:
+        non_striker: HR Shokeen
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 6.3:
+        non_striker: HR Shokeen
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tilak Varma
+    - 6.4:
+        non_striker: HR Shokeen
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 6.5:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Shokeen
+    - 6.6:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Shokeen
+    - 6.7:
+        non_striker: Tilak Varma
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Shokeen
+    - 7.1:
+        non_striker: HR Shokeen
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 7.2:
+        non_striker: HR Shokeen
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 7.3:
+        non_striker: HR Shokeen
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 7.4:
+        non_striker: HR Shokeen
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 7.5:
+        non_striker: HR Shokeen
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 7.6:
+        non_striker: HR Shokeen
+        bowler: Simarjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 8.1:
+        non_striker: Tilak Varma
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HR Shokeen
+    - 8.2:
+        non_striker: Tilak Varma
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HR Shokeen
+    - 8.3:
+        non_striker: Tilak Varma
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Shokeen
+    - 8.4:
+        non_striker: Tilak Varma
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Shokeen
+    - 8.5:
+        non_striker: HR Shokeen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 8.6:
+        non_striker: Tilak Varma
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Shokeen
+    - 9.1:
+        non_striker: Tilak Varma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Shokeen
+    - 9.2:
+        non_striker: Tilak Varma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Shokeen
+    - 9.3:
+        non_striker: HR Shokeen
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 9.4:
+        non_striker: Tilak Varma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HR Shokeen
+    - 9.5:
+        non_striker: Tilak Varma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Shokeen
+    - 9.6:
+        non_striker: HR Shokeen
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 10.1:
+        non_striker: Tilak Varma
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HR Shokeen
+    - 10.2:
+        non_striker: Tilak Varma
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Shokeen
+    - 10.3:
+        non_striker: Tilak Varma
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Shokeen
+    - 10.4:
+        non_striker: HR Shokeen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 10.5:
+        non_striker: HR Shokeen
+        bowler: DJ Bravo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tilak Varma
+    - 10.6:
+        non_striker: HR Shokeen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 10.7:
+        non_striker: HR Shokeen
+        bowler: DJ Bravo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 11.1:
+        non_striker: HR Shokeen
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 11.2:
+        non_striker: HR Shokeen
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 11.3:
+        non_striker: HR Shokeen
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tilak Varma
+    - 11.4:
+        non_striker: HR Shokeen
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 11.5:
+        non_striker: HR Shokeen
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 11.6:
+        non_striker: Tilak Varma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Shokeen
+    - 12.1:
+        non_striker: HR Shokeen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 12.2:
+        non_striker: HR Shokeen
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 12.3:
+        non_striker: Tilak Varma
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Shokeen
+    - 12.4:
+        non_striker: Tilak Varma
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Shokeen
+        wicket:
+          player_out: HR Shokeen
+          kind: bowled
+    - 12.5:
+        non_striker: Tilak Varma
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 12.6:
+        non_striker: TH David
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 13.1:
+        non_striker: TH David
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 13.2:
+        non_striker: Tilak Varma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 13.3:
+        non_striker: TH David
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 13.4:
+        non_striker: TH David
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 13.5:
+        non_striker: Tilak Varma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+    - 13.6:
+        non_striker: Tilak Varma
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 14.1:
+        non_striker: Tilak Varma
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David
+    - 14.2:
+        non_striker: Tilak Varma
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 14.3:
+        non_striker: TH David
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 14.4:
+        non_striker: TH David
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 14.5:
+        non_striker: Tilak Varma
+        bowler: MM Ali
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TH David

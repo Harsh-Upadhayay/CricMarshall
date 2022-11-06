@@ -1,0 +1,2111 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-02-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dhaka
+  competition: Bangladesh Premier League
+  dates:
+  - '2022-02-14'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Chattogram Challengers
+    by:
+      runs: 7
+  overs: 20
+  player_of_match:
+  - CAK Walton
+  players:
+    Chattogram Challengers:
+    - K Lewis
+    - Zakir Hasan
+    - Afif Hossain
+    - CAK Walton
+    - Shamim Hossain
+    - Mehedi Hasan Miraz
+    - BAC Howell
+    - Mohammad Akbar Ali
+    - Shoriful Islam
+    - Nasum Ahmed
+    - Mrittunjoy Chowdhury
+    Khulna Tigers:
+    - ADS Fletcher
+    - Mahedi Hasan
+    - Soumya Sarkar
+    - Mushfiqur Rahim
+    - Yasir Ali Chowdhury
+    - NLTC Perera
+    - Farhad Reza
+    - Nabil Samad
+    - Khaled Ahmed
+    - Sikandar Raza
+    - Ruyel Miah
+  registry:
+    people:
+      ADS Fletcher: 1bae756b
+      Afif Hossain: '37138918'
+      Akbar Ali: abae26ad
+      BAC Howell: 0bec3a6c
+      CAK Walton: bbff906c
+      Farhad Reza: 4948a447
+      Gazi Sohel: f0df3ed7
+      K Lewis: b0081e62
+      Khaled Ahmed: 5dbdecf1
+      Mahedi Hasan: 9dad0f2e
+      Mahfuzur Rahman: 3275b68b
+      Mehedi Hasan Miraz: c58b0108
+      Morshed Ali Khan: a7c3cf5f
+      Mrittunjoy Chowdhury: 21b97584
+      Mushfiqur Rahim: a94e08ea
+      NLTC Perera: 0f12f9df
+      Nabil Samad: b8d18afc
+      Nasum Ahmed: 37654b75
+      RMPJ Rambukwella: 13fa6ffc
+      Raqibul Hasan: 4c64cc8d
+      Ruyel Miah: fa41edde
+      Shamim Hossain: 711249d1
+      Shoriful Islam: bb34fd31
+      Sikandar Raza: 26d041c4
+      Soumya Sarkar: 4d9f9686
+      Yasir Ali Chowdhury: 5791b840
+      Zakir Hasan: e3e09091
+  teams:
+  - Chattogram Challengers
+  - Khulna Tigers
+  toss:
+    winner: Khulna Tigers
+    decision: field
+  umpires:
+  - Mahfuzur Rahman
+  - RMPJ Rambukwella
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Chattogram Challengers
+    deliveries:
+    - 0.1:
+        non_striker: Zakir Hasan
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Lewis
+    - 0.2:
+        non_striker: Zakir Hasan
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 0.3:
+        non_striker: Zakir Hasan
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 0.4:
+        non_striker: Zakir Hasan
+        bowler: Khaled Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Lewis
+    - 0.5:
+        non_striker: Zakir Hasan
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Lewis
+    - 0.6:
+        non_striker: Zakir Hasan
+        bowler: Khaled Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Lewis
+    - 0.7:
+        non_striker: K Lewis
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zakir Hasan
+        wicket:
+          player_out: Zakir Hasan
+          fielders:
+          - ADS Fletcher
+          kind: caught
+    - 1.1:
+        non_striker: Afif Hossain
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 1.2:
+        non_striker: Afif Hossain
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 1.3:
+        non_striker: Afif Hossain
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 1.4:
+        non_striker: Afif Hossain
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 1.5:
+        non_striker: Afif Hossain
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Lewis
+    - 1.6:
+        non_striker: K Lewis
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Afif Hossain
+    - 2.1:
+        non_striker: K Lewis
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Afif Hossain
+    - 2.2:
+        non_striker: K Lewis
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Afif Hossain
+        wicket:
+          player_out: Afif Hossain
+          fielders:
+          - Mushfiqur Rahim
+          kind: caught
+    - 2.3:
+        non_striker: CAK Walton
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Lewis
+    - 2.4:
+        non_striker: K Lewis
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CAK Walton
+    - 2.5:
+        non_striker: K Lewis
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 2.6:
+        non_striker: K Lewis
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 3.1:
+        non_striker: CAK Walton
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Lewis
+    - 3.2:
+        non_striker: CAK Walton
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 3.3:
+        non_striker: CAK Walton
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Lewis
+    - 3.4:
+        non_striker: CAK Walton
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 3.5:
+        non_striker: CAK Walton
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Lewis
+    - 3.6:
+        non_striker: K Lewis
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 4.1:
+        non_striker: K Lewis
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 4.2:
+        non_striker: K Lewis
+        bowler: Khaled Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CAK Walton
+    - 4.3:
+        non_striker: CAK Walton
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Lewis
+    - 4.4:
+        non_striker: K Lewis
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 4.5:
+        non_striker: CAK Walton
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Lewis
+    - 4.6:
+        non_striker: CAK Walton
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 5.1:
+        non_striker: K Lewis
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 5.2:
+        non_striker: K Lewis
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 5.3:
+        non_striker: K Lewis
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 5.4:
+        non_striker: CAK Walton
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Lewis
+    - 5.5:
+        non_striker: CAK Walton
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 5.6:
+        non_striker: CAK Walton
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 6.1:
+        non_striker: K Lewis
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 6.2:
+        non_striker: K Lewis
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 6.3:
+        non_striker: CAK Walton
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 6.4:
+        non_striker: CAK Walton
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 6.5:
+        non_striker: CAK Walton
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 6.6:
+        non_striker: CAK Walton
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Lewis
+    - 7.1:
+        non_striker: CAK Walton
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Lewis
+    - 7.2:
+        non_striker: CAK Walton
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Lewis
+    - 7.3:
+        non_striker: CAK Walton
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Lewis
+    - 7.4:
+        non_striker: K Lewis
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 7.5:
+        non_striker: CAK Walton
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+    - 7.6:
+        non_striker: CAK Walton
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Lewis
+    - 8.1:
+        non_striker: CAK Walton
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Lewis
+        wicket:
+          player_out: K Lewis
+          kind: lbw
+    - 8.2:
+        non_striker: CAK Walton
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 8.3:
+        non_striker: CAK Walton
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 8.4:
+        non_striker: Shamim Hossain
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 8.5:
+        non_striker: CAK Walton
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamim Hossain
+    - 8.6:
+        non_striker: Shamim Hossain
+        bowler: Nabil Samad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 9.1:
+        non_striker: CAK Walton
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamim Hossain
+    - 9.2:
+        non_striker: CAK Walton
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamim Hossain
+    - 9.3:
+        non_striker: CAK Walton
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+    - 9.4:
+        non_striker: CAK Walton
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamim Hossain
+        wicket:
+          player_out: Shamim Hossain
+          kind: lbw
+    - 9.5:
+        non_striker: CAK Walton
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 9.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 10.1:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 10.2:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 10.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 10.4:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 10.5:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mehedi Hasan Miraz
+    - 10.6:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 11.1:
+        non_striker: CAK Walton
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mehedi Hasan Miraz
+    - 11.2:
+        non_striker: CAK Walton
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 11.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 11.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CAK Walton
+    - 11.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CAK Walton
+    - 11.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 12.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CAK Walton
+    - 12.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 12.3:
+        non_striker: CAK Walton
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 12.4:
+        non_striker: CAK Walton
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 12.5:
+        non_striker: CAK Walton
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mehedi Hasan Miraz
+    - 12.6:
+        non_striker: CAK Walton
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 13.1:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mehedi Hasan Miraz
+    - 13.2:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 13.3:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 13.4:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 13.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 13.6:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mehedi Hasan Miraz
+    - 13.7:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 14.1:
+        non_striker: CAK Walton
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 14.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CAK Walton
+    - 14.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CAK Walton
+    - 14.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CAK Walton
+    - 14.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CAK Walton
+    - 14.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Ruyel Miah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 15.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CAK Walton
+    - 15.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 15.3:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 15.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 15.5:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 15.6:
+        non_striker: CAK Walton
+        bowler: Farhad Reza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 16.1:
+        non_striker: CAK Walton
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 16.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CAK Walton
+    - 16.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 16.4:
+        non_striker: CAK Walton
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 16.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 16.6:
+        non_striker: CAK Walton
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 17.1:
+        non_striker: CAK Walton
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 17.2:
+        non_striker: CAK Walton
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 17.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 17.4:
+        non_striker: CAK Walton
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 17.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CAK Walton
+    - 17.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 18.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CAK Walton
+    - 18.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CAK Walton
+    - 18.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CAK Walton
+    - 18.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CAK Walton
+    - 18.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 18.6:
+        non_striker: CAK Walton
+        bowler: NLTC Perera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 19.1:
+        non_striker: CAK Walton
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 19.2:
+        non_striker: CAK Walton
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+        wicket:
+          player_out: Mehedi Hasan Miraz
+          kind: bowled
+    - 19.3:
+        non_striker: CAK Walton
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+    - 19.4:
+        non_striker: BAC Howell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CAK Walton
+    - 19.5:
+        non_striker: CAK Walton
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BAC Howell
+    - 19.6:
+        non_striker: CAK Walton
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAC Howell
+- 2nd innings:
+    team: Khulna Tigers
+    deliveries:
+    - 0.1:
+        non_striker: Mahedi Hasan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.2:
+        non_striker: Mahedi Hasan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 0.3:
+        non_striker: ADS Fletcher
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 0.4:
+        non_striker: Mahedi Hasan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 0.5:
+        non_striker: Mahedi Hasan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 0.6:
+        non_striker: Mahedi Hasan
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.1:
+        non_striker: ADS Fletcher
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 1.2:
+        non_striker: Mahedi Hasan
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 1.3:
+        non_striker: Mahedi Hasan
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 1.4:
+        non_striker: Mahedi Hasan
+        bowler: Shoriful Islam
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: ADS Fletcher
+    - 1.5:
+        non_striker: Mahedi Hasan
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 1.6:
+        non_striker: Mahedi Hasan
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 2.1:
+        non_striker: ADS Fletcher
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 2.2:
+        non_striker: ADS Fletcher
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+        wicket:
+          player_out: Mahedi Hasan
+          fielders:
+          - CAK Walton
+          kind: caught
+    - 2.3:
+        non_striker: Soumya Sarkar
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.4:
+        non_striker: Soumya Sarkar
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 2.5:
+        non_striker: Soumya Sarkar
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 2.6:
+        non_striker: Soumya Sarkar
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 3.1:
+        non_striker: Soumya Sarkar
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 3.2:
+        non_striker: Soumya Sarkar
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 3.3:
+        non_striker: Soumya Sarkar
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 3.4:
+        non_striker: Soumya Sarkar
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 3.5:
+        non_striker: Soumya Sarkar
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ADS Fletcher
+    - 3.6:
+        non_striker: ADS Fletcher
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Soumya Sarkar
+    - 3.7:
+        non_striker: Soumya Sarkar
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ADS Fletcher
+    - 4.1:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+        wicket:
+          player_out: Soumya Sarkar
+          fielders:
+          - Mohammad Akbar Ali
+          kind: caught
+    - 4.2:
+        non_striker: Mushfiqur Rahim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 4.4:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 4.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 4.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 5.1:
+        non_striker: ADS Fletcher
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 5.2:
+        non_striker: ADS Fletcher
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 5.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 5.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 5.5:
+        non_striker: ADS Fletcher
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mushfiqur Rahim
+    - 5.6:
+        non_striker: ADS Fletcher
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 6.1:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 6.2:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 6.3:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 6.4:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 6.5:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mushfiqur Rahim
+    - 6.6:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 7.1:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 7.2:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 7.3:
+        non_striker: Mushfiqur Rahim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 7.4:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Mushfiqur Rahim
+    - 7.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 7.6:
+        non_striker: Mushfiqur Rahim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 7.7:
+        non_striker: Mushfiqur Rahim
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 8.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 8.2:
+        non_striker: ADS Fletcher
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 8.3:
+        non_striker: ADS Fletcher
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 8.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 8.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 8.6:
+        non_striker: ADS Fletcher
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 9.1:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 9.2:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 9.3:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 9.4:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mushfiqur Rahim
+    - 9.5:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 9.6:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mushfiqur Rahim
+    - 10.1:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 10.2:
+        non_striker: ADS Fletcher
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mushfiqur Rahim
+    - 10.3:
+        non_striker: ADS Fletcher
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 10.4:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 10.5:
+        non_striker: Mushfiqur Rahim
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 10.6:
+        non_striker: ADS Fletcher
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.1:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 11.2:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 11.3:
+        non_striker: Mushfiqur Rahim
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 11.4:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mushfiqur Rahim
+    - 11.5:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 11.6:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 12.1:
+        non_striker: ADS Fletcher
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+        wicket:
+          player_out: Mushfiqur Rahim
+          fielders:
+          - Mohammad Akbar Ali
+          kind: caught
+    - 12.2:
+        non_striker: ADS Fletcher
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 12.3:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 12.4:
+        non_striker: ADS Fletcher
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasir Ali Chowdhury
+    - 12.5:
+        non_striker: ADS Fletcher
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Ali Chowdhury
+    - 12.6:
+        non_striker: ADS Fletcher
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 13.1:
+        non_striker: Yasir Ali Chowdhury
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 13.2:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 13.3:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 13.4:
+        non_striker: Yasir Ali Chowdhury
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 13.5:
+        non_striker: ADS Fletcher
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 13.6:
+        non_striker: Yasir Ali Chowdhury
+        bowler: BAC Howell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 14.1:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ADS Fletcher
+    - 14.2:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 14.3:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 14.4:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 14.5:
+        non_striker: ADS Fletcher
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 14.6:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ADS Fletcher
+    - 14.7:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 15.1:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 15.2:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 15.3:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 15.4:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasir Ali Chowdhury
+    - 15.5:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 15.6:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 16.1:
+        non_striker: ADS Fletcher
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 16.2:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 16.3:
+        non_striker: ADS Fletcher
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 16.4:
+        non_striker: ADS Fletcher
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yasir Ali Chowdhury
+    - 16.5:
+        non_striker: ADS Fletcher
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 16.6:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 17.1:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Ali Chowdhury
+    - 17.2:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yasir Ali Chowdhury
+    - 17.3:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 17.4:
+        non_striker: Yasir Ali Chowdhury
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 17.5:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yasir Ali Chowdhury
+    - 17.6:
+        non_striker: ADS Fletcher
+        bowler: Mrittunjoy Chowdhury
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Ali Chowdhury
+    - 18.1:
+        non_striker: ADS Fletcher
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yasir Ali Chowdhury
+    - 18.2:
+        non_striker: ADS Fletcher
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+    - 18.3:
+        non_striker: ADS Fletcher
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Ali Chowdhury
+        wicket:
+          player_out: Yasir Ali Chowdhury
+          fielders:
+          - BAC Howell
+          kind: caught
+    - 18.4:
+        non_striker: NLTC Perera
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 18.5:
+        non_striker: ADS Fletcher
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 18.6:
+        non_striker: NLTC Perera
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ADS Fletcher
+    - 19.1:
+        non_striker: ADS Fletcher
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 19.2:
+        non_striker: NLTC Perera
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 19.3:
+        non_striker: ADS Fletcher
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NLTC Perera
+    - 19.4:
+        non_striker: NLTC Perera
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ADS Fletcher
+    - 19.5:
+        non_striker: NLTC Perera
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ADS Fletcher
+    - 19.6:
+        non_striker: ADS Fletcher
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NLTC Perera
+        wicket:
+          player_out: NLTC Perera
+          kind: caught and bowled

@@ -1,0 +1,1949 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-04-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Centurion
+  competition: Ram Slam T20 Challenge
+  dates:
+  - '2014-01-29'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Dolphins
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - M Shezi
+  - C Chetty
+  players:
+    Titans:
+    - H Davids
+    - HG Kuhn
+    - F du Plessis
+    - F Behardien
+    - RE van der Merwe
+    - JA Morkel
+    - D Wiese
+    - M Mosehle
+    - M Morkel
+    - Saeed Ajmal
+    - NE Mbhalati
+    Dolphins:
+    - MN van Wyk
+    - CS Delport
+    - C Chetty
+    - DA Miller
+    - VB van Jaarsveld
+    - K Zondo
+    - D Smit
+    - R Frylinck
+    - KJ Abbott
+    - KA Maharaj
+    - M Shezi
+  registry:
+    people:
+      BP Jele: 7bb1331e
+      C Chetty: 27ca3a11
+      CJ Mitchley: 7f4f18e3
+      CS Delport: afa78c3a
+      D Smit: 4bb02ef1
+      D Wiese: aa8d28ae
+      DA Miller: d67d5f00
+      F Behardien: dce2019b
+      F du Plessis: 3355b542
+      GH Pienaar: 3516e46b
+      H Davids: 9c9f8dbc
+      HG Kuhn: ede05b97
+      JA Morkel: c3d35165
+      K Zondo: 4aad78d3
+      KA Maharaj: 0b60eb09
+      KH Hurter: bda8cca8
+      KJ Abbott: a9da7784
+      M Morkel: 5bb5a915
+      M Mosehle: 8836fcac
+      M Shezi: 016e5101
+      MN van Wyk: 710dd98c
+      MW Brown: d83d7796
+      NE Mbhalati: 800b52dc
+      R Frylinck: 8b248d88
+      RE van der Merwe: 05c2ca46
+      Saeed Ajmal: 05d74535
+      VB van Jaarsveld: 890b877d
+  teams:
+  - Titans
+  - Dolphins
+  toss:
+    winner: Dolphins
+    decision: field
+  umpires:
+  - GH Pienaar
+  - MW Brown
+  venue: SuperSport Park, Centurion
+innings:
+- 1st innings:
+    team: Titans
+    deliveries:
+    - 0.1:
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HG Kuhn
+        batsman: H Davids
+    - 0.2:
+        non_striker: H Davids
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+    - 0.3:
+        non_striker: H Davids
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 0.4:
+        non_striker: HG Kuhn
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Davids
+    - 0.5:
+        non_striker: HG Kuhn
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Davids
+        wicket:
+          player_out: H Davids
+          kind: bowled
+    - 0.6:
+        non_striker: HG Kuhn
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.1:
+        non_striker: F du Plessis
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 1.2:
+        non_striker: HG Kuhn
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.3:
+        non_striker: F du Plessis
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 1.4:
+        non_striker: HG Kuhn
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 1.5:
+        non_striker: HG Kuhn
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F du Plessis
+    - 1.6:
+        non_striker: F du Plessis
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Kuhn
+    - 2.1:
+        non_striker: HG Kuhn
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+    - 2.2:
+        non_striker: HG Kuhn
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F du Plessis
+        wicket:
+          player_out: F du Plessis
+          fielders:
+          - K Zondo
+          kind: caught
+    - 2.3:
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: F Behardien
+        batsman: HG Kuhn
+    - 2.4:
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: F Behardien
+        batsman: HG Kuhn
+    - 2.5:
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: F Behardien
+        batsman: HG Kuhn
+    - 2.6:
+        non_striker: HG Kuhn
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 3.1:
+        non_striker: F Behardien
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Kuhn
+    - 3.2:
+        non_striker: HG Kuhn
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 3.3:
+        non_striker: F Behardien
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Kuhn
+        wicket:
+          player_out: HG Kuhn
+          kind: caught and bowled
+    - 3.4:
+        non_striker: F Behardien
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE van der Merwe
+    - 3.5:
+        non_striker: F Behardien
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 3.6:
+        non_striker: RE van der Merwe
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 4.1:
+        non_striker: F Behardien
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 4.2:
+        non_striker: F Behardien
+        bowler: KJ Abbott
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RE van der Merwe
+    - 4.3:
+        non_striker: RE van der Merwe
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 4.4:
+        non_striker: RE van der Merwe
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 4.5:
+        non_striker: RE van der Merwe
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 4.6:
+        non_striker: RE van der Merwe
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 5.1:
+        non_striker: F Behardien
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 5.2:
+        non_striker: RE van der Merwe
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 5.3:
+        non_striker: RE van der Merwe
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 5.4:
+        non_striker: RE van der Merwe
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 5.5:
+        non_striker: F Behardien
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 5.6:
+        non_striker: F Behardien
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 6.1:
+        non_striker: F Behardien
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 6.2:
+        non_striker: F Behardien
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 6.3:
+        non_striker: RE van der Merwe
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 6.4:
+        non_striker: F Behardien
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 6.5:
+        non_striker: F Behardien
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RE van der Merwe
+    - 6.6:
+        non_striker: F Behardien
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 7.1:
+        non_striker: RE van der Merwe
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 7.2:
+        non_striker: F Behardien
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 7.3:
+        non_striker: RE van der Merwe
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 7.4:
+        non_striker: F Behardien
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 7.5:
+        non_striker: F Behardien
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+    - 7.6:
+        non_striker: F Behardien
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RE van der Merwe
+    - 8.1:
+        non_striker: RE van der Merwe
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 8.2:
+        non_striker: F Behardien
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 8.3:
+        non_striker: RE van der Merwe
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 8.4:
+        non_striker: F Behardien
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RE van der Merwe
+    - 8.5:
+        non_striker: RE van der Merwe
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 8.6:
+        non_striker: F Behardien
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RE van der Merwe
+        wicket:
+          player_out: RE van der Merwe
+          kind: bowled
+    - 9.1:
+        bowler: K Zondo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        non_striker: JA Morkel
+        batsman: F Behardien
+    - 9.2:
+        non_striker: F Behardien
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 9.3:
+        non_striker: F Behardien
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 9.4:
+        non_striker: JA Morkel
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 9.5:
+        non_striker: JA Morkel
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 9.6:
+        non_striker: JA Morkel
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 9.7:
+        non_striker: F Behardien
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 10.1:
+        non_striker: F Behardien
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 10.2:
+        non_striker: F Behardien
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 10.3:
+        non_striker: JA Morkel
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 10.4:
+        non_striker: F Behardien
+        bowler: D Smit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Morkel
+    - 10.5:
+        non_striker: F Behardien
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 10.6:
+        non_striker: F Behardien
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 10.7:
+        non_striker: F Behardien
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 11.1:
+        non_striker: F Behardien
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 11.2:
+        non_striker: JA Morkel
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Behardien
+    - 11.3:
+        non_striker: F Behardien
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Morkel
+    - 11.4:
+        non_striker: F Behardien
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 11.5:
+        non_striker: JA Morkel
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 11.6:
+        non_striker: JA Morkel
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 12.1:
+        non_striker: F Behardien
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 12.2:
+        non_striker: F Behardien
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 12.3:
+        non_striker: JA Morkel
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 12.4:
+        non_striker: JA Morkel
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Behardien
+    - 12.5:
+        non_striker: JA Morkel
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+    - 12.6:
+        non_striker: JA Morkel
+        bowler: KA Maharaj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Behardien
+        wicket:
+          player_out: F Behardien
+          kind: bowled
+    - 13.1:
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Wiese
+        batsman: JA Morkel
+    - 13.2:
+        non_striker: JA Morkel
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 13.3:
+        non_striker: D Wiese
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 13.4:
+        non_striker: D Wiese
+        bowler: K Zondo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Morkel
+    - 13.5:
+        non_striker: D Wiese
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Morkel
+    - 13.6:
+        non_striker: D Wiese
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 13.7:
+        non_striker: JA Morkel
+        bowler: K Zondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 14.1:
+        non_striker: D Wiese
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 14.2:
+        non_striker: JA Morkel
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 14.3:
+        non_striker: D Wiese
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 14.4:
+        non_striker: D Wiese
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 14.5:
+        non_striker: JA Morkel
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 14.6:
+        non_striker: D Wiese
+        bowler: D Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 15.1:
+        non_striker: D Wiese
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 15.2:
+        non_striker: D Wiese
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 15.3:
+        non_striker: JA Morkel
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 15.4:
+        non_striker: JA Morkel
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 15.5:
+        non_striker: D Wiese
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 15.6:
+        non_striker: JA Morkel
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 16.1:
+        non_striker: JA Morkel
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+    - 16.2:
+        non_striker: JA Morkel
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 16.3:
+        non_striker: D Wiese
+        bowler: M Shezi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JA Morkel
+    - 16.4:
+        non_striker: JA Morkel
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Wiese
+        wicket:
+          player_out: D Wiese
+          kind: bowled
+    - 16.5:
+        non_striker: JA Morkel
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+    - 16.6:
+        non_striker: JA Morkel
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 17.1:
+        non_striker: JA Morkel
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 17.2:
+        non_striker: M Mosehle
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 17.3:
+        non_striker: M Mosehle
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 17.4:
+        non_striker: JA Morkel
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mosehle
+    - 17.5:
+        non_striker: M Mosehle
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Morkel
+    - 17.6:
+        non_striker: M Mosehle
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 18.1:
+        non_striker: M Mosehle
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 18.2:
+        non_striker: JA Morkel
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mosehle
+        wicket:
+          player_out: M Mosehle
+          fielders:
+          - KJ Abbott
+          kind: caught
+    - 18.3:
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Morkel
+        batsman: JA Morkel
+    - 18.4:
+        non_striker: JA Morkel
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Morkel
+    - 18.5:
+        non_striker: M Morkel
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 18.6:
+        non_striker: M Morkel
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 19.1:
+        non_striker: M Morkel
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 19.2:
+        non_striker: M Morkel
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Morkel
+    - 19.3:
+        non_striker: JA Morkel
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Morkel
+    - 19.4:
+        non_striker: M Morkel
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Morkel
+    - 19.5:
+        non_striker: M Morkel
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+    - 19.6:
+        non_striker: M Morkel
+        bowler: KJ Abbott
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Morkel
+- 2nd innings:
+    team: Dolphins
+    deliveries:
+    - 0.1:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CS Delport
+        batsman: MN van Wyk
+    - 0.2:
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CS Delport
+        batsman: MN van Wyk
+    - 0.3:
+        non_striker: MN van Wyk
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 0.4:
+        non_striker: MN van Wyk
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 0.5:
+        non_striker: CS Delport
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 0.6:
+        non_striker: CS Delport
+        bowler: JA Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 1.1:
+        non_striker: MN van Wyk
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 1.2:
+        non_striker: CS Delport
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 1.3:
+        non_striker: CS Delport
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 1.4:
+        non_striker: MN van Wyk
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 1.5:
+        non_striker: MN van Wyk
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Delport
+    - 1.6:
+        non_striker: MN van Wyk
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 2.1:
+        non_striker: MN van Wyk
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Delport
+    - 2.2:
+        non_striker: MN van Wyk
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 2.3:
+        non_striker: MN van Wyk
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Delport
+    - 2.4:
+        non_striker: MN van Wyk
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Delport
+    - 2.5:
+        non_striker: MN van Wyk
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 2.6:
+        non_striker: MN van Wyk
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 3.1:
+        non_striker: CS Delport
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 3.2:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+        wicket:
+          player_out: CS Delport
+          fielders:
+          - M Mosehle
+          kind: caught
+    - 3.3:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 3.4:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chetty
+    - 3.5:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 3.6:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 4.1:
+        non_striker: C Chetty
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MN van Wyk
+    - 4.2:
+        non_striker: C Chetty
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 4.3:
+        non_striker: MN van Wyk
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chetty
+    - 4.4:
+        non_striker: MN van Wyk
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 4.5:
+        non_striker: MN van Wyk
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chetty
+    - 4.6:
+        non_striker: MN van Wyk
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Chetty
+    - 5.1:
+        non_striker: C Chetty
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 5.2:
+        non_striker: C Chetty
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 5.3:
+        non_striker: MN van Wyk
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 5.4:
+        non_striker: MN van Wyk
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 5.5:
+        non_striker: MN van Wyk
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 5.6:
+        non_striker: C Chetty
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 6.1:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chetty
+    - 6.2:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 6.3:
+        non_striker: C Chetty
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 6.4:
+        non_striker: C Chetty
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 6.5:
+        non_striker: C Chetty
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 6.6:
+        non_striker: C Chetty
+        bowler: Saeed Ajmal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MN van Wyk
+    - 6.7:
+        non_striker: C Chetty
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 7.1:
+        non_striker: MN van Wyk
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 7.2:
+        non_striker: MN van Wyk
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 7.3:
+        non_striker: C Chetty
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 7.4:
+        non_striker: MN van Wyk
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 7.5:
+        non_striker: MN van Wyk
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 7.6:
+        non_striker: C Chetty
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 8.1:
+        non_striker: MN van Wyk
+        bowler: F du Plessis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 8.2:
+        non_striker: MN van Wyk
+        bowler: F du Plessis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Chetty
+    - 8.3:
+        non_striker: MN van Wyk
+        bowler: F du Plessis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chetty
+    - 8.4:
+        non_striker: MN van Wyk
+        bowler: F du Plessis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 8.5:
+        non_striker: MN van Wyk
+        bowler: F du Plessis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 8.6:
+        non_striker: C Chetty
+        bowler: F du Plessis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 9.1:
+        non_striker: C Chetty
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 9.2:
+        non_striker: MN van Wyk
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 9.3:
+        non_striker: C Chetty
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 9.4:
+        non_striker: C Chetty
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 9.5:
+        non_striker: C Chetty
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 9.6:
+        non_striker: C Chetty
+        bowler: NE Mbhalati
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 10.1:
+        non_striker: C Chetty
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 10.2:
+        non_striker: C Chetty
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 10.3:
+        non_striker: C Chetty
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 10.4:
+        non_striker: C Chetty
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MN van Wyk
+    - 10.5:
+        non_striker: C Chetty
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 10.6:
+        non_striker: C Chetty
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 11.1:
+        non_striker: C Chetty
+        bowler: H Davids
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 11.2:
+        non_striker: MN van Wyk
+        bowler: H Davids
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 11.3:
+        non_striker: C Chetty
+        bowler: H Davids
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 11.4:
+        non_striker: C Chetty
+        bowler: H Davids
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 11.5:
+        non_striker: MN van Wyk
+        bowler: H Davids
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 11.6:
+        non_striker: C Chetty
+        bowler: H Davids
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 12.1:
+        non_striker: MN van Wyk
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chetty
+    - 12.2:
+        non_striker: MN van Wyk
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 12.3:
+        non_striker: C Chetty
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 12.4:
+        non_striker: C Chetty
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 12.5:
+        non_striker: MN van Wyk
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 12.6:
+        non_striker: C Chetty
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 13.1:
+        non_striker: C Chetty
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 13.2:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chetty
+    - 13.3:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chetty
+    - 13.4:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 13.5:
+        non_striker: C Chetty
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 13.6:
+        non_striker: C Chetty
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 14.1:
+        non_striker: MN van Wyk
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 14.2:
+        non_striker: MN van Wyk
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 14.3:
+        non_striker: MN van Wyk
+        bowler: M Morkel
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: C Chetty
+    - 14.4:
+        non_striker: C Chetty
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 14.5:
+        non_striker: MN van Wyk
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chetty
+    - 14.6:
+        non_striker: MN van Wyk
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 14.7:
+        non_striker: C Chetty
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MN van Wyk
+    - 15.1:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chetty
+    - 15.2:
+        non_striker: C Chetty
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 15.3:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 15.4:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+    - 15.5:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chetty
+    - 15.6:
+        non_striker: MN van Wyk
+        bowler: Saeed Ajmal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chetty
+        wicket:
+          player_out: C Chetty
+          fielders:
+          - HG Kuhn
+          kind: caught
+    - 16.1:
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DA Miller
+        batsman: MN van Wyk
+    - 16.2:
+        non_striker: MN van Wyk
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 16.3:
+        non_striker: DA Miller
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 16.4:
+        non_striker: DA Miller
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 16.5:
+        non_striker: DA Miller
+        bowler: M Morkel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MN van Wyk

@@ -1,0 +1,2156 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-01-18'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Christchurch
+  competition: Super Smash
+  dates:
+  - '2022-01-18'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Canterbury
+    by:
+      runs: 18
+  overs: 20
+  players:
+    Canterbury:
+    - CJ Bowes
+    - TWM Latham
+    - DJ Mitchell
+    - CE McConchie
+    - CD Fletcher
+    - MJ Hay
+    - HB Shipley
+    - TD Astle
+    - MJ Henry
+    - W O'Rourke
+    - EJ Nuttall
+    Auckland:
+    - GH Worker
+    - SM Solia
+    - MS Chapman
+    - GD Phillips
+    - RR O'Donnell
+    - BJ Horne
+    - WER Somerville
+    - LH Ferguson
+    - RM ter Braak
+    - A Ashok
+    - BG Lister
+  registry:
+    people:
+      A Ashok: 321be7e3
+      BG Lister: 79f5bc26
+      BJ Horne: 5d99a16a
+      CD Fletcher: 4af9f5d4
+      CE McConchie: d285acaf
+      CJ Bowes: 45df0e72
+      DJ Mitchell: eade4650
+      ED Sanders: 25c6d6af
+      EJ Nuttall: c9bb898a
+      GAV Baxter: cb4b3ab0
+      GD Phillips: 9a46c4e5
+      GH Worker: 51a36d3e
+      HB Shipley: 5426de63
+      JM Dempsey: 153c9f33
+      LH Ferguson: 2f9d0389
+      MJ Hay: 732f711b
+      MJ Henry: e84ac20c
+      MS Chapman: 7fa12533
+      RM ter Braak: ac3e5a31
+      RR O'Donnell: 2742086d
+      SM Solia: fd9f43bb
+      TD Astle: 383dd431
+      TJ Parlane: 3cfc24b0
+      TWM Latham: e824e6ee
+      W O'Rourke: cb9b8664
+      WER Somerville: 74a1c1e3
+      WR Knights: 63cbf8d8
+  teams:
+  - Canterbury
+  - Auckland
+  toss:
+    winner: Auckland
+    decision: field
+  umpires:
+  - TJ Parlane
+  - WR Knights
+  venue: Hagley Oval, Christchurch
+innings:
+- 1st innings:
+    team: Canterbury
+    deliveries:
+    - 0.1:
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: TWM Latham
+        batsman: CJ Bowes
+    - 0.2:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: TWM Latham
+        batsman: CJ Bowes
+    - 0.3:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TWM Latham
+        batsman: CJ Bowes
+    - 0.4:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TWM Latham
+        batsman: CJ Bowes
+    - 0.5:
+        non_striker: TWM Latham
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+        wicket:
+          player_out: CJ Bowes
+          fielders:
+          - WER Somerville
+          kind: caught
+    - 0.6:
+        bowler: BG Lister
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: DJ Mitchell
+        batsman: TWM Latham
+    - 0.7:
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DJ Mitchell
+        batsman: TWM Latham
+    - 0.8:
+        non_striker: DJ Mitchell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 1.1:
+        non_striker: DJ Mitchell
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 1.2:
+        non_striker: DJ Mitchell
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TWM Latham
+    - 1.3:
+        non_striker: DJ Mitchell
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 1.4:
+        non_striker: DJ Mitchell
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TWM Latham
+    - 1.5:
+        non_striker: DJ Mitchell
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TWM Latham
+    - 1.6:
+        non_striker: DJ Mitchell
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TWM Latham
+    - 2.1:
+        non_striker: TWM Latham
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 2.2:
+        non_striker: TWM Latham
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 2.3:
+        non_striker: DJ Mitchell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 2.4:
+        non_striker: DJ Mitchell
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 2.5:
+        non_striker: TWM Latham
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 2.6:
+        non_striker: TWM Latham
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 3.1:
+        non_striker: DJ Mitchell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 3.2:
+        non_striker: TWM Latham
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 3.3:
+        non_striker: TWM Latham
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 3.4:
+        non_striker: TWM Latham
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Mitchell
+    - 3.5:
+        non_striker: TWM Latham
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 3.6:
+        non_striker: TWM Latham
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 3.7:
+        non_striker: DJ Mitchell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 4.1:
+        non_striker: TWM Latham
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 4.2:
+        non_striker: TWM Latham
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 4.3:
+        non_striker: DJ Mitchell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TWM Latham
+    - 4.4:
+        non_striker: DJ Mitchell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 4.5:
+        non_striker: DJ Mitchell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+    - 4.6:
+        non_striker: DJ Mitchell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TWM Latham
+    - 5.1:
+        non_striker: TWM Latham
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 5.2:
+        non_striker: DJ Mitchell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TWM Latham
+    - 5.3:
+        non_striker: TWM Latham
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 5.4:
+        non_striker: DJ Mitchell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TWM Latham
+    - 5.5:
+        non_striker: DJ Mitchell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TWM Latham
+        wicket:
+          player_out: TWM Latham
+          kind: lbw
+    - 5.6:
+        non_striker: DJ Mitchell
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 6.1:
+        non_striker: CE McConchie
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 6.2:
+        non_striker: DJ Mitchell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 6.3:
+        non_striker: CE McConchie
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 6.4:
+        non_striker: DJ Mitchell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 6.5:
+        non_striker: DJ Mitchell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 6.6:
+        non_striker: DJ Mitchell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 7.1:
+        non_striker: CE McConchie
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+    - 7.2:
+        non_striker: CE McConchie
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 7.3:
+        non_striker: DJ Mitchell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 7.4:
+        non_striker: DJ Mitchell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 7.5:
+        non_striker: DJ Mitchell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 7.6:
+        non_striker: CE McConchie
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJ Mitchell
+    - 8.1:
+        non_striker: DJ Mitchell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+        wicket:
+          player_out: CE McConchie
+          kind: caught and bowled
+    - 8.2:
+        non_striker: DJ Mitchell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 8.3:
+        non_striker: DJ Mitchell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 8.4:
+        non_striker: DJ Mitchell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 8.5:
+        non_striker: CD Fletcher
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 8.6:
+        non_striker: DJ Mitchell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 9.1:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Mitchell
+    - 9.2:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DJ Mitchell
+    - 9.3:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Mitchell
+    - 9.4:
+        non_striker: DJ Mitchell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CD Fletcher
+    - 9.5:
+        non_striker: DJ Mitchell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 9.6:
+        non_striker: DJ Mitchell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 10.1:
+        non_striker: DJ Mitchell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 10.2:
+        non_striker: DJ Mitchell
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 10.3:
+        non_striker: CD Fletcher
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Mitchell
+        wicket:
+          player_out: DJ Mitchell
+          fielders:
+          - MS Chapman
+          kind: caught
+    - 10.4:
+        non_striker: CD Fletcher
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Hay
+    - 10.5:
+        non_striker: MJ Hay
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 10.6:
+        non_striker: MJ Hay
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CD Fletcher
+    - 11.1:
+        non_striker: CD Fletcher
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Hay
+    - 11.2:
+        non_striker: CD Fletcher
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Hay
+    - 11.3:
+        non_striker: MJ Hay
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 11.4:
+        non_striker: MJ Hay
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 11.5:
+        non_striker: CD Fletcher
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Hay
+    - 11.6:
+        non_striker: MJ Hay
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 12.1:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Hay
+    - 12.2:
+        non_striker: MJ Hay
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+        wicket:
+          player_out: MJ Hay
+          fielders:
+          - SM Solia
+          - WER Somerville
+          kind: run out
+    - 12.3:
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HB Shipley
+        batsman: CD Fletcher
+    - 12.4:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 12.5:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 12.6:
+        non_striker: CD Fletcher
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 13.1:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 13.2:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HB Shipley
+    - 13.3:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 13.4:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HB Shipley
+    - 13.5:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 13.6:
+        non_striker: CD Fletcher
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 13.7:
+        non_striker: HB Shipley
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CD Fletcher
+    - 14.1:
+        non_striker: HB Shipley
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+    - 14.2:
+        non_striker: HB Shipley
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CD Fletcher
+    - 14.3:
+        non_striker: HB Shipley
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Fletcher
+        wicket:
+          player_out: CD Fletcher
+          fielders:
+          - LH Ferguson
+          kind: caught
+    - 14.4:
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TD Astle
+        batsman: HB Shipley
+    - 14.5:
+        non_striker: HB Shipley
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TD Astle
+        wicket:
+          player_out: TD Astle
+          fielders:
+          - GD Phillips
+          - BJ Horne
+          kind: run out
+    - 14.6:
+        non_striker: HB Shipley
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+    - 15.1:
+        non_striker: HB Shipley
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Henry
+    - 15.2:
+        non_striker: HB Shipley
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+    - 15.3:
+        non_striker: MJ Henry
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 15.4:
+        non_striker: MJ Henry
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 15.5:
+        non_striker: MJ Henry
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 15.6:
+        non_striker: HB Shipley
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MJ Henry
+    - 16.1:
+        non_striker: HB Shipley
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MJ Henry
+    - 16.2:
+        non_striker: HB Shipley
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Henry
+    - 16.3:
+        non_striker: HB Shipley
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MJ Henry
+    - 16.4:
+        non_striker: HB Shipley
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Henry
+        wicket:
+          player_out: MJ Henry
+          fielders:
+          - BG Lister
+          kind: caught
+    - 16.5:
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: W O'Rourke
+        batsman: HB Shipley
+    - 16.6:
+        non_striker: W O'Rourke
+        bowler: A Ashok
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HB Shipley
+    - 17.1:
+        non_striker: HB Shipley
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W O'Rourke
+    - 17.2:
+        non_striker: W O'Rourke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 17.3:
+        non_striker: W O'Rourke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HB Shipley
+    - 17.4:
+        non_striker: HB Shipley
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W O'Rourke
+    - 17.5:
+        non_striker: HB Shipley
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W O'Rourke
+    - 17.6:
+        non_striker: W O'Rourke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HB Shipley
+    - 18.1:
+        non_striker: HB Shipley
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W O'Rourke
+    - 18.2:
+        non_striker: W O'Rourke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 18.3:
+        non_striker: W O'Rourke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+    - 18.4:
+        non_striker: W O'Rourke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HB Shipley
+        wicket:
+          player_out: HB Shipley
+          fielders:
+          - BJ Horne
+          kind: caught
+    - 18.5:
+        non_striker: W O'Rourke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Nuttall
+    - 18.6:
+        non_striker: W O'Rourke
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Nuttall
+    - 19.1:
+        non_striker: EJ Nuttall
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W O'Rourke
+    - 19.2:
+        non_striker: W O'Rourke
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Nuttall
+    - 19.3:
+        non_striker: EJ Nuttall
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W O'Rourke
+    - 19.4:
+        non_striker: EJ Nuttall
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W O'Rourke
+    - 19.5:
+        non_striker: EJ Nuttall
+        bowler: BG Lister
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W O'Rourke
+        wicket:
+          player_out: W O'Rourke
+          fielders:
+          - MS Chapman
+          kind: caught
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SM Solia
+        batsman: GH Worker
+    - 0.2:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 0.3:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 0.4:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 0.5:
+        non_striker: GH Worker
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 0.6:
+        non_striker: SM Solia
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+    - 1.1:
+        non_striker: GH Worker
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 1.2:
+        non_striker: GH Worker
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Solia
+    - 1.3:
+        non_striker: GH Worker
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 1.4:
+        non_striker: GH Worker
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 1.5:
+        non_striker: SM Solia
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Worker
+    - 1.6:
+        non_striker: GH Worker
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 2.1:
+        non_striker: SM Solia
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Worker
+        wicket:
+          player_out: GH Worker
+          fielders:
+          - MJ Henry
+          kind: caught
+    - 2.2:
+        non_striker: SM Solia
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 2.3:
+        non_striker: SM Solia
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 2.4:
+        non_striker: MS Chapman
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 2.5:
+        non_striker: MS Chapman
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 2.6:
+        non_striker: MS Chapman
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 3.1:
+        non_striker: MS Chapman
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 3.2:
+        non_striker: MS Chapman
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 3.3:
+        non_striker: SM Solia
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 3.4:
+        non_striker: SM Solia
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 3.5:
+        non_striker: SM Solia
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 3.6:
+        non_striker: SM Solia
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 4.1:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 4.2:
+        non_striker: SM Solia
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 4.3:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 4.4:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 4.5:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 4.6:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SM Solia
+    - 5.1:
+        non_striker: MS Chapman
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          fielders:
+          - CD Fletcher
+          kind: caught
+    - 5.2:
+        non_striker: MS Chapman
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 5.3:
+        non_striker: MS Chapman
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - EJ Nuttall
+          kind: caught
+    - 5.4:
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RR O'Donnell
+        batsman: MS Chapman
+    - 5.5:
+        non_striker: MS Chapman
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 5.6:
+        non_striker: RR O'Donnell
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 6.1:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 6.2:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 6.3:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 6.4:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 6.5:
+        non_striker: MS Chapman
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 6.6:
+        non_striker: RR O'Donnell
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 7.1:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 7.2:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 7.3:
+        non_striker: RR O'Donnell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 7.4:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 7.5:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 7.6:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 8.1:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 8.2:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 8.3:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 8.4:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 8.5:
+        non_striker: MS Chapman
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 8.6:
+        non_striker: RR O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 9.1:
+        non_striker: RR O'Donnell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 9.2:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 9.3:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 9.4:
+        non_striker: RR O'Donnell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 9.5:
+        non_striker: RR O'Donnell
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 9.6:
+        non_striker: MS Chapman
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 10.1:
+        non_striker: MS Chapman
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 10.2:
+        non_striker: RR O'Donnell
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 10.3:
+        non_striker: RR O'Donnell
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 10.4:
+        non_striker: RR O'Donnell
+        bowler: EJ Nuttall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 10.5:
+        non_striker: RR O'Donnell
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - HB Shipley
+          kind: caught
+    - 10.6:
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: BJ Horne
+        batsman: RR O'Donnell
+    - 10.7:
+        non_striker: BJ Horne
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 11.1:
+        non_striker: RR O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 11.2:
+        non_striker: RR O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 11.3:
+        non_striker: BJ Horne
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 11.4:
+        non_striker: BJ Horne
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 11.5:
+        non_striker: RR O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 11.6:
+        non_striker: BJ Horne
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 12.1:
+        non_striker: BJ Horne
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 12.2:
+        non_striker: BJ Horne
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 12.3:
+        non_striker: BJ Horne
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 12.4:
+        non_striker: BJ Horne
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 12.5:
+        non_striker: BJ Horne
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 12.6:
+        non_striker: RR O'Donnell
+        bowler: W O'Rourke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 13.1:
+        non_striker: BJ Horne
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 13.2:
+        non_striker: RR O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 13.3:
+        non_striker: BJ Horne
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 13.4:
+        non_striker: RR O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+        wicket:
+          player_out: BJ Horne
+          fielders:
+          - CD Fletcher
+          kind: stumped
+    - 13.5:
+        non_striker: RR O'Donnell
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WER Somerville
+    - 13.6:
+        non_striker: WER Somerville
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 14.1:
+        non_striker: WER Somerville
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 14.2:
+        non_striker: WER Somerville
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 14.3:
+        non_striker: WER Somerville
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 14.4:
+        non_striker: WER Somerville
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+        wicket:
+          player_out: RR O'Donnell
+          fielders:
+          - MJ Hay
+          kind: caught
+    - 14.5:
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: LH Ferguson
+        batsman: WER Somerville
+    - 14.6:
+        non_striker: LH Ferguson
+        bowler: EJ Nuttall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WER Somerville
+    - 15.1:
+        non_striker: LH Ferguson
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WER Somerville
+    - 15.2:
+        non_striker: LH Ferguson
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WER Somerville
+    - 15.3:
+        non_striker: LH Ferguson
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WER Somerville
+    - 15.4:
+        non_striker: WER Somerville
+        bowler: TD Astle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: LH Ferguson
+    - 15.5:
+        non_striker: LH Ferguson
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WER Somerville
+    - 15.6:
+        non_striker: LH Ferguson
+        bowler: TD Astle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WER Somerville
+    - 16.1:
+        non_striker: LH Ferguson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WER Somerville
+    - 16.2:
+        non_striker: WER Somerville
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Ferguson
+    - 16.3:
+        non_striker: WER Somerville
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Ferguson
+    - 16.4:
+        non_striker: WER Somerville
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LH Ferguson
+    - 16.5:
+        non_striker: WER Somerville
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 16.6:
+        non_striker: LH Ferguson
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WER Somerville
+    - 17.1:
+        non_striker: LH Ferguson
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WER Somerville
+    - 17.2:
+        non_striker: LH Ferguson
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WER Somerville
+    - 17.3:
+        non_striker: WER Somerville
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Ferguson
+    - 17.4:
+        non_striker: WER Somerville
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 17.5:
+        non_striker: WER Somerville
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Ferguson
+    - 17.6:
+        non_striker: WER Somerville
+        bowler: HB Shipley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 18.1:
+        non_striker: WER Somerville
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 18.2:
+        non_striker: LH Ferguson
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WER Somerville
+    - 18.3:
+        non_striker: WER Somerville
+        bowler: DJ Mitchell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LH Ferguson
+    - 18.4:
+        non_striker: WER Somerville
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 18.5:
+        non_striker: WER Somerville
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 18.6:
+        non_striker: WER Somerville
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Ferguson
+    - 18.7:
+        non_striker: WER Somerville
+        bowler: DJ Mitchell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 19.1:
+        non_striker: WER Somerville
+        bowler: MJ Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LH Ferguson
+    - 19.2:
+        non_striker: WER Somerville
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LH Ferguson
+    - 19.3:
+        non_striker: WER Somerville
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 19.4:
+        non_striker: WER Somerville
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 19.5:
+        non_striker: WER Somerville
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LH Ferguson
+    - 19.6:
+        non_striker: WER Somerville
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+        wicket:
+          player_out: LH Ferguson
+          kind: bowled
+    - 19.7:
+        non_striker: WER Somerville
+        bowler: MJ Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM ter Braak

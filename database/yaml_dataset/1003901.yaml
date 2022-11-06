@@ -1,0 +1,844 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-04-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Durban
+  competition: CSA T20 Challenge
+  dates:
+  - '2016-12-11'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Knights
+    by:
+      wickets: 9
+    method: D/L
+  overs: 20
+  player_of_match:
+  - D du Preez
+  - PE Kruger
+  players:
+    Dolphins:
+    - CS Delport
+    - MN van Wyk
+    - KP Pietersen
+    - R Frylinck
+    - K Zondo
+    - KA Maharaj
+    - C Chetty
+    - BS Makhanya
+    - P Subrayen
+    - Imran Tahir
+    - M Shezi
+    Knights:
+    - RS Second
+    - PE Kruger
+    - DA Miller
+    - JL du Plooy
+    - DS Rosier
+    - AR Swanepoel
+    - LL Mnyanda
+    - D du Preez
+    - CA Dry
+    - LM Zuma
+    - M Budaza
+  registry:
+    people:
+      A Paleker: 634b11ac
+      AR Swanepoel: cba5185d
+      BM White: 66c21d35
+      BS Makhanya: 1b42a100
+      C Chetty: 27ca3a11
+      CA Dry: 7bc29ffb
+      CS Delport: afa78c3a
+      D du Preez: d7a57f75
+      DA Miller: d67d5f00
+      DS Rosier: f8e6dbdd
+      Imran Tahir: acee4cc4
+      JL du Plooy: 6e6fb538
+      K Zondo: 4aad78d3
+      KA Maharaj: 0b60eb09
+      KP Pietersen: 39f01cdb
+      LL Mnyanda: b847829f
+      LM Zuma: 58f01d47
+      M Budaza: 1d105638
+      M Shezi: 016e5101
+      MN van Wyk: 710dd98c
+      P Subrayen: 7ec9711d
+      PE Kruger: '39181592'
+      PJ Vosloo: 93a6d2d0
+      R Frylinck: 8b248d88
+      RS Second: 13d0b3d6
+      S Wadvalla: c1a1acf3
+  teams:
+  - Dolphins
+  - Knights
+  toss:
+    winner: Knights
+    decision: field
+  umpires:
+  - A Paleker
+  - BM White
+  venue: Kingsmead, Durban
+innings:
+- 1st innings:
+    team: Dolphins
+    deliveries:
+    - 0.1:
+        bowler: D du Preez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MN van Wyk
+        batsman: CS Delport
+    - 0.2:
+        bowler: D du Preez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MN van Wyk
+        batsman: CS Delport
+    - 0.3:
+        bowler: D du Preez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MN van Wyk
+        batsman: CS Delport
+    - 0.4:
+        non_striker: CS Delport
+        bowler: D du Preez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 0.5:
+        non_striker: CS Delport
+        bowler: D du Preez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 0.6:
+        non_striker: MN van Wyk
+        bowler: D du Preez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 1.1:
+        non_striker: CS Delport
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 1.2:
+        non_striker: CS Delport
+        bowler: CA Dry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MN van Wyk
+    - 1.3:
+        non_striker: MN van Wyk
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 1.4:
+        non_striker: CS Delport
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 1.5:
+        non_striker: MN van Wyk
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 1.6:
+        non_striker: MN van Wyk
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 2.1:
+        non_striker: MN van Wyk
+        bowler: D du Preez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+    - 2.2:
+        non_striker: MN van Wyk
+        bowler: D du Preez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 2.3:
+        non_striker: CS Delport
+        bowler: D du Preez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 2.4:
+        non_striker: CS Delport
+        bowler: D du Preez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 2.5:
+        non_striker: CS Delport
+        bowler: D du Preez
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MN van Wyk
+    - 2.6:
+        non_striker: CS Delport
+        bowler: D du Preez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+        wicket:
+          player_out: MN van Wyk
+          fielders:
+          - RS Second
+          kind: caught
+    - 3.1:
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: KP Pietersen
+        batsman: CS Delport
+    - 3.2:
+        non_striker: CS Delport
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 3.3:
+        non_striker: KP Pietersen
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Delport
+    - 3.4:
+        non_striker: CS Delport
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KP Pietersen
+    - 3.5:
+        non_striker: CS Delport
+        bowler: LM Zuma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KP Pietersen
+    - 3.6:
+        non_striker: CS Delport
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 3.7:
+        non_striker: KP Pietersen
+        bowler: LM Zuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Delport
+        wicket:
+          player_out: CS Delport
+          fielders:
+          - AR Swanepoel
+          kind: caught
+    - 4.1:
+        non_striker: KP Pietersen
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Frylinck
+    - 4.2:
+        non_striker: KP Pietersen
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 4.3:
+        non_striker: R Frylinck
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 4.4:
+        non_striker: KP Pietersen
+        bowler: M Budaza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Frylinck
+    - 4.5:
+        non_striker: KP Pietersen
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Frylinck
+    - 4.6:
+        non_striker: KP Pietersen
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Frylinck
+    - 4.7:
+        non_striker: KP Pietersen
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Frylinck
+    - 5.1:
+        non_striker: KP Pietersen
+        bowler: PE Kruger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Frylinck
+    - 5.2:
+        non_striker: R Frylinck
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 5.3:
+        non_striker: KP Pietersen
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Frylinck
+        wicket:
+          player_out: R Frylinck
+          fielders:
+          - DA Miller
+          kind: caught
+    - 5.4:
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: K Zondo
+        batsman: KP Pietersen
+    - 5.5:
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Zondo
+        batsman: KP Pietersen
+    - 5.6:
+        non_striker: K Zondo
+        bowler: PE Kruger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KP Pietersen
+    - 6.1:
+        non_striker: K Zondo
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KP Pietersen
+        wicket:
+          player_out: KP Pietersen
+          fielders:
+          - DS Rosier
+          kind: caught
+    - 6.2:
+        non_striker: K Zondo
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+    - 6.3:
+        non_striker: K Zondo
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Maharaj
+    - 6.4:
+        non_striker: KA Maharaj
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 6.5:
+        non_striker: K Zondo
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Maharaj
+        wicket:
+          player_out: KA Maharaj
+          fielders:
+          - PE Kruger
+          kind: caught
+    - 6.6:
+        non_striker: C Chetty
+        bowler: M Budaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Zondo
+    - 7.1:
+        non_striker: C Chetty
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Zondo
+    - 7.2:
+        non_striker: C Chetty
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Zondo
+    - 7.3:
+        non_striker: C Chetty
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Zondo
+    - 7.4:
+        non_striker: C Chetty
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Zondo
+    - 7.5:
+        non_striker: C Chetty
+        bowler: CA Dry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Zondo
+    - 7.6:
+        non_striker: C Chetty
+        bowler: CA Dry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Zondo
+- 2nd innings:
+    team: Knights
+    deliveries:
+    - 0.1:
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PE Kruger
+        batsman: RS Second
+    - 0.2:
+        non_striker: RS Second
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kruger
+    - 0.3:
+        non_striker: PE Kruger
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Second
+    - 0.4:
+        non_striker: PE Kruger
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RS Second
+    - 0.5:
+        non_striker: PE Kruger
+        bowler: M Shezi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Second
+        wicket:
+          player_out: RS Second
+          fielders:
+          - BS Makhanya
+          kind: caught
+    - 0.6:
+        non_striker: DA Miller
+        bowler: M Shezi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PE Kruger
+    - 1.1:
+        non_striker: DA Miller
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kruger
+    - 1.2:
+        non_striker: PE Kruger
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 1.3:
+        non_striker: PE Kruger
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 1.4:
+        non_striker: DA Miller
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Kruger
+    - 1.5:
+        non_striker: DA Miller
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Kruger
+    - 1.6:
+        non_striker: DA Miller
+        bowler: R Frylinck
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PE Kruger
+    - 2.1:
+        non_striker: PE Kruger
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 2.2:
+        non_striker: DA Miller
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 2.3:
+        non_striker: DA Miller
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 2.4:
+        non_striker: DA Miller
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 2.5:
+        non_striker: DA Miller
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kruger
+    - 2.6:
+        non_striker: PE Kruger
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 3.1:
+        non_striker: DA Miller
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Kruger
+    - 3.2:
+        non_striker: DA Miller
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 3.3:
+        non_striker: DA Miller
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kruger
+    - 3.4:
+        non_striker: PE Kruger
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 3.5:
+        non_striker: PE Kruger
+        bowler: BS Makhanya
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: DA Miller
+    - 3.6:
+        non_striker: PE Kruger
+        bowler: BS Makhanya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 4.1:
+        non_striker: PE Kruger
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 4.2:
+        non_striker: PE Kruger
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 4.3:
+        non_striker: DA Miller
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kruger
+    - 4.4:
+        non_striker: PE Kruger
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 4.5:
+        non_striker: PE Kruger
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 4.6:
+        non_striker: DA Miller
+        bowler: Imran Tahir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 5.1:
+        non_striker: PE Kruger
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 5.2:
+        non_striker: DA Miller
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PE Kruger
+    - 5.3:
+        non_striker: DA Miller
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PE Kruger
+    - 5.4:
+        non_striker: DA Miller
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PE Kruger
+    - 5.5:
+        non_striker: DA Miller
+        bowler: P Subrayen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PE Kruger
+    - 5.6:
+        non_striker: DA Miller
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PE Kruger
+    - 5.7:
+        non_striker: PE Kruger
+        bowler: P Subrayen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 6.1:
+        non_striker: DA Miller
+        bowler: CS Delport
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: PE Kruger

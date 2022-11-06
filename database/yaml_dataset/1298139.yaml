@@ -1,0 +1,2116 @@
+---
+meta:
+  data_version: 0.92
+  created: '2022-10-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Geelong
+  dates:
+  - '2022-10-18'
+  gender: male
+  match_type: T20
+  match_type_number: 1830
+  outcome:
+    winner: Netherlands
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - BFW de Leede
+  players:
+    Namibia:
+    - M van Lingen
+    - D la Cock
+    - SJ Baard
+    - JN Loftie-Eaton
+    - JN Frylinck
+    - MG Erasmus
+    - D Wiese
+    - JJ Smit
+    - ZE Green
+    - BM Scholtz
+    - B Shikongo
+    Netherlands:
+    - MP O'Dowd
+    - Vikramjit Singh
+    - BFW de Leede
+    - TLW Cooper
+    - CN Ackermann
+    - SA Edwards
+    - TJG Pringle
+    - RE van der Merwe
+    - T van der Gugten
+    - FJ Klaassen
+    - PA van Meekeren
+  registry:
+    people:
+      B Shikongo: c26cd57a
+      BFW de Leede: fc4375ef
+      BM Scholtz: e85d03d6
+      CN Ackermann: e734d090
+      D Wiese: aa8d28ae
+      D la Cock: 48301a4b
+      FJ Klaassen: c042b412
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      JN Loftie-Eaton: f468293b
+      JS Wilson: d7f3b72f
+      M Erasmus: 15d3c895
+      M van Lingen: 7eb36269
+      MG Erasmus: 95a5e066
+      MP O'Dowd: b699df47
+      PA van Meekeren: 4557dc54
+      RA Kettleborough: 4017868f
+      RE van der Merwe: 05c2ca46
+      RJ Tucker: 38810cfc
+      RS Madugalle: 766b5798
+      SA Edwards: b59db04f
+      SJ Baard: e8511411
+      T van der Gugten: d99cc23a
+      TJG Pringle: 8ce2080b
+      TLW Cooper: 2318ba22
+      Vikramjit Singh: 2a9eee66
+      ZE Green: 8716233e
+  teams:
+  - Namibia
+  - Netherlands
+  toss:
+    winner: Namibia
+    decision: bat
+  umpires:
+  - JS Wilson
+  - RA Kettleborough
+  venue: GMHBA Stadium, South Geelong, Victoria
+innings:
+- 1st innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        non_striker: D la Cock
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 0.2:
+        non_striker: D la Cock
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 0.3:
+        non_striker: D la Cock
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 0.4:
+        non_striker: D la Cock
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 0.5:
+        non_striker: D la Cock
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 0.6:
+        non_striker: D la Cock
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 1.1:
+        non_striker: M van Lingen
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D la Cock
+    - 1.2:
+        non_striker: M van Lingen
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D la Cock
+        wicket:
+          player_out: D la Cock
+          fielders:
+          - BFW de Leede
+          kind: caught
+    - 1.3:
+        non_striker: M van Lingen
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 1.4:
+        non_striker: SJ Baard
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Lingen
+    - 1.5:
+        non_striker: SJ Baard
+        bowler: TJG Pringle
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M van Lingen
+    - 1.6:
+        non_striker: M van Lingen
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Baard
+    - 2.1:
+        non_striker: SJ Baard
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 2.2:
+        non_striker: M van Lingen
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 2.3:
+        non_striker: M van Lingen
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 2.4:
+        non_striker: SJ Baard
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 2.5:
+        non_striker: SJ Baard
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 2.6:
+        non_striker: SJ Baard
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M van Lingen
+    - 3.1:
+        non_striker: SJ Baard
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 3.2:
+        non_striker: M van Lingen
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 3.3:
+        non_striker: SJ Baard
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 3.4:
+        non_striker: M van Lingen
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Baard
+    - 3.5:
+        non_striker: M van Lingen
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 3.6:
+        non_striker: M van Lingen
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Baard
+    - 4.1:
+        non_striker: SJ Baard
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 4.2:
+        non_striker: SJ Baard
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 4.3:
+        non_striker: SJ Baard
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 4.4:
+        non_striker: SJ Baard
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 4.5:
+        non_striker: SJ Baard
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+        wicket:
+          player_out: M van Lingen
+          fielders:
+          - BFW de Leede
+          kind: caught
+    - 4.6:
+        non_striker: SJ Baard
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 5.1:
+        non_striker: JN Loftie-Eaton
+        bowler: PA van Meekeren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Baard
+    - 5.2:
+        non_striker: JN Loftie-Eaton
+        bowler: PA van Meekeren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SJ Baard
+    - 5.3:
+        non_striker: SJ Baard
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+        wicket:
+          player_out: JN Loftie-Eaton
+          fielders:
+          - SA Edwards
+          kind: caught
+    - 5.4:
+        non_striker: SJ Baard
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 5.5:
+        non_striker: SJ Baard
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 5.6:
+        non_striker: SJ Baard
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 5.7:
+        non_striker: JN Frylinck
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 6.1:
+        non_striker: SJ Baard
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 6.2:
+        non_striker: JN Frylinck
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 6.3:
+        non_striker: SJ Baard
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 6.4:
+        non_striker: SJ Baard
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 6.5:
+        non_striker: SJ Baard
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 6.6:
+        non_striker: SJ Baard
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 7.1:
+        non_striker: SJ Baard
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 7.2:
+        non_striker: JN Frylinck
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 7.3:
+        non_striker: SJ Baard
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+    - 7.4:
+        non_striker: SJ Baard
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 7.5:
+        non_striker: SJ Baard
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 7.6:
+        non_striker: SJ Baard
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 8.1:
+        non_striker: SJ Baard
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JN Frylinck
+    - 8.2:
+        non_striker: JN Frylinck
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 8.3:
+        non_striker: SJ Baard
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 8.4:
+        non_striker: SJ Baard
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 8.5:
+        non_striker: JN Frylinck
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 8.6:
+        non_striker: JN Frylinck
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 9.1:
+        non_striker: JN Frylinck
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 9.2:
+        non_striker: SJ Baard
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 9.3:
+        non_striker: JN Frylinck
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 9.4:
+        non_striker: SJ Baard
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 9.5:
+        non_striker: SJ Baard
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 9.6:
+        non_striker: SJ Baard
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 10.1:
+        non_striker: JN Frylinck
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Baard
+    - 10.2:
+        non_striker: JN Frylinck
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 10.3:
+        non_striker: SJ Baard
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 10.4:
+        non_striker: JN Frylinck
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+    - 10.5:
+        non_striker: JN Frylinck
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Baard
+    - 10.6:
+        non_striker: SJ Baard
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 11.1:
+        non_striker: SJ Baard
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 11.2:
+        non_striker: JN Frylinck
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Baard
+        wicket:
+          player_out: SJ Baard
+          fielders:
+          - FJ Klaassen
+          kind: caught
+    - 11.3:
+        non_striker: JN Frylinck
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.4:
+        non_striker: MG Erasmus
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 11.5:
+        non_striker: JN Frylinck
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.6:
+        non_striker: MG Erasmus
+        bowler: RE van der Merwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JN Frylinck
+    - 11.7:
+        non_striker: MG Erasmus
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 12.1:
+        non_striker: MG Erasmus
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 12.2:
+        non_striker: JN Frylinck
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.3:
+        non_striker: MG Erasmus
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 12.4:
+        non_striker: JN Frylinck
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.5:
+        non_striker: JN Frylinck
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.6:
+        non_striker: JN Frylinck
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 13.1:
+        non_striker: JN Frylinck
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 13.2:
+        non_striker: JN Frylinck
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.3:
+        non_striker: JN Frylinck
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.4:
+        non_striker: JN Frylinck
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 13.5:
+        non_striker: MG Erasmus
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 13.6:
+        non_striker: MG Erasmus
+        bowler: TJG Pringle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 14.1:
+        non_striker: JN Frylinck
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 14.2:
+        non_striker: MG Erasmus
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 14.3:
+        non_striker: JN Frylinck
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 14.4:
+        non_striker: MG Erasmus
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 14.5:
+        non_striker: MG Erasmus
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 14.6:
+        non_striker: MG Erasmus
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 15.1:
+        non_striker: MG Erasmus
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 15.2:
+        non_striker: JN Frylinck
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MG Erasmus
+    - 15.3:
+        non_striker: MG Erasmus
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 15.4:
+        non_striker: MG Erasmus
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 15.5:
+        non_striker: MG Erasmus
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 15.6:
+        non_striker: MG Erasmus
+        bowler: FJ Klaassen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 16.1:
+        non_striker: JN Frylinck
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 16.2:
+        non_striker: MG Erasmus
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 16.3:
+        non_striker: MG Erasmus
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 16.4:
+        non_striker: MG Erasmus
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 16.5:
+        non_striker: MG Erasmus
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 16.6:
+        non_striker: JN Frylinck
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 17.1:
+        non_striker: JN Frylinck
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 17.2:
+        non_striker: MG Erasmus
+        bowler: T van der Gugten
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JN Frylinck
+    - 17.3:
+        non_striker: MG Erasmus
+        bowler: T van der Gugten
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JN Frylinck
+    - 17.4:
+        non_striker: MG Erasmus
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 17.5:
+        non_striker: JN Frylinck
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 17.6:
+        non_striker: MG Erasmus
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 17.7:
+        non_striker: MG Erasmus
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JN Frylinck
+    - 17.8:
+        non_striker: MG Erasmus
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 18.1:
+        non_striker: MG Erasmus
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 18.2:
+        non_striker: MG Erasmus
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+        wicket:
+          player_out: JN Frylinck
+          fielders:
+          - PA van Meekeren
+          kind: caught
+    - 18.3:
+        non_striker: MG Erasmus
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 18.4:
+        non_striker: D Wiese
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          kind: bowled
+    - 18.5:
+        non_striker: D Wiese
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 18.6:
+        non_striker: D Wiese
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 19.1:
+        non_striker: JJ Smit
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Wiese
+    - 19.2:
+        non_striker: D Wiese
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 19.3:
+        non_striker: JJ Smit
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Wiese
+    - 19.4:
+        non_striker: D Wiese
+        bowler: T van der Gugten
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JJ Smit
+    - 19.5:
+        non_striker: JJ Smit
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Wiese
+    - 19.6:
+        non_striker: JJ Smit
+        bowler: T van der Gugten
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Wiese
+- 2nd innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        non_striker: Vikramjit Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 0.2:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 0.3:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vikramjit Singh
+    - 0.4:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 0.5:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vikramjit Singh
+    - 0.6:
+        non_striker: Vikramjit Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 1.1:
+        non_striker: Vikramjit Singh
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 1.2:
+        non_striker: MP O'Dowd
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 1.3:
+        non_striker: MP O'Dowd
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 1.4:
+        non_striker: MP O'Dowd
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vikramjit Singh
+    - 1.5:
+        non_striker: MP O'Dowd
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vikramjit Singh
+    - 1.6:
+        non_striker: MP O'Dowd
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vikramjit Singh
+    - 2.1:
+        non_striker: MP O'Dowd
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 2.2:
+        non_striker: MP O'Dowd
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 2.3:
+        non_striker: MP O'Dowd
+        bowler: MG Erasmus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vikramjit Singh
+    - 2.4:
+        non_striker: MP O'Dowd
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 2.5:
+        non_striker: MP O'Dowd
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vikramjit Singh
+    - 2.6:
+        non_striker: Vikramjit Singh
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 2.7:
+        non_striker: MP O'Dowd
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 3.1:
+        non_striker: Vikramjit Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 3.2:
+        non_striker: MP O'Dowd
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vikramjit Singh
+    - 3.3:
+        non_striker: MP O'Dowd
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vikramjit Singh
+    - 3.4:
+        non_striker: MP O'Dowd
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 3.5:
+        non_striker: MP O'Dowd
+        bowler: B Shikongo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Vikramjit Singh
+    - 3.6:
+        non_striker: MP O'Dowd
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Vikramjit Singh
+    - 3.7:
+        non_striker: MP O'Dowd
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Vikramjit Singh
+    - 4.1:
+        non_striker: Vikramjit Singh
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 4.2:
+        non_striker: MP O'Dowd
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Vikramjit Singh
+    - 4.3:
+        non_striker: MP O'Dowd
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vikramjit Singh
+    - 4.4:
+        non_striker: Vikramjit Singh
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 4.5:
+        non_striker: Vikramjit Singh
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 4.6:
+        non_striker: Vikramjit Singh
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 5.1:
+        non_striker: MP O'Dowd
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 5.2:
+        non_striker: MP O'Dowd
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vikramjit Singh
+    - 5.3:
+        non_striker: Vikramjit Singh
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 5.4:
+        non_striker: Vikramjit Singh
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 5.5:
+        non_striker: MP O'Dowd
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vikramjit Singh
+    - 5.6:
+        non_striker: Vikramjit Singh
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 6.1:
+        non_striker: MP O'Dowd
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 6.2:
+        non_striker: MP O'Dowd
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vikramjit Singh
+    - 6.3:
+        non_striker: Vikramjit Singh
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 6.4:
+        non_striker: MP O'Dowd
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vikramjit Singh
+    - 6.5:
+        non_striker: Vikramjit Singh
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 6.6:
+        non_striker: Vikramjit Singh
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 7.1:
+        non_striker: Vikramjit Singh
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 7.2:
+        non_striker: Vikramjit Singh
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 7.3:
+        non_striker: MP O'Dowd
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 7.4:
+        non_striker: MP O'Dowd
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 7.5:
+        non_striker: MP O'Dowd
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vikramjit Singh
+    - 7.6:
+        non_striker: Vikramjit Singh
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 8.1:
+        non_striker: Vikramjit Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 8.2:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+        wicket:
+          player_out: Vikramjit Singh
+          fielders:
+          - JN Loftie-Eaton
+          kind: caught
+    - 8.3:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 8.4:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 8.5:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 8.6:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 9.1:
+        non_striker: MP O'Dowd
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 9.2:
+        non_striker: MP O'Dowd
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 9.3:
+        non_striker: BFW de Leede
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 9.4:
+        non_striker: BFW de Leede
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 9.5:
+        non_striker: MP O'Dowd
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 9.6:
+        non_striker: BFW de Leede
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 10.1:
+        non_striker: BFW de Leede
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 10.2:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 10.3:
+        non_striker: BFW de Leede
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 10.4:
+        non_striker: BFW de Leede
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 10.5:
+        non_striker: BFW de Leede
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP O'Dowd
+    - 10.6:
+        non_striker: BFW de Leede
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 11.1:
+        non_striker: MP O'Dowd
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 11.2:
+        non_striker: MP O'Dowd
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 11.3:
+        non_striker: MP O'Dowd
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 11.4:
+        non_striker: BFW de Leede
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 11.5:
+        non_striker: MP O'Dowd
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BFW de Leede
+    - 11.6:
+        non_striker: MP O'Dowd
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 11.7:
+        non_striker: BFW de Leede
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 12.1:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 12.2:
+        non_striker: BFW de Leede
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 12.3:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 12.4:
+        non_striker: BFW de Leede
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 12.5:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 12.6:
+        non_striker: MP O'Dowd
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 13.1:
+        non_striker: BFW de Leede
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 13.2:
+        non_striker: BFW de Leede
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 13.3:
+        non_striker: BFW de Leede
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 13.4:
+        non_striker: MP O'Dowd
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 13.5:
+        non_striker: BFW de Leede
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+        wicket:
+          player_out: MP O'Dowd
+          fielders:
+          - MG Erasmus
+          kind: run out
+    - 13.6:
+        non_striker: TLW Cooper
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 14.1:
+        non_striker: BFW de Leede
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TLW Cooper
+    - 14.2:
+        non_striker: TLW Cooper
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 14.3:
+        non_striker: BFW de Leede
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TLW Cooper
+    - 14.4:
+        non_striker: BFW de Leede
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TLW Cooper
+    - 14.5:
+        non_striker: TLW Cooper
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 14.6:
+        non_striker: BFW de Leede
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TLW Cooper
+    - 15.1:
+        non_striker: TLW Cooper
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 15.2:
+        non_striker: BFW de Leede
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TLW Cooper
+    - 15.3:
+        non_striker: BFW de Leede
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TLW Cooper
+        wicket:
+          player_out: TLW Cooper
+          fielders:
+          - M van Lingen
+          kind: caught
+    - 15.4:
+        non_striker: BFW de Leede
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 15.5:
+        non_striker: BFW de Leede
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+        wicket:
+          player_out: CN Ackermann
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 15.6:
+        non_striker: BFW de Leede
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 16.1:
+        non_striker: BFW de Leede
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 16.2:
+        non_striker: BFW de Leede
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 16.3:
+        non_striker: BFW de Leede
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 16.4:
+        non_striker: BFW de Leede
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+        wicket:
+          player_out: SA Edwards
+          fielders:
+          - JN Loftie-Eaton
+          kind: caught
+    - 16.5:
+        non_striker: BFW de Leede
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJG Pringle
+    - 16.6:
+        non_striker: BFW de Leede
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJG Pringle
+    - 17.1:
+        non_striker: TJG Pringle
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 17.2:
+        non_striker: BFW de Leede
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJG Pringle
+    - 17.3:
+        non_striker: BFW de Leede
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJG Pringle
+    - 17.4:
+        non_striker: TJG Pringle
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 17.5:
+        non_striker: TJG Pringle
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 17.6:
+        non_striker: BFW de Leede
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJG Pringle
+    - 18.1:
+        non_striker: BFW de Leede
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJG Pringle
+    - 18.2:
+        non_striker: TJG Pringle
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 18.3:
+        non_striker: BFW de Leede
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TJG Pringle
+    - 18.4:
+        non_striker: BFW de Leede
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TJG Pringle
+    - 18.5:
+        non_striker: TJG Pringle
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 18.6:
+        non_striker: BFW de Leede
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TJG Pringle
+    - 19.1:
+        non_striker: TJG Pringle
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 19.2:
+        non_striker: TJG Pringle
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 19.3:
+        non_striker: TJG Pringle
+        bowler: D Wiese
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede

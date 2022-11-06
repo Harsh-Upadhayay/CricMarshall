@@ -1,0 +1,2075 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-02-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: New Zealand Cricket Women's Twenty20
+  dates:
+  - '2021-02-01'
+  gender: female
+  match_type: T20
+  outcome:
+    winner: Auckland
+    by:
+      runs: 27
+  overs: 20
+  players:
+    Auckland:
+    - AM Peterson
+    - LR Down
+    - KT Perkins
+    - BG Armstrong
+    - HR Huddleston
+    - S Shahri
+    - RSM Lili'i
+    - AN Kelly
+    - JEI Prasad
+    - TI Lamb
+    - FC Jonas
+    Otago:
+    - IR James
+    - PM Inglis
+    - KJ Martin
+    - MR Cowan
+    - CG Blakely
+    - ON Gain
+    - GR Adams
+    - EJ Carson
+    - EJ Black
+    - SA Oldershaw
+    - ME Loe
+  registry:
+    people:
+      AM Peterson: ae2c396f
+      AN Kelly: 397369e0
+      BF Bowden: efc0a862
+      BG Armstrong: eca08a1d
+      CG Blakely: 8f999ed5
+      DJ Walker: d4aea8ac
+      EJ Black: 2817e17a
+      EJ Carson: 7693851c
+      FC Jonas: 6df697a9
+      GB Troup: 94f0e744
+      GR Adams: 37bf3ef5
+      HR Huddleston: 8d6b36e3
+      IR James: 57bdbc16
+      JEI Prasad: ec666142
+      KJ Martin: cf75a839
+      KS Jagannathan: 9bc8dcec
+      KT Perkins: 78ad3258
+      LR Down: 19147fe0
+      ME Loe: 37f93dc8
+      MR Cowan: 845c87d3
+      ON Gain: '67913804'
+      PM Inglis: e4a71d18
+      RSM Lili'i: ba3a1359
+      S Shahri: c28355cd
+      SA Oldershaw: 93b4f6f6
+      TI Lamb: 5c1215ef
+      WR Knights: 63cbf8d8
+  teams:
+  - Auckland
+  - Otago
+  toss:
+    decision: field
+    winner: Otago
+  umpires:
+  - DJ Walker
+  - KS Jagannathan
+  venue: Eden Park Outer Oval
+innings:
+- 1st innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: LR Down
+        batsman: AM Peterson
+    - 0.2:
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: LR Down
+        batsman: AM Peterson
+    - 0.3:
+        bowler: ME Loe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: LR Down
+        batsman: AM Peterson
+    - 0.4:
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: LR Down
+        batsman: AM Peterson
+    - 0.5:
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: LR Down
+        batsman: AM Peterson
+    - 0.6:
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LR Down
+        batsman: AM Peterson
+    - 0.7:
+        non_striker: AM Peterson
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 1.1:
+        non_striker: LR Down
+        bowler: EJ Black
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AM Peterson
+    - 1.2:
+        non_striker: AM Peterson
+        bowler: EJ Black
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LR Down
+    - 1.3:
+        non_striker: AM Peterson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+        wicket:
+          player_out: LR Down
+          kind: lbw
+    - 1.4:
+        non_striker: AM Peterson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 1.5:
+        non_striker: AM Peterson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 1.6:
+        non_striker: KT Perkins
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 1.7:
+        non_striker: KT Perkins
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 2.1:
+        non_striker: AM Peterson
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 2.2:
+        non_striker: AM Peterson
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KT Perkins
+    - 2.3:
+        non_striker: AM Peterson
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 2.4:
+        non_striker: KT Perkins
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Peterson
+    - 2.5:
+        non_striker: KT Perkins
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 2.6:
+        non_striker: KT Perkins
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Peterson
+    - 3.1:
+        non_striker: AM Peterson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KT Perkins
+    - 3.2:
+        non_striker: AM Peterson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 3.3:
+        non_striker: AM Peterson
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KT Perkins
+    - 3.4:
+        non_striker: KT Perkins
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 3.5:
+        non_striker: KT Perkins
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 3.6:
+        non_striker: KT Perkins
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Peterson
+    - 4.1:
+        non_striker: AM Peterson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KT Perkins
+    - 4.2:
+        non_striker: AM Peterson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 4.3:
+        non_striker: AM Peterson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KT Perkins
+    - 4.4:
+        non_striker: AM Peterson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 4.5:
+        non_striker: AM Peterson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 4.6:
+        non_striker: AM Peterson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+    - 5.1:
+        non_striker: KT Perkins
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 5.2:
+        non_striker: KT Perkins
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 5.3:
+        non_striker: KT Perkins
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 5.4:
+        non_striker: KT Perkins
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Peterson
+    - 5.5:
+        non_striker: AM Peterson
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KT Perkins
+    - 5.6:
+        non_striker: AM Peterson
+        bowler: GR Adams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KT Perkins
+    - 6.1:
+        non_striker: AM Peterson
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KT Perkins
+        wicket:
+          player_out: KT Perkins
+          kind: bowled
+    - 6.2:
+        non_striker: AM Peterson
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 6.3:
+        non_striker: AM Peterson
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 6.4:
+        non_striker: AM Peterson
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 6.5:
+        non_striker: BG Armstrong
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 6.6:
+        non_striker: BG Armstrong
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Peterson
+    - 6.7:
+        non_striker: BG Armstrong
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Peterson
+    - 7.1:
+        non_striker: AM Peterson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 7.2:
+        non_striker: AM Peterson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Armstrong
+    - 7.3:
+        non_striker: AM Peterson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 7.4:
+        non_striker: BG Armstrong
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Peterson
+    - 7.5:
+        non_striker: AM Peterson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 7.6:
+        non_striker: AM Peterson
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 8.1:
+        non_striker: BG Armstrong
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AM Peterson
+    - 8.2:
+        non_striker: BG Armstrong
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 8.3:
+        non_striker: BG Armstrong
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Peterson
+    - 8.4:
+        non_striker: BG Armstrong
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Peterson
+    - 8.5:
+        non_striker: BG Armstrong
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+    - 8.6:
+        non_striker: BG Armstrong
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Peterson
+        wicket:
+          player_out: AM Peterson
+          kind: lbw
+    - 8.7:
+        non_striker: BG Armstrong
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Huddleston
+    - 9.1:
+        non_striker: HR Huddleston
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BG Armstrong
+    - 9.2:
+        non_striker: HR Huddleston
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 9.3:
+        non_striker: HR Huddleston
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 9.4:
+        non_striker: BG Armstrong
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Huddleston
+    - 9.5:
+        non_striker: HR Huddleston
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BG Armstrong
+    - 9.6:
+        non_striker: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        bowler: GR Adams
+        batsman: BG Armstrong
+    - 10.1:
+        non_striker: BG Armstrong
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Huddleston
+    - 10.2:
+        non_striker: BG Armstrong
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Huddleston
+    - 10.3:
+        non_striker: HR Huddleston
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 10.4:
+        non_striker: BG Armstrong
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Huddleston
+    - 10.5:
+        non_striker: BG Armstrong
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HR Huddleston
+    - 10.6:
+        non_striker: BG Armstrong
+        bowler: ME Loe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Huddleston
+    - 11.1:
+        non_striker: BG Armstrong
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Huddleston
+    - 11.2:
+        non_striker: HR Huddleston
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 11.3:
+        non_striker: BG Armstrong
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Huddleston
+    - 11.4:
+        non_striker: BG Armstrong
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Huddleston
+    - 11.5:
+        non_striker: BG Armstrong
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Huddleston
+    - 11.6:
+        non_striker: HR Huddleston
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 12.1:
+        non_striker: HR Huddleston
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 12.2:
+        non_striker: HR Huddleston
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 12.3:
+        non_striker: HR Huddleston
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 12.4:
+        non_striker: HR Huddleston
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 12.5:
+        non_striker: HR Huddleston
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BG Armstrong
+    - 12.6:
+        non_striker: HR Huddleston
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BG Armstrong
+    - 13.1:
+        non_striker: HR Huddleston
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 13.2:
+        non_striker: HR Huddleston
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+    - 13.3:
+        non_striker: HR Huddleston
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BG Armstrong
+        wicket:
+          player_out: BG Armstrong
+          kind: bowled
+    - 13.4:
+        non_striker: HR Huddleston
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Shahri
+    - 13.5:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HR Huddleston
+    - 13.6:
+        non_striker: S Shahri
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HR Huddleston
+    - 13.7:
+        non_striker: HR Huddleston
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Shahri
+        wicket:
+          player_out: S Shahri
+          kind: bowled
+    - 14.1:
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: RSM Lili'i
+        batsman: HR Huddleston
+    - 14.2:
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RSM Lili'i
+        batsman: HR Huddleston
+    - 14.3:
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: RSM Lili'i
+        batsman: HR Huddleston
+    - 14.4:
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RSM Lili'i
+        batsman: HR Huddleston
+    - 14.5:
+        non_striker: HR Huddleston
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RSM Lili'i
+    - 14.6:
+        non_striker: RSM Lili'i
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HR Huddleston
+        wicket:
+          player_out: HR Huddleston
+          fielders:
+          - KJ Martin
+          kind: caught
+    - 15.1:
+        non_striker: RSM Lili'i
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 15.2:
+        non_striker: RSM Lili'i
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 15.3:
+        non_striker: AN Kelly
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RSM Lili'i
+    - 15.4:
+        non_striker: AN Kelly
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RSM Lili'i
+        wicket:
+          player_out: RSM Lili'i
+          kind: bowled
+    - 15.5:
+        non_striker: AN Kelly
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEI Prasad
+    - 15.6:
+        non_striker: AN Kelly
+        bowler: SA Oldershaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JEI Prasad
+        wicket:
+          player_out: JEI Prasad
+          kind: bowled
+    - 16.1:
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: TI Lamb
+        batsman: AN Kelly
+    - 16.2:
+        non_striker: AN Kelly
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TI Lamb
+    - 16.3:
+        non_striker: AN Kelly
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Lamb
+    - 16.4:
+        non_striker: TI Lamb
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AN Kelly
+    - 16.5:
+        non_striker: TI Lamb
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Kelly
+    - 16.6:
+        non_striker: TI Lamb
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 16.7:
+        non_striker: TI Lamb
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 16.8:
+        non_striker: AN Kelly
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Lamb
+    - 17.1:
+        non_striker: TI Lamb
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 17.2:
+        non_striker: AN Kelly
+        bowler: GR Adams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TI Lamb
+    - 17.3:
+        non_striker: TI Lamb
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 17.4:
+        non_striker: AN Kelly
+        bowler: GR Adams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TI Lamb
+    - 17.5:
+        non_striker: AN Kelly
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TI Lamb
+    - 17.6:
+        non_striker: TI Lamb
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 17.7:
+        non_striker: AN Kelly
+        bowler: GR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TI Lamb
+        wicket:
+          player_out: TI Lamb
+          kind: bowled
+    - 18.1:
+        non_striker: FC Jonas
+        bowler: EJ Black
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+        wicket:
+          player_out: AN Kelly
+          fielders:
+          - MR Cowan
+          kind: caught
+- 2nd innings:
+    team: Otago
+    deliveries:
+    - 0.1:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PM Inglis
+        batsman: IR James
+    - 0.2:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: PM Inglis
+        batsman: IR James
+    - 0.3:
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: PM Inglis
+        batsman: IR James
+    - 0.4:
+        non_striker: IR James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 0.5:
+        non_striker: PM Inglis
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IR James
+    - 0.6:
+        non_striker: PM Inglis
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 0.7:
+        non_striker: PM Inglis
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IR James
+    - 1.1:
+        non_striker: IR James
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 1.2:
+        non_striker: IR James
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 1.3:
+        non_striker: IR James
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 1.4:
+        non_striker: IR James
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 1.5:
+        non_striker: IR James
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+        wicket:
+          player_out: PM Inglis
+          kind: bowled
+    - 1.6:
+        non_striker: IR James
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 2.1:
+        non_striker: KJ Martin
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 2.2:
+        non_striker: IR James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 2.3:
+        non_striker: IR James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 2.4:
+        non_striker: IR James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 2.5:
+        non_striker: KJ Martin
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 2.6:
+        non_striker: KJ Martin
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 3.1:
+        non_striker: KJ Martin
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 3.2:
+        non_striker: KJ Martin
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 3.3:
+        non_striker: KJ Martin
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 3.4:
+        non_striker: IR James
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 3.5:
+        non_striker: IR James
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 3.6:
+        non_striker: IR James
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KJ Martin
+    - 4.1:
+        non_striker: IR James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 4.2:
+        non_striker: KJ Martin
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 4.3:
+        non_striker: KJ Martin
+        bowler: AN Kelly
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: IR James
+    - 4.4:
+        non_striker: KJ Martin
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 4.5:
+        non_striker: IR James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 4.6:
+        non_striker: IR James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 5.1:
+        non_striker: IR James
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 5.2:
+        non_striker: KJ Martin
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+        wicket:
+          player_out: IR James
+          kind: lbw
+    - 5.3:
+        non_striker: KJ Martin
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Cowan
+    - 5.4:
+        non_striker: MR Cowan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 5.5:
+        non_striker: MR Cowan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Martin
+    - 5.6:
+        non_striker: MR Cowan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 6.1:
+        non_striker: KJ Martin
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Cowan
+    - 6.2:
+        non_striker: KJ Martin
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Cowan
+    - 6.3:
+        non_striker: KJ Martin
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Cowan
+    - 6.4:
+        non_striker: KJ Martin
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Cowan
+    - 6.5:
+        non_striker: KJ Martin
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Cowan
+    - 6.6:
+        non_striker: MR Cowan
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 7.1:
+        non_striker: MR Cowan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 7.2:
+        non_striker: KJ Martin
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MR Cowan
+    - 7.3:
+        non_striker: KJ Martin
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Cowan
+    - 7.4:
+        non_striker: MR Cowan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 7.5:
+        non_striker: KJ Martin
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Cowan
+    - 7.6:
+        non_striker: MR Cowan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 8.1:
+        non_striker: MR Cowan
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 8.2:
+        non_striker: KJ Martin
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Cowan
+    - 8.3:
+        non_striker: KJ Martin
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Cowan
+    - 8.4:
+        non_striker: MR Cowan
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Martin
+    - 8.5:
+        non_striker: MR Cowan
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 8.6:
+        non_striker: MR Cowan
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 9.1:
+        non_striker: MR Cowan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Martin
+    - 9.2:
+        non_striker: MR Cowan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 9.3:
+        non_striker: MR Cowan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 9.4:
+        non_striker: KJ Martin
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Cowan
+    - 9.5:
+        non_striker: MR Cowan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 9.6:
+        non_striker: MR Cowan
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 10.1:
+        non_striker: MR Cowan
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 10.2:
+        non_striker: MR Cowan
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Martin
+    - 10.3:
+        non_striker: MR Cowan
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Martin
+    - 10.4:
+        non_striker: MR Cowan
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 10.5:
+        non_striker: MR Cowan
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 10.6:
+        non_striker: KJ Martin
+        bowler: JEI Prasad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Cowan
+    - 11.1:
+        non_striker: MR Cowan
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KJ Martin
+        wicket:
+          player_out: MR Cowan
+          kind: run out
+    - 11.2:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 11.3:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CG Blakely
+    - 11.4:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+    - 11.5:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CG Blakely
+    - 11.6:
+        non_striker: CG Blakely
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 12.1:
+        non_striker: KJ Martin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CG Blakely
+        wicket:
+          player_out: CG Blakely
+          kind: bowled
+    - 12.2:
+        non_striker: KJ Martin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+    - 12.3:
+        non_striker: KJ Martin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+    - 12.4:
+        non_striker: KJ Martin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+    - 12.5:
+        non_striker: KJ Martin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+    - 12.6:
+        non_striker: KJ Martin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ON Gain
+    - 13.1:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+    - 13.2:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ON Gain
+    - 13.3:
+        non_striker: ON Gain
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 13.4:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+    - 13.5:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ON Gain
+        wicket:
+          player_out: ON Gain
+          kind: lbw
+    - 13.6:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adams
+    - 14.1:
+        non_striker: KJ Martin
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adams
+    - 14.2:
+        non_striker: GR Adams
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Martin
+    - 14.3:
+        non_striker: GR Adams
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 14.4:
+        non_striker: GR Adams
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 14.5:
+        non_striker: GR Adams
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KJ Martin
+    - 14.6:
+        non_striker: GR Adams
+        bowler: BG Armstrong
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+    - 15.1:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GR Adams
+    - 15.2:
+        non_striker: GR Adams
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Martin
+    - 15.3:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GR Adams
+    - 15.4:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adams
+    - 15.5:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adams
+    - 15.6:
+        non_striker: KJ Martin
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GR Adams
+        wicket:
+          player_out: GR Adams
+          fielders:
+          - HR Huddleston
+          kind: caught
+    - 16.1:
+        non_striker: KJ Martin
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Carson
+    - 16.2:
+        non_striker: KJ Martin
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Carson
+    - 16.3:
+        non_striker: KJ Martin
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Carson
+    - 16.4:
+        non_striker: EJ Carson
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Martin
+        wicket:
+          player_out: KJ Martin
+          fielders:
+          - RSM Lili'i
+          kind: caught
+    - 16.5:
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EJ Black
+        batsman: EJ Carson
+    - 16.6:
+        non_striker: EJ Carson
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Black
+    - 17.1:
+        non_striker: EJ Carson
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Black
+    - 17.2:
+        non_striker: EJ Carson
+        bowler: HR Huddleston
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EJ Black
+    - 17.3:
+        non_striker: EJ Black
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Carson
+    - 17.4:
+        non_striker: EJ Carson
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Black
+    - 17.5:
+        non_striker: EJ Carson
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Black
+    - 17.6:
+        non_striker: EJ Carson
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Black
+    - 18.1:
+        non_striker: EJ Carson
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EJ Black
+    - 18.2:
+        non_striker: EJ Carson
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Black
+    - 18.3:
+        non_striker: EJ Black
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Carson
+        wicket:
+          player_out: EJ Carson
+          kind: run out
+    - 18.4:
+        non_striker: EJ Black
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Oldershaw
+    - 18.5:
+        non_striker: SA Oldershaw
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Black
+    - 18.6:
+        non_striker: EJ Black
+        bowler: AM Peterson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Oldershaw
+        wicket:
+          player_out: SA Oldershaw
+          kind: bowled
+    - 19.1:
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ME Loe
+        batsman: EJ Black
+    - 19.2:
+        non_striker: EJ Black
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Loe
+    - 19.3:
+        non_striker: EJ Black
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Loe
+    - 19.4:
+        non_striker: ME Loe
+        bowler: HR Huddleston
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Black
+        wicket:
+          player_out: EJ Black
+          kind: bowled

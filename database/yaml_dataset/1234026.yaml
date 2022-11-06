@@ -1,0 +1,2219 @@
+---
+meta:
+  data_version: 0.91
+  created: '2021-02-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Auckland
+  competition: Super Smash
+  dates:
+  - '2021-02-07'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Wellington
+    by:
+      runs: 39
+  overs: 20
+  players:
+    Wellington:
+    - FH Allen
+    - DP Conway
+    - TA Blundell
+    - JDS Neesham
+    - MG Bracewell
+    - TM Johnson
+    - JD Gibson
+    - FJ Colson
+    - LV van Beek
+    - PF Younghusband
+    - HK Bennett
+    Auckland:
+    - SM Solia
+    - GD Phillips
+    - WT O'Donnell
+    - MS Chapman
+    - RR O'Donnell
+    - BJ Horne
+    - KA Jamieson
+    - WER Somerville
+    - RM ter Braak
+    - DK Ferns
+    - L Delport
+  registry:
+    people:
+      A Mehrotra: f336ff13
+      AL Hill: 4165ced0
+      BF Bowden: efc0a862
+      BJ Horne: 5d99a16a
+      DK Ferns: f28c7456
+      DP Conway: df5a6881
+      Damian Morrow: 0fb1f503
+      FH Allen: bf74b130
+      FJ Colson: c2327c5d
+      GD Phillips: 9a46c4e5
+      HK Bennett: '94238673'
+      JD Gibson: 57f520ee
+      JDS Neesham: 9219eff0
+      KA Jamieson: 68c56d09
+      L Delport: 2c1438ef
+      LV van Beek: 782fb776
+      Lui Els: '00812511'
+      MG Bracewell: e38bce7a
+      MS Chapman: 7fa12533
+      PF Younghusband: 149d0c18
+      RM ter Braak: ac3e5a31
+      RR O'Donnell: 2742086d
+      SM Solia: fd9f43bb
+      TA Blundell: 21e5f325
+      TM Johnson: 917f66da
+      WER Somerville: 74a1c1e3
+      WT O'Donnell: 730b57de
+  teams:
+  - Wellington
+  - Auckland
+  toss:
+    decision: bat
+    winner: Wellington
+  umpires:
+  - BF Bowden
+  - Damian Morrow
+  venue: Eden Park Outer Oval
+innings:
+- 1st innings:
+    team: Wellington
+    deliveries:
+    - 0.1:
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DP Conway
+        batsman: FH Allen
+    - 0.2:
+        non_striker: FH Allen
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 0.3:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.4:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 0.5:
+        non_striker: FH Allen
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 0.6:
+        non_striker: FH Allen
+        bowler: KA Jamieson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 0.7:
+        non_striker: FH Allen
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 1.1:
+        non_striker: DP Conway
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 1.2:
+        non_striker: DP Conway
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.3:
+        non_striker: DP Conway
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.4:
+        non_striker: DP Conway
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.5:
+        non_striker: DP Conway
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.6:
+        non_striker: DP Conway
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.1:
+        non_striker: FH Allen
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 2.2:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.3:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 2.4:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.5:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.6:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 2.7:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: FH Allen
+    - 2.8:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: FH Allen
+    - 3.1:
+        non_striker: DP Conway
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 3.2:
+        non_striker: DP Conway
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 3.3:
+        non_striker: DP Conway
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.4:
+        non_striker: DP Conway
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.5:
+        non_striker: DP Conway
+        bowler: L Delport
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 3.6:
+        non_striker: DP Conway
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 3.7:
+        non_striker: DP Conway
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 4.1:
+        non_striker: FH Allen
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 4.2:
+        non_striker: FH Allen
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 4.3:
+        non_striker: FH Allen
+        bowler: WER Somerville
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: DP Conway
+    - 4.4:
+        non_striker: FH Allen
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 4.5:
+        non_striker: DP Conway
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 4.6:
+        non_striker: DP Conway
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 4.7:
+        non_striker: FH Allen
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 5.1:
+        non_striker: FH Allen
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 5.2:
+        non_striker: FH Allen
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 5.3:
+        non_striker: DP Conway
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 5.4:
+        non_striker: DP Conway
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 5.5:
+        non_striker: DP Conway
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 5.6:
+        non_striker: DP Conway
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 6.1:
+        non_striker: FH Allen
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 6.2:
+        non_striker: FH Allen
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 6.3:
+        non_striker: FH Allen
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 6.4:
+        non_striker: FH Allen
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 6.5:
+        non_striker: FH Allen
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 6.6:
+        non_striker: FH Allen
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.1:
+        non_striker: FH Allen
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.2:
+        non_striker: DP Conway
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: FH Allen
+    - 7.3:
+        non_striker: FH Allen
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.4:
+        non_striker: DP Conway
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 7.5:
+        non_striker: FH Allen
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 7.6:
+        non_striker: DP Conway
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 8.1:
+        non_striker: FH Allen
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 8.2:
+        non_striker: FH Allen
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.3:
+        non_striker: DP Conway
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 8.4:
+        non_striker: FH Allen
+        bowler: RM ter Braak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 8.5:
+        non_striker: FH Allen
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 8.6:
+        non_striker: DP Conway
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 8.7:
+        non_striker: DP Conway
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 9.1:
+        non_striker: DP Conway
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 9.2:
+        non_striker: DP Conway
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - RM ter Braak
+          kind: caught
+    - 9.3:
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: TA Blundell
+        batsman: DP Conway
+    - 9.4:
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TA Blundell
+        batsman: DP Conway
+    - 9.5:
+        non_striker: DP Conway
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 9.6:
+        non_striker: TA Blundell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 10.1:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 10.2:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 10.3:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 10.4:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 10.5:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 10.6:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 11.1:
+        non_striker: TA Blundell
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 11.2:
+        non_striker: TA Blundell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 11.3:
+        non_striker: TA Blundell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 11.4:
+        non_striker: DP Conway
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 11.5:
+        non_striker: TA Blundell
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DP Conway
+    - 11.6:
+        non_striker: DP Conway
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 11.7:
+        non_striker: DP Conway
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 12.1:
+        non_striker: DP Conway
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 12.2:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 12.3:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 12.4:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 12.5:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 12.6:
+        non_striker: TA Blundell
+        bowler: WER Somerville
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 13.1:
+        non_striker: DP Conway
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 13.2:
+        non_striker: DP Conway
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 13.3:
+        non_striker: TA Blundell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 13.4:
+        non_striker: DP Conway
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 13.5:
+        non_striker: DP Conway
+        bowler: SM Solia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TA Blundell
+    - 13.6:
+        non_striker: TA Blundell
+        bowler: SM Solia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 14.1:
+        non_striker: DP Conway
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 14.2:
+        non_striker: TA Blundell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 14.3:
+        non_striker: DP Conway
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 14.4:
+        non_striker: TA Blundell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DP Conway
+    - 14.5:
+        non_striker: TA Blundell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 14.6:
+        non_striker: TA Blundell
+        bowler: L Delport
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DP Conway
+    - 15.1:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 15.2:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Blundell
+    - 15.3:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 15.4:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 15.5:
+        non_striker: TA Blundell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 15.6:
+        non_striker: DP Conway
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 16.1:
+        non_striker: TA Blundell
+        bowler: DK Ferns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DP Conway
+    - 16.2:
+        non_striker: TA Blundell
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 16.3:
+        non_striker: DP Conway
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 16.4:
+        non_striker: DP Conway
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Blundell
+    - 16.5:
+        non_striker: DP Conway
+        bowler: DK Ferns
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TA Blundell
+    - 16.6:
+        non_striker: DP Conway
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 16.7:
+        non_striker: DP Conway
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Blundell
+    - 16.8:
+        non_striker: DP Conway
+        bowler: DK Ferns
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 17.1:
+        non_striker: TA Blundell
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DP Conway
+    - 17.2:
+        non_striker: TA Blundell
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 17.3:
+        non_striker: DP Conway
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 17.4:
+        non_striker: DP Conway
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+        wicket:
+          player_out: TA Blundell
+          fielders:
+          - RR O'Donnell
+          kind: caught
+    - 17.5:
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: JDS Neesham
+        batsman: DP Conway
+    - 17.6:
+        non_striker: JDS Neesham
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 18.1:
+        non_striker: JDS Neesham
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 18.2:
+        non_striker: DP Conway
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 18.3:
+        non_striker: JDS Neesham
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 18.4:
+        non_striker: JDS Neesham
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 18.5:
+        non_striker: DP Conway
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDS Neesham
+    - 18.6:
+        non_striker: DP Conway
+        bowler: GD Phillips
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+    - 19.1:
+        non_striker: JDS Neesham
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 19.2:
+        non_striker: JDS Neesham
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DP Conway
+    - 19.3:
+        non_striker: JDS Neesham
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 19.4:
+        non_striker: DP Conway
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDS Neesham
+    - 19.5:
+        non_striker: JDS Neesham
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DP Conway
+    - 19.6:
+        non_striker: DP Conway
+        bowler: RM ter Braak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDS Neesham
+- 2nd innings:
+    team: Auckland
+    deliveries:
+    - 0.1:
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GD Phillips
+        batsman: SM Solia
+    - 0.2:
+        non_striker: SM Solia
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 0.3:
+        non_striker: SM Solia
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 0.4:
+        non_striker: SM Solia
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Phillips
+    - 0.5:
+        non_striker: GD Phillips
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+    - 0.6:
+        non_striker: GD Phillips
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Solia
+    - 1.1:
+        non_striker: SM Solia
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Phillips
+    - 1.2:
+        non_striker: SM Solia
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+    - 1.3:
+        non_striker: SM Solia
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GD Phillips
+    - 1.4:
+        non_striker: SM Solia
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Phillips
+        wicket:
+          player_out: GD Phillips
+          fielders:
+          - JDS Neesham
+          kind: caught
+    - 1.5:
+        non_striker: SM Solia
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 1.6:
+        non_striker: SM Solia
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 2.1:
+        non_striker: SM Solia
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 2.2:
+        non_striker: SM Solia
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WT O'Donnell
+    - 2.3:
+        non_striker: SM Solia
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WT O'Donnell
+    - 2.4:
+        non_striker: SM Solia
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 2.5:
+        non_striker: SM Solia
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 2.6:
+        non_striker: WT O'Donnell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 3.1:
+        non_striker: SM Solia
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 3.2:
+        non_striker: WT O'Donnell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 3.3:
+        non_striker: SM Solia
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 3.4:
+        non_striker: WT O'Donnell
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Solia
+    - 3.5:
+        non_striker: WT O'Donnell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Solia
+    - 3.6:
+        non_striker: WT O'Donnell
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Solia
+    - 3.7:
+        non_striker: SM Solia
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 4.1:
+        non_striker: SM Solia
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 4.2:
+        non_striker: WT O'Donnell
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SM Solia
+    - 4.3:
+        non_striker: SM Solia
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 4.4:
+        non_striker: WT O'Donnell
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Solia
+        wicket:
+          player_out: SM Solia
+          fielders:
+          - MG Bracewell
+          kind: caught
+    - 4.5:
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MS Chapman
+        batsman: WT O'Donnell
+    - 4.6:
+        non_striker: MS Chapman
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 5.1:
+        non_striker: WT O'Donnell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 5.2:
+        non_striker: MS Chapman
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 5.3:
+        non_striker: MS Chapman
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WT O'Donnell
+    - 5.4:
+        non_striker: MS Chapman
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+    - 5.5:
+        non_striker: MS Chapman
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 5.6:
+        non_striker: WT O'Donnell
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.1:
+        non_striker: WT O'Donnell
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 6.2:
+        non_striker: MS Chapman
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WT O'Donnell
+    - 6.3:
+        non_striker: MS Chapman
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WT O'Donnell
+    - 6.4:
+        non_striker: MS Chapman
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WT O'Donnell
+    - 6.5:
+        non_striker: MS Chapman
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 6.6:
+        non_striker: WT O'Donnell
+        bowler: MG Bracewell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Chapman
+    - 7.1:
+        non_striker: MS Chapman
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WT O'Donnell
+    - 7.2:
+        non_striker: WT O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 7.3:
+        non_striker: WT O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Chapman
+    - 7.4:
+        non_striker: WT O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Chapman
+    - 7.5:
+        non_striker: WT O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 7.6:
+        non_striker: WT O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 8.1:
+        non_striker: MS Chapman
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WT O'Donnell
+        wicket:
+          player_out: WT O'Donnell
+          fielders:
+          - PF Younghusband
+          kind: caught
+    - 8.2:
+        non_striker: MS Chapman
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 8.3:
+        non_striker: RR O'Donnell
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 8.4:
+        non_striker: RR O'Donnell
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 8.5:
+        non_striker: RR O'Donnell
+        bowler: JD Gibson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Chapman
+    - 8.6:
+        non_striker: RR O'Donnell
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+    - 8.7:
+        non_striker: RR O'Donnell
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Chapman
+    - 9.1:
+        non_striker: RR O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Chapman
+        wicket:
+          player_out: MS Chapman
+          fielders:
+          - JD Gibson
+          kind: caught
+    - 9.2:
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BJ Horne
+        batsman: RR O'Donnell
+    - 9.3:
+        non_striker: RR O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 9.4:
+        non_striker: BJ Horne
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+    - 9.5:
+        non_striker: BJ Horne
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR O'Donnell
+    - 9.6:
+        non_striker: BJ Horne
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 10.1:
+        non_striker: RR O'Donnell
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 10.2:
+        non_striker: RR O'Donnell
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 10.3:
+        non_striker: BJ Horne
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 10.4:
+        non_striker: RR O'Donnell
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Horne
+    - 10.5:
+        non_striker: RR O'Donnell
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 10.6:
+        non_striker: BJ Horne
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR O'Donnell
+    - 11.1:
+        non_striker: RR O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 11.2:
+        non_striker: BJ Horne
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 11.3:
+        non_striker: RR O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 11.4:
+        non_striker: BJ Horne
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 11.5:
+        non_striker: RR O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 11.6:
+        non_striker: RR O'Donnell
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 12.1:
+        non_striker: RR O'Donnell
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ Horne
+    - 12.2:
+        non_striker: BJ Horne
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR O'Donnell
+    - 12.3:
+        non_striker: RR O'Donnell
+        bowler: HK Bennett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Horne
+    - 12.4:
+        non_striker: RR O'Donnell
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 12.5:
+        non_striker: BJ Horne
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR O'Donnell
+    - 12.6:
+        non_striker: BJ Horne
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR O'Donnell
+        wicket:
+          player_out: RR O'Donnell
+          fielders:
+          - DP Conway
+          kind: caught
+    - 12.7:
+        non_striker: BJ Horne
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 13.1:
+        non_striker: BJ Horne
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 13.2:
+        non_striker: KA Jamieson
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 13.3:
+        non_striker: BJ Horne
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 13.4:
+        non_striker: KA Jamieson
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Horne
+    - 13.5:
+        non_striker: BJ Horne
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 13.6:
+        non_striker: KA Jamieson
+        bowler: JD Gibson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 14.1:
+        non_striker: BJ Horne
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 14.2:
+        non_striker: KA Jamieson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ Horne
+    - 14.3:
+        non_striker: KA Jamieson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 14.4:
+        non_striker: KA Jamieson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+    - 14.5:
+        non_striker: KA Jamieson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Horne
+        wicket:
+          player_out: BJ Horne
+          kind: caught and bowled
+    - 14.6:
+        non_striker: KA Jamieson
+        bowler: PF Younghusband
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WER Somerville
+    - 15.1:
+        non_striker: WER Somerville
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Jamieson
+    - 15.2:
+        non_striker: WER Somerville
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Jamieson
+    - 15.3:
+        non_striker: WER Somerville
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 15.4:
+        non_striker: KA Jamieson
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WER Somerville
+    - 15.5:
+        non_striker: KA Jamieson
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WER Somerville
+    - 15.6:
+        non_striker: KA Jamieson
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WER Somerville
+    - 16.1:
+        non_striker: KA Jamieson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WER Somerville
+    - 16.2:
+        non_striker: KA Jamieson
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WER Somerville
+    - 16.3:
+        non_striker: WER Somerville
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Jamieson
+    - 16.4:
+        non_striker: WER Somerville
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Jamieson
+    - 16.5:
+        non_striker: WER Somerville
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KA Jamieson
+    - 16.6:
+        non_striker: WER Somerville
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 16.7:
+        non_striker: KA Jamieson
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WER Somerville
+    - 17.1:
+        non_striker: WER Somerville
+        bowler: JDS Neesham
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Jamieson
+    - 17.2:
+        non_striker: WER Somerville
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+        wicket:
+          player_out: KA Jamieson
+          kind: bowled
+    - 17.3:
+        non_striker: WER Somerville
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM ter Braak
+        wicket:
+          player_out: RM ter Braak
+          fielders:
+          - TM Johnson
+          kind: caught
+    - 17.4:
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DK Ferns
+        batsman: WER Somerville
+    - 17.5:
+        non_striker: WER Somerville
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Ferns
+    - 17.6:
+        non_striker: WER Somerville
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Ferns
+    - 17.7:
+        non_striker: DK Ferns
+        bowler: JDS Neesham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WER Somerville
+        wicket:
+          player_out: WER Somerville
+          fielders:
+          - FH Allen
+          kind: caught
+    - 18.1:
+        non_striker: DK Ferns
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delport
+    - 18.2:
+        non_striker: L Delport
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Ferns
+    - 18.3:
+        non_striker: L Delport
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Ferns
+    - 18.4:
+        non_striker: DK Ferns
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delport
+    - 18.5:
+        non_striker: L Delport
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DK Ferns
+    - 18.6:
+        non_striker: L Delport
+        bowler: HK Bennett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Ferns
+    - 19.1:
+        non_striker: L Delport
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Ferns
+    - 19.2:
+        non_striker: DK Ferns
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Delport
+    - 19.3:
+        non_striker: L Delport
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Ferns
+    - 19.4:
+        non_striker: DK Ferns
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delport
+    - 19.5:
+        non_striker: L Delport
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DK Ferns
+    - 19.6:
+        non_striker: L Delport
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DK Ferns
+        wicket:
+          player_out: DK Ferns
+          fielders:
+          - MG Bracewell
+          kind: caught
