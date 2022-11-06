@@ -20,7 +20,6 @@ class InputParser :
             else :
                 self.monthMap[x] = str(self.monthMap[x])
 
-
     def parseDate(self, dt):
         dt = dt[0].split()
         dt.sort()
@@ -86,5 +85,5 @@ class InputParser :
     
 if __name__ ==  "__main__":
     ip = InputParser()
-    query = "how many runs did Rohit Sharma scored in India vs Australia in November 2020 in Asia cup"
+    query = "how many runs did Shikhar Dhawan scored in New Zealand vs Netherlands in November 2020 in Asia cup"
     print(ip.parseQuery(query))
