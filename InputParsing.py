@@ -108,22 +108,39 @@ class InputParser :
 
         result = dict()
         for match in matchID:
-            result[matchID[match]] = (self.qp.runWicketByPlayer(match, tagEty['player'][0], req))
-
+            res = (self.qp.runWicketByPlayer(match, tagEty['player'][0], req))
+            
+            if res != EC.PLAYER_DIDNT_PLAYED:
+                result[matchID[match]] = res
+            
         return result    
+
+    def queryTypeB(self, tagEty):
+        oppTeam = self.qp.teamByPlayerNoppTeam(tagEty['player'][0], tagEty['team'][0])
+        
+        if oppTeam == EC.NO_TEAM_FOUND:
+            return EC.NO_TEAM_FOUND
+        
+        tagEty['team'].append(oppTeam)
+        return self.queryTypeB(self, tagEty)
 
     def parseQuery(self, text):
         
         qryRes = str()
         tagEty = self.tag_entities(text)
-        # print(tagEty)
+
         if len(tagEty['teams']) == 2 and len(tagEty['player']) == 1:
             qryRes = self.queryTypeA(tagEty)
+
+        if len(tagEty['teams']) == 1 and len(tagEty['player']) == 1:
+            qryRes = self.queryTypeB(tagEty)
+
         return qryRes  
 
     
 if __name__ ==  "__main__":
     ip = InputParser()
 
-    query = "how many runs did Rohit Sharma scored in India vs Sri Lanka in November 2014"
+    query = "how many runs did Rohit Sharma against Sri Lanka in November 2014"
+
     print(ip.parseQuery(query))

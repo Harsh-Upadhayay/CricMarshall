@@ -1,6 +1,7 @@
 import pandas as pd
 from timefhuman import timefhuman as th
 from datetime import datetime
+from ErrorCodes import ErrorCodes as EC
 
 class QueryProcessor() :
 
@@ -8,7 +9,8 @@ class QueryProcessor() :
 
     def __init__(self): 
         self.id_df = pd.read_csv("database/match_id.csv")
-
+        self.teams_df = pd.read_csv("database/playerTeams.csv")
+        
     def matchByDateN2Teams(self, dt, tm1, tm2):
         return (self.id_df[(self.id_df['date'].str.contains(dt) & self.id_df['teams'].str.contains(tm1) & self.id_df['teams'].str.contains(tm2))] )
 
@@ -29,7 +31,10 @@ class QueryProcessor() :
         try :
             return df.loc[player][req]
         except:
-            return 0
+            return EC.PLAYER_DIDNT_PLAYED
+
+    def teamByPlayerNoppTeam(self, player, oppTeam):
+        pass
 
 if __name__ == "__main__":
     qp = QueryProcessor()
