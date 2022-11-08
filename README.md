@@ -83,6 +83,12 @@ Your cricket buddy!
 * yaml
 * pydub
 * pyttsx3
+* datetime
+* pickle
+* math
+* ast(Abstract Syntax Tree)
+* pandas
+* 
 
 ## Work Log
 15/08/2022: 
@@ -107,6 +113,9 @@ Your cricket buddy!
 14/09/2022
 * added code to run the voice input until user say thank you.
 
+09/11/2022
+* Project stage - 1 DONE for NLP semester-5
+* Project Report - 1 submission
 
 ## Code Sources
 * spech to text - https://www.thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python
