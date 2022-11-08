@@ -4,3 +4,4 @@ class ErrorCodes:
     PLAYER_DOSENT_EXISTS              = -12
     NO_TEAM_FOUND                     = -13
     PLAYER_DIDNT_PLAYED               = -14
+    NO_PLAYER_FOUND                   = -15

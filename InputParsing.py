@@ -116,18 +116,26 @@ class InputParser :
         return result    
 
     def queryTypeB(self, tagEty):
-        oppTeam = self.qp.teamByPlayerNoppTeam(tagEty['player'][0], tagEty['team'][0])
+        oppTeam = self.qp.teamByPlayerNoppTeam(tagEty['player'][0], tagEty['teams'][0])
         
         if oppTeam == EC.NO_TEAM_FOUND:
             return EC.NO_TEAM_FOUND
         
-        tagEty['team'].append(oppTeam)
-        return self.queryTypeB(self, tagEty)
+        tagEty['teams'].append(oppTeam)
+        # print(tagEty)
+        return self.queryTypeA(tagEty)
 
     def parseQuery(self, text):
         
         qryRes = str()
         tagEty = self.tag_entities(text)
+        # print(tagEty)
+
+        if len(tagEty['player']) == 0:
+            return EC.NO_PLAYER_FOUNT
+
+        if len(tagEty['teams']) == 0:
+            return EC.NO_TEAM_FOUND
 
         if len(tagEty['teams']) == 2 and len(tagEty['player']) == 1:
             qryRes = self.queryTypeA(tagEty)
@@ -141,6 +149,6 @@ class InputParser :
 if __name__ ==  "__main__":
     ip = InputParser()
 
-    query = "how many runs did Rohit Sharma against Sri Lanka in November 2014"
+    query = "how many wickets did Jofra Archer took against India in February 2021"
 
     print(ip.parseQuery(query))

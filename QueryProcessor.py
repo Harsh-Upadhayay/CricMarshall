@@ -1,16 +1,16 @@
 import pandas as pd
-from timefhuman import timefhuman as th
-from datetime import datetime
+import ast
 from ErrorCodes import ErrorCodes as EC
 
 class QueryProcessor() :
 
     id_df = pd.DataFrame()
+    playerTeams = dict()
 
     def __init__(self): 
         self.id_df = pd.read_csv("database/match_id.csv")
-        self.teams_df = pd.read_csv("database/playerTeams.csv")
-        
+        self.playerTeams = ast.literal_eval(open("database/playerTeamsVectorized.txt", "r").read())
+
     def matchByDateN2Teams(self, dt, tm1, tm2):
         return (self.id_df[(self.id_df['date'].str.contains(dt) & self.id_df['teams'].str.contains(tm1) & self.id_df['teams'].str.contains(tm2))] )
 
@@ -34,7 +34,13 @@ class QueryProcessor() :
             return EC.PLAYER_DIDNT_PLAYED
 
     def teamByPlayerNoppTeam(self, player, oppTeam):
-        pass
+        emmission_mtx = self.playerTeams[player]
+        probableTeams = [] 
+        for team in emmission_mtx:
+            if self.id_df[(self.id_df['teams'].str.contains(oppTeam) & self.id_df['teams'].str.contains(team))].empty != True:
+                probableTeams.append(team)
+        
+        return probableTeams[0]
 
 if __name__ == "__main__":
     qp = QueryProcessor()
