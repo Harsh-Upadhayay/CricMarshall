@@ -17,7 +17,7 @@ Your cricket buddy!
 - [x] Make list of extracted nouns (if neccesary)
 
 16/08/2022:
-- [ ] Extract year (if mentioned) from the generated text.
+- [x] Extract year (if mentioned) from the generated text.
 
 17/08/2022:
 - [ ] Errors in extracted year. If the user only mention month and the year, the datefinder library automatically adding today's date. 
@@ -26,14 +26,16 @@ Your cricket buddy!
 
 19/08/2022
 - [ ] create small database to run queries and analyze the result
-- [ ] got suggestion to work on pandas for query processing and result generation. Discussion required.
+- [x] got suggestion to work on pandas for query processing and result generation. Discussion required.
+    - Pandas used as primar data processor.
 
 05/09/2022
-- [ ] Using Parsing: Get POS tags of every word of the input. Define a structure of the sentence (for ex. sentence = Noun + Adjective + Verb + ... ). Generate a sentence using the input. The generated sentence will be used to fetch the required result.
-- [ ] Query Processing: pandas or mongodb (Decision Pending)
+- [x] Using Parsing: Get POS tags of every word of the input. Define a structure of the sentence (for ex. sentence = Noun + Adjective + Verb + ... ). Generate a sentence using the input. The generated sentence will be used to fetch the required result.
+- [x] Query Processing: pandas or mongodb (Decision Pending)
+    - Pandas
 
 14/09/2022
-- [ ] parse input query to fetch result.
+- [x] parse input query to fetch result.
 
 - [x] Add Strike Rate in Batsman
 - [x] Add No Balls, Wides and Economy in Bowler
@@ -46,6 +48,10 @@ Your cricket buddy!
         *balls played by batsman: balls = balls + 1
         *if runs are scored on the NO BALL: runs scored by batsman: runs = runs + (amount of runs scored)
         *runs conceded by bowler = runs = runs + (amount of runs conceded)
+
+05/11/2022
+- [ ] Use viterbi to find player's current team.
+- [ ] Support  parsing of multiple type of querys.
     
 """
 
