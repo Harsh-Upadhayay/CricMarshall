@@ -132,7 +132,7 @@ class InputParser :
         # print(tagEty)
 
         if len(tagEty['player']) == 0:
-            return EC.NO_PLAYER_FOUNT
+            return EC.NO_PLAYER_FOUND
 
         if len(tagEty['teams']) == 0:
             return EC.NO_TEAM_FOUND
