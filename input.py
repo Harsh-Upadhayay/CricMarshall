@@ -1,10 +1,7 @@
-from socket import timeout
 import speech_recognition as sr
-from pydub import AudioSegment
-from pydub.silence import split_on_silence
 import outputGenerator
-# from InputParsing import InputParser
 import InputParsing
+
 r = sr.Recognizer()
 ip = InputParsing.InputParser()
 
