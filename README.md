@@ -42,10 +42,4 @@ Your cricket buddy!
 * math
 * ast(Abstract Syntax Tree)
 * pandas
-* 
 
-
-## Code Sources
-* spech to text - https://www.thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python
-* noun extractor from text - https://www.codespeedy.com/proper-noun-extraction-in-python-using-nlp-in-python/
-* text to speech convertor - https://betterprogramming.pub/an-introduction-to-pyttsx3-a-text-to-speech-converter-for-python-4a7e1ce825c3
