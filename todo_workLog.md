@@ -69,3 +69,7 @@
 09/11/2022
 * Project stage - 1 DONE for NLP semester-5
 * Project Report - 1 submission
+
+## Dataset sources 
+
+  *  https://www.kaggle.com/datasets/narendrageek/can-generate-automatic-commentary-for-ipl-cricket?select=IPL_Match_Highlights_Commentary.csv
