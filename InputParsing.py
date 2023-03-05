@@ -147,8 +147,10 @@ class InputParser :
 
     
 if __name__ ==  "__main__":
+
     ip = InputParser()
 
-    query = "how many wickets did Jofra Archer took against India in February 2021"
+    while input("Continue? ") != "no":
 
-    print(ip.parseQuery(query))
+        query = input("Query: ")
+        print(ip.parseQuery(query))

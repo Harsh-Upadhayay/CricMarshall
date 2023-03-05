@@ -15,7 +15,7 @@
 19/08/2022
 - [ ] create small database to run queries and analyze the result
 - [x] got suggestion to work on pandas for query processing and result generation. Discussion required.
-    - Pandas used as primar data processor.
+    - Pandas used as primary data processor.
 
 05/09/2022
 - [x] Using Parsing: Get POS tags of every word of the input. Define a structure of the sentence (for ex. sentence = Noun + Adjective + Verb + ... ). Generate a sentence using the input. The generated sentence will be used to fetch the required result.
@@ -69,3 +69,7 @@
 09/11/2022
 * Project stage - 1 DONE for NLP semester-5
 * Project Report - 1 submission
+
+## Dataset sources 
+
+  *  https://www.kaggle.com/datasets/narendrageek/can-generate-automatic-commentary-for-ipl-cricket?select=IPL_Match_Highlights_Commentary.csv
