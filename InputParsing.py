@@ -147,7 +147,10 @@ class InputParser :
 
     
 if __name__ ==  "__main__":
-    ip = InputParser()
-    query = "how many wickets did Rohit Sharma took against Rajasthan Royals in April 2019"
 
-    print(ip.parseQuery(query))
+    ip = InputParser()
+
+    while input("Continue? ") != "no":
+
+        query = input("Query: ")
+        print(ip.parseQuery(query))

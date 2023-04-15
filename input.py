@@ -1,6 +1,7 @@
 import speech_recognition as sr
-import outputGenerator
+
 import InputParsing
+import outputGenerator
 
 r = sr.Recognizer()
 ip = InputParsing.InputParser()
