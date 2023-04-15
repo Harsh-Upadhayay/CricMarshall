@@ -60,7 +60,7 @@ class InputParser :
                
         doc = nlp(text)
         entities = [(e.text, e.start_char, e.end_char, e.label_) for e in doc.ents]
-        # print(entities)
+        print(entities)
         tag = {
             'teams'         : [],
             'player'        : [],
@@ -122,7 +122,7 @@ class InputParser :
             return EC.NO_TEAM_FOUND
         
         tagEty['teams'].append(oppTeam)
-        # print(tagEty)
+        print(tagEty)
         return self.queryTypeA(tagEty)
 
     def parseQuery(self, text):
@@ -148,7 +148,6 @@ class InputParser :
     
 if __name__ ==  "__main__":
     ip = InputParser()
-
-    query = "how many wickets did Jofra Archer took against India in February 2021"
+    query = "how many wickets did Rohit Sharma took against Rajasthan Royals in April 2019"
 
     print(ip.parseQuery(query))

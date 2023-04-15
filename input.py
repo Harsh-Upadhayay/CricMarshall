@@ -50,5 +50,6 @@ with sr.Microphone() as source:
                 break
             else:
                 output = ip.parseQuery(text)
+                print(output)
                 key = output.keys()
                 outputGenerator.giveAnswer(output, key)
